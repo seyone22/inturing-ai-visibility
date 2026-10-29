@@ -213,10 +213,10 @@ slide('why-gaps', 'light', `
   slide('targets', 'white', `
     <header class="hd"><p class="eyebrow">04 · What To Do Next &amp; 12-Month Targets</p><h2 class="h1">Four practical steps to take Inturing from 31 to 90+ AI recommendations</h2></header>
     <div class="cols-60">
-      <div class="ws" style="gap:14px">
-        ${WS.map(([n, t, a], i) => `<div class="ws-row rise" style="--d:${120 + i * 100}ms;grid-template-columns:56px 1fr;padding:18px 22px">
-          <span class="ws-n">${n}</span>
-          <div><b class="ws-t" style="display:block;margin-bottom:6px;font-size:21px">${esc(t)}</b><span class="ws-a" style="font-size:18px;line-height:1.38">${esc(a)}</span></div>
+      <div class="ws" style="gap:0">
+        ${WS.map(([n, t, a], i) => `<div class="ws-row rise" style="--d:${120 + i * 100}ms;grid-template-columns:52px 1fr;padding:12px 18px;gap:16px">
+          <span class="ws-n" style="font-size:20px">${n}</span>
+          <div><b class="ws-t" style="display:block;margin-bottom:3px;font-size:19px">${esc(t)}</b><span class="ws-a" style="font-size:16.5px;line-height:1.34">${esc(a)}</span></div>
         </div>`).join('')}
       </div>
       <div>
@@ -225,9 +225,9 @@ slide('why-gaps', 'light', `
           <thead><tr><th>Market</th><th>Today</th><th>3 mos</th><th>6 mos</th><th>12-month target</th></tr></thead>
           <tbody>${TG.map(([c, a, b, d, e], i) => `<tr class="rise" style="--d:${200 + i * 70}ms"><td><b>${c}</b></td><td class="num">${a}</td><td class="num">${b}</td><td class="num">${d}</td><td class="num"><b>${e}</b></td></tr>`).join('')}</tbody>
         </table>
-        <div class="stat" style="margin-top:24px;padding:22px 24px;background:#F4F5F8;border-radius:12px">
-          <span class="big pulp" style="font-size:44px">Keep #1 in Manufacturing.</span>
-          <span class="stat-cap" style="font-size:18px;line-height:1.4">By broadening the homepage title, adding the missing ERP &amp; city pages, and listing on Microsoft AppSource &amp; Clutch, Inturing keeps its #1 spot in Manufacturing while unlocking the other 200 answers.</span>
+        <div class="stat" style="margin-top:20px;padding:18px 22px;background:#F4F5F8;border-radius:12px">
+          <span class="big pulp" style="font-size:38px">Keep #1 in Manufacturing.</span>
+          <span class="stat-cap" style="font-size:17px;line-height:1.38">By broadening the homepage title, adding the missing ERP &amp; city pages, and listing on Microsoft AppSource &amp; Clutch, Inturing keeps its #1 spot in Manufacturing while unlocking the other 200 answers.</span>
         </div>
       </div>
     </div>
