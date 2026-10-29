@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Melbourne? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:40.598Z",
+  "cost": 0.006225,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 593,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005625,
+      "datetime": "2026-10-29 04:03:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "A strong Melbourne shortlist is **SSW, Engage Squared, jeylabs, Eagle360 Consulting, and Power Platform Experts**. The best choice depends on whether you need enterprise transformation, Microsoft 365 integration, Dynamics 365, or a smaller hands-on delivery team.\n\n- **SSW — best for complex enterprise projects.** SSW has delivered Microsoft solutions for more than 1,000 clients across 15 countries and reports a large certified consulting team, Microsoft MVPs, and a Microsoft Regional Director. Its breadth makes it a strong option for architecture, governance, custom development, and large-scale Power Platform programs.[3]\n\n- **Engage Squared — best for a substantial Melbourne-based Microsoft consultancy.** It appears among the larger Melbourne firms identified in a current directory of Power Platform consultants, with a reported local team size of 51–200 employees. Shortlist it for projects needing broader Microsoft 365, collaboration, and business-app capability alongside Power Platform delivery.[5]\n\n- **jeylabs — best for personalised Power Apps and automation work.** Melbourne-based jeylabs offers Power Platform and Microsoft 365 consulting, workflow automation, application design, integration, development, and ongoing support, with both on-site and remote delivery.[1]\n\n- **Eagle360 Consulting — best for Dynamics 365 Business Central and Copilot.** Eagle360 describes itself as a Microsoft Solutions Partner serving Sydney and Melbourne, with a focus on production Power Platform applications and Copilot agents connected to Business Central. It also emphasises architecture, governance, application lifecycle management, and testing—useful when reliability matters more than a quick prototype.[4]\n\n- **Power Platform Experts — best for focused, end-to-end delivery and training.** The firm specialises in Power Apps, Power Automate, Power BI, and Power Pages, covering design, development, deployment, training, and support. Its consultants are described as certified and experienced across the broader Microsoft 365 ecosystem.[9][10]\n\n## How to choose\n\n- Choose **SSW** for a large, technically demanding or regulated implementation.\n- Choose **Engage Squared** when you want a sizeable Melbourne partner with wider Microsoft capability.\n- Choose **jeylabs** for a more tailored app, workflow, or Microsoft 365 automation engagement.\n- Choose **Eagle360** if Business Central, Copilot agents, or production-grade engineering is central.\n- Choose **Power Platform Experts** for a focused implementation with user training and ongoing enablement.\n\nBefore appointing one, ask for two comparable Melbourne client references, named consultants and certifications, a proposed governance and environment strategy, details of licensing assumptions, and a fixed deliverable for an initial discovery or pilot. Directory rankings should be treated as lead-generation evidence rather than proof of quality; for example, the underlying Melbourne directory says its matching category does not represent a company-by-company quality assessment.[5]",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting and Support Services - jeylabs",
+                  "url": "https://www.jeylabs.com/powerapps_consulting_and_support",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Melbourne | Concetto Labs",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & Copilot",
+                  "url": "https://eagle360.consulting/power-platform-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform consultants based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform consulting companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform partners based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Us - Power Platform Experts",
+                  "url": "https://www.powerplatformexperts.com.au/about-us",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

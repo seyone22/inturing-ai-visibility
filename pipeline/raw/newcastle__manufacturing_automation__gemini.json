@@ -1,0 +1,204 @@
+{
+  "slug": "newcastle",
+  "pk": "manufacturing_automation",
+  "plat": "gemini",
+  "text": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__manufacturing_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:30.603Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When wrapping an existing ERP with the Microsoft Power Platform (avoiding a costly rip-and-replace), you need a partner that understands **manufacturing operational tech (OT/IT)**, **ERP integration patterns** (APIs, SQL connectors, or RPA), and **shop-floor UX** (offline mode, ruggedised tablets, barcode scanning).\n\nRecommended regional (North East) and UK-wide consultancies with verified capabilities in manufacturing and Power Platform include:\n\n---\n\n### 1. Regional North East Specialists (Local to Newcastle)\n\n* **Waterstons (Durham / Newcastle)**\n  * **Why them:** Headquartered just down the road in Durham, Waterstons is one of the premier business and technology consultancies in the North East. They have a dedicated manufacturing practice and frequently work on \"ERP optimisation\" rather than forced system replacement.\n  * **Best for:** Complex architectures, integrating with mid-market legacy ERPs (Syspro, EFACS, Sage, Epicor), and building out robust Power Platform workflows and automation.\n* **Monpellier (Gateshead)**\n  * **Why them:** Located right across the Tyne, Monpellier specializes in manufacturing ERPs (Dynamics, Sage) and builds bespoke Power Apps for barcode scanning, inventory movements, and shop-floor data capture (SFDC).\n  * **Best for:** Practical, rapid shop-floor tablet/scanner rollouts and small-to-mid-sized manufacturing operations.\n* **SR1 Development (Sunderland / Newcastle)**\n  * **Why them:** A local boutique Microsoft low-code development firm. \n  * **Best for:** Tactical, fast-turnaround Power Automate and Power Apps buildouts if you have internal IT overseeing the ERP database.\n\n---\n\n### 2. UK Specialists with Dedicated Manufacturing Practices\n\n* **Bridgeall**\n  * **Why them:** They have an explicit practice dedicated to *UK manufacturers modernising shop-floor data collection without replacing their ERP*. They regularly deliver paperless quality audit apps, OEE tracking, and digital routing sheets that feed back-office databases.\n  * **Best for:** Shop-floor data capture, scrap/downtime tracking, and connecting front-line plant workers to central systems.\n* **Tecman (Technology Management)**\n  * **Why them:** A heavyweight Microsoft partner hyper-focused on UK manufacturing, distribution, and supply chains. They specialize in shop-floor data capture, warehouse mobility, and automated production order routing.\n  * **Best for:** In-depth manufacturing routing, Bills of Materials (BOM) logic, and operational automation.\n* **Columbus Global UK**\n  * **Why them:** An international enterprise partner with a large UK footprint that specializes almost entirely in manufacturing and food production. They excel at building Power Platform \"wrappers\" and Azure integration pipelines around legacy or on-premise ERPs.\n  * **Best for:** Larger, multi-site manufacturers with high transaction volumes and complex compliance requirements.\n\n---\n\n### How to Structure Your Conversations (Questions to Ask)\n\nWhen engaging these partners, evaluate them against these manufacturing-specific criteria:\n\n1. **ERP Connector Strategy:**\n   * *Ask:* *\"How do you plan to interface with our specific ERP without corrupting business logic?\"*\n   * *What good looks like:* If your ERP has REST/SOAP APIs, they should propose **custom Power Platform connectors** or **Azure Logic Apps**. If it is a legacy SQL-based system with no API, they should discuss read-only data staging or audited stored procedures. If there is no backend access, they should discuss **Power Automate Desktop (RPA)**.\n2. **Order Processing Automation:**\n   * *Ask:* *\"How do you handle unstructured purchase orders sent via email or PDF?\"*\n   * *What good looks like:* Using **Power Automate + AI Builder** (Document Processing) to parse customer POs, extract line items, match SKUs against your ERP master data, and route them for one-click approval before writing into the sales order table.\n3. **Shop-Floor Device & Network Realities:**\n   * *Ask:* *\"How do your Power Apps handle barcode scanning, glove use, and Wi-Fi dead zones on the factory floor?\"*\n   * *What good looks like:* The partner should have experience building Canvas Apps with **offline caching**, high-contrast UI, integration with rugged Android Zebra/Honeywell scanners (via hardware intent or camera wedge), and simple touch targets.\n4. **Licensing Architecture:**\n   * *Ask:* *\"How will you keep Microsoft licensing costs low for 50+ shop-floor machine operators?\"*\n   * *What good looks like:* Shop-floor data entry should not necessarily require a full £15–£30/user/month Power Apps license for every operator. A smart partner will propose shared kiosk devices, Microsoft 365 frontline worker licenses, or staging data through intermediate endpoints to keep ongoing licensing overhead down.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22shop-floor+data+capture%22+%22Power+Apps%22+manufacturing+UK+partner&client=app-vertex-grounding&safesearch=active\">&quot;shop-floor data capture&quot; &quot;Power Apps&quot; manufacturing UK partner</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Waterstons%22+manufacturing+ERP+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;Waterstons&quot; manufacturing ERP Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultancy+manufacturing+Newcastle+North+East+UK&client=app-vertex-grounding&safesearch=active\">Power Platform consultancy manufacturing Newcastle North East UK</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+manufacturing+ERP+integration+partners+UK&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform manufacturing ERP integration partners UK</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgKN-QAgJbrvcqwvMcgdT2f5euzwMX9YNZqjBbSDy4aiztZnYLQM2HSARRPSXQzCtQSs2l-CFQRPUVViuzSHU4-_uuRfWi2hCIPfwQHMhlvBVnWp3K3Z9FIu8OmNLkTT89oI8_m9yWiqh4e6iFZ75aUSRNl5PEzD9n7D8bJD_b2p9OxncS9FZsXYULA0snXuQ=",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0LF0M7zyoWcrNEjoeUuRUvD5vhXnqCYMHywlm70R3fkacYa4Bvt6brxoEnrrLjdvUL3YW4-hrOa5wWbO8UN3IQOCNrDZV0HuvM6GW_Lr_GM=",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbH040MLl2Qw7yKCOjqb8iSeTsQ7Hrc2YF-zKSPlhuKJy-4qluXVdGi9UpNeXRTeIBSLKy71R3wJZms0HEUJiWX28-xgso5-k-fAWMAoHXb1alf6o=",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-YQsL5rUR-DDp1NTZDzd-EdJdp_4RQl0tK--HUNcQ3ZqwuBgDnUGX2u2-Hi_Yp_qBE9lwN2i8D5HLiUSYWi_LNog5S-qO96U7yy4zreO2C4qEU3bXhVMer-b38NRrysVSLJuTmTTYyBPsyuh8SLKp00iqe-h-uVktS_qMzR_5JIJMhLGTLKDlTi77PJpJj16ZQtgKgpM=",
+                "title": "brightnetwork.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO_yVXWC_GlVJxCduEMo_iBxQUByxNg1iQzgf4S-hDcBylJECDvALwXRMVjnrzCtDRcfN9RtD6L2fFvZqcNU_2WNtNrG952oajJC6tYVIpIxiP-EPSi-WGZu1lIJvHp0NOsITsKALTQG0fwteX-fFT6qc1Sc30",
+                "title": "monpellier.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEM4aLgEynhlQaccJgiDduBPkU3o8dQI0e5HbSJN_QN9zj7hOU9_vxCvdOB2p8_o3OthjGba7HAgw1uoX0BIA0wI9h0enpO1pojlAGzu0Vl3vAg0JIuDeR60NQ-Up8qk7Y-hM=",
+                "title": "sr1development.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHttbeHPEolGMpF5GR-w2TXJRJhnfL0JmZivxIgJMrCFXR8uGvpRqYzL4jhphMFqK7yRBkLMvCrH1hKS6_C6TfkWOSOYwo--Ur41ZddA2_slkfw2uZd8BUJnxRtVt6Iss4QIt8YqdFaZVM=",
+                "title": "bridgeall.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHttbeHPEolGMpF5GR-w2TXJRJhnfL0JmZivxIgJMrCFXR8uGvpRqYzL4jhphMFqK7yRBkLMvCrH1hKS6_C6TfkWOSOYwo--Ur41ZddA2_slkfw2uZd8BUJnxRtVt6Iss4QIt8YqdFaZVM=",
+                "title": "bridgeall.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZP5tuOIAnqeE76e7bcUzs9Dk9PIUB5tXM9LmhXV5MNSw4B87b1H90H7AqHIZD7Znp7wBzp-67WgxRpEwC4-tLDIRmga08ire_PPWlWMl_wKlZ0IsHuYgpjR66cfEa6BIn_rBuaBZfdYs=",
+                "title": "bridgeall.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 560,
+                "endIndex": 706,
+                "text": "**Why them:** Headquartered just down the road in Durham, Waterstons is one of the premier business and technology consultancies in the North East"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 708,
+                "endIndex": 752,
+                "text": "They have a dedicated manufacturing practice"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 838,
+                "endIndex": 1009,
+                "text": "**Best for:** Complex architectures, integrating with mid-market legacy ERPs (Syspro, EFACS, Sage, Epicor), and building out robust Power Platform workflows and automation"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1044,
+                "endIndex": 1258,
+                "text": "**Why them:** Located right across the Tyne, Monpellier specializes in manufacturing ERPs (Dynamics, Sage) and builds bespoke Power Apps for barcode scanning, inventory movements, and shop-floor data capture (SFDC)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1430,
+                "endIndex": 1496,
+                "text": "**Why them:** A local boutique Microsoft low-code development firm"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1724,
+                "endIndex": 1867,
+                "text": "**Why them:** They have an explicit practice dedicated to *UK manufacturers modernising shop-floor data collection without replacing their ERP*"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1869,
+                "endIndex": 1994,
+                "text": "They regularly deliver paperless quality audit apps, OEE tracking, and digital routing sheets that feed back-office databases"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2000,
+                "endIndex": 2122,
+                "text": "**Best for:** Shop-floor data capture, scrap/downtime tracking, and connecting front-line plant workers to central systems"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"shop-floor data capture\" \"Power Apps\" manufacturing UK partner",
+            "\"Waterstons\" manufacturing ERP Power Platform",
+            "Power Platform consultancy manufacturing Newcastle North East UK",
+            "Microsoft Power Platform manufacturing ERP integration partners UK"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 933,
+      "candidatesTokenCount": 1129,
+      "totalTokenCount": 3730,
+      "cachedContentTokenCount": 320,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 933
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 320
+        }
+      ],
+      "thoughtsTokenCount": 1668,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "EMfiauKTILzIv_gP08jouQo"
+  }
+}

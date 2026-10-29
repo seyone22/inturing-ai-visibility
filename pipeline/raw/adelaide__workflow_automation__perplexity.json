@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Adelaide are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:28.941Z",
+  "cost": 0.006141,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 516,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005541,
+      "datetime": "2026-10-29 04:07:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Adelaide businesses, the strongest apparent options are **SimpleIT4U, A1 Technologies, Power Platform Experts, OfficePro Consulting, and Dynamic Aspect**. The best choice depends on whether you need local hands-on delivery, broader Microsoft 365 integration, enterprise governance, or ongoing support.\n\n| Consultancy | Best suited for | Relevant capabilities |\n|---|---|---|\n| **SimpleIT4U** | Adelaide-based SMEs wanting local implementation | Adelaide-based delivery covering Microsoft 365, Power Platform, AI agents, custom apps, integrations, and workflow automation.[4] |\n| **A1 Technologies** | Structured Power Automate projects | Process assessment, automation planning, workflow design, implementation, and scalable integrations.[1] |\n| **Power Platform Experts** | Full Power Platform delivery | Microsoft-certified specialists offering Power Automate, Power Apps, Power BI, Power Pages, training, support, and process optimisation.[3] |\n| **OfficePro Consulting** | Microsoft 365-centric automation | Power Automate approvals and reminders, SharePoint or Dataverse back ends, Power Apps, Power BI, API integrations, and post-launch support in Adelaide.[2] |\n| **Dynamic Aspect** | Larger or more complex Microsoft environments | Power Automate consulting, deployment, support, RPA, UI flows, AI Builder, and Microsoft ERP integration across Australia, including Adelaide.[8] |\n| **Evocate** | Enterprise automation and managed services | Process discovery, cloud and desktop flows, AI Builder, governance, legacy-system integration, training, monitoring, and ongoing managed services.[5][6] |\n\n### Recommended shortlist\n\n- **Choose SimpleIT4U** if local Adelaide presence and custom application development are priorities.[4]\n- **Choose OfficePro Consulting** for practical Microsoft 365, SharePoint, approvals, and reporting automation.[2]\n- **Choose A1 Technologies** for a clearly scoped Power Automate implementation from process assessment through delivery.[1]\n- **Choose Power Platform Experts** when you need several Power Platform components rather than Power Automate alone.[3]\n- **Choose Evocate or Dynamic Aspect** for enterprise-scale integrations, RPA, governance, or managed support.[5][6][8]\n\nBefore selecting a provider, ask for a process-discovery workshop, examples of comparable implementations, details of their error handling and monitoring approach, licensing assumptions, security/governance model, and a fixed-price pilot for one high-value workflow.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Automate Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Automation & Microsoft 365 Adelaide | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/service-area/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "SimpleIT4U: Power Platform Consulting Services Australia",
+                  "url": "https://simpleit4u.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consulting Australia - Evocate",
+                  "url": "https://www.evocate.com.au/cloud-consulting/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "RPA - Robotic Process Automation Australia - Evocate",
+                  "url": "https://www.evocate.com.au/cloud-consulting/rpa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate | Workflow Automation Solutions",
+                  "url": "https://www.dynamicaspect.com.au/power-automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/process-automation-consulting-firms/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Process Automation Services | Power Automate Consultancy",
+                  "url": "https://consultancy.vantage365.com/services/business-process-automation-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

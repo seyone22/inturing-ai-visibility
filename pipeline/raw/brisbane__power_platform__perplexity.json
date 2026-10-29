@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Brisbane? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:51.683Z",
+  "cost": 0.006235,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 603,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005635,
+      "datetime": "2026-10-29 04:04:46 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Brisbane organisation, the strongest shortlist is **SSW, Avanade, Capgemini, Professional Advantage, and AGER BI**. The right choice depends on whether you need enterprise-scale transformation, hands-on app automation, or specialist Power BI/Fabric capability.\n\n- **SSW — best for hands-on Power Platform delivery and software engineering.** SSW delivers Power Apps, Power Automate and Power BI projects and reports more than 1,000 clients across 15 countries, with Microsoft certifications, MVPs and a Microsoft Regional Director among its experts.[2] A good fit for organisations wanting practical development capability alongside consulting.\n\n- **Avanade — best for large enterprise or government transformation.** Avanade is a Microsoft-focused consultancy with broad capabilities spanning Power Platform, Azure, Dynamics 365, Microsoft 365, AI and managed services. Its scale and deep Microsoft alignment suit complex, multi-workstream programmes rather than small isolated automations.[1]\n\n- **Capgemini, including the former Empired business — best for Microsoft ecosystem breadth.** Empired is now part of Capgemini and has Brisbane presence, with capabilities across Power Platform, Dynamics 365, Azure and Microsoft AI.[1] Consider it where Power Platform needs to integrate with ERP, CRM, cloud infrastructure or broader transformation work.\n\n- **Professional Advantage — best for end-to-end Microsoft adoption and support.** It describes itself as a Microsoft Solutions Partner and Tier 1 Cloud Solution Provider, offering Power Platform consulting alongside integration with Dynamics 365, Teams, SharePoint and Power BI.[7] It may suit organisations seeking implementation, licensing, governance and ongoing support from one provider.\n\n- **AGER BI — best for Power BI, Fabric and data-led Power Platform projects.** AGER BI focuses on governed Power Platform solutions connected to Microsoft Fabric and core business systems, with certifications across Power BI, Fabric, Azure and data engineering.[6] It is particularly relevant when reporting, data quality and a scalable analytics foundation are central requirements.\n\n- **Office Experts — best for a smaller, locally accessible Brisbane engagement.** The firm offers Power Apps, Power Automate and Power BI solutions, including workflow automation and dashboards, with on-site consulting across Brisbane and South-East Queensland.[4] It is worth considering for smaller or mid-market projects where local access and direct engagement matter.\n\n## How to choose\n\nShortlist two or three providers and ask each for:\n\n- Two comparable Brisbane or Australian case studies.\n- The named consultants who would deliver the work—not only the sales team.\n- Their approach to Dataverse, environment strategy, security, governance and licensing.\n- A fixed-price discovery phase with clearly defined deliverables.\n- Evidence of post-launch support, user adoption and measurable business outcomes.\n\nMicrosoft’s partner directories allow buyers to filter partners by relevant Power Apps specialisations, solution designations and consulting capabilities, so verify current credentials there before appointing a provider.[9][10]",
+              "annotations": [
+                {
+                  "title": "Top Microsoft Consultants in Brisbane (2026) | Team 400 Blog",
+                  "url": "https://team400.ai/blog/2026-03-top-microsoft-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD | Alphavima",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Consultants Brisbane",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://agerbi.com.au/microsoft-power-platform-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting - Professional Advantage",
+                  "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://appsquad.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Partners | Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-bi/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-code partners",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

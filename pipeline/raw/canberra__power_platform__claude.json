@@ -1,0 +1,226 @@
+{
+  "slug": "canberra",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Canberra? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:06.333Z",
+  "cost": 0.081037,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 16849,
+      "output_tokens": 1326,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.080437,
+      "datetime": "2026-10-29 04:09:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable Microsoft Power Platform consulting partners operating in Canberra, based on available information:\n\n---\n\n## 🏆 Top Microsoft Power Platform Consultants in Canberra\n\n---\n\n### 1. **Power Platform Experts (Office Experts Group)**\n🌐 [powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating since 2000, Power Platform Experts (part of the Office Experts Group) has over 25 years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them?**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Canberra team specialises in Microsoft Power Platform solutions for government departments and local organisations, focusing on developing secure, compliant automation and business intelligence solutions that meet the unique requirements of government and regulated industries.",
+              "annotations": [
+                {
+                  "title": "Australia's Trusted Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services across Power Automate, Power Apps, Power BI, and Power Pages.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Government agencies, ACT public sector organisations, and local businesses needing compliant, secure solutions.\n\n---\n\n### 2. **Antares Solutions**\n🌐 [antares.solutions](https://antares.solutions/ai-business-solutions/power-platform/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Antares is a Microsoft Solutions Partner, certified across the full Microsoft AI stack — including Microsoft Copilot, Azure AI, Microsoft Fabric, and Modern Work — with proven experience delivering secure, enterprise solutions for Australian organisations.",
+              "annotations": [
+                {
+                  "title": "Power Platform Services Australia",
+                  "url": "https://antares.solutions/ai-business-solutions/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them?**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Antares offers \"Power Platform as a Service,\" a managed service model that provides organisations with access to a dedicated team of Power Platform consultants on a monthly retainer — covering application support, bug fixes, new workflow development, governance uplift, licence management, CoE maintenance, and proactive platform health monitoring.",
+              "annotations": [
+                {
+                  "title": "Power Platform Services Australia",
+                  "url": "https://antares.solutions/ai-business-solutions/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "It's designed for organisations that want the benefits of a Power Platform capability without the overhead of building a full internal team.",
+              "annotations": [
+                {
+                  "title": "Power Platform Services Australia",
+                  "url": "https://antares.solutions/ai-business-solutions/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Enterprises and government bodies needing ongoing managed Power Platform support and AI-integrated solutions.\n\n---\n\n### 3. **Concetto Labs**\n🌐 [concettolabs.com](https://www.concettolabs.com/services/power-platform-consulting-company-canberra/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Concetto Labs is a Microsoft Power Platform Development Company in Canberra, delivering solutions using low-code or no-code platforms.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Canberra",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Canberra",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them?**\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Concetto Labs helps businesses of all sizes with their needs from start to finish, providing strategic planning, governance setup, and compliance support for smooth and successful implementations, ensuring scalable, cost-effective, and future-ready digital solutions.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Australia",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their integration of Copilot into the Power Platform development ecosystem empowers developers and business users alike to build robust applications with minimal effort, enhancing collaboration between IT teams and business stakeholders by translating plain language into functional app components and workflows.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Canberra",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Businesses of all sizes looking for end-to-end Power Platform development with AI/Copilot integration.\n\n---\n\n## 📝 Tips for Choosing the Right Partner\n\n| Criteria | What to Look For |\n|---|---|\n| **Microsoft Certification** | Look for official Microsoft Solutions Partner designation |\n| **Government Experience** | Critical in Canberra — check for ASD/IRAP compliance familiarity |\n| **Local Presence** | On-the-ground Canberra consultants vs. remote-only |\n| **Track Record** | Years in operation, client testimonials, case studies |\n| **Managed Services** | Ongoing support vs. one-off project delivery |\n\n> ⚠️ **Note:** Canberra's market is heavily government-focused, so it's worth asking any prospective partner about their experience with Australian Government security frameworks (e.g., ISM, PROTECTED environments) and whether they hold relevant government panel arrangements (e.g., Digital Transformation Agency panels). Always request references before engaging.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consultants Canberra",
+        "Microsoft Power Platform consulting partners Canberra Australia",
+        "Microsoft Power Platform partners Canberra government ACT Avanade Insight Datacom"
+      ]
+    }
+  ]
+}

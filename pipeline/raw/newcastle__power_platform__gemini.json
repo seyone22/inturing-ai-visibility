@@ -1,0 +1,547 @@
+{
+  "slug": "newcastle",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Newcastle? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:13.250Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft Power Platform partner in Newcastle upon Tyne (and the wider North East tech corridor), organizations generally choose between **established regional Microsoft specialists**, **large enterprise consultancies with major Newcastle hubs**, and **agile boutique agencies**.\n\n---\n\n### 1. TSG (Technology Services Group)\n* **Location:** Newcastle (Quorum Park) / Gateshead\n* **Best for:** Mid-market to enterprise-grade digital transformation, workflow automation, and governance.\n* **Why they stand out:**\n  * **Accredited Microsoft Leader:** TSG is one of the rare UK Microsoft Solutions Partners to hold designations across all key Microsoft Cloud areas.\n  * **Full Ecosystem Integration:** They don't build Power Apps in isolation; they excel at integrating Power Platform (Power Automate, Power Apps, Power BI) seamlessly with Dynamics 365, Business Central, and Azure.\n  * **AI & Copilot Readiness:** TSG has built an active practice helping businesses integrate Copilot Studio agents on top of their Power Platform estates.\n\n---\n\n### 2. Synergi\n* **Location:** Gateshead / Newcastle (The Watermark)\n* **Best for:** Modern workplace productivity, legacy SharePoint migrations, and process modernization.\n* **Why they stand out:**\n  * **Productivity & Automation Specialists:** Synergi is known across the UK for focusing specifically on digital workplace transformation, intranet modernization, and citizen development.\n  * **Practical ROI:** They specialize in taking clumsy, spreadsheet- or paper-based processes and turning them into streamlined Canvas and Model-driven Power Apps.\n  * **Proven Regional & National Track Record:** Clients range from national names (e.g., The Royal Mint, Manchester Airport Group) to high-growth North East enterprises.\n\n---\n\n### 3. Waterstons\n* **Location:** Durham / Newcastle region (servicing Newcastle and national clients)\n* **Best for:** Strategy, governance, Centre of Excellence (CoE) setup, and complex system design.\n* **Why they stand out:**\n  * **Business-Led Consulting:** Rather than just writing low-code workflows, Waterstons acts as a strategic business consultancy. They analyze your operating model first to determine whether Power Platform is the right fit.\n  * **Governance & Security First:** Uncontrolled \"app sprawl\" is common with Power Platform. Waterstons is known for implementing robust Application Lifecycle Management (ALM), data loss prevention (DLP), and governance structures before scaling.\n  * **Deep Industry Knowledge:** Particularly strong in sectors like education, manufacturing, architecture, and professional services.\n\n---\n\n### 4. Version 1 (Newcastle Technology Hub)\n* **Location:** Newcastle City Centre\n* **Best for:** Large enterprise, public sector, and multi-tenant architectures.\n* **Why they stand out:**\n  * **Heavy Enterprise Scale:** Version 1 operates a dedicated delivery hub in Newcastle and is one of the premier Microsoft inner-circle partners across the UK and Ireland.\n  * **End-to-End Enterprise Architecture:** Ideal if your Power Platform project intersects with massive ERP migrations, heavy Dynamics 365 CE customizations, complex Dataverse security models, or Azure landing zones.\n\n---\n\n### 5. SR1 Development\n* **Location:** Newcastle upon Tyne\n* **Best for:** Small to mid-sized businesses (SMBs) seeking direct, agile, and cost-effective development.\n* **Why they stand out:**\n  * **Nimble & Hands-On:** Founded in 2011, SR1 is a dedicated group of Microsoft 365, SharePoint, and Power Platform developers.\n  * **Rapid Tactical Solutions:** Excellent for targeted operational tools—such as expense management apps, custom leave trackers, PO approval chains, or supplier onboarding forms.\n\n---\n\n### 6. Geordie Consulting\n* **Location:** Newcastle upon Tyne\n* **Best for:** Power BI analytics, data integration, and user enablement.\n* **Why they stand out:**\n  * **Data-Centric Focus:** While they support the broader Power Platform, their core differentiator is deep data modeling, dashboards, and reporting.\n  * **Upskilling & Training:** Rather than keeping clients reliant on agency billable hours, they heavily emphasize training internal staff to build and manage their own Power Apps and Power BI reports.\n\n---\n\n### How to Choose:\n1. **For enterprise integration (Dynamics 365, complex ERPs, deep Azure link):** Consider **TSG** or **Version 1**.\n2. **For strategic roadmapping, governance, and CoE design:** Look at **Waterstons**.\n3. **For business process automation and digital workplace modernization:** Look at **Synergi**.\n4. **For quick-turnaround tactical apps or dedicated SMB projects:** Look at **SR1 Development** or **Geordie Consulting**.\n\n*(Note: If your inquiry refers to Newcastle, NSW, Australia rather than Newcastle upon Tyne, UK, local specialists such as **WorkflowIQ** are the primary recommendation in that region).*",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Synergi%22+%22Power+Platform%22+Newcastle&client=app-vertex-grounding&safesearch=active\">&quot;Synergi&quot; &quot;Power Platform&quot; Newcastle</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22TSG%22+%22Power+Platform%22+Newcastle&client=app-vertex-grounding&safesearch=active\">&quot;TSG&quot; &quot;Power Platform&quot; Newcastle</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consultants+Newcastle&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consultants Newcastle</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Version+1%22+Newcastle+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Version 1&quot; Newcastle &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Technology+Services+Group%22+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Technology Services Group&quot; &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Waterstons%22+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Waterstons&quot; &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partner+Newcastle+upon+Tyne&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partner Newcastle upon Tyne</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFup2_XpjlhMgpgnORn5JzHJgwhJR4cC40fNAWrppuU-f7oHoRAFZbdlO4TYfZhoW40Ry1Rg5xzqBxFk_Y8r54eWfhB_nVyLdFSDnRCJcMy9u1MAoIMJmoLWHvkHJDCrT2a47E=",
+                "title": "sr1development.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWwKgm4n8985sn9i_D-s7-rHZ_FYbrO7lFqAj1tQDGnf-O89Ku8On5-7HkbHYe3nEP_81y0RFwaFZ_qxLXnSNKdoIAQRH8d4EWA-A9hLg8a3ZHInjdOywegY5Ow65QN6wzcG34uhmHfOc5NXpq_zYF9CBr7q67sCcGQuakDB7lGg==",
+                "title": "version1.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_JXsbjaU5qOqN8mzzDY14Jv6-2xxLa6lPwnkj7ge7YniaT6QOV8daKPYeQ8XnPSbGCzP1BX8wv55u9LuwctPSSwxN0noQpLZmhX4jicrvpvZVDhqbVUSbp6e9r1WTBX6fOL3GGc0NQqTQQAUvtjKV2OXxUNkPCQ==",
+                "title": "tsg.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAwOetMt78mYyzEUe8Wm1PFwaLmxLpTsEkmTwYKIZs8CkkjGtxPau_hUUMNNc6bG2CQt3BLCiBfyzfIJtXQEmTpZo6GRZkiM5qLLOyMSwMUH_wukI-juo4tf1S_lptYKVaffy-MILJ54APpccSqLyGXUpHgoR82K7XPmc6tGvisTHkZ0PJSZlzx9ftTg==",
+                "title": "businessmondays.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHIPEGjL8e0-nBlZiAvXohsA-KX8K32CKzLkaZm5dHjhfU2ACxEKiaOy5yxckbHjUwr1qgf4gRWzIFo2C-LOnhtgP6Saq1WwYZD4rJILSsZiV_iXeKDUVd8QXmmIZtpfCzpUZmW00=",
+                "title": "github.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC14TRbQLJxSGtnYZAZaJS7aNRCmIqESla8XkqEOC-hjYGqgIdjVI-TTPBS2amWFl__4vYQ3LV1rLU70PVUswpifQ-IOomMeNRD0WRA4W1IkHxa9nDo1ZPp8KxqgJ78_ZwK5zFA8OV4uimACCc4K_L23mL5LjD6hW91dxkyonpP1a44xTGxdsB8gs4hEMz7Z-Q06GBhk9aQ96lLTC16oGi",
+                "title": "studysmarter.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcfSUyEtoiKflCAhs2SePou1V6667Vhdt38HBYp-AWCrCPIz-Nmtc4Ypy5euHKO6iI7VA83Q0hgvttawTuYboRsErUpD88ZJegWi1tvHWrmVOzV6sO9GSF8_rwiV3cTQ==",
+                "title": "tsg.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESCtHl8GW80YR-8sD9WWpaHheq6cN535RW30pj7Xv4hRT9r98yNPmRGsR8BUYXZ8zVh5wmk7TMQQuE5F3jRViWjRKR4FE8WAzDsq5XjenweGfxyGnJqfWsyLeBiXlsHhWPZfUkmRW87JiKwrTsdKU3",
+                "title": "targetjobs.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESCtHl8GW80YR-8sD9WWpaHheq6cN535RW30pj7Xv4hRT9r98yNPmRGsR8BUYXZ8zVh5wmk7TMQQuE5F3jRViWjRKR4FE8WAzDsq5XjenweGfxyGnJqfWsyLeBiXlsHhWPZfUkmRW87JiKwrTsdKU3",
+                "title": "targetjobs.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJX4Pc7D1pjTDqC5ncF2LqxV11axkK8HLnjTT2jhmSihqVwSZQufUmovsNw8-xffBZxvgMUd4Fh1rh7ibsnbYj_ruxXYf0dUZ0SvEEGvKTR-5_KFs=",
+                "title": "teamsynergi.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9dkIaayFfAaExaPhN7tlwH7wvAsa209_1_eGOCexATfQ3v2nJM_rXT3b0bQvno8e1X06f8KScXvd5EdY_IWijKUOkup0qYZ2wKdPuLmtrLyctFeMyvXWnBZTrGeSaqddeBr3dgAnp50-CzN4jyRl29iUiHss0OdNBcds_x74XHZwr8N5v0ppvFOIw",
+                "title": "northern-insight.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECyY-0dJo0h6W6an6uD7pokosp4nO8QrqaxIaxen8mv4xxU7tbAzjZHO1HEGA5RzLN4y-ig3rfI-vKgQ8Ok7eOE9hGKcqg_BXDU2mOzaDKN6thpmK8mWyQkC6x21eKeNLKOvZVoXioWuaTefLxuODBpK--2Zf1ZqpYROoaVuK4YWWOjoIgEfnUMHs=",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMR6VM5FsBWLC86CZilMXgrsDWwRWUsGFSiKY--lsEysUnUc3CCe5ImIFAgWgZAUsdZPjMxiQJOtJI1RYUpvtbGl_009Ad9XE--GBPWGfDEApbgZRdW5omlYUhTafBEfhto_dFHvTSKkW49OFyw9AQckvwgat4awKNOic=",
+                "title": "totaljobs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYWZQEYB1nBw7D9oeZT2p1W2gv4NRy9nuy8d94IA2rZwcKh7bfjTbtfrhRXQSR6JnccPrs10deX8yNO-qY7x1XN_yg4GvWyjbCHHCMzhzn-QCehLFdtxPXUFW6GNauYxeMOEG_uvlkuFnBgDXObebPf5JXDchRsw31sKLm5x3UCsLZABFfQPyvwQOh9mMyKhpl3fZrEw==",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ENTViGC-EE5bW79TR7rW8BpcdQU5MMqJnJQ83guj_FhW6odR3E8BRPvtAikUDJiRBd8xE3-edX6MTKt-uAYXikYSqK9bBy0fkvJNlw6ZC4oHp-A7GKABqFyxyvf7_6D6fg8dWAhp4a0i9dZ9-xC8tEnsM8-yA3tIF9d9etYEo9z_5wY=",
+                "title": "amba-bga.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFub0nsROi_mbTVorRqsxvf0iaKwtqfBVvR1uckkUOqEbCq-uJMbAGTmFSpU4YK_JJE0lIKG7nAQSiydRL7izIbjY0IbwPMn2jn7IADXUSXyDmGbxRaXOPA7agdalVB4-lPpW88DC_s-B_TLC9qNI_C-GF-l6oTe64MW87mSE5AQv1-JjKuoMEY4AGDmZNAeKuMxg==",
+                "title": "service.gov.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSHtA54tMc6VCFEvpFg6TqpKbwSwWig4jesJL4ubTMP5Rpp6uHzWY-ph0r5tM-EBeiTMCEARbrOzBSdjOYU0KoooW2KEXhjQqd1M9u0h1lUvqHrtlP0h-XQmRX-uRoyI_ypXLDOCw=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSiayVTnV1y1pAJI5xvZ2fxjxc_m2tEjLWxVLIo_sP3oVtSc8IV6baAqh5qAQKPuSJPQHDt3iQnGP0qnA2U3MDt6SfxOTjtzco8_Qtg9_2VydCeM9WPuLcFkoYFgK42NuZ8Yw-uS-Rex7YK77FgpLh5HjYavCdApvYhb0I21fzaUDtfEX6jxWZjnVd524K",
+                "title": "simplyhired.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYaVEHCDb8FIfBjO9TI1_QrtAPauinZeut2cSmoPJ5-8-L83fHMI6bZWoKNWx6YBCRI54kVVr_8B4JKH-Tvv3r-w8tX--nFPwVmAGjF479HOVEiu5-s8MDACsxffh1A847s1N2UOteIxnrks7wUqpzYGoU6VpXKVZ3Z0yK0W1Bavv0DvRnuIJzmHE=",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpiVI3-WZp5qCmvjBaljgqiDtenULmI9_70QKHO4MoQJa6ptooel3EyZjmeiCXgPYTS0gAeYjvgALxvz_KSCSy5an6dQaTzkOln3tF2aaL4kJBup4CZPgQMdJIsYfTGg==",
+                "title": "geordieconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy5ph83OY2uNmPTdvBUGIVlQu-DwDqCDxQvnmmpTAYv-jVFHEuJwWewVXxfhMvSO-kNZBvM2hWzTW84g7XIDpTWE58dtRmLR7CFfIvV7FcXuzvWs9bWZv_UjccKE28ng==",
+                "title": "workflowiq.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 295,
+                "text": "When selecting a Microsoft Power Platform partner in Newcastle upon Tyne (and the wider North East tech corridor), organizations generally choose between **established regional Microsoft specialists**, **large enterprise consultancies with major Newcastle hubs**, and **agile boutique agencies**"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 344,
+                "endIndex": 393,
+                "text": "**Location:** Newcastle (Quorum Park) / Gateshead"
+              },
+              "groundingChunkIndices": [
+                2,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 396,
+                "endIndex": 500,
+                "text": "**Best for:** Mid-market to enterprise-grade digital transformation, workflow automation, and governance"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 532,
+                "endIndex": 677,
+                "text": "**Accredited Microsoft Leader:** TSG is one of the rare UK Microsoft Solutions Partners to hold designations across all key Microsoft Cloud areas"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 683,
+                "endIndex": 894,
+                "text": "**Full Ecosystem Integration:** They don't build Power Apps in isolation; they excel at integrating Power Platform (Power Automate, Power Apps, Power BI) seamlessly with Dynamics 365, Business Central, and Azure"
+              },
+              "groundingChunkIndices": [
+                6,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 900,
+                "endIndex": 1050,
+                "text": "**AI & Copilot Readiness:** TSG has built an active practice helping businesses integrate Copilot Studio agents on top of their Power Platform estates"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1075,
+                "endIndex": 1126,
+                "text": "**Location:** Gateshead / Newcastle (The Watermark)"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1129,
+                "endIndex": 1229,
+                "text": "**Best for:** Modern workplace productivity, legacy SharePoint migrations, and process modernization"
+              },
+              "groundingChunkIndices": [
+                9,
+                3,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1261,
+                "endIndex": 1445,
+                "text": "**Productivity & Automation Specialists:** Synergi is known across the UK for focusing specifically on digital workplace transformation, intranet modernization, and citizen development"
+              },
+              "groundingChunkIndices": [
+                9,
+                3,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1451,
+                "endIndex": 1610,
+                "text": "**Practical ROI:** They specialize in taking clumsy, spreadsheet- or paper-based processes and turning them into streamlined Canvas and Model-driven Power Apps"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1616,
+                "endIndex": 1781,
+                "text": "**Proven Regional & National Track Record:** Clients range from national names (e.g., The Royal Mint, Manchester Airport Group) to high-growth North East enterprises"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1809,
+                "endIndex": 1891,
+                "text": "**Location:** Durham / Newcastle region (servicing Newcastle and national clients)"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1894,
+                "endIndex": 1989,
+                "text": "**Best for:** Strategy, governance, Centre of Excellence (CoE) setup, and complex system design"
+              },
+              "groundingChunkIndices": [
+                13,
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2021,
+                "endIndex": 2146,
+                "text": "**Business-Led Consulting:** Rather than just writing low-code workflows, Waterstons acts as a strategic business consultancy"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2336,
+                "endIndex": 2488,
+                "text": "Waterstons is known for implementing robust Application Lifecycle Management (ALM), data loss prevention (DLP), and governance structures before scaling"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2494,
+                "endIndex": 2624,
+                "text": "**Deep Industry Knowledge:** Particularly strong in sectors like education, manufacturing, architecture, and professional services"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2678,
+                "endIndex": 2713,
+                "text": "**Location:** Newcastle City Centre"
+              },
+              "groundingChunkIndices": [
+                1,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2716,
+                "endIndex": 2793,
+                "text": "**Best for:** Large enterprise, public sector, and multi-tenant architectures"
+              },
+              "groundingChunkIndices": [
+                17,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2825,
+                "endIndex": 2993,
+                "text": "**Heavy Enterprise Scale:** Version 1 operates a dedicated delivery hub in Newcastle and is one of the premier Microsoft inner-circle partners across the UK and Ireland"
+              },
+              "groundingChunkIndices": [
+                18,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2999,
+                "endIndex": 3211,
+                "text": "**End-to-End Enterprise Architecture:** Ideal if your Power Platform project intersects with massive ERP migrations, heavy Dynamics 365 CE customizations, complex Dataverse security models, or Azure landing zones"
+              },
+              "groundingChunkIndices": [
+                17,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3244,
+                "endIndex": 3277,
+                "text": "**Location:** Newcastle upon Tyne"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3280,
+                "endIndex": 3384,
+                "text": "**Best for:** Small to mid-sized businesses (SMBs) seeking direct, agile, and cost-effective development"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3416,
+                "endIndex": 3540,
+                "text": "**Nimble & Hands-On:** Founded in 2011, SR1 is a dedicated group of Microsoft 365, SharePoint, and Power Platform developers"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3546,
+                "endIndex": 3723,
+                "text": "**Rapid Tactical Solutions:** Excellent for targeted operational tools—such as expense management apps, custom leave trackers, PO approval chains, or supplier onboarding forms"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3759,
+                "endIndex": 3792,
+                "text": "**Location:** Newcastle upon Tyne"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3795,
+                "endIndex": 3866,
+                "text": "**Best for:** Power BI analytics, data integration, and user enablement"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3898,
+                "endIndex": 4043,
+                "text": "**Data-Centric Focus:** While they support the broader Power Platform, their core differentiator is deep data modeling, dashboards, and reporting"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4049,
+                "endIndex": 4246,
+                "text": "**Upskilling & Training:** Rather than keeping clients reliant on agency billable hours, they heavily emphasize training internal staff to build and manage their own Power Apps and Power BI reports"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4276,
+                "endIndex": 4387,
+                "text": "**For enterprise integration (Dynamics 365, complex ERPs, deep Azure link):** Consider **TSG** or **Version 1**"
+              },
+              "groundingChunkIndices": [
+                17,
+                6,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4392,
+                "endIndex": 4473,
+                "text": "**For strategic roadmapping, governance, and CoE design:** Look at **Waterstons**"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4478,
+                "endIndex": 4570,
+                "text": "**For business process automation and digital workplace modernization:** Look at **Synergi**"
+              },
+              "groundingChunkIndices": [
+                3,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4575,
+                "endIndex": 4694,
+                "text": "**For quick-turnaround tactical apps or dedicated SMB projects:** Look at **SR1 Development** or **Geordie Consulting**"
+              },
+              "groundingChunkIndices": [
+                0,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4697,
+                "endIndex": 4880,
+                "text": "*(Note: If your inquiry refers to Newcastle, NSW, Australia rather than Newcastle upon Tyne, UK, local specialists such as **WorkflowIQ** are the primary recommendation in that region"
+              },
+              "groundingChunkIndices": [
+                20
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Synergi\" \"Power Platform\" Newcastle",
+            "\"TSG\" \"Power Platform\" Newcastle",
+            "Microsoft Power Platform consultants Newcastle",
+            "\"Version 1\" Newcastle \"Power Platform\"",
+            "\"Technology Services Group\" \"Power Platform\"",
+            "\"Waterstons\" \"Power Platform\"",
+            "Microsoft Power Platform partner Newcastle upon Tyne"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 459,
+      "candidatesTokenCount": 1443,
+      "totalTokenCount": 3043,
+      "cachedContentTokenCount": 219,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 459
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 219
+        }
+      ],
+      "thoughtsTokenCount": 1141,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "Acfias3UC93e694Pw-Lt6AY"
+  }
+}

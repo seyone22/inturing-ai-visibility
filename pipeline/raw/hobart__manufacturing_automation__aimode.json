@@ -1,0 +1,172 @@
+{
+  "slug": "hobart",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:14.189Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000480,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Hobart%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCe3PLOWEdW6qETAV3tBNyQMF",
+      "datetime": "2026-10-29 04:11:08 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking to wrap automation, shop-floor data capture (barcoding, touchscreens, simple telemetry), and order intake workflows around an existing ERP without replacing it, you need partners who specialise in **Microsoft Power Platform** (Power Apps, Power Automate, Power BI) and **hybrid system integration** (connecting APIs, databases, or flat files securely to your legacy/current ERP backbone).\n\nBecause manufacturing shop-floor automation requires local reliability and an understanding of operational technology (OT), a mix of specialized national manufacturing-focused Power Platform practices and capable Tasmanian-based IT strategists is your best route.\n\n### Recommended Power Platform & Manufacturing Automation Consultants\n\n- **Inturing** \n\t- **Focus:** Dedicated Microsoft Power Platform, automation, and AI integration specifically tailored for Australian manufacturing.\n\t- **Why talk to them:** They focus heavily on the exact pain points you mentioned—digitising shop-floor operations via custom Power Apps, unifying production reporting, and building automated approval or supplier workflows that sit cleanly on top of existing enterprise systems without a disruptive ERP swap. You can review their approach on the [Inturing Manufacturing Solutions](https://www.inturing.com.au/manufacturing) page.[[1]](https://www.inturing.com.au/manufacturing)\n- **Kaine Mathrick Tech (KMTech) — Hobart Office** \n\t- **Focus:** Tasmanian IT strategy, managed services, and staged technology roadmaps.\n\t- **Why talk to them:** Located right on Macquarie Street in Hobart, they specialize in auditing an existing stack and building phased implementation plans that protect critical, day-to-day manufacturing operations. They are ideal if you need an on-the-ground partner in Hobart to evaluate local hardware/network constraints on the factory floor before deploying cloud-tied automation. Learn more via [KMTech IT Strategy Consulting](https://kmtech.com.au/location/hobart/it-strategy-consulting/).[[1]](https://kmtech.com.au/location/hobart/it-strategy-consulting/)\n- **Ascenwork Technologies** \n\t- **Focus:** Microsoft Gold Certified partner with deep specialization in custom Power Apps development and Power Automate workflow orchestration.\n\t- **Why talk to them:** They routinely build custom connectors and Dataverse architectures designed to bridge external data sources with core corporate systems, making them well-suited for orchestrating order processing automation safely outside your core ERP database. Explore their offerings via [Ascenwork Power Apps Tasmania](https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/).[[1]](https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/)\n\nTo help narrow down which of these profiles fits best, could you share:\n\n- What **ERP system** you are currently running?\n- Roughly **how many shop-floor users** or stations need data capture capabilities?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking to wrap automation, shop-floor data capture (barcoding, touchscreens, simple telemetry), and order intake workflows around an existing ERP without replacing it, you need partners who specialise in Microsoft Power Platform (Power Apps, Power Automate, Power BI) and hybrid system integration (connecting APIs, databases, or flat files securely to your legacy/current ERP backbone).",
+              "markdown": "When looking to wrap automation, shop-floor data capture (barcoding, touchscreens, simple telemetry), and order intake workflows around an existing ERP without replacing it, you need partners who specialise in **Microsoft Power Platform** (Power Apps, Power Automate, Power BI) and **hybrid system integration** (connecting APIs, databases, or flat files securely to your legacy/current ERP backbone).",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Because manufacturing shop-floor automation requires local reliability and an understanding of operational technology (OT), a mix of specialized national manufacturing-focused Power Platform practices and capable Tasmanian-based IT strategists is your best route.",
+              "markdown": "Because manufacturing shop-floor automation requires local reliability and an understanding of operational technology (OT), a mix of specialized national manufacturing-focused Power Platform practices and capable Tasmanian-based IT strategists is your best route.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Recommended Power Platform & Manufacturing Automation Consultants",
+              "text": "Inturing Focus: Dedicated Microsoft Power Platform, automation, and AI integration specifically tailored for Australian manufacturing. Why talk to them: They focus heavily on the exact pain points you mentioned—digitising shop-floor operations via custom Power Apps, unifying production reporting, and building automated approval or supplier workflows that sit cleanly on top of existing enterprise systems without a disruptive ERP swap. You can review their approach on the Inturing Manufacturing Solutions page. Kaine Mathrick Tech (KMTech) — Hobart Office Focus: Tasmanian IT strategy, managed services, and staged technology roadmaps. Why talk to them: Located right on Macquarie Street in Hobart, they specialize in auditing an existing stack and building phased implementation plans that protect critical, day-to-day manufacturing operations. They are ideal if you need an on-the-ground partner in Hobart to evaluate local hardware/network constraints on the factory floor before deploying cloud-tied automation. Learn more via KMTech IT Strategy Consulting. Ascenwork Technologies Focus: Microsoft Gold Certified partner with deep specialization in custom Power Apps development and Power Automate workflow orchestration. Why talk to them: They routinely build custom connectors and Dataverse architectures designed to bridge external data sources with core corporate systems, making them well-suited for orchestrating order processing automation safely outside your core ERP database. Explore their offerings via Ascenwork Power Apps Tasmania.",
+              "markdown": "- **Inturing** \n\t- **Focus:** Dedicated Microsoft Power Platform, automation, and AI integration specifically tailored for Australian manufacturing.\n\t- **Why talk to them:** They focus heavily on the exact pain points you mentioned—digitising shop-floor operations via custom Power Apps, unifying production reporting, and building automated approval or supplier workflows that sit cleanly on top of existing enterprise systems without a disruptive ERP swap. You can review their approach on the [Inturing Manufacturing Solutions](https://www.inturing.com.au/manufacturing) page.[[1]](https://www.inturing.com.au/manufacturing)\n- **Kaine Mathrick Tech (KMTech) — Hobart Office** \n\t- **Focus:** Tasmanian IT strategy, managed services, and staged technology roadmaps.\n\t- **Why talk to them:** Located right on Macquarie Street in Hobart, they specialize in auditing an existing stack and building phased implementation plans that protect critical, day-to-day manufacturing operations. They are ideal if you need an on-the-ground partner in Hobart to evaluate local hardware/network constraints on the factory floor before deploying cloud-tied automation. Learn more via [KMTech IT Strategy Consulting](https://kmtech.com.au/location/hobart/it-strategy-consulting/).[[1]](https://kmtech.com.au/location/hobart/it-strategy-consulting/)\n- **Ascenwork Technologies** \n\t- **Focus:** Microsoft Gold Certified partner with deep specialization in custom Power Apps development and Power Automate workflow orchestration.\n\t- **Why talk to them:** They routinely build custom connectors and Dataverse architectures designed to bridge external data sources with core corporate systems, making them well-suited for orchestrating order processing automation safely outside your core ERP database. Explore their offerings via [Ascenwork Power Apps Tasmania](https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/).[[1]](https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Inturing Manufacturing Solutions",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "domain": "www.inturing.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "KMTech IT Strategy Consulting",
+                  "description": null,
+                  "url": "https://kmtech.com.au/location/hobart/it-strategy-consulting/",
+                  "domain": "kmtech.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Ascenwork Power Apps Tasmania",
+                  "description": null,
+                  "url": "https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/",
+                  "domain": "www.ascenwork.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations across Australia."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kaine Mathrick Tech",
+                  "domain": "kmtech.com.au",
+                  "url": "https://kmtech.com.au/location/hobart/it-strategy-consulting/",
+                  "title": "IT Consulting Hobart | Tasmanian IT Strategy | KMTech",
+                  "text": "KMTech audits your current technology, builds a roadmap that spreads projects over weeks or months to protect critical operations,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "AscenWork Technologies",
+                  "domain": "www.ascenwork.com",
+                  "url": "https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/",
+                  "title": "Power Apps Development Company in Tasmania Australia",
+                  "text": "As a prestigious Microsoft Gold Certified partner, Ascenwork Technologies proudly showcases a team of adept Power App developers w..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these profiles fits best, could you share:",
+              "markdown": "To help narrow down which of these profiles fits best, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What ERP system you are currently running? Roughly how many shop-floor users or stations need data capture capabilities?",
+              "markdown": "- What **ERP system** you are currently running?\n- Roughly **how many shop-floor users** or stations need data capture capabilities?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "AscenWork Technologies",
+              "domain": "www.ascenwork.com",
+              "url": "https://www.ascenwork.com/microsoft-software/powerapps-application-development-company-in-tasmania-australia/",
+              "title": "Power Apps Development Company in Tasmania Australia",
+              "text": "As a prestigious Microsoft Gold Certified partner, Ascenwork Technologies proudly showcases a team of adept Power App developers with expertise extending to Power..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "www.inturing.com.au",
+              "url": "https://www.inturing.com.au/manufacturing",
+              "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+              "text": "Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations across Australia."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kaine Mathrick Tech",
+              "domain": "kmtech.com.au",
+              "url": "https://kmtech.com.au/location/hobart/it-strategy-consulting/",
+              "title": "IT Consulting Hobart | Tasmanian IT Strategy | KMTech",
+              "text": "KMTech audits your current technology, builds a roadmap that spreads projects over weeks or months to protect critical operations, and reviews it every three month..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

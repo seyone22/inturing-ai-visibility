@@ -1,0 +1,106 @@
+{
+  "slug": "canberra",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:54.991Z",
+  "cost": 0.006126,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 484,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005526,
+      "datetime": "2026-10-29 04:08:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Canberra manufacturer wanting to **keep its ERP** while automating order processing, shop-floor data capture and operational workflows, speak first with these consultants:\n\n1. **Inturing** — the closest fit. It specialises in Australian manufacturing and explicitly connects Power Platform with existing ERP, MES and PLM systems rather than replacing them. Relevant capabilities include order capture, AI document extraction, Power Automate integrations, shop-floor and inspection apps, offline data capture and operational dashboards.[1][2]\n\n2. **OfficePro Consulting** — a broader Australian automation partner suitable for workflow orchestration, approvals, document processing, reporting and integrations across Microsoft 365 and other systems. It has experience automating processes for manufacturers and supports Power Automate, Azure Logic Apps, AI Builder and custom code.[3][4]\n\n3. **Power Platform Experts** — worth considering if the priority is a well-governed Power Apps, Power Automate and Power BI environment, with custom development, integration, training and ongoing support.[7]\n\n4. **Eagle360 Consulting** — a stronger candidate if your ERP is **Microsoft Dynamics 365 Business Central** or **MYOB Acumatica**, particularly where manufacturing, warehousing, e-commerce, EDI and Power Platform need to be connected.[5]\n\n5. **Sunrise Technologies, C9 or Professional Advantage** — larger Australian Microsoft-focused options for more complex integrations, reporting and operational-app programmes. They may be appropriate if you need a substantial delivery team or managed support, although their manufacturing-specific fit should be tested during qualification.[6]\n\n## Recommended shortlist\n\nStart with:\n\n- **Inturing** for the most directly aligned manufacturing and “no ERP replacement” approach.\n- **OfficePro Consulting** for a broad automation and integration capability.\n- **Eagle360** if you run Business Central or MYOB Acumatica.\n- **Power Platform Experts** if governance, app development and enablement are central requirements.\n\nAsk each firm to demonstrate a pilot covering one complete process—for example, **email/PDF purchase order → validation → ERP order creation → exception queue → production status update → dashboard**. Require them to explain ERP connector/API capability, shop-floor/offline operation, error handling, audit trails, licensing, support arrangements and how they will prevent Power Platform from becoming a second source of truth.",
+              "annotations": [
+                {
+                  "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+                  "url": "https://inturing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Automation and AI Consulting | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Power Platform Developers in Australia",
+                  "url": "https://www.sunrisetechs.com/best-power-platform-developers-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integration and Automation | Implementation & Services",
+                  "url": "https://www.abelsoftware.com/implementing-abel/integration-and-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Company in Australia - Concetto Labs",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

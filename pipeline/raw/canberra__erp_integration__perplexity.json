@@ -1,0 +1,106 @@
+{
+  "slug": "canberra",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Canberra are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:13.505Z",
+  "cost": 0.006415,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 780,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005815,
+      "datetime": "2026-10-29 04:09:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Canberra organisation needing to connect **ERP, CRM, MYOB Acumatica, SAP and Microsoft 365**, the strongest shortlist is:\n\n1. **AMBR IT — best local Canberra option**  \n   AMBR IT explicitly services Canberra and implements ERP, CRM and automation solutions across **SAP, Business Central, Dynamics, Salesforce and custom platforms**. Its CRM practice covers Dynamics 365, Salesforce and HubSpot, with Microsoft 365 integration particularly relevant to Microsoft-based environments.[7][8]  \n   **Best for:** a locally supported, end-to-end ERP/CRM integration project.\n\n2. **Cloud Factory — best fit for Acumatica + SAP Business One + Microsoft ecosystems**  \n   Cloud Factory works with **MYOB Acumatica, SAP Business One and Microsoft Dynamics 365 Business Central**, and designs integrations between ERP, CRM, e-commerce, warehouse, reporting and other business systems.[2][4]  \n   **Best for:** mid-market organisations that need ERP implementation, process redesign and ongoing integration support.\n\n3. **OneKloudX — best for broad API and multi-ERP integration**  \n   OneKloudX provides MYOB Acumatica integrations with CRM, payroll, banking, warehouse and e-commerce systems, and supports integration technologies connecting platforms including **SAP, Microsoft Dynamics 365 and MYOB Acumatica**.[1]  \n   **Best for:** complex, multi-system environments requiring APIs, middleware or integration-platform work.\n\n4. **Leverage Technologies — best Acumatica specialist with SAP capability**  \n   Leverage offers MYOB Acumatica consulting, implementation, integration, training and support, while also positioning itself as experienced with **MYOB Acumatica and SAP** solutions.[5][10]  \n   **Best for:** an Acumatica-led project where integration and ERP optimisation are central.\n\n5. **Bright Labs — best for custom or legacy system connectivity**  \n   Bright Labs integrates **SAP, MYOB, Microsoft Dynamics, Salesforce and HubSpot**, including custom, proprietary and legacy systems with limited or non-standard APIs.[9]  \n   **Best for:** connecting existing applications, portals, websites or bespoke systems to ERP and CRM platforms.\n\n6. **Eagle360 Consulting — best for Microsoft 365, Dynamics and Acumatica alignment**  \n   Eagle360 is a certified MYOB Acumatica partner and Microsoft Designated Solutions Partner. It connects Acumatica or Dynamics 365 Business Central with Dynamics CRM, Power BI, Microsoft Fabric, Power Platform, EDI, warehouses and online channels.[3]  \n   **Best for:** organisations standardising on Microsoft 365, Dynamics and Power Platform, with Acumatica also in scope.\n\n### Recommended selection\n\n- Choose **AMBR IT** if Canberra-based delivery and local support are the top priorities.\n- Choose **Cloud Factory** if the core requirement is combining **SAP Business One, MYOB Acumatica and Microsoft ERP/CRM**.\n- Choose **OneKloudX** or **Bright Labs** if the project involves extensive APIs, middleware, legacy applications or custom integrations.\n- Choose **Eagle360** if Microsoft 365, Dynamics 365 and Power Platform are the strategic centre of the architecture.\n- Include **Leverage Technologies** in the tender when MYOB Acumatica is the primary ERP.\n\nBefore appointing a provider, request a reference architecture showing how it will handle **master-data ownership, customer and supplier synchronisation, bidirectional transactions, SAP/MYOB APIs, Microsoft Graph or Dynamics connectors, error handling, audit trails, security and Australian data-hosting requirements**. Ask specifically for Canberra or Australian references involving at least two of the target platforms, since no single result demonstrates equal depth across all five systems.",
+              "annotations": [
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cloud Factory: ERP Solutions Australia | Cloud ERP Experts",
+                  "url": "https://www.cloudfactory.co/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Partners | Weka Online",
+                  "url": "https://www.wekaonline.com/partners/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integrated Logic: Tailored ERP Systems | MYOB Acumatica ...",
+                  "url": "https://www.integratedlogic.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Implementation in Canberra",
+                  "url": "https://www.ambrit.com.au/canberra/erp-implementation",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CRM Solutions in Canberra",
+                  "url": "https://www.ambrit.com.au/canberra/crm-solutions",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.brightlabs.com.au › services › crm-erp-integrationCRM & ERP integration | Bright Labs",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "A Trusted Australian ERP Software Partner & Reseller",
+                  "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

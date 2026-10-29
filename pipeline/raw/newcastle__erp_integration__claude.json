@@ -1,0 +1,225 @@
+{
+  "slug": "newcastle",
+  "pk": "erp_integration",
+  "plat": "claude",
+  "text": "Which system integration specialists in Newcastle are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__erp_integration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:46.453Z",
+  "cost": 0.065341,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11087,
+      "output_tokens": 1432,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064741,
+      "datetime": "2026-10-29 04:10:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great, I've gathered some solid results. Here's a comprehensive overview of the best system integration specialists in **Newcastle** (covering both Newcastle, NSW, Australia and Newcastle upon Tyne, UK) for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems:\n\n---\n\n## 🏆 Best System Integration Specialists in Newcastle\n\n### 1. 🔷 Diamond IT *(Newcastle, NSW, Australia)*\n**Website:** diamondit.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Diamond IT specialises in CRM and ERP integration with Microsoft Dynamics 365 and Dynamics NAV.",
+              "annotations": [
+                {
+                  "title": "Microsoft CRM-Dynamics 365 - Newcastle, Hunter Region, Central Coast & Sydney",
+                  "url": "https://diamondit.com.au/service/software-development-business-insights/microsoft-crm-dynamics-365/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft CRM-Dynamics 365 - Newcastle, Hunter Region, Central Coast & Sydney",
+                  "url": "https://diamondit.com.au/service/software-development-business-insights/microsoft-crm-dynamics-365/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They can also help you integrate other systems to provide a more streamlined end-to-end process, automating repetitive processes to provide stronger engagement with customers.",
+              "annotations": [
+                {
+                  "title": "Microsoft CRM-Dynamics 365 - Newcastle, Hunter Region, Central Coast & Sydney",
+                  "url": "https://diamondit.com.au/service/software-development-business-insights/microsoft-crm-dynamics-365/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Diamond IT is one of the leading IT and Communications Managed Service Providers in Australia, with Microsoft listed as one of their key technology partners.",
+              "annotations": [
+                {
+                  "title": "List of Managed Service Providers in Newcastle, NSW",
+                  "url": "https://www.cloudtango.net/msp/Newcastle-NSW",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Microsoft 365, CRM, ERP integration for SMBs in the Hunter Region.\n\n---\n\n### 2. 🔷 Clickk *(Newcastle, NSW, Australia)*\n**Website:** clickk.com.au | 📍 Suite 18, Level 4, 19 Bolton St, Newcastle NSW 2300 | 📞 02 4036 3907\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clickk offers CRM & Software Integrations for businesses and organisations in Newcastle & Hunter Valley, including API integration services that help businesses connect their software applications with other systems such as payment gateways and shipping platforms.",
+              "annotations": [
+                {
+                  "title": "CRM & Software Integrations Newcastle & Hunter Valley",
+                  "url": "https://clickk.com.au/services/crm-software-integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also provide legacy system integration services to help businesses integrate outdated software systems with new systems, implementing custom solutions that enable companies to transition smoothly to new software.",
+              "annotations": [
+                {
+                  "title": "CRM & Software Integrations Newcastle & Hunter Valley",
+                  "url": "https://clickk.com.au/services/crm-software-integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** CRM integrations, API connections, legacy system migrations, and local Newcastle businesses.\n\n---\n\n### 3. 🔷 Thinc *(Newcastle upon Tyne, UK)*\n**Website:** wearethinc.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Thinc offers IT services in Newcastle and the North East, providing award-winning consultancy and support for **Sage, SAP, and Microsoft 365**, along with advanced software such as Sicon and Produmex.",
+              "annotations": [
+                {
+                  "title": "Newcastle Office - Thinc",
+                  "url": "https://www.wearethinc.com/locations/newcastle-office/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their core business systems portfolio includes SAP Business One, Microsoft Dynamics 365 Business Central, Sage Intacct, Sage 200, Sage X3, and additional solutions like Microsoft Power BI, with dedicated AI and Automation and Systems Integration practices.",
+              "annotations": [
+                {
+                  "title": "Newcastle Office - Thinc",
+                  "url": "https://www.wearethinc.com/locations/newcastle-office/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** SAP, Microsoft Dynamics 365, ERP integrations, manufacturing and distribution sectors.\n\n---\n\n### 4. 🔷 SenServe *(Newcastle upon Tyne, UK)*\n**Website:** senserve.com | 📍 The Beacon, Westgate Road, Newcastle upon Tyne NE4 9PQ | 📞 +44 (0) 191 432 5532\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SenServe can integrate ERP-CRM systems including Salesforce, Microsoft Dynamics, Maximo, SAP, and Oracle PeopleSoft with accounting software (Sage, QuickBooks), eCommerce platforms (Shopify, Magento, WooCommerce, BigCommerce), and sales channels like eBay or Amazon.",
+              "annotations": [
+                {
+                  "title": "SenServe",
+                  "url": "https://www.senserve.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If your enterprise software isn't giving you all you need, they can build a bolt-on application that works with your core systems.",
+              "annotations": [
+                {
+                  "title": "SenServe",
+                  "url": "https://www.senserve.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Complex multi-system integrations including SAP, CRM, ERP, and eCommerce platforms.\n\n---\n\n### 5. 🔷 DHS IT Solutions Ltd *(Newcastle upon Tyne, UK)*\n**Website:** Listed on myerp.guru\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DHS IT Solutions Ltd is a SAP Service Provider based in Newcastle upon Tyne, England, and is described as a leading technology services and consulting company dedicated to crafting innovative solutions for complex digital transformation needs.",
+              "annotations": [
+                {
+                  "title": "Newcastle Upon Tyne ERP / CRM- Find top rated ERP / CRM in Newcastle Upon Tyne",
+                  "url": "https://www.myerp.guru/newcastle-upon-tyne/sap-partner/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** SAP implementation, ERP consulting, and digital transformation.\n\n---\n\n## 📌 Key Considerations When Choosing a Specialist\n\n| Factor | What to Look For |\n|---|---|\n| **MYOB Acumatica** | Confirm they are an MYOB Acumatica certified partner |\n| **SAP** | Look for SAP Gold/Platinum partner status |\n| **Microsoft 365** | Seek Microsoft Solutions Partner certification |\n| **ERP + CRM Bridging** | Ask for case studies of multi-system integrations |\n| **Local Support** | Prioritise firms with Newcastle-based consultants for on-site support |\n\n---\n\n> 💡 **Tip:** For **MYOB Acumatica** specifically, it's worth contacting MYOB directly at **myob.com/acumatica** to find their certified Newcastle-based reseller/integration partners, as Acumatica has a specific partner network that may not always appear in general IT directories.\n\nWould you like more detail on any of these providers, or help comparing them based on your specific integration needs?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "system integration specialists Newcastle ERP CRM SAP Microsoft 365",
+        "MYOB Acumatica integration specialists Newcastle Australia"
+      ]
+    }
+  ]
+}

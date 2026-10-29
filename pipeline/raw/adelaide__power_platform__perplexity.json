@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Adelaide? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:20.628Z",
+  "cost": 0.006196,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 564,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005596,
+      "datetime": "2026-10-29 04:07:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "A practical Adelaide shortlist is **Rockfort Global, Power Platform Experts Adelaide, SSW, The Missing Link, and SimpleIT4U**. The first two appear most locally focused; the others offer stronger national scale or specialist capability.\n\n- **Rockfort Global** — Adelaide-headquartered, with reported expertise in Microsoft Cloud Services and Dynamics 365 implementation and management. It is a sensible candidate where Power Platform work needs to connect with Microsoft 365, Dataverse, or Dynamics 365. [3][4]\n\n- **Power Platform Experts Adelaide** — Promotes local Microsoft-certified specialists across **Power Apps, Power Automate, Power BI, Power Pages, SharePoint, and SQL Server**, covering automation, custom applications, dashboards, portals, support, and training. This broad Power Platform coverage makes it suitable for small and midsize Adelaide businesses. [7]\n\n- **SSW** — An established Microsoft consultancy with more than 1,000 clients across 15 countries, Microsoft certifications, MVPs, and a Microsoft Regional Director. Its Power Platform practice covers implementation and broader Microsoft solution architecture, making it a strong choice for complex or enterprise-grade projects. [1]\n\n- **The Missing Link** — A sizeable Australian Microsoft provider with more than 180 local experts. Its Power Platform delivery follows a structured discovery–design–build process and includes Power Apps, Power Automate, Power BI, Dataverse, APIs, and third-party integrations. It is a good fit when governance, security, integration, and ongoing support matter. [2]\n\n- **SimpleIT4U** — A smaller Adelaide-oriented option that focuses on practical automation of spreadsheet- and email-driven processes. Its published examples include model-driven and canvas Power Apps, Power BI dashboards, Power Automate, and AI-assisted workflows; its emphasis on direct access to the person doing the work may suit businesses wanting a more hands-on engagement. [5]\n\n## How to choose\n\n- **For a local, hands-on project:** compare Rockfort Global, Power Platform Experts Adelaide, and SimpleIT4U.\n- **For a larger or regulated organisation:** shortlist SSW and The Missing Link.\n- **For Dynamics 365 integration:** start with Rockfort Global, SSW, or The Missing Link.\n- **For a straightforward automation or dashboard project:** Power Platform Experts Adelaide or SimpleIT4U may be more proportionate.\n\nBefore appointing anyone, ask for named consultants, relevant Adelaide case studies, Microsoft certifications, a live demonstration, a proposed security and environment strategy, and clear post-launch support pricing. Microsoft also recommends using AppSource to filter partners by capabilities and solution designations, including low-code application development and intelligent automation specialisations. [8][9]",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting | The Missing Link",
+                  "url": "https://www.themissinglink.com.au/power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform partners based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform consulting companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consultant Adelaide: The Honest ...",
+                  "url": "https://simpleit4u.com.au/microsoft-power-platform-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.codertrove.com/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Intelligent automation partners - Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-automate/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-code partners",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

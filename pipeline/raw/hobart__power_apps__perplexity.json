@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Hobart for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:15.576Z",
+  "cost": 0.006109,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 37,
+      "output_tokens": 472,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005509,
+      "datetime": "2026-10-29 04:11:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest **Hobart-relevant shortlist** is:\n\n- **FutureAbility Pty Ltd** — the clearest local option. It is listed as Hobart-based and specialises in Microsoft Power Platform and Copilot Studio, including automated workflows for mid-market organisations.[1] Ask specifically for recent **Power Apps + Dataverse** work involving inventory, warehouse processes, inspections, job dispatch, or mobile field capture.\n- **Alphavima** — advertises Power Apps and Dataverse delivery for Hobart organisations, including canvas and model-driven apps for inspections, approvals, inventory, and field-data collection.[2] Its broader Azure/Fabric capability may suit projects requiring analytics, IoT, or integration with operational systems.\n- **OfficePro Consulting** — an Australia-based remote/on-site provider focused on field apps, operational tracking, case management, and Dataverse data architecture.[3] Its stated use cases—site inspections, job logging, photo capture, offline access, role-based views, audit trails, and relationship tracking—align well with warehouse, shop-floor, and field teams.[3]\n- **Report Simple** — an Australian Power Apps consultancy offering canvas apps for mobile work, model-driven Dataverse systems, registers, inspections, approvals, and operational job/case management.[4] It delivers Australia-wide remotely, although the cited page does not identify a Hobart office.[4]\n\n## Recommended order\n\n1. **FutureAbility** for an in-person Hobart-first engagement.\n2. **Alphavima** for Hobart delivery combined with Azure, Fabric, data, or IoT integration.\n3. **OfficePro Consulting** for a structured operational app built around Dataverse and mobile field workflows.\n4. **Report Simple** for a pragmatic Australia-wide implementation replacing spreadsheets, paper forms, or email processes.\n\nThe available evidence is stronger for **capability and Australia-wide delivery** than for independently verified Hobart project references. Before selecting a supplier, request two relevant demonstrations—one **offline-capable mobile app** for field/shop-floor users and one **Dataverse model-driven app** with security roles, audit history, approvals, and integration to the organisation’s ERP or inventory system. Microsoft identifies Power Apps as suitable for real-time field-service coordination, supporting this type of operational scenario.[5]",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Apps development services - Rishabh Software",
+                  "url": "https://www.rishabhsoft.com/microsoft-powerapps-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps Development | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "azure analytics consulting-in-Hobart, Tasmania - Alphavima ...",
+                  "url": "https://alphavima.com/data-engineering/azure-analytics-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consultancy - Microsoft Marketplace",
+                  "url": "https://marketplace.microsoft.com/en-us/product/pargeyazilimdanismanlikticas.power_apps_consulting?product=powerapps&page=2&country=US",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting and Development",
+                  "url": "https://solutions.microsoft.xtivia.com/services/microsoft-power-platform-consulting-development-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "PowerApps Consulting Services - Prakash Software Solutions",
+                  "url": "https://prakashinfotech.com/technology/sharepoint/sharepoint-powerapp",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Contractor Australia | Hire Expert Developers",
+                  "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Service Directory",
+                  "url": "https://www.tasict.com.au/service-directory/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Free 2-Hour Power Platform Assessment & Implementation Guidance",
+                  "url": "https://marketplace.microsoft.com/en-us/product/inkey.powerapps_2_hours?product=dynamics-365-for-sales&page=1&country=DZ&industry=healthcare",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

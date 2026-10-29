@@ -1,0 +1,297 @@
+{
+  "slug": "brisbane",
+  "pk": "erp_integration",
+  "plat": "claude",
+  "text": "Which system integration specialists in Brisbane are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__erp_integration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:20.732Z",
+  "cost": 0.069928,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10216,
+      "output_tokens": 1912,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.069328,
+      "datetime": "2026-10-29 04:06:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to some of the **best system integration specialists in Brisbane** for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems:\n\n---\n\n## 🏆 Top System Integration Specialists in Brisbane\n\n---\n\n### 1. 🔵 **Cloud Factory**\n**Best for: MYOB Acumatica, SAP Business One & Microsoft Dynamics 365 Business Central**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cloud Factory provides end-to-end ERP consulting, implementation, and optimisation services for Australian businesses, helping organisations modernise operations through cloud ERP platforms including **Microsoft Dynamics 365 Business Central**, **SAP Business One**, and **MYOB Acumatica**, delivering connected systems that unify finance, operations, inventory, warehouse, and customer management.",
+              "annotations": [
+                {
+                  "title": "ERP Consulting & ERP Implementation Australia",
+                  "url": "https://www.cloudfactory.co/solutions",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With certifications and extensive experience across Microsoft Dynamics 365 Business Central, SAP Business One, and MYOB Acumatica, they combine technical expertise with practical industry knowledge to help businesses modernise legacy systems and adopt scalable cloud ERP platforms.",
+              "annotations": [
+                {
+                  "title": "ERP Consulting & ERP Implementation Australia",
+                  "url": "https://www.cloudfactory.co/solutions",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Key Strength:** One of the few firms covering all three of your named platforms (MYOB Acumatica, SAP, and Microsoft 365).\n\n---\n\n### 2. 🟠 **Leverage Technologies**\n**Best for: SAP, MYOB Acumatica, CRM & ERP Integration**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been in business since 2005 and have consultants and technical experts based in offices in Sydney, Melbourne, and **Brisbane**, servicing customers all over Australia.",
+              "annotations": [
+                {
+                  "title": "ERP Implementation Services in Australia - Leverage Technologies",
+                  "url": "https://www.leveragetech.com.au/services/erp-implementation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their service portfolio covers ERP, Business Intelligence, E-commerce, Cloud ERP, Payroll & HR, CRM, Warehouse Management, and EDI — with expertise spanning **SAP Business One, MYOB Acumatica, Sage X3**, and more.",
+              "annotations": [
+                {
+                  "title": "ERP Implementation Services in Australia - Leverage Technologies",
+                  "url": "https://www.leveragetech.com.au/services/erp-implementation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Key Strength:** Long-established firm with a very broad integration capability, including SAP and MYOB Acumatica support and custom development.\n\n---\n\n### 3. 🟢 **DynamicsSmartz**\n**Best for: Microsoft Dynamics 365 ERP & CRM, Microsoft 365 Integration**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "DynamicsSmartz is a trusted Microsoft Dynamics 365 partner in Australia helping businesses implement, migrate, and optimise ERP and CRM solutions across Sydney, Melbourne, **Brisbane**, and Perth.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics 365 Partner Australia",
+                  "url": "https://www.dynamicssmartz.com/au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They empower Brisbane businesses with Microsoft Dynamics 365 Business Central — a unified, AI-enabled ERP that connects finance, operations, projects, and supply chain — with **seamless integration** with Microsoft 365, Power BI, and other third-party tools.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Business Central Implementation in Brisbane",
+                  "url": "https://www.dynamicssmartz.com/au/business-central-implementation-brisbane.php",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Dynamics 365 Business Central Implementation in Brisbane",
+                  "url": "https://www.dynamicssmartz.com/au/business-central-implementation-brisbane.php",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a certified Microsoft Solutions Partner with 25+ years of ERP experience, local Brisbane expertise, and a rapid 8–12 week go-live capability.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Business Central Implementation in Brisbane",
+                  "url": "https://www.dynamicssmartz.com/au/business-central-implementation-brisbane.php",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Key Strength:** Deep Microsoft ecosystem expertise with transparent pricing and a rapid deployment model.\n\n---\n\n### 4. 🔴 **iCatalyst (incorporating BeyondCRM)**\n**Best for: Microsoft Dynamics 365 ERP, CRM & Power Platform**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australian owned and operated, iCatalyst is differentiated by its unwavering focus on Microsoft Business Applications, with offices in Perth, Melbourne, **Brisbane**, and Sydney, offering a personalised approach to services.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "url": "https://icatalyst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team offers unparalleled knowledge across the implementation of **Dynamics 365 Business Central**, Dynamics 365 Finance and Supply Chain, **Dynamics 365 Customer Engagement (CRM)**, and Power Platform.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "url": "https://icatalyst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Notably, iCatalyst has expanded its national capability through the **acquisition of BeyondCRM**",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "url": "https://icatalyst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them a powerhouse for both ERP and CRM integration in Brisbane.\n\n✅ **Key Strength:** Full-suite Microsoft Dynamics capability, now with specialist CRM depth from the BeyondCRM acquisition.\n\n---\n\n### 5. 🟡 **Bright Labs**\n**Best for: CRM & ERP Integration with SAP, Microsoft Dynamics & MYOB**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bright Labs has hands-on experience integrating digital platforms with a range of enterprise, mid-market, and specialist systems, including ERP platforms such as **SAP**, Epicor, and **Microsoft Dynamics**, as well as financial systems including Xero and **MYOB**.",
+              "annotations": [
+                {
+                  "title": "CRM & ERP integration",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their integration work focuses on reliable data flow, clear ownership of systems, and workflows that reflect how organisations actually operate — resulting in fewer hand-offs, less re-keying, and greater confidence in data.",
+              "annotations": [
+                {
+                  "title": "CRM & ERP integration",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Key Strength:** Strong focus on data integrity and workflow design across a diverse set of ERP/CRM platforms.\n\n---\n\n### 6. 🔷 **Dynamic Aspect**\n**Best for: Microsoft Dynamics 365 ERP & CRM, Power Platform**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dynamic Aspect implements Business Central, Wiise, Dynamics 365 Sales, and Power Platform for businesses in Sydney, Melbourne, **Brisbane**, Perth, and Adelaide.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 ERP & CRM Consultants in Australia",
+                  "url": "https://www.dynamicaspect.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in ERP implementation using Microsoft Dynamics 365 Business Central and Wiise, helping automate finance, inventory, supply chain, and project management processes — and also deliver **CRM solutions** based on Microsoft Dynamics 365 Sales & Marketing to improve sales processes, customer service, and marketing automation.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 ERP & CRM Consultants in Australia",
+                  "url": "https://www.dynamicaspect.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n✅ **Key Strength:** Strong dual capability in both ERP and CRM within the Microsoft ecosystem.\n\n---\n\n## 📊 Quick Comparison Summary\n\n| Specialist | MYOB Acumatica | SAP | Microsoft 365 / Dynamics | CRM |\n|---|---|---|---|---|\n| **Cloud Factory** | ✅ | ✅ | ✅ | ✅ |\n| **Leverage Technologies** | ✅ | ✅ | ✅ | ✅ |\n| **DynamicsSmartz** | ⚠️ | ⚠️ | ✅ | ✅ |\n| **iCatalyst / BeyondCRM** | ⚠️ | ⚠️ | ✅ | ✅ |\n| **Bright Labs** | ✅ | ✅ | ✅ | ✅ |\n| **Dynamic Aspect** | ⚠️ | ⚠️ | ✅ | ✅ |\n\n*(✅ = Confirmed specialisation | ⚠️ = Primarily Microsoft-focused, may integrate with others)*\n\n---\n\n## 💡 Tips for Choosing the Right Partner\n- **If MYOB Acumatica + SAP are both priorities**, Cloud Factory or Leverage Technologies are your best bets, as they explicitly specialise in both.\n- **If Microsoft 365 / Dynamics 365 integration is your core need",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "system integration specialists Brisbane ERP CRM SAP Microsoft 365",
+        "MYOB Acumatica integration specialists Brisbane"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "hobart",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Hobart? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:15.950Z",
+  "cost": 0.059077,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9844,
+      "output_tokens": 1263,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.058477,
+      "datetime": "2026-10-29 04:11:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Finding the right Microsoft Power Platform consultant in Hobart can be tricky, as it's a smaller market than Sydney or Melbourne. Based on my research, here is a shortlist of reputable options — including locally based firms and trusted Australian partners who actively serve Hobart and Tasmania:\n\n---\n\n## 🏆 Best Microsoft Power Platform Consultants in/for Hobart\n\n---\n\n### 1. 🖥️ **Cyberhaven Technologies** *(Hobart-based)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Hobart City, Cyberhaven Technologies helps both Tasmanian and global businesses maximise their ROI on cloud productivity suite deployments.",
+              "annotations": [
+                {
+                  "title": "Boost Productivity with Microsoft 365 Solutions Tasmania",
+                  "url": "https://cyberhaven.com.au/our-services/maximize-productivity-microsoft-365-solutions-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are located at Level 1, 153 Macquarie Street, Hobart, Tasmania",
+              "annotations": [
+                {
+                  "title": "Boost Productivity with Microsoft 365 Solutions Tasmania",
+                  "url": "https://cyberhaven.com.au/our-services/maximize-productivity-microsoft-365-solutions-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them one of the few truly **local** options. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their consultants conduct in-depth scrutiny to identify productivity bottlenecks, security compliance requirements, cross-platform integration needs, data sovereignty considerations, and user adoption challenges.",
+              "annotations": [
+                {
+                  "title": "Boost Productivity with Microsoft 365 Solutions Tasmania",
+                  "url": "https://cyberhaven.com.au/our-services/maximize-productivity-microsoft-365-solutions-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** Local presence in Hobart, on-the-ground support, and a strong focus on Microsoft 365 and Power Platform solutions for Tasmanian businesses.\n\n---\n\n### 2. 💼 **Datawise Consulting** *(Hobart-based)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Hobart, Tasmania, Datawise Consulting is a software development, IT & network support, managed network services, and IT consulting company which aims to provide high quality, cost-effective services to local businesses.",
+              "annotations": [
+                {
+                  "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+                  "url": "https://datawise.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Microsoft 365, SharePoint and Teams, and their clients are primarily in Hobart, Tasmania, but they can also provide services to customers in Launceston, Devonport, and other areas of Tasmania.",
+              "annotations": [
+                {
+                  "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+                  "url": "https://datawise.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** Established since 2000 with deep roots in the Hobart business community and a broad Microsoft technology stack.\n\n---\n\n### 3. 📊 **Intuit Technologies** *(Hobart-based)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Intuit Technologies is a Hobart-based firm offering hybrid roles and projects involving .NET, React, and Power Platform, with a flexible and supportive workplace that values growth and ongoing development.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Jobs (with Salaries) - SEEK",
+                  "url": "https://www.seek.com.au/microsoft-power-platform-jobs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** A locally grounded tech firm in Hobart with active Power Platform development capabilities and a strong technical team.\n\n---\n\n### 4. 🌐 **Antares Solutions** *(National — serves Tasmania)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Antares Solutions delivers the full spectrum of Microsoft Power Platform services for Australian organisations — from forms digitisation and workflow automation using Power Apps and Power Automate, through to Power Platform Centre of Excellence (CoE) design and implementation, governance frameworks, DLP policies, environment strategy, and Power Platform as a Service managed support.",
+              "annotations": [
+                {
+                  "title": "Power Platform Services Australia",
+                  "url": "https://antares.solutions/ai-business-solutions/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** A comprehensive, nationally operating firm ideal for larger Hobart enterprises needing enterprise-grade Power Platform governance.\n\n---\n\n### 5. 📈 **Barhead Solutions** *(National — serves Tasmania)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Barhead is one of the consulting firms to develop Power Platform capabilities in Australia, establishing a strong link to Microsoft's engineering group, and has established a significant internal R&D team and a service delivery framework purpose-built for Power Platform.",
+              "annotations": [
+                {
+                  "title": "Power Platform Services - Barhead Solutions",
+                  "url": "https://barhead.com/our-services/power-platform-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** One of Australia's most specialised Power Platform partners with direct ties to Microsoft engineering — excellent for complex or large-scale projects.\n\n---\n\n### 6. 📉 **Report Simple** *(National — serves Tasmania remotely)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a Microsoft Power Platform consulting partner, Report Simple helps Australian organisations get governed, joined-up value from Power BI, Power Apps, Power Automate, and Dataverse, rather than disconnected point solutions — setting the roadmap, governance, and architecture so citizen development accelerates the business safely.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them?** Best suited for Hobart businesses that need strong **Power BI and data analytics** work alongside Power Apps and Automate.\n\n---\n\n## 💡 Tips for Choosing the Right Partner\n- **For local, in-person support:** Go with **Cyberhaven Technologies** or **Datawise Consulting**.\n- **For enterprise-scale or complex projects:** Consider **Barhead Solutions** or **Antares Solutions**.\n- **For data/BI-heavy Power Platform work:** **Report Simple** is a strong choice.\n- Always check if the firm holds a current **Microsoft Solutions Partner** designation, as this confirms verified expertise and customer success metrics.\n\nWould you like more detail on any of these firms or help comparing them for a specific use case?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power Platform consultants Hobart Tasmania",
+        "Microsoft Power Platform partners Hobart Tasmania reputable"
+      ]
+    }
+  ]
+}

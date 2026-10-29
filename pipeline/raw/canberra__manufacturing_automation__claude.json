@@ -1,0 +1,254 @@
+{
+  "slug": "canberra",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:25.652Z",
+  "cost": 0.058543,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9301,
+      "output_tokens": 1336,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.057943,
+      "datetime": "2026-10-29 04:09:20 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong Power Platform and automation consultants well-suited to your needs as a Canberra-based manufacturer looking to automate order processing, shop-floor data capture, and operations **without replacing your existing ERP**. Here's a curated shortlist:\n\n---\n\n## 🏭 Recommended Automation & Power Platform Consultants for Canberra Manufacturers\n\n---\n\n### 1. 🥇 Power Platform Experts (Office Experts Group) — *Canberra, ACT*\n**Website:** powerplatformexperts.com.au | **Phone:** 1300 102 810 | **Email:** consult@officeexperts.com.au\n\nThis is arguably the strongest local option. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft Power Platform consultants specialise in business automation solutions and custom application development.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — all of which are directly applicable to order processing automation and shop-floor capture. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Canberra team specialises in Microsoft Power Platform solutions for local organisations, focusing on developing secure, compliant automation and business intelligence solutions.",
+              "annotations": [
+                {
+                  "title": "Australia's Trusted Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Critically, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have 25+ years of helping businesses streamline operations with Power BI, Apps, Pages, and Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. Avenue Group Australia — *Australia-wide, including Canberra*\n**Website:** avenuegroupaus.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Avenue Group designs intelligent low-code platforms that adapt across industries and accelerate digital maturity, with Power Platform expertise spanning regulated, high-scale, and data-intensive business environments.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Importantly for manufacturers, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "their listed industry verticals include manufacturing, eCommerce, and logistics.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are certified Microsoft Power Platform specialists with 25+ years of global expertise, offering AI-driven automation and analytics strategy.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Avenue Group provides end-to-end Power Platform consultancy — from strategy to deployment and continual support.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. OfficePro Consulting — *Australia-wide (remote delivery)*\n**Website:** officeproconsulting.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting designs, builds, and supports automated workflows that connect your apps and services, replace manual processes, and reduce errors across your operations.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their principal consultant's expertise spans business process automation, AI agents, Microsoft Power Platform, and system integration — making them well-suited to connecting Power Platform to your existing ERP without replacing it.\n\n---\n\n### 4. Concetto Labs — *Canberra (also remote)*\n**Website:** concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Using low-code or no-code Power Apps, they enable companies to build bespoke apps, simplifying and digitising processes effectively.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Canberra",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Automate creates smooth workflows between several applications and services, decreasing manual work, lowering mistakes, and increasing general operational efficiency across divisions.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Canberra",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a good option if you want a development-focused partner to build custom shop-floor or order-management apps.\n\n---\n\n### 5. Dynamic Aspect — *Australia-wide*\n**Website:** dynamicaspect.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dynamic Aspect delivers Power Automate, Power Apps, and Power BI solutions for Australian businesses, including cloud solutions for automating manufacturing, financial, and administrative procedures.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also have a strong Microsoft ERP background, which means they understand the importance of integrating automation *around* an existing ERP rather than replacing it.\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you speak to these firms, make sure to ask:\n\n1. **ERP connectors** — Can Power Automate/Power Apps connect directly to your specific ERP (e.g., SAP, MYOB Acumatica, Pronto, Epicor)?\n2. **Shop-floor data capture** — Do they have experience with barcode scanning, tablet-based work order capture, or IoT integration?\n3. **Order processing automation** — Can they automate approval workflows, purchase order creation, and customer order acknowledgements?\n4. **Licensing & governance** — What Microsoft licences will you need, and how will the solution be governed and supported?\n5. **References** — Do they have existing manufacturing clients in the ACT/NSW region?\n\n---\n\n**My top recommendation** for a Canberra manufacturer would be to start with **Power Platform Experts (Office Experts Group)** given their local Canberra presence, Microsoft certifications, and long track record — and also request a proposal from **Avenue Group Australia** for a second opinion given their specific manufacturing industry experience.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation manufacturing consultants Canberra",
+        "ERP integration automation consultants manufacturing Canberra Australia"
+      ]
+    }
+  ]
+}

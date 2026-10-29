@@ -1,0 +1,744 @@
+{
+  "slug": "perth",
+  "pk": "power_apps",
+  "plat": "chatgpt",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_apps__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:00.014Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Perth%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hints=search",
+      "datetime": "2026-10-29 04:06:54 +00:00",
+      "markdown": "# Leading Power Apps and Dataverse consultants in Perth\n\nFor custom operational apps serving warehouse staff, shop-floor operators, maintenance crews and field teams, I’d prioritise consultancies that can combine **Power Apps + Dataverse + Power Automate + integration with your existing ERP or operational systems**\\.\n\nThe strongest fit isn't necessarily the biggest Microsoft partner. It's a team that understands how work happens on the ground, can design for tablets and mobile devices, and can deliver reliable, auditable applications that people will actually use.\n\nBased on the publicly available service descriptions and local presence I found, these are the firms I would shortlist first. This is a fit-based assessment, not an independently verified ranking of project quality.\n\n## My recommended shortlist\n\n![Microsoft Power Platform - AI 搭載のロー コード ツールを使用して開発を加速する | Microsoft デベロッパー](https://images.openai.com/static-rsc-4/G3EjFpaXjUfHBfS-zGcyiZo3qc_AJkE7KL5R24BdylRlr0yZ2ni1CM8lrqUm8ci8hXAgq4y1a9FE2cM9Fgi-2ZJzYV7CzDcG7zjlA9U5Urv2L6Sa3LhRQGDCuIk1iiqO9sBl8Tt1ggw-tb4DCj2D3tUJkbhdDjt6VVK6zwcoPNel7KiDiY38cLxpwwyB5Krm?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Closest match to your use case)\n\nInturing explicitly specialises in operational business apps for warehouse, shop-floor and field teams, using Power Apps, Dataverse and Power Automate. Its published examples of target workflows include goods-in checks, inspections, job tracking, offline-capable field apps and integration with ERP, MES and other systems. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/technology/power-apps?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its positioning is unusually specific to operational workflows rather than generic office automation.\n\n**Clarify\\:** Its Perth-based delivery arrangements, relevant production deployments and experience with your particular ERP or warehouse system.\n\n[Website: Inturing](https://inturing.com.au/)\n\n---\n\n![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)\n\n## 2\\. Opticloud Solutions\n\nPerth CBD · Local Power Platform consultancy\n\nOpticloud builds custom Power Apps, including canvas and model-driven apps, with Dataverse, workflow automation and ongoing support. Its stated industry experience includes manufacturing, construction, aviation and mining. It also publishes a field-services automation example involving mobile data capture, timesheets, parts usage and compliance certificates. [opticloud.com.au](https://opticloud.com.au/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/solutions/power-apps/?utm_source=chatgpt.com)[opticloud.com.au](https://opticloud.com.au/about/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A particularly promising option for replacing paper-based workflows and connecting frontline work with back-office processes.\n\n**Clarify\\:** Whether it has delivered barcode scanning, inventory transactions, equipment maintenance or offline shop-floor applications at a comparable scale.\n\n[Website: Opticloud Solutions](https://opticloud.com.au/)\n\n---\n\n![Brightminds - Privacy Policy](https://images.openai.com/static-rsc-4/rCeLyA43aSVwAACKeVfcX8FsjJy7LM0H5l8WbPY0wWjxDT3-Lc-EccFZlqL6EFib1dOOe7IQ0UaCpwrK7GIBn9tOaeYXyf70AlS6OaiO8vQOmg4MD137WvwVMjPn52KPripBOjZQB21NfCvUuFZxyXIan6POVUIDvTRFGol2E4df5fn1aRJ7ZTPa2ouQvDXB?purpose=fullsize)\n\n## 3\\. BrightMinds Technology\n\nPerth-based · Microsoft business applications specialist\n\nBrightMinds focuses exclusively on Microsoft business applications. Its published capabilities include Dataverse, model-driven Power Apps, Power Automate, Azure integration and controlled application deployment. It highlights work with engineering and resources organisations, as well as regulated environments. [bmtech.net.au](https://bmtech.net.au/company/about?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering when the app must be more than a quick form — with strong security, auditability, documentation, integrations and a maintainable support model.\n\n**Clarify\\:** Specific warehouse, manufacturing or field-operations case studies, including how frontline users interact with the apps.\n\n[Website: BrightMinds Technology](https://bmtech.net.au/company/about)\n\n---\n\n\n\n## 4\\. Loro IT\n\nPerth · Microsoft Solutions Partner\n\nLoro IT offers Power Apps, Power Automate, Dataverse, Dynamics 365 Field Service and bespoke integrations. It also describes experience across mining and resources, with end-to-end implementation and ongoing support. [loroit.com.au](https://loroit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate if your operational app needs to connect with Dynamics 365, enterprise data systems or a broader Microsoft environment.\n\n**Clarify\\:** Whether its team has built standalone warehouse or production applications, rather than primarily CRM and business-process solutions.\n\n[Website: Loro IT](https://loroit.com.au/)\n\n---\n\n![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)\n\n## 5\\. iCatalyst\n\nSubiaco · Established Microsoft business applications consultancy\n\niCatalyst has substantial Microsoft Dynamics ERP and CRM experience and offers Power Platform services. It is worth considering where the project is part of a larger operational systems transformation or needs close alignment with an existing Dynamics environment. [icatalyst.com.au](https://icatalyst.com.au/digitally-transform-in-wa?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Potentially suitable for larger, cross-functional projects where custom apps must fit into a wider business applications architecture.\n\n**Clarify\\:** The proposed team's hands-on Dataverse and Power Apps delivery experience for frontline operations, rather than ERP implementation alone.\n\n[Website: iCatalyst](https://icatalyst.com.au/)\n\n---\n\n![Power Apps | Kick ICT](https://images.openai.com/static-rsc-4/VdA0D-X1B5kN6jA-ZIAYYtli9SiSUxQrGcKUF2zCYTRI_ArioB-zpu6ZHKTIkHyVwfhcrmZl91dgVWVaQJsAKAPSzM0KOIv6oqQY1xnvqTJpDCw1m70hEvf5yPATVyVcal83z89_ByXQZwl7xkKiqSEBWYcdztOLuHzNAnj6_dGixt5k0jXRs1wdPdHxfe0_?purpose=fullsize)\n\n## 6\\. 366 Solutions\n\nPerth · Microsoft 365 and Power Apps consultancy\n\n366 Solutions offers Power Apps development, implementation, administration and training. Its local consulting focus makes it worth investigating for a more contained application or an initial pilot. [366solutions.com.au](https://366solutions.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A possible fit for digitising a specific operational process without immediately embarking on a large enterprise program.\n\n**Clarify\\:** Depth of Dataverse architecture, integration engineering and production-scale frontline application experience.\n\n[Website: 366 Solutions](https://366solutions.com.au/)\n\n## How I'd choose between them\n\n| If your main requirement is… | Start with |\n|--------|--------|\n| Warehouse, shop-floor or field apps specifically | **Inturing** |\n| Manufacturing or field-service workflow automation | **Opticloud Solutions** |\n| Complex Dataverse apps with strong governance and audit trails | **BrightMinds Technology** |\n| Integration with Dynamics 365 and Microsoft enterprise systems | **Loro IT** or **iCatalyst** |\n| A smaller Power Apps implementation or pilot | **366 Solutions** |\n\n\n## What to test before engaging a consultant\n\nA convincing Power Apps demo isn't enough for an operational application. Ask each shortlisted firm to demonstrate how it would handle these five requirements.\n\n**1\\. Frontline usability**\n\nCan operators scan barcodes, capture photos, record quantities, complete inspections and use the app quickly with gloves or on a tablet?\n\n---\n\n**2\\. Connectivity and reliability**\n\nWhat happens when a field worker loses signal or Wi-Fi drops on the warehouse floor? Ask for a demonstration of offline operation and synchronisation if required.\n\n---\n\n**3\\. Dataverse architecture**\n\nHow will the consultant design data relationships, role-based permissions, audit history, validation and duplicate prevention?\n\n---\n\n**4\\. Integration**\n\nCan the app exchange information safely with your ERP, inventory, manufacturing, maintenance or finance systems without unreliable double entry?\n\n---\n\n**5\\. Long-term ownership**\n\nWill you receive source solutions, documentation, deployment pipelines, testing, administrator training and a clear ongoing support arrangement?\n\nOne further point: ask for the **total cost of ownership**, including Power Apps and Dataverse licensing, premium connectors, integrations and ongoing support. The cheapest initial build may not be the cheapest solution to operate.\n\n## My recommendation\n\nI'd invite **Inturing, Opticloud and BrightMinds Technology** to an initial discussion. They offer three different angles: explicit frontline operational-app specialisation, practical process automation, and governed Microsoft business-app development.\n\nHave all three scope the same real workflow and provide a comparable proposal, rather than asking for generic capability presentations.\n\n**One question that would help me narrow this down further\\:** What kind of operation are you building the app for?\n\n1\\. Primary use case\n\nWarehouse, stock movements, barcode scanning\n\nManufacturing, production tracking, quality checks\n\nField service, maintenance, inspections\n\nA combination of these\n\n---\n\n2\\. Existing systems\n\nAn existing ERP or inventory system\n\nMicrosoft Dynamics 365\n\nMostly spreadsheets, paper or manual processes\n\nOther or not yet decided\n\n---\n\n3\\. Approximate number of users\n\nUnder 20\n\n20–100\n\n100+\n\n[Refine consultant shortlist]",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://366solutions.com.au/",
+          "domain": "366solutions.com.au",
+          "title": "366 Solutions – Consultants specialising in SharePoint, Microsoft 365, Microsoft Teams, Power Apps, Power Automate, Power BI and Microsoft 365 Copilot in Perth",
+          "description": null,
+          "breadcrumb": "366solutions.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://opticloud.com.au/about/",
+          "domain": "opticloud.com.au",
+          "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://opticloud.com.au/",
+          "domain": "opticloud.com.au",
+          "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+          "description": null,
+          "breadcrumb": "opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bmtech.net.au/company/about",
+          "domain": "bmtech.net.au",
+          "title": "About Us | BrightMinds Technology",
+          "description": null,
+          "breadcrumb": "bmtech.net.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Perth | Office Experts Group",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://loroit.com.au/",
+          "domain": "loroit.com.au",
+          "title": "Loro IT | Microsoft Solutions Partner — Perth, WA",
+          "description": null,
+          "breadcrumb": "loroit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.opticloud.com.au/solutions/",
+          "domain": "www.opticloud.com.au",
+          "title": "Power Platform Development & Consulting in Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "www.opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.opticloud.com.au/solutions/power-apps/",
+          "domain": "www.opticloud.com.au",
+          "title": "Power Apps Development in Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "www.opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Perth",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/technology/power-apps",
+          "domain": "inturing.com.au",
+          "title": "Power Apps for Operations Teams | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://icatalyst.com.au/digitally-transform-in-wa",
+          "domain": "icatalyst.com.au",
+          "title": "Digitally Transform with Dynamics 365 Perth | iCatalyst",
+          "description": null,
+          "breadcrumb": "icatalyst.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Solutions",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps for Operations Teams",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/technology/power-apps?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Inturing](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+          "snippet": null,
+          "domain": "opticloud.com.au",
+          "url": "https://opticloud.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps Development in Perth",
+          "snippet": null,
+          "domain": "www.opticloud.com.au",
+          "url": "https://www.opticloud.com.au/solutions/power-apps/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth",
+          "snippet": null,
+          "domain": "opticloud.com.au",
+          "url": "https://opticloud.com.au/about/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Opticloud Solutions",
+          "snippet": null,
+          "domain": "opticloud.com.au",
+          "url": "https://opticloud.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Opticloud Solutions](https://opticloud.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Us",
+          "snippet": null,
+          "domain": "bmtech.net.au",
+          "url": "https://bmtech.net.au/company/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "BrightMinds Technology",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: BrightMinds Technology",
+          "snippet": null,
+          "domain": "bmtech.net.au",
+          "url": "https://bmtech.net.au/company/about",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: BrightMinds Technology](https://bmtech.net.au/company/about)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Loro IT",
+          "snippet": null,
+          "domain": "loroit.com.au",
+          "url": "https://loroit.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Solutions Partner — Perth, WA",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Loro IT",
+          "snippet": null,
+          "domain": "loroit.com.au",
+          "url": "https://loroit.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Loro IT](https://loroit.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Digitally Transform with Dynamics 365 Perth",
+          "snippet": null,
+          "domain": "icatalyst.com.au",
+          "url": "https://icatalyst.com.au/digitally-transform-in-wa?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "iCatalyst",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: iCatalyst",
+          "snippet": null,
+          "domain": "icatalyst.com.au",
+          "url": "https://icatalyst.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: iCatalyst](https://icatalyst.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "366 Solutions – Consultants specialising in SharePoint, Microsoft 365, Microsoft Teams, Power Apps, Power Automate, Power BI and Microsoft 365 Copilot in Perth",
+          "snippet": null,
+          "domain": "366solutions.com.au",
+          "url": "https://366solutions.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "366solutions.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: 366 Solutions",
+          "snippet": null,
+          "domain": "366solutions.com.au",
+          "url": "https://366solutions.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: 366 Solutions](https://366solutions.com.au/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Perth WA Microsoft Power Apps Dataverse consultants operational apps warehouse shop floor field teams"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Opticloud Solutions",
+          "category": "company",
+          "markdown": "Opticloud Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "BrightMinds Technology",
+          "category": "company",
+          "markdown": "BrightMinds Technology",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Loro IT",
+          "category": "company",
+          "markdown": "Loro IT",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "iCatalyst",
+          "category": "company",
+          "markdown": "iCatalyst",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "366 Solutions",
+          "category": "company",
+          "markdown": "366 Solutions",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Leading Power Apps and Dataverse consultants in Perth\n\nFor custom operational apps serving warehouse staff, shop-floor operators, maintenance crews and field teams, I’d prioritise consultancies that can combine **Power Apps + Dataverse + Power Automate + integration with your existing ERP or operational systems**\\.\n\nThe strongest fit isn't necessarily the biggest Microsoft partner. It's a team that understands how work happens on the ground, can design for tablets and mobile devices, and can deliver reliable, auditable applications that people will actually use.\n\nBased on the publicly available service descriptions and local presence I found, these are the firms I would shortlist first. This is a fit-based assessment, not an independently verified ranking of project quality.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Microsoft Power Platform - AI 搭載のロー コード ツールを使用して開発を加速する | Microsoft デベロッパー](https://images.openai.com/static-rsc-4/G3EjFpaXjUfHBfS-zGcyiZo3qc_AJkE7KL5R24BdylRlr0yZ2ni1CM8lrqUm8ci8hXAgq4y1a9FE2cM9Fgi-2ZJzYV7CzDcG7zjlA9U5Urv2L6Sa3LhRQGDCuIk1iiqO9sBl8Tt1ggw-tb4DCj2D3tUJkbhdDjt6VVK6zwcoPNel7KiDiY38cLxpwwyB5Krm?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://developer.microsoft.com/ja-jp/power-platform",
+              "alt": "Microsoft Power Platform - AI 搭載のロー コード ツールを使用して開発を加速する | Microsoft デベロッパー",
+              "image_url": "https://images.openai.com/static-rsc-4/G3EjFpaXjUfHBfS-zGcyiZo3qc_AJkE7KL5R24BdylRlr0yZ2ni1CM8lrqUm8ci8hXAgq4y1a9FE2cM9Fgi-2ZJzYV7CzDcG7zjlA9U5Urv2L6Sa3LhRQGDCuIk1iiqO9sBl8Tt1ggw-tb4DCj2D3tUJkbhdDjt6VVK6zwcoPNel7KiDiY38cLxpwwyB5Krm?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform - AI 搭載のロー コード ツールを使用して開発を加速する | Microsoft デベロッパー](https://images.openai.com/static-rsc-4/G3EjFpaXjUfHBfS-zGcyiZo3qc_AJkE7KL5R24BdylRlr0yZ2ni1CM8lrqUm8ci8hXAgq4y1a9FE2cM9Fgi-2ZJzYV7CzDcG7zjlA9U5Urv2L6Sa3LhRQGDCuIk1iiqO9sBl8Tt1ggw-tb4DCj2D3tUJkbhdDjt6VVK6zwcoPNel7KiDiY38cLxpwwyB5Krm?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Closest match to your use case)\n\nInturing explicitly specialises in operational business apps for warehouse, shop-floor and field teams, using Power Apps, Dataverse and Power Automate. Its published examples of target workflows include goods-in checks, inspections, job tracking, offline-capable field apps and integration with ERP, MES and other systems. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/technology/power-apps?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its positioning is unusually specific to operational workflows rather than generic office automation.\n\n**Clarify\\:** Its Perth-based delivery arrangements, relevant production deployments and experience with your particular ERP or warehouse system.\n\n[Website: Inturing](https://inturing.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Solutions",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps for Operations Teams",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/technology/power-apps?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Inturing](https://inturing.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.monarch360.com.au/blog/microsoft-power-platform-services-in-perth-for-business-automation-and-growth",
+              "alt": "Microsoft Power Platform Services Perth - Monarch360 — Monarch360",
+              "image_url": "https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Opticloud Solutions\n\nPerth CBD · Local Power Platform consultancy\n\nOpticloud builds custom Power Apps, including canvas and model-driven apps, with Dataverse, workflow automation and ongoing support. Its stated industry experience includes manufacturing, construction, aviation and mining. It also publishes a field-services automation example involving mobile data capture, timesheets, parts usage and compliance certificates. [opticloud.com.au](https://opticloud.com.au/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/solutions/power-apps/?utm_source=chatgpt.com)[opticloud.com.au](https://opticloud.com.au/about/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A particularly promising option for replacing paper-based workflows and connecting frontline work with back-office processes.\n\n**Clarify\\:** Whether it has delivered barcode scanning, inventory transactions, equipment maintenance or offline shop-floor applications at a comparable scale.\n\n[Website: Opticloud Solutions](https://opticloud.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+              "snippet": null,
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps Development in Perth",
+              "snippet": null,
+              "domain": "www.opticloud.com.au",
+              "url": "https://www.opticloud.com.au/solutions/power-apps/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth",
+              "snippet": null,
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/about/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Opticloud Solutions",
+              "snippet": null,
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Opticloud Solutions](https://opticloud.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Opticloud Solutions",
+              "category": "company",
+              "markdown": "Opticloud Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Brightminds - Privacy Policy](https://images.openai.com/static-rsc-4/rCeLyA43aSVwAACKeVfcX8FsjJy7LM0H5l8WbPY0wWjxDT3-Lc-EccFZlqL6EFib1dOOe7IQ0UaCpwrK7GIBn9tOaeYXyf70AlS6OaiO8vQOmg4MD137WvwVMjPn52KPripBOjZQB21NfCvUuFZxyXIan6POVUIDvTRFGol2E4df5fn1aRJ7ZTPa2ouQvDXB?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://brightminds.co.nz/index.php/privacy-policy",
+              "alt": "Brightminds - Privacy Policy",
+              "image_url": "https://images.openai.com/static-rsc-4/rCeLyA43aSVwAACKeVfcX8FsjJy7LM0H5l8WbPY0wWjxDT3-Lc-EccFZlqL6EFib1dOOe7IQ0UaCpwrK7GIBn9tOaeYXyf70AlS6OaiO8vQOmg4MD137WvwVMjPn52KPripBOjZQB21NfCvUuFZxyXIan6POVUIDvTRFGol2E4df5fn1aRJ7ZTPa2ouQvDXB?purpose=fullsize",
+              "markdown": "![Brightminds - Privacy Policy](https://images.openai.com/static-rsc-4/rCeLyA43aSVwAACKeVfcX8FsjJy7LM0H5l8WbPY0wWjxDT3-Lc-EccFZlqL6EFib1dOOe7IQ0UaCpwrK7GIBn9tOaeYXyf70AlS6OaiO8vQOmg4MD137WvwVMjPn52KPripBOjZQB21NfCvUuFZxyXIan6POVUIDvTRFGol2E4df5fn1aRJ7ZTPa2ouQvDXB?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. BrightMinds Technology\n\nPerth-based · Microsoft business applications specialist\n\nBrightMinds focuses exclusively on Microsoft business applications. Its published capabilities include Dataverse, model-driven Power Apps, Power Automate, Azure integration and controlled application deployment. It highlights work with engineering and resources organisations, as well as regulated environments. [bmtech.net.au](https://bmtech.net.au/company/about?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering when the app must be more than a quick form — with strong security, auditability, documentation, integrations and a maintainable support model.\n\n**Clarify\\:** Specific warehouse, manufacturing or field-operations case studies, including how frontline users interact with the apps.\n\n[Website: BrightMinds Technology](https://bmtech.net.au/company/about)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "About Us",
+              "snippet": null,
+              "domain": "bmtech.net.au",
+              "url": "https://bmtech.net.au/company/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "BrightMinds Technology",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: BrightMinds Technology",
+              "snippet": null,
+              "domain": "bmtech.net.au",
+              "url": "https://bmtech.net.au/company/about",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: BrightMinds Technology](https://bmtech.net.au/company/about)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "BrightMinds Technology",
+              "category": "company",
+              "markdown": "BrightMinds Technology",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Loro IT\n\nPerth · Microsoft Solutions Partner\n\nLoro IT offers Power Apps, Power Automate, Dataverse, Dynamics 365 Field Service and bespoke integrations. It also describes experience across mining and resources, with end-to-end implementation and ongoing support. [loroit.com.au](https://loroit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate if your operational app needs to connect with Dynamics 365, enterprise data systems or a broader Microsoft environment.\n\n**Clarify\\:** Whether its team has built standalone warehouse or production applications, rather than primarily CRM and business-process solutions.\n\n[Website: Loro IT](https://loroit.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Loro IT",
+              "snippet": null,
+              "domain": "loroit.com.au",
+              "url": "https://loroit.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Solutions Partner — Perth, WA",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Loro IT",
+              "snippet": null,
+              "domain": "loroit.com.au",
+              "url": "https://loroit.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Loro IT](https://loroit.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Loro IT",
+              "category": "company",
+              "markdown": "Loro IT",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.designcrowd.com/design/25639753",
+              "alt": "Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753",
+              "image_url": "https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize",
+              "markdown": "![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. iCatalyst\n\nSubiaco · Established Microsoft business applications consultancy\n\niCatalyst has substantial Microsoft Dynamics ERP and CRM experience and offers Power Platform services. It is worth considering where the project is part of a larger operational systems transformation or needs close alignment with an existing Dynamics environment. [icatalyst.com.au](https://icatalyst.com.au/digitally-transform-in-wa?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Potentially suitable for larger, cross-functional projects where custom apps must fit into a wider business applications architecture.\n\n**Clarify\\:** The proposed team's hands-on Dataverse and Power Apps delivery experience for frontline operations, rather than ERP implementation alone.\n\n[Website: iCatalyst](https://icatalyst.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Digitally Transform with Dynamics 365 Perth",
+              "snippet": null,
+              "domain": "icatalyst.com.au",
+              "url": "https://icatalyst.com.au/digitally-transform-in-wa?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "iCatalyst",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: iCatalyst",
+              "snippet": null,
+              "domain": "icatalyst.com.au",
+              "url": "https://icatalyst.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: iCatalyst](https://icatalyst.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "iCatalyst",
+              "category": "company",
+              "markdown": "iCatalyst",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Power Apps | Kick ICT](https://images.openai.com/static-rsc-4/VdA0D-X1B5kN6jA-ZIAYYtli9SiSUxQrGcKUF2zCYTRI_ArioB-zpu6ZHKTIkHyVwfhcrmZl91dgVWVaQJsAKAPSzM0KOIv6oqQY1xnvqTJpDCw1m70hEvf5yPATVyVcal83z89_ByXQZwl7xkKiqSEBWYcdztOLuHzNAnj6_dGixt5k0jXRs1wdPdHxfe0_?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.kickict.co.uk/products/microsoft-power-platform/power-apps/",
+              "alt": "Power Apps | Kick ICT",
+              "image_url": "https://images.openai.com/static-rsc-4/VdA0D-X1B5kN6jA-ZIAYYtli9SiSUxQrGcKUF2zCYTRI_ArioB-zpu6ZHKTIkHyVwfhcrmZl91dgVWVaQJsAKAPSzM0KOIv6oqQY1xnvqTJpDCw1m70hEvf5yPATVyVcal83z89_ByXQZwl7xkKiqSEBWYcdztOLuHzNAnj6_dGixt5k0jXRs1wdPdHxfe0_?purpose=fullsize",
+              "markdown": "![Power Apps | Kick ICT](https://images.openai.com/static-rsc-4/VdA0D-X1B5kN6jA-ZIAYYtli9SiSUxQrGcKUF2zCYTRI_ArioB-zpu6ZHKTIkHyVwfhcrmZl91dgVWVaQJsAKAPSzM0KOIv6oqQY1xnvqTJpDCw1m70hEvf5yPATVyVcal83z89_ByXQZwl7xkKiqSEBWYcdztOLuHzNAnj6_dGixt5k0jXRs1wdPdHxfe0_?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. 366 Solutions\n\nPerth · Microsoft 365 and Power Apps consultancy\n\n366 Solutions offers Power Apps development, implementation, administration and training. Its local consulting focus makes it worth investigating for a more contained application or an initial pilot. [366solutions.com.au](https://366solutions.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A possible fit for digitising a specific operational process without immediately embarking on a large enterprise program.\n\n**Clarify\\:** Depth of Dataverse architecture, integration engineering and production-scale frontline application experience.\n\n[Website: 366 Solutions](https://366solutions.com.au/)\n\n## How I'd choose between them\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "366 Solutions – Consultants specialising in SharePoint, Microsoft 365, Microsoft Teams, Power Apps, Power Automate, Power BI and Microsoft 365 Copilot in Perth",
+              "snippet": null,
+              "domain": "366solutions.com.au",
+              "url": "https://366solutions.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "366solutions.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: 366 Solutions",
+              "snippet": null,
+              "domain": "366solutions.com.au",
+              "url": "https://366solutions.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: 366 Solutions](https://366solutions.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "366 Solutions",
+              "category": "company",
+              "markdown": "366 Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| If your main requirement is… | Start with |\n|--------|--------|\n| Warehouse, shop-floor or field apps specifically | **Inturing** |\n| Manufacturing or field-service workflow automation | **Opticloud Solutions** |\n| Complex Dataverse apps with strong governance and audit trails | **BrightMinds Technology** |\n| Integration with Dynamics 365 and Microsoft enterprise systems | **Loro IT** or **iCatalyst** |\n| A smaller Power Apps implementation or pilot | **366 Solutions** |\n\n",
+          "table": {
+            "table_header": [
+              "If your main requirement is…",
+              "Start with"
+            ],
+            "table_content": [
+              [
+                "Warehouse, shop-floor or field apps specifically",
+                "**Inturing**"
+              ],
+              [
+                "Manufacturing or field-service workflow automation",
+                "**Opticloud Solutions**"
+              ],
+              [
+                "Complex Dataverse apps with strong governance and audit trails",
+                "**BrightMinds Technology**"
+              ],
+              [
+                "Integration with Dynamics 365 and Microsoft enterprise systems",
+                "**Loro IT** or **iCatalyst**"
+              ],
+              [
+                "A smaller Power Apps implementation or pilot",
+                "**366 Solutions**"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n## What to test before engaging a consultant\n\nA convincing Power Apps demo isn't enough for an operational application. Ask each shortlisted firm to demonstrate how it would handle these five requirements.\n\n**1\\. Frontline usability**\n\nCan operators scan barcodes, capture photos, record quantities, complete inspections and use the app quickly with gloves or on a tablet?\n\n---\n\n**2\\. Connectivity and reliability**\n\nWhat happens when a field worker loses signal or Wi-Fi drops on the warehouse floor? Ask for a demonstration of offline operation and synchronisation if required.\n\n---\n\n**3\\. Dataverse architecture**\n\nHow will the consultant design data relationships, role-based permissions, audit history, validation and duplicate prevention?\n\n---\n\n**4\\. Integration**\n\nCan the app exchange information safely with your ERP, inventory, manufacturing, maintenance or finance systems without unreliable double entry?\n\n---\n\n**5\\. Long-term ownership**\n\nWill you receive source solutions, documentation, deployment pipelines, testing, administrator training and a clear ongoing support arrangement?\n\nOne further point: ask for the **total cost of ownership**, including Power Apps and Dataverse licensing, premium connectors, integrations and ongoing support. The cheapest initial build may not be the cheapest solution to operate.\n\n## My recommendation\n\nI'd invite **Inturing, Opticloud and BrightMinds Technology** to an initial discussion. They offer three different angles: explicit frontline operational-app specialisation, practical process automation, and governed Microsoft business-app development.\n\nHave all three scope the same real workflow and provide a comparable proposal, rather than asking for generic capability presentations.\n\n**One question that would help me narrow this down further\\:** What kind of operation are you building the app for?\n\n1\\. Primary use case\n\nWarehouse, stock movements, barcode scanning\n\nManufacturing, production tracking, quality checks\n\nField service, maintenance, inspections\n\nA combination of these\n\n---\n\n2\\. Existing systems\n\nAn existing ERP or inventory system\n\nMicrosoft Dynamics 365\n\nMostly spreadsheets, paper or manual processes\n\nOther or not yet decided\n\n---\n\n3\\. Approximate number of users\n\nUnder 20\n\n20–100\n\n100+\n\n[Refine consultant shortlist]",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

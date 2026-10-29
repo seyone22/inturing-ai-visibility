@@ -1,0 +1,192 @@
+{
+  "slug": "adelaide",
+  "pk": "workflow_automation",
+  "plat": "aimode",
+  "text": "Which consultancies in Adelaide are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__workflow_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:38.899Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which consultancies in Adelaide are best for business workflow automation and Microsoft Power Automate implementation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20consultancies%20in%20Adelaide%20are%20best%20for%20business%20workflow%20automation%20and%20Microsoft%20Power%20Automate%20implementation%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-29 04:07:33 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for top-tier consultancies in Adelaide specialising in business workflow automation and Microsoft Power Automate implementation, `several local providers and specialized Microsoft partners` stand out for their technical expertise and regional industry experience:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfLyeVyleNhxiUDx1QzpeqEM2bAbAhNmlKF-NKvfYb61cg_Tkk4Uv-aVU6orrFfdAKHIeXy6yLGct0cJc3NxqDAgQEO62VKxASpD_uoXxe47m2WKlxfHaw_lwWT4ebB1UB9WiSEz-Lte8cs=s192-w192-h144-n-k-no)\nPower Platform Experts (Adelaide)5.0 (3)  \nComputer support and services  \nOpen  \nCall Website Power Platform Experts (Adelaide): A dedicated specialist consultancy focusing exclusively on the Microsoft Power Platform suite. They offer end-to-end implementation, process optimisation, and low-code solutions spanning Power Automate workflows, Power Apps, and Power BI dashboards tailored to local business operations.\n\n---\n\nEvocate Microsoft Consultants (Adelaide)Evocate Microsoft Consultants (Adelaide): Known for supporting South Australian mid-market companies, local councils, utilities, and not-for-profits. They heavily focus on Microsoft 365, SharePoint, and Power Platform process automation—helping businesses replace manual paper forms, streamline approval pathways, and build line-of-business integrations.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc83ulV_i2ZCcBm-e_AAwF_KaLUel2qE3WToZsJDBqlyknc5UK6oQX3plXwriEGqMTCysT4IakNez1j-UfLdy8XN-A9DT_GNgXtAB0ltgJSVNwMS8wAJ9CUswwiQVVIsaKkDWeDjQ=s192-w192-h144-n-k-no)\nMayasoft IT & Consulting Services 5.0 (4)  \nSoftware company  \nOpen Unit 3/97 Pirie St  \nCall Directions Website Mayasoft IT & Consulting Services : A South Australian-owned enterprise IT and Microsoft partner located in the Adelaide CBD. They provide broad cloud integration, Azure architecture, and workflow delivery focused on custom business drivers and seamless systems integration.\n\n---\n\nPlatform Consulting 5.0 (1)  \nConsultant  \nOpen  \nCall Website Platform Consulting : A specialized local consultancy dedicated to designing scalable digital operational platforms, workflow optimization, and improving overall business process efficiency.[[1]](https://www.evocate.com.au/locations/adelaide/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo)[[3]](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkM016RnVaelYwGAo)[[5]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhkb05qSmZZbVJpGAo)\n\nTo help narrow down the best fit, could you tell me:\n\n- What **core systems or software** (e.g., SharePoint, Dynamics 365, Salesforce, ERP) do you need Power Automate to integrate with?\n- What is the **scale or department** of the automation (e.g., HR onboarding, finance approvals, inventory updates)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for top-tier consultancies in Adelaide specialising in business workflow automation and Microsoft Power Automate implementation, several local providers and specialized Microsoft partners stand out for their technical expertise and regional industry experience:",
+              "markdown": "When looking for top-tier consultancies in Adelaide specialising in business workflow automation and Microsoft Power Automate implementation, `several local providers and specialized Microsoft partners` stand out for their technical expertise and regional industry experience:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Power Platform Experts (Adelaide) 5.0 (3) Computer support and services Open Call Website Power Platform Experts (Adelaide) : A dedicated specialist consultancy focusing exclusively on the Microsoft Power Platform suite. They offer end-to-end implementation, process optimisation, and low-code solutions spanning Power Automate workflows, Power Apps, and Power BI dashboards tailored to local business operations.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfLyeVyleNhxiUDx1QzpeqEM2bAbAhNmlKF-NKvfYb61cg_Tkk4Uv-aVU6orrFfdAKHIeXy6yLGct0cJc3NxqDAgQEO62VKxASpD_uoXxe47m2WKlxfHaw_lwWT4ebB1UB9WiSEz-Lte8cs=s192-w192-h144-n-k-no)\nPower Platform Experts (Adelaide)5.0 (3)  \nComputer support and services  \nOpen  \nCall Website Power Platform Experts (Adelaide): A dedicated specialist consultancy focusing exclusively on the Microsoft Power Platform suite. They offer end-to-end implementation, process optimisation, and low-code solutions spanning Power Automate workflows, Power Apps, and Power BI dashboards tailored to local business operations.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLyeVyleNhxiUDx1QzpeqEM2bAbAhNmlKF-NKvfYb61cg_Tkk4Uv-aVU6orrFfdAKHIeXy6yLGct0cJc3NxqDAgQEO62VKxASpD_uoXxe47m2WKlxfHaw_lwWT4ebB1UB9WiSEz-Lte8cs=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Mayasoft IT & Consulting Services 5.0 (4) Software company Open Unit 3/97 Pirie St Call Directions Website Mayasoft IT & Consulting Services : A South Australian-owned enterprise IT and Microsoft partner located in the Adelaide CBD. They provide broad cloud integration, Azure architecture, and workflow delivery focused on custom business drivers and seamless systems integration.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc83ulV_i2ZCcBm-e_AAwF_KaLUel2qE3WToZsJDBqlyknc5UK6oQX3plXwriEGqMTCysT4IakNez1j-UfLdy8XN-A9DT_GNgXtAB0ltgJSVNwMS8wAJ9CUswwiQVVIsaKkDWeDjQ=s192-w192-h144-n-k-no)\nMayasoft IT & Consulting Services 5.0 (4)  \nSoftware company  \nOpen Unit 3/97 Pirie St  \nCall Directions Website Mayasoft IT & Consulting Services : A South Australian-owned enterprise IT and Microsoft partner located in the Adelaide CBD. They provide broad cloud integration, Azure architecture, and workflow delivery focused on custom business drivers and seamless systems integration.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc83ulV_i2ZCcBm-e_AAwF_KaLUel2qE3WToZsJDBqlyknc5UK6oQX3plXwriEGqMTCysT4IakNez1j-UfLdy8XN-A9DT_GNgXtAB0ltgJSVNwMS8wAJ9CUswwiQVVIsaKkDWeDjQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Platform Consulting 5.0 (1) Consultant Open Call Website Platform Consulting : A specialized local consultancy dedicated to designing scalable digital operational platforms, workflow optimization, and improving overall business process efficiency.",
+              "markdown": "---\n\nPlatform Consulting 5.0 (1)  \nConsultant  \nOpen  \nCall Website Platform Consulting : A specialized local consultancy dedicated to designing scalable digital operational platforms, workflow optimization, and improving overall business process efficiency.[[1]](https://www.evocate.com.au/locations/adelaide/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo)[[3]](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkM016RnVaelYwGAo)[[5]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhkb05qSmZZbVJpGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.evocate.com.au",
+                  "domain": "www.evocate.com.au",
+                  "url": "https://www.evocate.com.au/locations/adelaide/",
+                  "title": "Adelaide Microsoft Consultants - Evocate",
+                  "text": "South Australian councils, utilities, and NFPs use Power Apps to replace paper forms, automate approvals, and build simple line of..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo",
+                  "title": "Power Platform Experts",
+                  "text": "Backed by over 20 years of industry experience, our Power Platform consultants specialise in harnessing the transformative capabil..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "title": "Power Platform Consultants Adelaide",
+                  "text": "Our Power Platform experts provide Adelaide businesses with professional automation solutions, custom application development, and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkM016RnVaelYwGAo",
+                  "title": "Mayasoft IT & Consulting Services",
+                  "text": "Unit 3/97 Pirie St, Adelaide SA 5000 · Mayasoft is a South Australian owned and operated consultancy, providing professional enter..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhkb05qSmZZbVJpGAo",
+                  "title": "Platform Consulting Pty Ltd",
+                  "text": "At Platform Consulting, our mission is to empower businesses by designing and implementing scalable, innovative, and future-proof ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit, could you tell me:",
+              "markdown": "To help narrow down the best fit, could you tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What core systems or software (e.g., SharePoint, Dynamics 365, Salesforce, ERP) do you need Power Automate to integrate with? What is the scale or department of the automation (e.g., HR onboarding, finance approvals, inventory updates)?",
+              "markdown": "- What **core systems or software** (e.g., SharePoint, Dynamics 365, Salesforce, ERP) do you need Power Automate to integrate with?\n- What is the **scale or department** of the automation (e.g., HR onboarding, finance approvals, inventory updates)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.evocate.com.au",
+              "domain": "www.evocate.com.au",
+              "url": "https://www.evocate.com.au/locations/adelaide/",
+              "title": "Adelaide Microsoft Consultants - Evocate",
+              "text": "South Australian councils, utilities, and NFPs use Power Apps to replace paper forms, automate approvals, and build simple line of business applications"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+              "title": "Power Platform Consultants Adelaide",
+              "text": "Our Power Platform experts provide Adelaide businesses with professional automation solutions, custom application development, and support services"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo",
+              "title": "Power Platform Experts",
+              "text": "Backed by over 20 years of industry experience, our Power Platform consultants specialise in harnessing the transformative capabilities of Microsoft’s Power Platform to help your business boost productivity and reduce operational costs. We offer end-to-end services in Power Apps, Power Automate, Power BI and Power Pages, ranging from automating repetitive tasks to creating custom applications that integrate seamlessly with your existing systems. Power Platform Experts is based in Australia and offers both remote and onsite service options nationwide, combining technical expertise with practical business insights to provides expert guidance and tailored solutions to help you navigate and succeed in the modern digital landscape."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

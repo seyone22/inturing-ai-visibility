@@ -1,0 +1,279 @@
+{
+  "slug": "perth",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:16.741Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft Power Apps and Dataverse partner in Perth for operational environments—such as warehouses, workshops, manufacturing shop floors, or remote field sites—you need a team that understands **frontline ergonomics, device hardware (scanners, rugged tablets), offline sync profiles, and Dataverse architecture**, not just desktop workflows.\n\nSeveral leading consultancies in Perth specialize in this exact intersection:\n\n---\n\n### 1. Enterprise & High-Complexity Field Operations\n\n#### **Velrada (an ASG / NRI Company)**\n* **Headquarters:** Perth (St Georges Terrace)\n* **Best For:** Enterprise operations, mining, heavy industry, utilities, and large logistics networks.\n* **Why They Stand Out:** Velrada is one of Australia’s most decorated Microsoft Business Applications partners. Originating in Perth, they have deep domain expertise across Western Australia’s resource and supply chain sectors. They specialize in building frontline worker applications using **Power Apps + Dataverse**, embedding offline data capture, shift handovers, mobile asset maintenance, and ERP integrations (SAP/Dynamics). They also maintain FastTrack Recognised Solution Architects on staff.\n\n#### **Barhead Solutions**\n* **Presence:** National, with dedicated Western Australia delivery capability.\n* **Best For:** Dedicated Microsoft Power Platform & Dynamics 365 operational implementations.\n* **Why They Stand Out:** Barhead is a pure-play Microsoft Business Applications specialist. They routinely build custom operational apps (site compliance, inventory check-in/out, job dispatching, and field safety) leveraging Canvas apps for the mobile frontend and Dataverse as the governed system of record.\n\n#### **Capgemini (formerly Empired)**\n* **Presence:** Deep historical roots and a large consulting presence in Perth.\n* **Best For:** Large-scale enterprise overhauls requiring multi-system integration (e.g., Dataverse bridging to SAP, Oracle, or custom backends).\n* **Why They Stand Out:** Empired built much of its reputation in Perth solving field service and industrial mobility challenges across mining, ports, and state utilities. Capgemini carries that legacy forward with enterprise-grade governance and Power Platform Center of Excellence (CoE) rollouts.\n\n---\n\n### 2. Mid-Market & Pragmatic Operational Specialists\n\n#### **Bremmar Consulting**\n* **Headquarters:** Perth (Osborne Park)\n* **Best For:** Small-to-medium businesses, civil contracting, depots, transport, and regional logistics.\n* **Why They Stand Out:** Bremmar focuses heavily on pragmatic digitization—replacing clipboards, paper dockets, and rogue Excel trackers with mobile-ready Power Apps. They have verifiable local case studies (e.g., civil contractors and care providers) deploying simple, low-friction tablet interfaces for workers at depots, on construction sites, and in delivery trucks.\n\n#### **Tech Engine Australia**\n* **Headquarters:** West Perth\n* **Best For:** Mid-market manufacturers, commercial facilities, and SME operational apps.\n* **Why They Stand Out:** A boutique IT and cloud systems consultancy that emphasizes business-process-first design. They build custom Canvas and Model-Driven apps for workflow optimization, stock counts, and job tracking without enterprise overhead.\n\n#### **Monarch360**\n* **Headquarters:** Perth (St Georges Terrace)\n* **Best For:** Local process automation, field job logging, document/compliance capture.\n* **Why They Stand Out:** Monarch360 provides local, hands-on consulting across the Microsoft suite (SharePoint, Dataverse, Power Automate, and Power Apps). They are well-suited for businesses wanting an approachable Perth team to modernize shop-floor paperwork into structured mobile apps.\n\n---\n\n### What to Ask Candidates for Warehouse & Field Apps\n\nTo avoid consultants who only build basic desktop office forms, evaluate candidates against the technical hurdles unique to operational environments:\n\n1. **Native Offline Synchronization:** \n   * *The Problem:* Warehouses often have dead zones, and WA field sites regularly lose 4G/5G.\n   * *Ask:* How do they design their Dataverse offline profiles and handle merge conflict resolution when multiple operators sync simultaneously?\n2. **Device Hardware & Barcode Scanning:**\n   * *Ask:* Have they implemented Power Apps on ruggedized devices (e.g., Zebra or Honeywell Android scanners)? Do they use native Power Apps barcode controls or hardware keyboard-wedge inputs for high-speed scanning?\n3. **Ergonomic Frontline UI/UX:**\n   * *The Problem:* Desktop layouts fail in the field.\n   * *Ask:* How do they accommodate gloved operation, high-glare environments (dark/light mode toggles), and minimum-typing UI designs (e.g., large touch targets, drop-downs, and photo attachments)?\n4. **Dataverse Architecture vs. Licensing Costs:**\n   * *Ask:* Are they designing on **Microsoft Dataverse** using *Power Apps Per App* licensing, *Pay-as-you-go (Azure subscription)*, or *Dataverse for Teams*? A seasoned consultant will balance your database storage limits and API request thresholds against your daily transaction volume to prevent surprise licensing spikes.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consultants+Perth+Western+Australia&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consultants Perth Western Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Velrada+Perth+Microsoft+Power+Platform+Dataverse&client=app-vertex-grounding&safesearch=active\">Velrada Perth Microsoft Power Platform Dataverse</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+field+operations+warehouse+consultants+Perth&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps field operations warehouse consultants Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Perth+Microsoft+Power+Apps+Dataverse+partner+operational+field+apps&client=app-vertex-grounding&safesearch=active\">Perth Microsoft Power Apps Dataverse partner operational field apps</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu1KsDfimnhtsMIfS4dUxm6l_LpFmj9O6XXPQ4_2UIvTFoduDbCXxMeByvaGuh_n3lA6tCFVq-vsPHxSOOvKa6Wam48H_KIMDOqIMY27AWPIF9QcXVIXVjET3xqJwFNOLtITaQ2g==",
+                "title": "verosoftdesign.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdflnF1vi8ewxW4X2EY5Jb-La_XV_-1-OAdeqaqiwgkIQHM3gPfLZ079Vv3N6N_f-PF6PWlzeEoLxty17SPtWRiTStqO2fbP1o0ug9dhr-Typpr3zVZtoAuJ3qVhuN7yge9h5sRGjQoBUd5d2HvmXpoRTFEpLjsgUeLsCazEe64kqw_aH4OeZ_cHxd54cCYM4LTgxODQ2TU5caJsUAHJ6O-0JmcJzuOrZpWWrgH1LBTi4-lyfJziL_97MU7uEFEG16rKQTko6VxGSIsXeV1_CWND-arq4=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxwlXkecPBo4gLAilUcFvfA1HdAEe9r6Dz3_zUekFM5LhvyANQk62wlSZZp13UP8fxk_dgWv-OjyYHpyEeM8n1azKl4INTJNm892UJQpELL6KUQpXDEmwUaFG-GoilGY4dgNrvFSf1eHl1SZE=",
+                "title": "wbresearch.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxanPDBmTmOmi38pyAT3b7IBeQsaEcul6QdhQ3YITAYHPJI5Xg6K4tzik3y0IdSewRC-oZW8WJWXTbwMQvTFqp6Xkz3_vKbIfx5DBV-lFBmapze3Um5PoJP5UG7H3wWBw=",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ3zwknD_WQ2_K66vAy1AE5VVr0McdPC6iTMpz6OPYCJqg3yBzcNtY06IvNATs-7XvTZYJ1ZznODZKCdMn1uMaqaD3JZygB6ubYF9Y90JffCgDffmwu9utMpGBTOglXDPt",
+                "title": "youtube.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6GPtJDDyrTjuxMVM5k1xg614UWOWtq_WbPM0yjkf4Z9CsLEuG-DKw_WDOZF-coGQkYEX6qHuCvEUKxiCa-6eMiEMOEcZFOGb9PdpZWiwRa-g0iYb8iZQd7R0FeRnYoNO59eLEciGlDAMGz7A=",
+                "title": "bremmar.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYv7V0Yjxv6RFJPjELPag35p4jLuLhbO--y2ePZjO_wld5a0kQtBsucEo7NByPHIisOnFsD6lVWyPWvawIix5KNONMUsHmapRA9XeiGgJY2B4Bp3eHAQM=",
+                "title": "bremmar.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELwHFN68KEhmzlZbDRklzhl7OKLtV64OefIj6E-dAqCEV5iiMNiyUi8uanapmNmaKdrRS2GpHLZmxDWS_3ns6mLDr5_nnlGPT7xnlod2I6XttjjfEQmyA9eXTwF4tAqORSadnyUxDKWx71rdqiBVR-xZZk9Vs=",
+                "title": "techengine.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnreE7g2virmt1U43Pf3mZYKJSd4PEBm9QEYjLPh1jtXboa9l5mD8Xi3oe94yU5RpQsFOdlZbBvln9nW_-f6V4J4AcJgj4M8Toh46gw77c4Us60ESL2lECKSdkjxmePjPo0vE7mdbF1rFOr6miMLzcg3P4BOCyf8-XifqNrLwMLZTg41isadJ0njSDng7I09zk1d6h60t-",
+                "title": "biz-lynx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ2XdKCLm4Of6tidiitSSWBnb6tKd-FSUY4jJnUCMVzM-OyyGK-HLEdrBXUf5tsOOQIQx8Ggk_An42_pfPuaHr1ojY9R1z5l2etYlNOQzM-KoCj5zOwJkHM0jH4PiGo_tyhzA-rMh-BEf1qJg=",
+                "title": "monarch360.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 545,
+                "endIndex": 589,
+                "text": "**Headquarters:** Perth (St Georges Terrace)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 696,
+                "endIndex": 807,
+                "text": "**Why They Stand Out:** Velrada is one of Australia’s most decorated Microsoft Business Applications partners"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 809,
+                "endIndex": 925,
+                "text": "Originating in Perth, they have deep domain expertise across Western Australia’s resource and supply chain sectors"
+              },
+              "groundingChunkIndices": [
+                3,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 927,
+                "endIndex": 1066,
+                "text": "They specialize in building frontline worker applications using **Power Apps + Dataverse**, embedding offline data capture, shift handovers"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 927,
+                "endIndex": 1129,
+                "text": "They specialize in building frontline worker applications using **Power Apps + Dataverse**, embedding offline data capture, shift handovers, mobile asset maintenance, and ERP integrations (SAP/Dynamics)"
+              },
+              "groundingChunkIndices": [
+                3,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1131,
+                "endIndex": 1199,
+                "text": "They also maintain FastTrack Recognised Solution Architects on staff"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2370,
+                "endIndex": 2408,
+                "text": "**Headquarters:** Perth (Osborne Park)"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2411,
+                "endIndex": 2513,
+                "text": "**Best For:** Small-to-medium businesses, civil contracting, depots, transport, and regional logistics"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2517,
+                "endIndex": 2683,
+                "text": "**Why They Stand Out:** Bremmar focuses heavily on pragmatic digitization—replacing clipboards, paper dockets, and rogue Excel trackers with mobile-ready Power Apps"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2685,
+                "endIndex": 2887,
+                "text": "They have verifiable local case studies (e.g., civil contractors and care providers) deploying simple, low-friction tablet interfaces for workers at depots, on construction sites, and in delivery trucks"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2923,
+                "endIndex": 2951,
+                "text": "**Headquarters:** West Perth"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3045,
+                "endIndex": 3158,
+                "text": "**Why They Stand Out:** A boutique IT and cloud systems consultancy that emphasizes business-process-first design"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3160,
+                "endIndex": 3292,
+                "text": "They build custom Canvas and Model-Driven apps for workflow optimization, stock counts, and job tracking without enterprise overhead"
+              },
+              "groundingChunkIndices": [
+                8,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3317,
+                "endIndex": 3361,
+                "text": "**Headquarters:** Perth (St Georges Terrace)"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3454,
+                "endIndex": 3607,
+                "text": "**Why They Stand Out:** Monarch360 provides local, hands-on consulting across the Microsoft suite (SharePoint, Dataverse, Power Automate, and Power Apps)"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Power Platform consultants Perth Western Australia",
+            "Velrada Perth Microsoft Power Platform Dataverse",
+            "Microsoft Power Apps field operations warehouse consultants Perth",
+            "Perth Microsoft Power Apps Dataverse partner operational field apps"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 532,
+      "candidatesTokenCount": 1206,
+      "totalTokenCount": 2992,
+      "cachedContentTokenCount": 185,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 532
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 185
+        }
+      ],
+      "thoughtsTokenCount": 1254,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "TcbiavSGEpWz694PyMXYgAU"
+  }
+}

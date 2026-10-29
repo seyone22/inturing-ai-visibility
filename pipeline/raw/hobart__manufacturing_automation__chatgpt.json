@@ -1,0 +1,721 @@
+{
+  "slug": "hobart",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:12:00.554Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Hobart%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:11:55 +00:00",
+      "markdown": "For a Hobart manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I would shortlist two types of consultants: Microsoft Power Platform specialists for business workflows and applications, and industrial automation specialists for production-floor systems.\n\nThe key is to find a partner who can integrate with your current ERP, rather than use automation as a reason to sell you a new one.\n\n## My recommended shortlist\n\n![Power Apps Automation for Ceramic Manufacturing | Softree Technology Case Studies](https://images.openai.com/static-rsc-4/xXJ1Em7sPFHHh8ANxwsAiSqWqIuRl-GwcwX9IgTBV0OAwJd0V-sfyligUrHWRUIqr5K9hpTu75aVpvFzBkj_EglEBjM8soU5IvUuaeL9qaVjH0-TEM3DCTvcovLylUCIk35jHVyGsxg4LVHFUtS4EgNprm0Abglih9UDY0ieLTrBUd9fi3bzIlkjw4sDLp-F?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Best fit for your brief)\n\nAustralian-wide delivery · Power Platform specialist\n\nInturing explicitly targets manufacturers running existing ERP, CRM and manufacturing systems. Its services include automated order processing, Power Apps for shop-floor capture, Power Automate workflows, system integration and operational dashboards—all without an ERP replacement. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)\n\n**Ask them about\\:** email/PDF order extraction, order validation against your ERP, production and quality data capture, and exception handling.\n\n[Website: inturing.com.au](https://inturing.com.au/)\n\n---\n\n\n\n## 2\\. Cyberhaven Technologies\n\nHobart-based · Workflow automation and RPA\n\nA local option offering Microsoft Power Automate, robotic process automation (RPA), API integration and document processing. Its stated capabilities include manufacturing, logistics and order-processing workflows. [cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/?utm_source=chatgpt.com)\n\n**Ask them about\\:** automating repetitive ERP data entry, handling customer orders received in different formats, and integrating existing applications.\n\nContact: [cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/)\n\nConfirm their experience building Power Apps and supporting manufacturing deployments, rather than only office-based RPA.\n\n---\n\n![Service and Support](https://images.openai.com/static-rsc-4/Zqp6c7h8SiP6dpOeV1KKTA8vdPhZNmpa_exGK_UwzFWriKBZq-19Hul_5nHJZp6K9n-d7qwVMk0YrjTae8wDk2JAegfQOlBDwKxw_OU9MrIWDwDC7LDE1hgRJBCacnCkgJvBJz1V3yvLFisNh1N0o8OqjaAZtsiVAxF0cSLrqZqcmVag_1EV-H9FOE-j3NUa?purpose=fullsize)\n\n## 3\\. SAGE Automation\n\nHobart office · Industrial automation and control\n\nA strong candidate if shop-floor data capture needs to connect with PLCs, SCADA, machine controls or industrial reporting. SAGE's focus is industrial automation rather than Power Platform business applications. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJH44msLh0bqoRl9D-pnqlLv4&hl=en&utm_source=chatgpt.com)[www.google.com.br](https://www.google.com.br/maps/place/SAGE+Group/@-42.839329,147.2919729,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7597cfc21c57:0x6be030af0150c348!8m2!3d-42.839329!4d147.2945478!16s%2Fg%2F11pd0f0wbf?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** capturing machine status, downtime, production counts and quality measurements, then making that data available to your business systems.\n\n[Website: sageautomation.com](https://www.sageautomation.com/)\n\n---\n\n![Cromarty Automation | Innovative industrial automation](https://images.openai.com/static-rsc-4/xppZ_qeUwGj3OV5_IemWEuIcsEogjNiHakpm05H7Q5zRYD1tF9UpkRHn1ZjIMPUkoRg0YEvX0eQ3BtVtZJTJASVG7BpJFuavjOYNEWd-icoqcQcs7937oP2AE8AfbW-S5NZCvFJksqvEov4uNUlNuZj9Pm16mJsFLtLWCXQB9O8QO2BLo6tjgXHwyIXzDft7?purpose=fullsize)\n\n## 4\\. Cromarty Automation\n\nMoonah · Industrial engineering and software integration\n\nA local alternative for PLC, HMI and SCADA systems, operational monitoring and reporting. This is particularly relevant when the production data originates on machinery rather than in a computerised business workflow. [www.google.com](https://www.google.com/maps/place/Cromarty+Automation/@-42.8430526,147.2898318,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e759a4636c405:0xf09427bbf992dc5f!8m2!3d-42.8430526!4d147.2898318!16s%2Fg%2F1tf08xd7?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** connecting machine-generated data to a reporting or integration layer that your Power Platform consultant can use.\n\nConfirm their current capability for ERP and Microsoft Power Platform integration.\n\n---\n\n![IT Support and IT MSP in Hobart  — IT Strategic](https://images.openai.com/static-rsc-4/sRnRv0dvalk6LH7ouHRAaVgx9mfo34rExEFkFMNmg5jn7l8ZFqZBbAxDB_z8PAogi6U3YT6SAHTddxEZoEzqc1-vuHoixrRi3iG8QaZTH6DnwAg1mAw45Vlce6dNvV2PjskgI1T7J06MUp7-40xPrSSwhxUhzB-d0PO6ZJq2dHA9WqEADTBmYru7rXY_X9uk?purpose=fullsize)\n\n## 5\\. Buftec\n\nHobart-based · ERP integration, databases and legacy systems\n\nBuftec works across business applications, databases, APIs, reporting and legacy-system modernisation, with an emphasis on protecting live production systems. [www.buftec.com](https://www.buftec.com/?utm_source=chatgpt.com)\n\n**Ask them about\\:** assessing your ERP's integration options, database access, APIs and safe ways to automate data exchange.\n\nContact: [buftec.com](https://www.buftec.com/)\n\nTreat this as a technical integration candidate, not a confirmed specialist Power Platform partner.\n\n## Where the local consultants are\n\n\nAlso worth considering is UXC Eclipse, now associated with DXC, which has a Hobart presence and Microsoft business applications experience. It may be worth contacting for larger-scale Microsoft integration requirements, particularly if your ERP is already Microsoft Dynamics. Confirm the proposed team's current Power Platform delivery experience before engaging.\n\n## How I would divide the work\n\nFor your three objectives, I would initially approach **Inturing, Cyberhaven and SAGE Automation**\\. Together, those conversations should help establish whether you need a single Power Platform delivery partner or a business-automation and industrial-automation pairing.\n\n**Order processing**\n\nUse Power Automate to ingest orders from email or documents, validate required fields, route exceptions for approval, and create or update ERP records through supported interfaces.\n\n**Shop-floor data capture**\n\nUse Power Apps for operator inputs, inspections, scrap and downtime records. If data needs to come directly from machinery, involve an industrial automation specialist to connect the control systems safely.\n\n**Operations visibility**\n\nUse Power BI for production, order backlog, delivery performance and quality dashboards, with the ERP remaining the authoritative source for transactional data.\n\n## Questions to ask before selecting a partner\n\n1. **Have you integrated Power Platform with our particular ERP?** Ask for a relevant reference, not just a list of connectors.\n2. Can you use our ERP's APIs or supported integration interfaces instead of relying on fragile screen-clicking automation?\n3. How will you prevent duplicate orders, handle failed integrations and reconcile data?\n4. Can shop-floor apps work on shared tablets or industrial devices, including areas with unreliable connectivity?\n5. Will we own the solution, documentation, flows, apps and support arrangements after handover?\n6. Can you deliver a fixed-scope pilot with measurable outcomes before committing to a broader programme?\n\nMy preference would be to start with a small order-processing pilot, prove that it integrates reliably with your existing ERP, and then extend the architecture to shop-floor capture.\n\n## One question that would sharpen the shortlist\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Advanced, SAP, Epicor, NetSuite, Microsoft Dynamics, or a custom/legacy system.\n\nThe ERP name will help distinguish consultants with relevant integration experience from those who offer general Power Platform development but may struggle with your specific manufacturing environment.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.buftec.com/",
+          "domain": "www.buftec.com",
+          "title": "Buftec — Business Systems & Technology Consulting",
+          "description": null,
+          "breadcrumb": "www.buftec.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.buftec.com/",
+          "domain": "www.buftec.com",
+          "title": "Buftec — Business Systems & Technology Consulting",
+          "description": "Total lines: 259\n",
+          "breadcrumb": "www.buftec.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.planetblu.com.au/",
+          "domain": "www.planetblu.com.au",
+          "title": "planetblu | Sage 300 ERP Consultancy & Cloud Systems Support",
+          "description": null,
+          "breadcrumb": "www.planetblu.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://solve8.com.au/locations/hobart/",
+          "domain": "solve8.com.au",
+          "title": "AI Consulting Hobart | Private AI for Tasmania | Solve8",
+          "description": null,
+          "breadcrumb": "solve8.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.arnnet.com.au/article/1255489/barhead-tackles-tassal-inefficiencies-with-dynamics-365.html",
+          "domain": "www.arnnet.com.au",
+          "title": "Barhead tackles Tassal inefficiencies with Dynamics 365 – ARN",
+          "description": null,
+          "breadcrumb": "www.arnnet.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://excopartners.com/work/contract-intelligence-hydro-tasmanias-digital-leap-with-microsoft-power-platform",
+          "domain": "excopartners.com",
+          "title": "Contract Intelligence: Hydro Tasmania’s Digital Leap with Microsoft Power Platform · Exco Partners",
+          "description": null,
+          "breadcrumb": "excopartners.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.bytex.com.au/",
+          "domain": "www.bytex.com.au",
+          "title": "IT Support and Business Automation, Launceston | ByteX",
+          "description": null,
+          "breadcrumb": "www.bytex.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wiise.com/partner-icatalyst",
+          "domain": "www.wiise.com",
+          "title": "iCatalyst | Partner Profile | Wiise ERP",
+          "description": null,
+          "breadcrumb": "www.wiise.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/customers/story/1790469603343301337-hobart-dynamics-365-customer-service-discrete-manufacturing-en-united-states",
+          "domain": "www.microsoft.com",
+          "title": "Hobart Service modernizes service and integrates operations with Dynamics 365 | Microsoft Customer Stories",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://alphavima.com/data-engineering/data-warehouse-consulting-in-hobart-tasmania/",
+          "domain": "alphavima.com",
+          "title": "data warehouse consulting in Hobart, Tasmania | Alphavima",
+          "description": null,
+          "breadcrumb": "alphavima.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/",
+          "domain": "cyberhaven.com.au",
+          "title": "System Automation Services in Hobart",
+          "description": null,
+          "breadcrumb": "cyberhaven.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/",
+          "domain": "cyberhaven.com.au",
+          "title": "System Automation Services in Hobart",
+          "description": "Total lines: 444\n",
+          "breadcrumb": "cyberhaven.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+          "domain": "officeproconsulting.com.au",
+          "title": "Power Platform & Power Automate Consulting Australia",
+          "description": null,
+          "breadcrumb": "officeproconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://excopartners.com.au/portfolio/contract-intelligence-hydro-tasmanias-digital-leap-with-microsoft-power-platform",
+          "domain": "excopartners.com.au",
+          "title": "Contract Intelligence: Hydro Tasmania’s Digital Leap with Microsoft Power Platform",
+          "description": null,
+          "breadcrumb": "excopartners.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.reportsimple.com.au/consulting/power-platform-consulting",
+          "domain": "www.reportsimple.com.au",
+          "title": "Power Platform Consulting Australia | Hire Experts",
+          "description": null,
+          "breadcrumb": "www.reportsimple.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Solutions",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "System Automation Services in Hobart",
+          "snippet": "Total lines: 444",
+          "domain": "cyberhaven.com.au",
+          "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "cyberhaven.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "cyberhaven.com.au",
+          "snippet": null,
+          "domain": "cyberhaven.com.au",
+          "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SAGE Automation",
+          "snippet": "137 Harrington St, Hobart TAS 7000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJH44msLh0bqoRl9D-pnqlLv4&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SAGE Group",
+          "snippet": "47 Sunderland St, Moonah TAS 7009, Australia",
+          "domain": "www.google.com.br",
+          "url": "https://www.google.com.br/maps/place/SAGE+Group/@-42.839329,147.2919729,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7597cfc21c57:0x6be030af0150c348!8m2!3d-42.839329!4d147.2945478!16s%2Fg%2F11pd0f0wbf?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.br",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: sageautomation.com",
+          "snippet": null,
+          "domain": "www.sageautomation.com",
+          "url": "https://www.sageautomation.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: sageautomation.com](https://www.sageautomation.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Cromarty Automation",
+          "snippet": "86 Charles St, Moonah TAS 7009, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/Cromarty+Automation/@-42.8430526,147.2898318,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e759a4636c405:0xf09427bbf992dc5f!8m2!3d-42.8430526!4d147.2898318!16s%2Fg%2F1tf08xd7?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Buftec",
+          "snippet": "Total lines: 259",
+          "domain": "www.buftec.com",
+          "url": "https://www.buftec.com/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Business Systems & Technology Consulting",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "buftec.com",
+          "snippet": null,
+          "domain": "www.buftec.com",
+          "url": "https://www.buftec.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[buftec.com](https://www.buftec.com/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Hobart Tasmania Microsoft Power Platform consulting partner automation ERP integration manufacturing",
+        "Tasmania Microsoft Power Platform partner Power Automate consulting Australia manufacturing shop floor data capture"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Hobart IT and business automation consultancy",
+          "category": "company",
+          "markdown": "Cyberhaven Technologies",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "SAGE Automation",
+          "category": "local_business",
+          "markdown": "SAGE Automation",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Cromarty Automation",
+          "category": "local_business",
+          "markdown": "Cromarty Automation",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Hobart business systems and technology consultancy",
+          "category": "company",
+          "markdown": "Buftec",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "UXC Eclipse",
+          "category": "local_business",
+          "markdown": "UXC Eclipse",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Hobart manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I would shortlist two types of consultants: Microsoft Power Platform specialists for business workflows and applications, and industrial automation specialists for production-floor systems.\n\nThe key is to find a partner who can integrate with your current ERP, rather than use automation as a reason to sell you a new one.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Power Apps Automation for Ceramic Manufacturing | Softree Technology Case Studies](https://images.openai.com/static-rsc-4/xXJ1Em7sPFHHh8ANxwsAiSqWqIuRl-GwcwX9IgTBV0OAwJd0V-sfyligUrHWRUIqr5K9hpTu75aVpvFzBkj_EglEBjM8soU5IvUuaeL9qaVjH0-TEM3DCTvcovLylUCIk35jHVyGsxg4LVHFUtS4EgNprm0Abglih9UDY0ieLTrBUd9fi3bzIlkjw4sDLp-F?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.softreetechnology.com/case-studies/power-apps-ceramic-manufacturing-automation",
+              "alt": "Power Apps Automation for Ceramic Manufacturing | Softree Technology Case Studies",
+              "image_url": "https://images.openai.com/static-rsc-4/xXJ1Em7sPFHHh8ANxwsAiSqWqIuRl-GwcwX9IgTBV0OAwJd0V-sfyligUrHWRUIqr5K9hpTu75aVpvFzBkj_EglEBjM8soU5IvUuaeL9qaVjH0-TEM3DCTvcovLylUCIk35jHVyGsxg4LVHFUtS4EgNprm0Abglih9UDY0ieLTrBUd9fi3bzIlkjw4sDLp-F?purpose=fullsize",
+              "markdown": "![Power Apps Automation for Ceramic Manufacturing | Softree Technology Case Studies](https://images.openai.com/static-rsc-4/xXJ1Em7sPFHHh8ANxwsAiSqWqIuRl-GwcwX9IgTBV0OAwJd0V-sfyligUrHWRUIqr5K9hpTu75aVpvFzBkj_EglEBjM8soU5IvUuaeL9qaVjH0-TEM3DCTvcovLylUCIk35jHVyGsxg4LVHFUtS4EgNprm0Abglih9UDY0ieLTrBUd9fi3bzIlkjw4sDLp-F?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best fit for your brief)\n\nAustralian-wide delivery · Power Platform specialist\n\nInturing explicitly targets manufacturers running existing ERP, CRM and manufacturing systems. Its services include automated order processing, Power Apps for shop-floor capture, Power Automate workflows, system integration and operational dashboards—all without an ERP replacement. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)\n\n**Ask them about\\:** email/PDF order extraction, order validation against your ERP, production and quality data capture, and exception handling.\n\n[Website: inturing.com.au](https://inturing.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Solutions",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: inturing.com.au](https://inturing.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Cyberhaven Technologies\n\nHobart-based · Workflow automation and RPA\n\nA local option offering Microsoft Power Automate, robotic process automation (RPA), API integration and document processing. Its stated capabilities include manufacturing, logistics and order-processing workflows. [cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/?utm_source=chatgpt.com)\n\n**Ask them about\\:** automating repetitive ERP data entry, handling customer orders received in different formats, and integrating existing applications.\n\nContact: [cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/)\n\nConfirm their experience building Power Apps and supporting manufacturing deployments, rather than only office-based RPA.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "System Automation Services in Hobart",
+              "snippet": "Total lines: 444",
+              "domain": "cyberhaven.com.au",
+              "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "cyberhaven.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "cyberhaven.com.au",
+              "snippet": null,
+              "domain": "cyberhaven.com.au",
+              "url": "https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[cyberhaven.com.au](https://cyberhaven.com.au/our-services/system-automation-services-in-hobart/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Hobart IT and business automation consultancy",
+              "category": "company",
+              "markdown": "Cyberhaven Technologies",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Service and Support](https://images.openai.com/static-rsc-4/Zqp6c7h8SiP6dpOeV1KKTA8vdPhZNmpa_exGK_UwzFWriKBZq-19Hul_5nHJZp6K9n-d7qwVMk0YrjTae8wDk2JAegfQOlBDwKxw_OU9MrIWDwDC7LDE1hgRJBCacnCkgJvBJz1V3yvLFisNh1N0o8OqjaAZtsiVAxF0cSLrqZqcmVag_1EV-H9FOE-j3NUa?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.sageautomation.com/service-and-support",
+              "alt": "Service and Support",
+              "image_url": "https://images.openai.com/static-rsc-4/Zqp6c7h8SiP6dpOeV1KKTA8vdPhZNmpa_exGK_UwzFWriKBZq-19Hul_5nHJZp6K9n-d7qwVMk0YrjTae8wDk2JAegfQOlBDwKxw_OU9MrIWDwDC7LDE1hgRJBCacnCkgJvBJz1V3yvLFisNh1N0o8OqjaAZtsiVAxF0cSLrqZqcmVag_1EV-H9FOE-j3NUa?purpose=fullsize",
+              "markdown": "![Service and Support](https://images.openai.com/static-rsc-4/Zqp6c7h8SiP6dpOeV1KKTA8vdPhZNmpa_exGK_UwzFWriKBZq-19Hul_5nHJZp6K9n-d7qwVMk0YrjTae8wDk2JAegfQOlBDwKxw_OU9MrIWDwDC7LDE1hgRJBCacnCkgJvBJz1V3yvLFisNh1N0o8OqjaAZtsiVAxF0cSLrqZqcmVag_1EV-H9FOE-j3NUa?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. SAGE Automation\n\nHobart office · Industrial automation and control\n\nA strong candidate if shop-floor data capture needs to connect with PLCs, SCADA, machine controls or industrial reporting. SAGE's focus is industrial automation rather than Power Platform business applications. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJH44msLh0bqoRl9D-pnqlLv4&hl=en&utm_source=chatgpt.com)[www.google.com.br](https://www.google.com.br/maps/place/SAGE+Group/@-42.839329,147.2919729,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7597cfc21c57:0x6be030af0150c348!8m2!3d-42.839329!4d147.2945478!16s%2Fg%2F11pd0f0wbf?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** capturing machine status, downtime, production counts and quality measurements, then making that data available to your business systems.\n\n[Website: sageautomation.com](https://www.sageautomation.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "SAGE Automation",
+              "snippet": "137 Harrington St, Hobart TAS 7000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJH44msLh0bqoRl9D-pnqlLv4&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "SAGE Group",
+              "snippet": "47 Sunderland St, Moonah TAS 7009, Australia",
+              "domain": "www.google.com.br",
+              "url": "https://www.google.com.br/maps/place/SAGE+Group/@-42.839329,147.2919729,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7597cfc21c57:0x6be030af0150c348!8m2!3d-42.839329!4d147.2945478!16s%2Fg%2F11pd0f0wbf?hl=en&entry=ttu&g_ep=EgoyMDI2MDIxMC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com.br",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: sageautomation.com",
+              "snippet": null,
+              "domain": "www.sageautomation.com",
+              "url": "https://www.sageautomation.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: sageautomation.com](https://www.sageautomation.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "SAGE Automation",
+              "category": "local_business",
+              "markdown": "SAGE Automation",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Cromarty Automation | Innovative industrial automation](https://images.openai.com/static-rsc-4/xppZ_qeUwGj3OV5_IemWEuIcsEogjNiHakpm05H7Q5zRYD1tF9UpkRHn1ZjIMPUkoRg0YEvX0eQ3BtVtZJTJASVG7BpJFuavjOYNEWd-icoqcQcs7937oP2AE8AfbW-S5NZCvFJksqvEov4uNUlNuZj9Pm16mJsFLtLWCXQB9O8QO2BLo6tjgXHwyIXzDft7?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://cromartyautomation.com.au/",
+              "alt": "Cromarty Automation | Innovative industrial automation",
+              "image_url": "https://images.openai.com/static-rsc-4/xppZ_qeUwGj3OV5_IemWEuIcsEogjNiHakpm05H7Q5zRYD1tF9UpkRHn1ZjIMPUkoRg0YEvX0eQ3BtVtZJTJASVG7BpJFuavjOYNEWd-icoqcQcs7937oP2AE8AfbW-S5NZCvFJksqvEov4uNUlNuZj9Pm16mJsFLtLWCXQB9O8QO2BLo6tjgXHwyIXzDft7?purpose=fullsize",
+              "markdown": "![Cromarty Automation | Innovative industrial automation](https://images.openai.com/static-rsc-4/xppZ_qeUwGj3OV5_IemWEuIcsEogjNiHakpm05H7Q5zRYD1tF9UpkRHn1ZjIMPUkoRg0YEvX0eQ3BtVtZJTJASVG7BpJFuavjOYNEWd-icoqcQcs7937oP2AE8AfbW-S5NZCvFJksqvEov4uNUlNuZj9Pm16mJsFLtLWCXQB9O8QO2BLo6tjgXHwyIXzDft7?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Cromarty Automation\n\nMoonah · Industrial engineering and software integration\n\nA local alternative for PLC, HMI and SCADA systems, operational monitoring and reporting. This is particularly relevant when the production data originates on machinery rather than in a computerised business workflow. [www.google.com](https://www.google.com/maps/place/Cromarty+Automation/@-42.8430526,147.2898318,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e759a4636c405:0xf09427bbf992dc5f!8m2!3d-42.8430526!4d147.2898318!16s%2Fg%2F1tf08xd7?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** connecting machine-generated data to a reporting or integration layer that your Power Platform consultant can use.\n\nConfirm their current capability for ERP and Microsoft Power Platform integration.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Cromarty Automation",
+              "snippet": "86 Charles St, Moonah TAS 7009, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/Cromarty+Automation/@-42.8430526,147.2898318,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e759a4636c405:0xf09427bbf992dc5f!8m2!3d-42.8430526!4d147.2898318!16s%2Fg%2F1tf08xd7?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Cromarty Automation",
+              "category": "local_business",
+              "markdown": "Cromarty Automation",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![IT Support and IT MSP in Hobart  — IT Strategic](https://images.openai.com/static-rsc-4/sRnRv0dvalk6LH7ouHRAaVgx9mfo34rExEFkFMNmg5jn7l8ZFqZBbAxDB_z8PAogi6U3YT6SAHTddxEZoEzqc1-vuHoixrRi3iG8QaZTH6DnwAg1mAw45Vlce6dNvV2PjskgI1T7J06MUp7-40xPrSSwhxUhzB-d0PO6ZJq2dHA9WqEADTBmYru7rXY_X9uk?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.itstrategic.com.au/tasmania",
+              "alt": "IT Support and IT MSP in Hobart  — IT Strategic",
+              "image_url": "https://images.openai.com/static-rsc-4/sRnRv0dvalk6LH7ouHRAaVgx9mfo34rExEFkFMNmg5jn7l8ZFqZBbAxDB_z8PAogi6U3YT6SAHTddxEZoEzqc1-vuHoixrRi3iG8QaZTH6DnwAg1mAw45Vlce6dNvV2PjskgI1T7J06MUp7-40xPrSSwhxUhzB-d0PO6ZJq2dHA9WqEADTBmYru7rXY_X9uk?purpose=fullsize",
+              "markdown": "![IT Support and IT MSP in Hobart  — IT Strategic](https://images.openai.com/static-rsc-4/sRnRv0dvalk6LH7ouHRAaVgx9mfo34rExEFkFMNmg5jn7l8ZFqZBbAxDB_z8PAogi6U3YT6SAHTddxEZoEzqc1-vuHoixrRi3iG8QaZTH6DnwAg1mAw45Vlce6dNvV2PjskgI1T7J06MUp7-40xPrSSwhxUhzB-d0PO6ZJq2dHA9WqEADTBmYru7rXY_X9uk?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Buftec\n\nHobart-based · ERP integration, databases and legacy systems\n\nBuftec works across business applications, databases, APIs, reporting and legacy-system modernisation, with an emphasis on protecting live production systems. [www.buftec.com](https://www.buftec.com/?utm_source=chatgpt.com)\n\n**Ask them about\\:** assessing your ERP's integration options, database access, APIs and safe ways to automate data exchange.\n\nContact: [buftec.com](https://www.buftec.com/)\n\nTreat this as a technical integration candidate, not a confirmed specialist Power Platform partner.\n\n## Where the local consultants are\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Buftec",
+              "snippet": "Total lines: 259",
+              "domain": "www.buftec.com",
+              "url": "https://www.buftec.com/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Business Systems & Technology Consulting",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "buftec.com",
+              "snippet": null,
+              "domain": "www.buftec.com",
+              "url": "https://www.buftec.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[buftec.com](https://www.buftec.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Hobart business systems and technology consultancy",
+              "category": "company",
+              "markdown": "Buftec",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "SAGE Automation",
+              "description": "Automation company",
+              "address": "137 Harrington St, Hobart TAS 7000, Australia",
+              "phone": "+61 1300 007 243",
+              "reviews_count": null,
+              "url": "https://www.sageautomation.com/",
+              "domain": "www.sageautomation.com",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Cromarty Automation",
+              "description": "Automation company",
+              "address": "86 Charles St, Moonah TAS 7009, Australia",
+              "phone": "+61 1300 365 136",
+              "reviews_count": 4,
+              "url": "http://www.cromarty.com.au/",
+              "domain": "www.cromarty.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "UXC Eclipse",
+              "description": "Software company",
+              "address": "3/21 Kirksway Pl, Hobart TAS 7004, Australia",
+              "phone": "+61 3 6235 2222",
+              "reviews_count": null,
+              "url": null,
+              "domain": null,
+              "rating": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\nAlso worth considering is UXC Eclipse, now associated with DXC, which has a Hobart presence and Microsoft business applications experience. It may be worth contacting for larger-scale Microsoft integration requirements, particularly if your ERP is already Microsoft Dynamics. Confirm the proposed team's current Power Platform delivery experience before engaging.\n\n## How I would divide the work\n\nFor your three objectives, I would initially approach **Inturing, Cyberhaven and SAGE Automation**\\. Together, those conversations should help establish whether you need a single Power Platform delivery partner or a business-automation and industrial-automation pairing.\n\n**Order processing**\n\nUse Power Automate to ingest orders from email or documents, validate required fields, route exceptions for approval, and create or update ERP records through supported interfaces.\n\n**Shop-floor data capture**\n\nUse Power Apps for operator inputs, inspections, scrap and downtime records. If data needs to come directly from machinery, involve an industrial automation specialist to connect the control systems safely.\n\n**Operations visibility**\n\nUse Power BI for production, order backlog, delivery performance and quality dashboards, with the ERP remaining the authoritative source for transactional data.\n\n## Questions to ask before selecting a partner\n\n1. **Have you integrated Power Platform with our particular ERP?** Ask for a relevant reference, not just a list of connectors.\n2. Can you use our ERP's APIs or supported integration interfaces instead of relying on fragile screen-clicking automation?\n3. How will you prevent duplicate orders, handle failed integrations and reconcile data?\n4. Can shop-floor apps work on shared tablets or industrial devices, including areas with unreliable connectivity?\n5. Will we own the solution, documentation, flows, apps and support arrangements after handover?\n6. Can you deliver a fixed-scope pilot with measurable outcomes before committing to a broader programme?\n\nMy preference would be to start with a small order-processing pilot, prove that it integrates reliably with your existing ERP, and then extend the architecture to shop-floor capture.\n\n## One question that would sharpen the shortlist\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Advanced, SAP, Epicor, NetSuite, Microsoft Dynamics, or a custom/legacy system.\n\nThe ERP name will help distinguish consultants with relevant integration experience from those who offer general Power Platform development but may struggle with your specific manufacturing environment.",
+          "sources": null,
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "UXC Eclipse",
+              "category": "local_business",
+              "markdown": "UXC Eclipse",
+              "urls": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

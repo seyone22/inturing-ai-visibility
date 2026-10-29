@@ -1,0 +1,272 @@
+{
+  "slug": "adelaide",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Adelaide specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:56.898Z",
+  "cost": 0.069916,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10777,
+      "output_tokens": 1799,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.069316,
+      "datetime": "2026-10-29 04:08:51 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Here's a roundup of the most relevant AI automation consultants serving Adelaide businesses, with a particular focus on Microsoft Copilot Studio, AI agents, and practical workflow automation for mid-market organisations:\n\n---\n\n## 🏆 1. **Frontrow Technology** — *Adelaide's Microsoft MVP-led Copilot Specialist*\n🔗 [frontrowtech.com.au/copilot-adelaide](https://frontrowtech.com.au/copilot-adelaide)\n\nThis is the standout Adelaide-specific option. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daniel Brown, Frontrow's AI lead, is a 5× Microsoft MVP in Office Apps and Services (Copilot and Microsoft 365 focus) and is based in Adelaide. He's also the lead of the Adelaide Microsoft 365 & Copilot User Group.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Adelaide — led by a 5× Microsoft MVP",
+                  "url": "https://frontrowtech.com.au/copilot-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build custom Copilot Studio agents purpose-built and grounded on your line-of-business data — and this is Daniel's specialty, as he holds the Microsoft Agentic AI Business Solutions Architect credential.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Adelaide — led by a 5× Microsoft MVP",
+                  "url": "https://frontrowtech.com.au/copilot-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir services include:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Copilot deployment and pilot, including identity remediation, Purview labels, pilot group measurement, and phased rollout — delivered in 8–14 weeks.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Adelaide — led by a 5× Microsoft MVP",
+                  "url": "https://frontrowtech.com.au/copilot-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- AI readiness assessments and AI governance frameworks.\n\n**Best for:** Mid-market Adelaide businesses wanting deep Microsoft Copilot and agent expertise from a locally based, credentialled specialist.\n\n---\n\n## 🥈 2. **CG Tech** — *Practical AI Agents & Automation for Adelaide Teams*\n🔗 [cgtech.com.au/locations/adelaide](https://cgtech.com.au/locations/adelaide)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CG Tech puts automation and AI to work in Adelaide and South Australia teams, taking real, repetitive work off people so they can focus on higher-value work — running from AI roadmap and governance through Microsoft 365 and Copilot.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help Adelaide businesses get more from the Microsoft tools they already pay for, then add automation and AI where it saves real time — with senior people, plain language, wherever you are.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nThey have real-world Copilot Studio case studies, including:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A community transport provider that matched volunteers to clients by hand — CG Tech built a proof-of-concept agent in Copilot Studio that suggests ranked matches with clear reasons.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For ECH, they optimised a Copilot Studio agent and the SharePoint knowledge behind it, and added multilingual support.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Adelaide and South Australian organisations wanting practical, senior-led AI agent builds with demonstrated Copilot Studio experience.\n\n---\n\n## 🥉 3. **A1 Technologies** — *Microsoft Solutions Partner Serving Adelaide*\n🔗 [a1t.com.au](https://www.a1t.com.au/microsoft-power-platform/microsoft-copilot-studio/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A1 Technologies is a certified Microsoft Solutions Partner with deep capability across Modern Work, Azure, and Data & AI — helping businesses get the most from Microsoft Copilot Studio, from agent logic to security governance, aligned with Microsoft's best practices.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Studio",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/microsoft-copilot-studio/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They've helped Australian businesses design and deploy automation across Microsoft 365 and, through Copilot Studio, are enabling a new wave of intelligent workflows, bringing practical insight and repeatable strategies to every project.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Studio",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/microsoft-copilot-studio/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They explicitly list Adelaide as a service area.\n\n**Best for:** Mid-market businesses wanting a certified Microsoft partner with broad M365 and Azure capability alongside Copilot Studio delivery.\n\n---\n\n## 4. **Discover (Discover.com.au)** — *Melbourne & Adelaide AI Managed Services*\n🔗 [discover.com.au](https://discover.com.au/services/microsoft-copilot-ai/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their IT consulting services in Melbourne and Adelaide include building custom Copilot solutions using Microsoft's AI Builder and Power Platform, ensuring the technology amplifies your existing strengths.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot and AI",
+                  "url": "https://discover.com.au/services/microsoft-copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer flexible managed services packages designed for everyone from small business IT support through to enterprise deployments, ensuring businesses across Melbourne and Adelaide can access enterprise AI capabilities within their budget.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot and AI",
+                  "url": "https://discover.com.au/services/microsoft-copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Adelaide businesses wanting ongoing managed AI services with flexible pricing tiers.\n\n---\n\n## 5. **Affinity MSP / Copilot Solutions** — *High-Volume National Copilot Studio Partner*\n🔗 [copilotsolutions.com.au](https://copilotsolutions.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Affinity MSP is Australia's leading Microsoft Copilot Studio partner, with 200+ deployments across IT, Finance, HR, and Customer Service.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help Australian enterprises deploy intelligent AI agents across IT, Finance, HR, and Customer Service — fully governed, deeply integrated, and live in weeks.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Mid-market to enterprise businesses wanting a high-volume, nationally scaled Copilot Studio deployment partner.\n\n---\n\n## 📊 Quick Comparison\n\n| Consultant | Adelaide-Based | Copilot Studio | AI Agents | Mid-Market Focus |\n|---|---|---|---|---|\n| **Frontrow Technology** | ✅ Yes (MVP-led) | ✅ Specialty | ✅ Yes | ✅ Yes |\n| **CG Tech** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |\n| **A1 Technologies** | 🔶 Serves Adelaide | ✅ Yes | ✅ Yes | ✅ Yes |\n| **Discover** | 🔶 Serves Adelaide | ✅ Yes | 🔶 Partial | ✅ Yes |\n| **Affinity MSP** | 🔶 National | ✅ Specialty | ✅ Yes | ✅ Yes |\n\n---\n\n**💡 Top Recommendation:** If you want someone **locally based in Adelaide** with the deepest Microsoft Copilot Studio and AI agent credentials, **Frontrow Technology** (Daniel Brown) is the clear standout — a 5× Microsoft MVP and Microsoft Certified Agentic AI Business Solutions Architect who is also the leader of the Adelaide Microsoft 365 & Copilot User Group. For a more operationally focused, practical automation approach with local Adelaide case studies, **CG Tech** is also worth a close look.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Adelaide Microsoft Copilot Studio AI agents mid-market businesses",
+        "Adelaide AI workflow automation consultants Microsoft Copilot mid-market 2024 2025"
+      ]
+    }
+  ]
+}

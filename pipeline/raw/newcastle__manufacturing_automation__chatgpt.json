@@ -1,0 +1,718 @@
+{
+  "slug": "newcastle",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:18.810Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Newcastle%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:10:13 +00:00",
+      "markdown": "For a Newcastle manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d start with consultants who understand both manufacturing workflows and system integration — not just people who build Power Apps.\n\nMy shortlist prioritises Newcastle and Hunter Region providers, with a specialist Microsoft Power Platform consultancy as an additional option. One important distinction: **business-process automation** \\(orders, approvals, data capture and reporting) is different from **industrial automation** \\(PLCs, machine controls, SCADA and equipment connectivity). Your project may need one or both.\n\n## The consultants I’d speak to first\n\n![Sage AI's talk at Newcastle University on AI in finance | Daniel Forrester posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/Q5VzZn_mHCCT6vs9XtonabO69DQuU3oOH9TzzZDb9d9v_lke1BKwz9L-zqm_TO9bkpnnvbgeb7pUz5HiCrgZmI0QX-CcYlLyq9X6O5jecw2de4pXaI5TW-l9Je5n_8z0hcJtGQwEDRBWtnxmvGCYZIajz6y9gr1z1lqgHIbDyVyhUNtUuzm6j-SvTJ6ptrD9?purpose=fullsize)\n\n## 1\\. Team10\n\n(Best local starting point)\n\n**Best for\\:** ERP-connected order processing, operational workflows and manufacturing reporting.\n\nNewcastle-based, with manufacturing-specific offerings covering purchase-order automation, production alerts, shift handovers, approvals and integrations with ERP systems, SQL databases and Microsoft tools. It specifically describes integrations with Pronto Xi and Harmoniq. [team10.com.au](https://team10.com.au/ai-for-manufacturing-newcastle.php?utm_source=chatgpt.com)[team10.com.au](https://team10.com.au/integrations.php?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate an order-to-ERP workflow and a shop-floor data capture solution using our current systems?\n\nWebsite: [team10.com.au](https://team10.com.au/)\n\n---\n\n![FUJIFILM Business Innovation | New Zealand](https://images.openai.com/static-rsc-4/-iIhuj8GuJ6L1Ey0k42gFOjgc_e4cGaw75KN82_8W-HUxqHizEVAPnjVeuWRgxokShdheQvk64UIr576RUn0EDeevkfIjbTrawH_FgUsjM0jA0ol4dTpQJpHkCyCwm9ePzf8KM9oYZdgeRHlUMe9thL5is3-2TOuTOMezLsL7jVn4IoxhamYuLMj-Z89v39G?purpose=fullsize)\n\n## 2\\. Inturing\n\n(Best Power Platform fit)\n\n**Best for\\:** Power Apps, Power Automate, mobile shop-floor forms and Microsoft-based ERP integration.\n\nInturing explicitly targets manufacturers using Microsoft 365 alongside existing ERP and manufacturing systems. Its services include order processing, inspection records, approvals, supplier onboarding and operational reporting. It identifies itself as a Microsoft Solutions Partner for Power Platform and delivers across Australia from Sydney. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you build governed Power Apps and Power Automate workflows that write safely to our existing ERP, without introducing a competing system of record?\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\n---\n\n![BizAutomate | Business Automation & Systems Partner](https://images.openai.com/static-rsc-4/_PXjtYcIEjEfcceUJnWNjuEaNYIN6ESt-tXl8Kx0fGnLWPnfaE2I3wFHuI7vndRNI3uI63qDQ5oowA8ST-hamhCCSKZzyALRTrQEYaPRO5X6uH9l6BSt-TUm58Xz7Q1EXN75lW5X06AbZSH_98Tl1Bpbufkh8BiC_RNgOtI6hZpW7fz4vdSsupP_T2pizVf5?purpose=fullsize)\n\n## 3\\. BitLogical\n\n**Best for\\:** Connecting existing systems and eliminating manual data transfer.\n\nNewcastle-based, BitLogical offers systems integration, workflow automation, custom software and dashboards. Its approach is to understand the process first, then build and test a scoped solution with the client. Its published technology stack includes APIs, webhooks, n8n, Make and custom software rather than a Power Platform-only approach. [bitlogical.com.au](https://bitlogical.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you integrate our ERP with Microsoft 365 and shop-floor applications, and would you recommend Power Platform or another integration approach for our environment?\n\nWebsite: [bitlogical.com.au](https://bitlogical.com.au/)\n\n---\n\n\n\n## 4\\. Jaegersoft\n\n**Best for\\:** More complex manufacturing applications and bespoke software.\n\nBased in Charlestown, Jaegersoft focuses on software engineering and operationally complex industries, including heavy industry, manufacturing and engineering. It is worth approaching if shop-floor capture needs to become a tailored application, or if your requirements exceed standard low-code workflows. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJrzcMRFwhc2sRIelMa_t2Uys&hl=en&utm_source=chatgpt.com)\n\n**Ask them\\:** Can you build a robust production data capture application that integrates with our ERP and existing plant systems? Also confirm their specific Power Platform delivery experience.\n\nWebsite: [jaegersoft.com.au](https://jaegersoft.com.au/)\n\n## If shop-floor automation includes machinery\n\nIf by shop-floor data capture you also mean PLCs, machine signals, SCADA or production-line controls, consider a separate industrial automation partner. These businesses are not interchangeable with Power Platform consultants.\n\n![SCADA & HMI Perth | Gold Certified Ignition Integrator | ElcoTech](https://images.openai.com/static-rsc-4/7JVkLe3XtaR4KBMCTKH3TGcnYqGWAE0kbRRNFvzwbvuJQMwVQMrf7z8sqXLUZR7GGPUO7wDjZaoG1yyRB_pau1qTsAOdzEZ__FsfYSUttlzXLtJgQhqC5OjqJikreMAG6TYHqsisK2FBYmm9AvCWO94gLA-rWYndSY0yn7Y4qcKs2vAhCbegSkuTu13h1t5R?purpose=fullsize)\n\n**SAFEgroup Automation**\n\nMayfield West, Newcastle. Focuses on industrial control systems, telemetry and operational technology. A potential partner for connecting plant-level data and control infrastructure to business systems.\n\nWebsite: [safegroup.com.au](https://www.safegroup.com.au/)\n\n![Production Performance](https://images.openai.com/static-rsc-4/0WPh3JF-x1BK0L_K4MCUgCnUlo3ER_ZBHYXGplxQn8762okLURjrMvjGsYxBO7DA2mWT_-gDe5EO4SlLt4B0x9EnRC00orxsafzl_NIzcXaUNglNbD1inIBbdtIQHa7va90ygAapoS4U0JH51Agra9OP7j7ULshew_wp9j-bsltGgm4NQFm5AerCy5Du7hme?purpose=fullsize)\n\n**Process Automation & Controls**\n\nAdamstown, NSW. An industrial automation and controls specialist to investigate for machinery interfaces, controls and production-line automation.\n\nWebsite: [processautomation.com.au](https://processautomation.com.au/)\n\nThese two are worth qualifying for the plant side of your project; I haven't verified that either offers Microsoft Power Platform consulting.\n\n## How I would shortlist them\n\n| Your priority | Speak to first |\n|--------|--------|\n| Automate orders, purchasing and approvals | Team10 |\n| Build Power Apps and Power Automate solutions | Inturing |\n| Integrate disconnected ERP and business systems | Team10 and BitLogical |\n| Develop a bespoke production application | Jaegersoft |\n| Connect machinery and industrial controls | SAFEgroup or Process Automation &amp; Controls |\n\n\n## What to ask in the first meeting\n\nGive each shortlisted consultant the same brief, so you can compare proposals fairly.\n\n1. **Order processing\\:** Capture customer purchase orders from email or PDF, validate products, prices and customer details, create draft ERP orders, and route exceptions to staff.\n2. **Shop-floor capture\\:** Replace paper or spreadsheets with tablet-based job progress, quantities produced, downtime, quality checks and operator sign-offs.\n3. **ERP integration\\:** Explain exactly how data will move between the existing ERP and the new workflows. Ask whether they use supported APIs, connectors, middleware or database access, and how they handle failed transactions and duplicate orders.\n4. **Reporting\\:** Show how production and order data will reach Power BI or your existing reporting environment.\n5. **Ownership and support\\:** Request documentation, source ownership, licensing costs, security controls and a clear handover plan.\n\nI'd start with a small pilot — one order-processing workflow or one production area — before committing to a broader automation programme.\n\n## One detail that would help narrow this down\n\n**Which ERP are you running today?** For example, Pronto Xi, SAP, MYOB Acumatica, Epicor, Infor, Microsoft Dynamics, or a bespoke system.\n\nThat will materially change which consultant is the strongest fit, particularly for reliable ERP integration and shop-floor data capture.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": "Total lines: 152\n",
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/ai-for-manufacturing-newcastle.php",
+          "domain": "team10.com.au",
+          "title": "AI for Manufacturing — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/",
+          "domain": "team10.com.au",
+          "title": "Team10 — AI Automation & Business Technology | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/integrations.php",
+          "domain": "team10.com.au",
+          "title": "System Integrations — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/industries.php",
+          "domain": "team10.com.au",
+          "title": "Industries We Work With — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/ai-for-wholesale-newcastle.php",
+          "domain": "team10.com.au",
+          "title": "AI for Wholesale & Distribution — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/ai-for-manufacturing-newcastle.php",
+          "domain": "team10.com.au",
+          "title": "AI for Manufacturing — Team10 | Newcastle NSW",
+          "description": "Total lines: 141\n",
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/",
+          "domain": "team10.com.au",
+          "title": "Team10 — AI Automation & Business Technology | Newcastle NSW",
+          "description": "Total lines: 327\n",
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/integrations.php",
+          "domain": "team10.com.au",
+          "title": "System Integrations — Team10 | Newcastle NSW",
+          "description": "Total lines: 190\n",
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bitlogical.com.au/",
+          "domain": "bitlogical.com.au",
+          "title": "Systems Integration & AI Automation | BitLogical Newcastle",
+          "description": null,
+          "breadcrumb": "bitlogical.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bitlogical.com.au/",
+          "domain": "bitlogical.com.au",
+          "title": "Systems Integration & AI Automation | BitLogical Newcastle",
+          "description": "Total lines: 246\n",
+          "breadcrumb": "bitlogical.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://infinitydevelopments.com.au/",
+          "domain": "infinitydevelopments.com.au",
+          "title": "Dynamics 365 & Power Platform Consultants | Infinity Developments",
+          "description": null,
+          "breadcrumb": "infinitydevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://legodynamics.com.au/",
+          "domain": "legodynamics.com.au",
+          "title": "Home - legodynamics",
+          "description": null,
+          "breadcrumb": "legodynamics.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.precisiondatapartners.com.au/newcastle/",
+          "domain": "www.precisiondatapartners.com.au",
+          "title": "AI Consulting Newcastle & Hunter | Precision Data Partners",
+          "description": null,
+          "breadcrumb": "www.precisiondatapartners.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.norbrik.com/",
+          "domain": "www.norbrik.com",
+          "title": "Norbrik: Process automation and AI, Sydney",
+          "description": null,
+          "breadcrumb": "www.norbrik.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "AI for Manufacturing — Team10",
+          "snippet": "Total lines: 141",
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/ai-for-manufacturing-newcastle.php?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Newcastle NSW",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "System Integrations — Team10",
+          "snippet": "Total lines: 190",
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/integrations.php?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Newcastle NSW",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "team10.com.au",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[team10.com.au](https://team10.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": "Total lines: 152",
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Systems Integration & AI Automation",
+          "snippet": "Total lines: 246",
+          "domain": "bitlogical.com.au",
+          "url": "https://bitlogical.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "BitLogical Newcastle",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "bitlogical.com.au",
+          "snippet": null,
+          "domain": "bitlogical.com.au",
+          "url": "https://bitlogical.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[bitlogical.com.au](https://bitlogical.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Jaegersoft",
+          "snippet": "63 Ridley St, Charlestown NSW 2290, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJrzcMRFwhc2sRIelMa_t2Uys&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "jaegersoft.com.au",
+          "snippet": null,
+          "domain": "jaegersoft.com.au",
+          "url": "https://jaegersoft.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[jaegersoft.com.au](https://jaegersoft.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "safegroup.com.au",
+          "snippet": null,
+          "domain": "www.safegroup.com.au",
+          "url": "https://www.safegroup.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[safegroup.com.au](https://www.safegroup.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "processautomation.com.au",
+          "snippet": null,
+          "domain": "processautomation.com.au",
+          "url": "https://processautomation.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[processautomation.com.au](https://processautomation.com.au/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Newcastle NSW manufacturing automation consultants Microsoft Power Platform Power Automate ERP integration shop floor data capture"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle NSW business automation and systems integration consultancy",
+          "category": "company",
+          "markdown": "Team10",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle NSW systems integration and workflow automation consultancy",
+          "category": "company",
+          "markdown": "BitLogical",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Jaegersoft",
+          "category": "local_business",
+          "markdown": "Jaegersoft",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "SAFEgroup Automation",
+          "category": "local_business",
+          "markdown": "SAFEgroup Automation",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Process Automation & Controls",
+          "category": "local_business",
+          "markdown": "Process Automation & Controls",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Newcastle manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d start with consultants who understand both manufacturing workflows and system integration — not just people who build Power Apps.\n\nMy shortlist prioritises Newcastle and Hunter Region providers, with a specialist Microsoft Power Platform consultancy as an additional option. One important distinction: **business-process automation** \\(orders, approvals, data capture and reporting) is different from **industrial automation** \\(PLCs, machine controls, SCADA and equipment connectivity). Your project may need one or both.\n\n## The consultants I’d speak to first\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Sage AI's talk at Newcastle University on AI in finance | Daniel Forrester posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/Q5VzZn_mHCCT6vs9XtonabO69DQuU3oOH9TzzZDb9d9v_lke1BKwz9L-zqm_TO9bkpnnvbgeb7pUz5HiCrgZmI0QX-CcYlLyq9X6O5jecw2de4pXaI5TW-l9Je5n_8z0hcJtGQwEDRBWtnxmvGCYZIajz6y9gr1z1lqgHIbDyVyhUNtUuzm6j-SvTJ6ptrD9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.linkedin.com/posts/-daniel-forrester_attending-sage-ais-talk-at-newcastle-university-activity-7396622811827609601-MrlO",
+              "alt": "Sage AI's talk at Newcastle University on AI in finance | Daniel Forrester posted on the topic | LinkedIn",
+              "image_url": "https://images.openai.com/static-rsc-4/Q5VzZn_mHCCT6vs9XtonabO69DQuU3oOH9TzzZDb9d9v_lke1BKwz9L-zqm_TO9bkpnnvbgeb7pUz5HiCrgZmI0QX-CcYlLyq9X6O5jecw2de4pXaI5TW-l9Je5n_8z0hcJtGQwEDRBWtnxmvGCYZIajz6y9gr1z1lqgHIbDyVyhUNtUuzm6j-SvTJ6ptrD9?purpose=fullsize",
+              "markdown": "![Sage AI's talk at Newcastle University on AI in finance | Daniel Forrester posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/Q5VzZn_mHCCT6vs9XtonabO69DQuU3oOH9TzzZDb9d9v_lke1BKwz9L-zqm_TO9bkpnnvbgeb7pUz5HiCrgZmI0QX-CcYlLyq9X6O5jecw2de4pXaI5TW-l9Je5n_8z0hcJtGQwEDRBWtnxmvGCYZIajz6y9gr1z1lqgHIbDyVyhUNtUuzm6j-SvTJ6ptrD9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Team10\n\n(Best local starting point)\n\n**Best for\\:** ERP-connected order processing, operational workflows and manufacturing reporting.\n\nNewcastle-based, with manufacturing-specific offerings covering purchase-order automation, production alerts, shift handovers, approvals and integrations with ERP systems, SQL databases and Microsoft tools. It specifically describes integrations with Pronto Xi and Harmoniq. [team10.com.au](https://team10.com.au/ai-for-manufacturing-newcastle.php?utm_source=chatgpt.com)[team10.com.au](https://team10.com.au/integrations.php?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate an order-to-ERP workflow and a shop-floor data capture solution using our current systems?\n\nWebsite: [team10.com.au](https://team10.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI for Manufacturing — Team10",
+              "snippet": "Total lines: 141",
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/ai-for-manufacturing-newcastle.php?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Newcastle NSW",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "System Integrations — Team10",
+              "snippet": "Total lines: 190",
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/integrations.php?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Newcastle NSW",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "team10.com.au",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[team10.com.au](https://team10.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle NSW business automation and systems integration consultancy",
+              "category": "company",
+              "markdown": "Team10",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![FUJIFILM Business Innovation | New Zealand](https://images.openai.com/static-rsc-4/-iIhuj8GuJ6L1Ey0k42gFOjgc_e4cGaw75KN82_8W-HUxqHizEVAPnjVeuWRgxokShdheQvk64UIr576RUn0EDeevkfIjbTrawH_FgUsjM0jA0ol4dTpQJpHkCyCwm9ePzf8KM9oYZdgeRHlUMe9thL5is3-2TOuTOMezLsL7jVn4IoxhamYuLMj-Z89v39G?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.fujifilm.com/fbnz/en",
+              "alt": "FUJIFILM Business Innovation | New Zealand",
+              "image_url": "https://images.openai.com/static-rsc-4/-iIhuj8GuJ6L1Ey0k42gFOjgc_e4cGaw75KN82_8W-HUxqHizEVAPnjVeuWRgxokShdheQvk64UIr576RUn0EDeevkfIjbTrawH_FgUsjM0jA0ol4dTpQJpHkCyCwm9ePzf8KM9oYZdgeRHlUMe9thL5is3-2TOuTOMezLsL7jVn4IoxhamYuLMj-Z89v39G?purpose=fullsize",
+              "markdown": "![FUJIFILM Business Innovation | New Zealand](https://images.openai.com/static-rsc-4/-iIhuj8GuJ6L1Ey0k42gFOjgc_e4cGaw75KN82_8W-HUxqHizEVAPnjVeuWRgxokShdheQvk64UIr576RUn0EDeevkfIjbTrawH_FgUsjM0jA0ol4dTpQJpHkCyCwm9ePzf8KM9oYZdgeRHlUMe9thL5is3-2TOuTOMezLsL7jVn4IoxhamYuLMj-Z89v39G?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Inturing\n\n(Best Power Platform fit)\n\n**Best for\\:** Power Apps, Power Automate, mobile shop-floor forms and Microsoft-based ERP integration.\n\nInturing explicitly targets manufacturers using Microsoft 365 alongside existing ERP and manufacturing systems. Its services include order processing, inspection records, approvals, supplier onboarding and operational reporting. It identifies itself as a Microsoft Solutions Partner for Power Platform and delivers across Australia from Sydney. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you build governed Power Apps and Power Automate workflows that write safely to our existing ERP, without introducing a competing system of record?\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": "Total lines: 152",
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![BizAutomate | Business Automation & Systems Partner](https://images.openai.com/static-rsc-4/_PXjtYcIEjEfcceUJnWNjuEaNYIN6ESt-tXl8Kx0fGnLWPnfaE2I3wFHuI7vndRNI3uI63qDQ5oowA8ST-hamhCCSKZzyALRTrQEYaPRO5X6uH9l6BSt-TUm58Xz7Q1EXN75lW5X06AbZSH_98Tl1Bpbufkh8BiC_RNgOtI6hZpW7fz4vdSsupP_T2pizVf5?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://bizautomate.com.au/business-automation",
+              "alt": "BizAutomate | Business Automation & Systems Partner",
+              "image_url": "https://images.openai.com/static-rsc-4/_PXjtYcIEjEfcceUJnWNjuEaNYIN6ESt-tXl8Kx0fGnLWPnfaE2I3wFHuI7vndRNI3uI63qDQ5oowA8ST-hamhCCSKZzyALRTrQEYaPRO5X6uH9l6BSt-TUm58Xz7Q1EXN75lW5X06AbZSH_98Tl1Bpbufkh8BiC_RNgOtI6hZpW7fz4vdSsupP_T2pizVf5?purpose=fullsize",
+              "markdown": "![BizAutomate | Business Automation & Systems Partner](https://images.openai.com/static-rsc-4/_PXjtYcIEjEfcceUJnWNjuEaNYIN6ESt-tXl8Kx0fGnLWPnfaE2I3wFHuI7vndRNI3uI63qDQ5oowA8ST-hamhCCSKZzyALRTrQEYaPRO5X6uH9l6BSt-TUm58Xz7Q1EXN75lW5X06AbZSH_98Tl1Bpbufkh8BiC_RNgOtI6hZpW7fz4vdSsupP_T2pizVf5?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. BitLogical\n\n**Best for\\:** Connecting existing systems and eliminating manual data transfer.\n\nNewcastle-based, BitLogical offers systems integration, workflow automation, custom software and dashboards. Its approach is to understand the process first, then build and test a scoped solution with the client. Its published technology stack includes APIs, webhooks, n8n, Make and custom software rather than a Power Platform-only approach. [bitlogical.com.au](https://bitlogical.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you integrate our ERP with Microsoft 365 and shop-floor applications, and would you recommend Power Platform or another integration approach for our environment?\n\nWebsite: [bitlogical.com.au](https://bitlogical.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Systems Integration & AI Automation",
+              "snippet": "Total lines: 246",
+              "domain": "bitlogical.com.au",
+              "url": "https://bitlogical.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "BitLogical Newcastle",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "bitlogical.com.au",
+              "snippet": null,
+              "domain": "bitlogical.com.au",
+              "url": "https://bitlogical.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[bitlogical.com.au](https://bitlogical.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle NSW systems integration and workflow automation consultancy",
+              "category": "company",
+              "markdown": "BitLogical",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Jaegersoft\n\n**Best for\\:** More complex manufacturing applications and bespoke software.\n\nBased in Charlestown, Jaegersoft focuses on software engineering and operationally complex industries, including heavy industry, manufacturing and engineering. It is worth approaching if shop-floor capture needs to become a tailored application, or if your requirements exceed standard low-code workflows. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJrzcMRFwhc2sRIelMa_t2Uys&hl=en&utm_source=chatgpt.com)\n\n**Ask them\\:** Can you build a robust production data capture application that integrates with our ERP and existing plant systems? Also confirm their specific Power Platform delivery experience.\n\nWebsite: [jaegersoft.com.au](https://jaegersoft.com.au/)\n\n## If shop-floor automation includes machinery\n\nIf by shop-floor data capture you also mean PLCs, machine signals, SCADA or production-line controls, consider a separate industrial automation partner. These businesses are not interchangeable with Power Platform consultants.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Jaegersoft",
+              "snippet": "63 Ridley St, Charlestown NSW 2290, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJrzcMRFwhc2sRIelMa_t2Uys&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "jaegersoft.com.au",
+              "snippet": null,
+              "domain": "jaegersoft.com.au",
+              "url": "https://jaegersoft.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[jaegersoft.com.au](https://jaegersoft.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Jaegersoft",
+              "category": "local_business",
+              "markdown": "Jaegersoft",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![SCADA & HMI Perth | Gold Certified Ignition Integrator | ElcoTech](https://images.openai.com/static-rsc-4/7JVkLe3XtaR4KBMCTKH3TGcnYqGWAE0kbRRNFvzwbvuJQMwVQMrf7z8sqXLUZR7GGPUO7wDjZaoG1yyRB_pau1qTsAOdzEZ__FsfYSUttlzXLtJgQhqC5OjqJikreMAG6TYHqsisK2FBYmm9AvCWO94gLA-rWYndSY0yn7Y4qcKs2vAhCbegSkuTu13h1t5R?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.elcotech.com.au/services/ignition-scada",
+              "alt": "SCADA & HMI Perth | Gold Certified Ignition Integrator | ElcoTech",
+              "image_url": "https://images.openai.com/static-rsc-4/7JVkLe3XtaR4KBMCTKH3TGcnYqGWAE0kbRRNFvzwbvuJQMwVQMrf7z8sqXLUZR7GGPUO7wDjZaoG1yyRB_pau1qTsAOdzEZ__FsfYSUttlzXLtJgQhqC5OjqJikreMAG6TYHqsisK2FBYmm9AvCWO94gLA-rWYndSY0yn7Y4qcKs2vAhCbegSkuTu13h1t5R?purpose=fullsize",
+              "markdown": "![SCADA & HMI Perth | Gold Certified Ignition Integrator | ElcoTech](https://images.openai.com/static-rsc-4/7JVkLe3XtaR4KBMCTKH3TGcnYqGWAE0kbRRNFvzwbvuJQMwVQMrf7z8sqXLUZR7GGPUO7wDjZaoG1yyRB_pau1qTsAOdzEZ__FsfYSUttlzXLtJgQhqC5OjqJikreMAG6TYHqsisK2FBYmm9AvCWO94gLA-rWYndSY0yn7Y4qcKs2vAhCbegSkuTu13h1t5R?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n**SAFEgroup Automation**\n\nMayfield West, Newcastle. Focuses on industrial control systems, telemetry and operational technology. A potential partner for connecting plant-level data and control infrastructure to business systems.\n\nWebsite: [safegroup.com.au](https://www.safegroup.com.au/)\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "safegroup.com.au",
+              "snippet": null,
+              "domain": "www.safegroup.com.au",
+              "url": "https://www.safegroup.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[safegroup.com.au](https://www.safegroup.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "SAFEgroup Automation",
+              "category": "local_business",
+              "markdown": "SAFEgroup Automation",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Production Performance](https://images.openai.com/static-rsc-4/0WPh3JF-x1BK0L_K4MCUgCnUlo3ER_ZBHYXGplxQn8762okLURjrMvjGsYxBO7DA2mWT_-gDe5EO4SlLt4B0x9EnRC00orxsafzl_NIzcXaUNglNbD1inIBbdtIQHa7va90ygAapoS4U0JH51Agra9OP7j7ULshew_wp9j-bsltGgm4NQFm5AerCy5Du7hme?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.control-associates.com/services/consulting-services/production-performance/",
+              "alt": "Production Performance",
+              "image_url": "https://images.openai.com/static-rsc-4/0WPh3JF-x1BK0L_K4MCUgCnUlo3ER_ZBHYXGplxQn8762okLURjrMvjGsYxBO7DA2mWT_-gDe5EO4SlLt4B0x9EnRC00orxsafzl_NIzcXaUNglNbD1inIBbdtIQHa7va90ygAapoS4U0JH51Agra9OP7j7ULshew_wp9j-bsltGgm4NQFm5AerCy5Du7hme?purpose=fullsize",
+              "markdown": "![Production Performance](https://images.openai.com/static-rsc-4/0WPh3JF-x1BK0L_K4MCUgCnUlo3ER_ZBHYXGplxQn8762okLURjrMvjGsYxBO7DA2mWT_-gDe5EO4SlLt4B0x9EnRC00orxsafzl_NIzcXaUNglNbD1inIBbdtIQHa7va90ygAapoS4U0JH51Agra9OP7j7ULshew_wp9j-bsltGgm4NQFm5AerCy5Du7hme?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n**Process Automation & Controls**\n\nAdamstown, NSW. An industrial automation and controls specialist to investigate for machinery interfaces, controls and production-line automation.\n\nWebsite: [processautomation.com.au](https://processautomation.com.au/)\n\nThese two are worth qualifying for the plant side of your project; I haven't verified that either offers Microsoft Power Platform consulting.\n\n## How I would shortlist them\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "processautomation.com.au",
+              "snippet": null,
+              "domain": "processautomation.com.au",
+              "url": "https://processautomation.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[processautomation.com.au](https://processautomation.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Process Automation & Controls",
+              "category": "local_business",
+              "markdown": "Process Automation & Controls",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Your priority | Speak to first |\n|--------|--------|\n| Automate orders, purchasing and approvals | Team10 |\n| Build Power Apps and Power Automate solutions | Inturing |\n| Integrate disconnected ERP and business systems | Team10 and BitLogical |\n| Develop a bespoke production application | Jaegersoft |\n| Connect machinery and industrial controls | SAFEgroup or Process Automation &amp; Controls |\n\n",
+          "table": {
+            "table_header": [
+              "Your priority",
+              "Speak to first"
+            ],
+            "table_content": [
+              [
+                "Automate orders, purchasing and approvals",
+                "Team10"
+              ],
+              [
+                "Build Power Apps and Power Automate solutions",
+                "Inturing"
+              ],
+              [
+                "Integrate disconnected ERP and business systems",
+                "Team10 and BitLogical"
+              ],
+              [
+                "Develop a bespoke production application",
+                "Jaegersoft"
+              ],
+              [
+                "Connect machinery and industrial controls",
+                "SAFEgroup or Process Automation &amp; Controls"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n## What to ask in the first meeting\n\nGive each shortlisted consultant the same brief, so you can compare proposals fairly.\n\n1. **Order processing\\:** Capture customer purchase orders from email or PDF, validate products, prices and customer details, create draft ERP orders, and route exceptions to staff.\n2. **Shop-floor capture\\:** Replace paper or spreadsheets with tablet-based job progress, quantities produced, downtime, quality checks and operator sign-offs.\n3. **ERP integration\\:** Explain exactly how data will move between the existing ERP and the new workflows. Ask whether they use supported APIs, connectors, middleware or database access, and how they handle failed transactions and duplicate orders.\n4. **Reporting\\:** Show how production and order data will reach Power BI or your existing reporting environment.\n5. **Ownership and support\\:** Request documentation, source ownership, licensing costs, security controls and a clear handover plan.\n\nI'd start with a small pilot — one order-processing workflow or one production area — before committing to a broader automation programme.\n\n## One detail that would help narrow this down\n\n**Which ERP are you running today?** For example, Pronto Xi, SAP, MYOB Acumatica, Epicor, Infor, Microsoft Dynamics, or a bespoke system.\n\nThat will materially change which consultant is the strongest fit, particularly for reliable ERP integration and shop-floor data capture.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

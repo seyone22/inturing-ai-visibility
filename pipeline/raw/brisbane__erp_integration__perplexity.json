@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Brisbane are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:40.100Z",
+  "cost": 0.006294,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 659,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005694,
+      "datetime": "2026-10-29 04:05:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Brisbane-area candidates are **Leverage Technologies, Cloud Factory, OneKloudX, and Momentum Software Solutions**. The best choice depends on whether you need deep SAP expertise, MYOB Acumatica implementation, Microsoft ecosystem integration, or custom API work.\n\n| Specialist | Best fit | Relevant capabilities |\n|---|---|---|\n| **Leverage Technologies** | Complex ERP/CRM programs involving SAP and MYOB Acumatica | SAP Gold Partner and MYOB Acumatica Platinum Partner, with Brisbane offices; provides ERP implementation, data migration, integrations, CRM integration, and ongoing support.[6][7][10] |\n| **Cloud Factory** | Organisations comparing or integrating SAP Business One, MYOB Acumatica, and Microsoft platforms | Implements SAP Business One, MYOB Acumatica, Microsoft Dynamics 365 Business Central, and Dynamics 365 Sales, with integrations for CRM, e-commerce, warehouse, EDI, and analytics systems.[4] |\n| **OneKloudX** | Multi-system integration and API-led automation | Integrates MYOB Acumatica with CRM, payroll, warehouse, banking, and e-commerce platforms; also supports SAP and Microsoft Dynamics 365 environments and integration tools such as Jitterbit.[1] |\n| **Momentum Software Solutions** | MYOB Acumatica-led projects in Queensland | MYOB Acumatica Diamond Partner with a Brisbane-area office; provides implementation, customisation, training, support, and integration-focused ERP consulting.[2] |\n| **Bright Labs** | Bespoke CRM–ERP connections and non-standard APIs | Builds custom integrations across SAP, Microsoft Dynamics 365, MYOB, Salesforce, HubSpot, websites, mobile apps, and legacy systems.[8] |\n| **Rise Accountants Brisbane** | Smaller Brisbane businesses primarily needing MYOB Acumatica | Implements and manages MYOB Acumatica and connects it with payroll, inventory, CRM, and third-party applications.[5] |\n\n### Recommended shortlist\n\n1. **Leverage Technologies** — strongest overall candidate for a SAP + MYOB Acumatica program with formal ERP partnership credentials and Brisbane delivery capability.[6][7]\n2. **Cloud Factory** — particularly suitable when Microsoft 365/Dynamics 365, SAP Business One, and MYOB Acumatica are all being considered within one architecture.[4]\n3. **OneKloudX** — best suited to a broad integration layer connecting ERP, CRM, finance, payroll, warehouse, and external applications.[1]\n4. **Momentum** — a sensible choice when MYOB Acumatica is the central ERP and Queensland-based implementation support is important.[2]\n5. **Bright Labs** — worth including when the project requires custom APIs, portals, websites, mobile applications, or legacy-system connectivity.[8]\n\nBefore appointing one, ask each provider to demonstrate a comparable integration involving **MYOB Acumatica, SAP, Microsoft 365 or Dynamics 365, and your chosen CRM**. Also confirm whether they will own the integration architecture, identity/security model, data mapping, monitoring, error handling, testing, and post-go-live support.",
+              "annotations": [
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Momentum Software Solutions",
+                  "url": "https://momentumsoftwaresolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "NetSuite Brisbane: ERP Implementation & Support",
+                  "url": "https://annexa.com.au/netsuite-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica Accounting Specialists",
+                  "url": "https://www.riseaccountants.com.au/business/innovation-services/myob-acumatica-specialists",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica Integrations Solutions - Leverage Technologies",
+                  "url": "https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Nonprofit Accounting Software",
+                  "url": "https://www.leveragetech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.brightlabs.com.au › services › crm-erp-integrationCRM & ERP integration | Bright Labs",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Custom NetSuite Development for Your Unique Needs",
+                  "url": "https://annexa.com.au/services/development/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CRM ERP Solutions and Software for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/crm/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

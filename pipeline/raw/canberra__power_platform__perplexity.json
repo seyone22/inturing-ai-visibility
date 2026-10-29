@@ -1,0 +1,106 @@
+{
+  "slug": "canberra",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Canberra? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:34.917Z",
+  "cost": 0.006367,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 735,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005767,
+      "datetime": "2026-10-29 04:08:29 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Canberra organisation, the strongest shortlist is **SSW, Professional Advantage, Power Platform Experts/Office Experts, iCatalyst, and AGER BI**. Most appear to deliver nationally rather than exclusively from Canberra, so confirm local availability, government-sector experience, and Microsoft partner credentials during procurement.\n\n- **SSW — best for complex engineering and enterprise delivery.** SSW has delivered Microsoft solutions for more than 1,000 clients across 15 countries and highlights a large consultant team, Microsoft certifications, MVPs, and a Microsoft Regional Director. Its Power Platform capability covers custom applications, automation, and integration, making it a strong option for technically demanding or multi-system projects.[1]\n\n- **Professional Advantage — best for end-to-end Microsoft environments.** It positions itself as a Microsoft Solutions Partner for Modern Work and a Tier 1 Cloud Solution Provider, with Power Platform expertise spanning Power Apps, Power Automate, Power BI, Dynamics 365, Teams, and SharePoint. This is particularly suitable when Power Platform must be integrated with an existing Microsoft estate and supported after implementation.[8]\n\n- **Power Platform Experts / Office Experts — best for a Canberra-focused engagement.** The firm specifically markets Power Platform consulting in Canberra, including Power Apps, Power Automate, Power BI, and Power Pages. It also advertises Microsoft-certified specialists, training, implementation, and ongoing support, and reports operating since 2000.[6][7]\n\n- **iCatalyst — best for Dynamics 365 and business-app modernisation.** iCatalyst combines Power Platform with Microsoft Business Applications and Dynamics 365 implementation experience. Its services include process automation, custom apps and portals, environment and release management, solution management, advisory services, and managed support—useful for organisations seeking a longer-term operating partner rather than a one-off app build.[10]\n\n- **AGER BI — best for data, reporting, and Fabric-led solutions.** AGER BI focuses on governed Power Platform solutions connected to Microsoft Fabric and core business systems. Its team lists certifications across Power Platform, Fabric, Azure, and Power BI, making it a good fit for Power BI dashboards, data governance, analytics, and automation built on a reliable data platform.[2]\n\n- **Coder Trove — worth considering for governed app delivery.** Coder Trove covers Canvas and model-driven Power Apps, Power Automate, Power BI, and Copilot Studio, with an emphasis on security, Dataverse, environment strategy, and solutions that can scale beyond an initial pilot. It is headquartered in Sydney but markets delivery across Australia, so Canberra availability should be checked.[4]\n\n## Recommended selection approach\n\nFor a Canberra shortlist, invite **three firms** to respond:\n\n1. **Power Platform Experts** for local responsiveness and broad platform support.\n2. **SSW or Professional Advantage** for larger, technically complex, or enterprise-wide delivery.\n3. **AGER BI or iCatalyst** if the main requirement is analytics, Fabric, Dynamics 365, or ongoing managed services.\n\nBefore appointing one, ask each provider for:\n\n- Two comparable Australian client references.\n- Evidence of current Microsoft specialisations or solution designations; Microsoft recommends using its partner directory/AppSource and filtering by capabilities and specialisations.[5]\n- A proposed governance model covering Dataverse, environments, security roles, DLP policies, ALM, and support.\n- Clear separation of implementation, licensing, training, and ongoing support costs.\n- Experience with Australian Government security, privacy, procurement, and accessibility requirements if the project is for a public-sector body.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://agerbi.com.au/microsoft-power-platform-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform partners based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.codertrove.com/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-code partners",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting - Professional Advantage",
+                  "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Partners | Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-bi/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Partner Australia - iCatalyst",
+                  "url": "https://icatalyst.com.au/power-platform-1",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

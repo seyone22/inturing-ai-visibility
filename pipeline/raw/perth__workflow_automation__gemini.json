@@ -1,0 +1,577 @@
+{
+  "slug": "perth",
+  "pk": "workflow_automation",
+  "plat": "gemini",
+  "text": "Which consultancies in Perth are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__workflow_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:50.182Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a consultancy in Perth for business workflow automation and **Microsoft Power Automate** (and the broader Microsoft Power Platform), the right choice largely depends on your organization’s size, industry, and the complexity of your systems (e.g., standard M365 flows vs. enterprise ERP/CRM robotic process automation).\n\nThe leading consultancies in Perth are grouped by their strengths and target market:\n\n---\n\n### 1. Enterprise & High-Scale Systems Partners\n*Best for large enterprises, government departments, and mining/resources requiring complex system architectures, multi-environment governance, and deep Dynamics 365 / Azure integration.*\n\n* **Velrada (an ASG / Nomura Company)**\n  * **Location:** St Georges Terrace, Perth CBD\n  * **Profile:** Velrada is widely regarded as one of Australia’s premier Microsoft partners and is headquartered in Perth. They specialize in large-scale Power Platform implementations, complex Power Automate Desktop (RPA) workflows, and integrating automations across Dynamics 365, Dataverse, and Azure.\n  * **Best for:** Enterprise-grade automation frameworks, resources/mining sector workflows, and full digital transformation programs.\n\n* **Data#3 (Perth Office)**\n  * **Location:** Belmont / Perth\n  * **Profile:** As one of Australia’s largest Microsoft Solutions Partners, Data#3 has an established local presence in WA. They possess deep experience in cloud licensing, infrastructure, and setting up enterprise Power Platform **Center of Excellence (CoE)** toolkits and Data Loss Prevention (DLP) automation governance.\n  * **Best for:** Large commercial and public sector clients that require governance, security compliance, and licensing optimization alongside workflow design.\n\n---\n\n### 2. Mid-Market, Specialized & Industry-Focused Consultancies\n*Best for mid-sized organizations, non-profits, healthcare, and education looking for high-touch local support and pragmatic business solutions.*\n\n* **illuminance Solutions**\n  * **Location:** Perth CBD\n  * **Profile:** An award-winning Microsoft Solutions Partner that has gained national and global recognition (including Microsoft Partner for Social Impact). While they do enterprise work, they have an exceptional reputation for using Power Automate and Power Apps to modernize operational workflows in human services, government, and community sectors.\n  * **Best for:** NDIS, Aged Care, community services, education, and mid-tier enterprises wanting seamless CRM and approval automations.\n\n* **Bremmar Consulting**\n  * **Location:** Perth\n  * **Profile:** Bremmar focuses heavily on the Not-for-Profit, Aged Care, and mid-market commercial spaces in WA. They specialize in practical Microsoft 365 workflow automations (e.g., policy approval chains, HR onboarding, intranet file routing) that run on an organization's existing licensing.\n  * **Best for:** Organizations needing to cut down administrative debt without massive custom engineering costs.\n\n* **Scope Logic**\n  * **Location:** West Perth\n  * **Profile:** A proactive IT consultancy and Microsoft Partner that focuses on modern workplace integration. They specialize in combining Power Automate with Power BI and Power Apps to create closed-loop, data-driven operational processes.\n  * **Best for:** Mid-sized commercial businesses needing integrated reporting, automated notifications, and streamlined departmental handoffs.\n\n---\n\n### 3. Boutique Automation & Flow Specialists\n*Best for fast turnaround, workflow audits, unravelling “shadow IT” flows, and targeted Microsoft 365 plumbing.*\n\n* **BIZ-LYNX Technology**\n  * **Location:** Perth\n  * **Profile:** Known for personalized, hands-on consulting across Microsoft 365, SharePoint architecture, and Power Automate. They focus on helping local businesses replace manual forms, email-based approvals, and repetitive data entry with reliable cloud flows.\n  * **Best for:** Growing businesses wanting a local team for design, training, and troubleshooting.\n\n* **Scalify / Doohickey**\n  * **Location:** Perth-based\n  * **Profile:** These boutique practices focus heavily on **automation debt audits** and lean implementations. They help companies audit orphaned flows, fix failing approval loops, and integrate AI Builder (for document and invoice data extraction) without unnecessary subscription bloat.\n  * **Best for:** Fixed-scope builds, auditing broken or legacy flows, and AI-assisted document processing.\n\n---\n\n### Key Questions to Ask When Choosing:\n\n1. **Cloud Flows vs. Desktop RPA:** If your workflows interact with modern APIs (Microsoft 365, Salesforce, Xero), standard Cloud Flows are sufficient. If you need bots to interact with legacy on-premise software via UI clicking, confirm the consultancy has hands-on **Power Automate Desktop (RPA)** certification.\n2. **Licensing & Connector Costs:** Many basic flows are included in Microsoft 365 Business licenses, but premium connectors (e.g., SQL, HTTP webhooks, Dataverse) trigger per-user or per-flow licensing. A reputable consultant should model this cost up front.\n3. **Governance and CoE:** Without governance, employees build flows on personal accounts that break when someone leaves the company. Ensure your partner uses **Service Principals**, sets up proper environment management, and documents error-handling protocols.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Velrada%22+Perth+%22Power+Platform%22+OR+%22Power+Automate%22&client=app-vertex-grounding&safesearch=active\">&quot;Velrada&quot; Perth &quot;Power Platform&quot; OR &quot;Power Automate&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=microsoft+power+automate+consulting+perth&client=app-vertex-grounding&safesearch=active\">microsoft power automate consulting perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=power+platform+workflow+automation+consultancy+perth+western+australia&client=app-vertex-grounding&safesearch=active\">power platform workflow automation consultancy perth western australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Illuminance+Solutions%22+Perth+%22Power+Platform%22+OR+%22Power+Automate%22&client=app-vertex-grounding&safesearch=active\">&quot;Illuminance Solutions&quot; Perth &quot;Power Platform&quot; OR &quot;Power Automate&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+microsoft+partners+perth+power+automate+workflow+automation&client=app-vertex-grounding&safesearch=active\">top microsoft partners perth power automate workflow automation</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPMTInTX2DsAz-4Kwl0Arl2mvVVJolW59U4QR0qezleTuCWUTfkjEgcQjfGmqxZoPrm1kkzt9K17uromBU2L9M9Mw3Wt8MsGAUssJLkZYNUW5FI4Bk5TrLa954SpP2r-hBIM4qn3GN8RUBtWVVhYSYDZMi5nDKpG0DJdna7JSOPetjybM=",
+                "title": "concettolabs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzrmZPb-g94tPy-W03r6rz5Hjl9yJxe_q714LEsF3lWt0w2GKHtcOHHAzf-jtAfpj8JJAmBLsWIlbCzTS8gpXJccNYFQZkp6C3EGnrnKf5KzlGxfWoLlUamUN_RnDlXnSPPbUQbSDoXJR4sIEi00706w==",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjd29kJohwfIR5KeElvyuq5GqCFmKEedheUFwL2-wjG0pLq9K-8BMuSVIyENcANe9vRpCrMXxkJUI2McWwoQ8v2JX3G_A7mSxzykhV_X7easMAPmKpXVqRtvRo6XP2Ba134yvPjL7gw19WIVBk7iZvt-qaFID4FxahZsY=",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPED82LwMTqpbUSOracm2Kh11xxaWSN7sedsub_dZ-M_H68jhUIpug459dMgryQ6J8n3u7Ys882nOcg0MNMwnHLIBen0InBTnBfuJCfkNRvaXgF9A2Q3x4e8xl8j1kjxt3EBvWnaQKecI3OgfxvJnwubbDx6Ruk3-nmUqm0BwEJYp5",
+                "title": "mycelium365.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVgVG1fwf86KB9NdFsTrBNzMmbkRvPSKc7Yq7J4d7_ypgtXHVLwAJr6zs0nWrJStwOjP3N_AMciBQC04bZvaBDekPp9uJgHmFT04QxSZb5rgPJzUyetfJwhlbB5i0cQZuJeaVLicGrOVrg71jdEn0YAr0bH5xegyUlerqqsTKwEGuEoafa5q84AnluQZov",
+                "title": "salutemyjob.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrmTch_YvV3FY6aUftAfX_E5JKZx3rnI-HTzrQU63CR-LPfzaNiU1lIqqwf2vI3d2aPhWhtafRdpCKVcHuIH935M8fRhI6NzC_omk9mC80h-ymrWdvKoECwMaHtwWscH7pSm4F",
+                "title": "verosoftdesign.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzRyAayJNJ9bW7BR-uarVuucJ9pgszUx_ckr1w68E4dMJgTftGx6sOcWvG85hK_YV474cJ8cZSsCi7DEu33aTHoVhVL5HazOCFrSRfXNyUJfAuM4KNNKa3m8=",
+                "title": "wiise.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs3ujKoX4S0PZG2q0R9iXHuzh_tT8XvLGcB9rbsXidxsMF62mCPCsH7cSxqsoKfC6lxXGmmT5t_n-Sdh5EPylFQ62i2hTSR_VIO7IMV0kIcNxiAA==",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvRD43Ore_LlAVhLgS8WgftVI0Tqp5vWJHapKDNo7Ky9-NsdS_Wn6z9MnH3W61KBL4hGsCaGfJ4cRY4tIFdStRyZszSC5AihtKE3h30eykwW6WLzdPTFzwgrN4p9KZiioEr6_ndUTmZHSnYalGZXsAmlbgTjKxGGv1v8biAKfq6w==",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFchQnVpkWc5bBmWsPCOLqZzFcZccNpVsHEbQ-lo3o7vpAtmxtUzpsqYlfSenqbCRy5JdukogYXRLUlzI0YQ5bSrQlH1JkJNb5JtYKJUPtv_W56ONboxa709kaf0UHl1Z124gzxKpyOMxPzW7mJo_D13WrQano4NYkOa0gNwWD29X5StgtvB23C579UNQjecjDSgtK5UYZ1cq2BB_fgebQ=",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgLKeAhcAPL4-usYxm8_hIFqUutbHfEYqRrVk03Cu_yJc4cyZiQfazBVqmJUYNRSIDtkYZNjR2edESvyhGmIyaX340_sRhZNzc2G7iUY_hwS6340TDUPlcaHPnX-USGwfnSPim9qif2hTTTeY=",
+                "title": "bremmar.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjEwH7aSNLyuVR8xnXuuYFKa7DQDvLancior5a1hAXNTUk365l3q86Kr-Dfil3ud54neE44LZGEyhiKHKCeLQq8vF8jTz8JkgTUN5eQbmdcD8qhvbupHubjfWBoTcPQhwNluGDx6yap1rNJJgyMXolK-FokPhi8Ds9bKwhb2qWcess2HrKboIcqAZA2x8FtpDB",
+                "title": "employmenthero.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoxcxNjT3Cvb4pj3FYcqBfnT5MxAw9r89iLejBOb4JFmFj1JubVRXWa5VP8EbBQNE8k4F2KjNagnfvhgVM9MkjcawKO0xh6LIRSv3jrEfaG7mAQH0mWfLpDFwTTg=",
+                "title": "illuminancesolutions.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG04zsouvMQZS6zOuDLxDGW2KmHwe-ZT9LDF5nkd1cGT3wgbhDRnmBtyLMSJV7gbP2ZRKeMz0PC5MSEjODq7szzaU8aqgruCTB8o4MIcqBQSriy-vRNwAnA52jzD4DTrZ0iL2xW9CTBeOuyx_PwWCajOSJaT_sHMaJGKGaThb1xlNSrg7BvyA==",
+                "title": "walga.asn.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgv4C9SSE8hxux2EkRi-Wc9hlTuGMIsPP8cnAFFJZqN4MCLcXjxSmUZF6GjDHFei05UQDljj-CpRM7k1ovUgi0RmifHq9uCteYyYq7QmicUPeDqzeRu6c4vsjm7GfQSLcwBqmp-NRv-hQ=",
+                "title": "supportperth.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVbkYeKB2gcnA332uR9ED_cATj7qr4IkWWyrsgTZ_w76mPtG_fiSSiLbdqZrNzRyUhwyRTIuljzMBBN5l2u30yIZHle9JAVobKOkUYnzSLO_t060Xhu_6VhdwpyteCxKeK6K1eQFFwBfwaqBq5rk=",
+                "title": "biz-lynx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgzca1VyW5x2dFi1m5pq3t4rnYxgfU1GyeiqLsG3XouNCfr3tgSX2DaXUh92Tk1BUcVRYjXBkFXwktu-3OppWZep6UT1T3sYfnEMrodpgmg9zXA5Xhbzf8C7Ak9lBcbsk43RLsCynG1oTz-ZOFSd1Q9fJK8YqM",
+                "title": "scopelogic.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCyqYKR2uO9I4-3JoN04dC2qIfe0VDkcTsyn4uL2xFBNG4eKPbH2cHl0m8Z8jp57HQq_t97ufkuEYmqO73GqWewzIo58BdC8mIrMteB0JKqtV1CIi6E6O0x3k3NpuUvfbh6FaOmMVA8urM54KtWeP8Tg==",
+                "title": "vibe0.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErr3sNMXEkZGxzYtXa-DmQbSvxXCANoraKBCSbSnZCuXI_AVH60CCDfpDsZKFnwD455qkyvyZD1Ed9Laxrdtd6dCCueBpwvit43h8lf47r6KnJJSmpUxQ8qNr61aeZpHygDY8=",
+                "title": "scalify.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHguCrKAL5DglQ15YfgeTuRXEkhhFCasCFomgAjg7JfSoqAKKPOaNaRYCQhoGteo9mI3P9blftlIA4_EkU_gnA_0A9LwIrEGLsvjhctXCkmfAVjxmZ3FNTcfZhM8lVFJZPjPO0trucUvo1UkoT6Aw==",
+                "title": "biz-lynx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-BJFXd8V6B5TtB8ncRJioehjzy6mF6TFDMI71EOlrC1mBKpNT3aNCO1AkdPuJcK3aywyz6Ktop_utQJG-rRGR6x6xREN_6R7lXd7KWtWwd6QUZmsAIhlBXS4HuKpy4euIbdq3xEHsXLWRvZ14GqGqUzxn6JjRrlL7zohd4WDq8ZEGg2UX",
+                "title": "dotsquares.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZz4HNRxefODgt0L8G_V_lmBtbHxavwD8RBj6QKGXdE4b4knoIThpR6A8dOocI5-w_p1QaPx90hg1c3s85Zb01UWG0gOp6QC3FEGaBKjyavoGUeCwkFsig0CE3SSjNPVSgOSM",
+                "title": "scalify.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDC8hRcSIYagvHwc9dRmB331MN_xO_lwxzSScBLzQ8Fj2hBzG5Eezwd67F0rHEJho46i-ggttDubfZN8h9OZwhcMOxByVByWwN9bGsfH63n5u3FSdLNGYxrRZosnfNkHu_KhyTJcNI2yBbxUKRw==",
+                "title": "doohickey.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPpgKIO3LT-1NfMtr2SBxfOsnnd6WZ3ckeqjk1XXZis1Tf3ITjOWMIncVCEG6OwJVQtcv1jdnMuDqH68ni-uSLUHLd8CfU6Qqijb8QeEvfAAgINMzmaUj9P2x2QwfYdJJI4f0=",
+                "title": "team400.ai"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 146,
+                "text": "When selecting a consultancy in Perth for business workflow automation and **Microsoft Power Automate** (and the broader Microsoft Power Platform)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 288,
+                "endIndex": 334,
+                "text": "enterprise ERP/CRM robotic process automation)"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 476,
+                "endIndex": 661,
+                "text": "*Best for large enterprises, government departments, and mining/resources requiring complex system architectures, multi-environment governance, and deep Dynamics 365 / Azure integration"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 709,
+                "endIndex": 752,
+                "text": "**Location:** St Georges Terrace, Perth CBD"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 757,
+                "endIndex": 877,
+                "text": "**Profile:** Velrada is widely regarded as one of Australia’s premier Microsoft partners and is headquartered in Perth"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 879,
+                "endIndex": 1059,
+                "text": "They specialize in large-scale Power Platform implementations, complex Power Automate Desktop (RPA) workflows, and integrating automations across Dynamics 365, Dataverse, and Azure"
+              },
+              "groundingChunkIndices": [
+                7,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1065,
+                "endIndex": 1194,
+                "text": "**Best for:** Enterprise-grade automation frameworks, resources/mining sector workflows, and full digital transformation programs"
+              },
+              "groundingChunkIndices": [
+                7,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1817,
+                "endIndex": 1960,
+                "text": "*Best for mid-sized organizations, non-profits, healthcare, and education looking for high-touch local support and pragmatic business solutions"
+              },
+              "groundingChunkIndices": [
+                10,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1996,
+                "endIndex": 2019,
+                "text": "**Location:** Perth CBD"
+              },
+              "groundingChunkIndices": [
+                4,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2024,
+                "endIndex": 2177,
+                "text": "**Profile:** An award-winning Microsoft Solutions Partner that has gained national and global recognition (including Microsoft Partner for Social Impact)"
+              },
+              "groundingChunkIndices": [
+                12,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2179,
+                "endIndex": 2373,
+                "text": "While they do enterprise work, they have an exceptional reputation for using Power Automate and Power Apps to modernize operational workflows in human services, government, and community sectors"
+              },
+              "groundingChunkIndices": [
+                4,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2379,
+                "endIndex": 2511,
+                "text": "**Best for:** NDIS, Aged Care, community services, education, and mid-tier enterprises wanting seamless CRM and approval automations"
+              },
+              "groundingChunkIndices": [
+                12,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2543,
+                "endIndex": 2562,
+                "text": "**Location:** Perth"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2567,
+                "endIndex": 2676,
+                "text": "**Profile:** Bremmar focuses heavily on the Not-for-Profit, Aged Care, and mid-market commercial spaces in WA"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2678,
+                "endIndex": 2859,
+                "text": "They specialize in practical Microsoft 365 workflow automations (e.g., policy approval chains, HR onboarding, intranet file routing) that run on an organization's existing licensing"
+              },
+              "groundingChunkIndices": [
+                14,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2865,
+                "endIndex": 2973,
+                "text": "**Best for:** Organizations needing to cut down administrative debt without massive custom engineering costs"
+              },
+              "groundingChunkIndices": [
+                15,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3027,
+                "endIndex": 3133,
+                "text": "**Profile:** A proactive IT consultancy and Microsoft Partner that focuses on modern workplace integration"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3135,
+                "endIndex": 3264,
+                "text": "They specialize in combining Power Automate with Power BI and Power Apps to create closed-loop, data-driven operational processes"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3270,
+                "endIndex": 3408,
+                "text": "**Best for:** Mid-sized commercial businesses needing integrated reporting, automated notifications, and streamlined departmental handoffs"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3462,
+                "endIndex": 3576,
+                "text": "*Best for fast turnaround, workflow audits, unravelling “shadow IT” flows, and targeted Microsoft 365 plumbing"
+              },
+              "groundingChunkIndices": [
+                17,
+                14,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3610,
+                "endIndex": 3629,
+                "text": "**Location:** Perth"
+              },
+              "groundingChunkIndices": [
+                15,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3634,
+                "endIndex": 3756,
+                "text": "**Profile:** Known for personalized, hands-on consulting across Microsoft 365, SharePoint architecture, and Power Automate"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3758,
+                "endIndex": 3893,
+                "text": "They focus on helping local businesses replace manual forms, email-based approvals, and repetitive data entry with reliable cloud flows"
+              },
+              "groundingChunkIndices": [
+                15,
+                20
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3899,
+                "endIndex": 3994,
+                "text": "**Best for:** Growing businesses wanting a local team for design, training, and troubleshooting"
+              },
+              "groundingChunkIndices": [
+                15,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4027,
+                "endIndex": 4052,
+                "text": "**Location:** Perth-based"
+              },
+              "groundingChunkIndices": [
+                21,
+                22
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4057,
+                "endIndex": 4163,
+                "text": "**Profile:** These boutique practices focus heavily on **automation debt audits** and lean implementations"
+              },
+              "groundingChunkIndices": [
+                14,
+                22,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4165,
+                "endIndex": 4341,
+                "text": "They help companies audit orphaned flows, fix failing approval loops, and integrate AI Builder (for document and invoice data extraction) without unnecessary subscription bloat"
+              },
+              "groundingChunkIndices": [
+                1,
+                22,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4347,
+                "endIndex": 4449,
+                "text": "**Best for:** Fixed-scope builds, auditing broken or legacy flows, and AI-assisted document processing"
+              },
+              "groundingChunkIndices": [
+                14,
+                1,
+                22
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4519,
+                "endIndex": 4648,
+                "text": "Desktop RPA:** If your workflows interact with modern APIs (Microsoft 365, Salesforce, Xero), standard Cloud Flows are sufficient"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4650,
+                "endIndex": 4811,
+                "text": "If you need bots to interact with legacy on-premise software via UI clicking, confirm the consultancy has hands-on **Power Automate Desktop (RPA)** certification"
+              },
+              "groundingChunkIndices": [
+                1,
+                23
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4816,
+                "endIndex": 5014,
+                "text": "**Licensing & Connector Costs:** Many basic flows are included in Microsoft 365 Business licenses, but premium connectors (e.g., SQL, HTTP webhooks, Dataverse) trigger per-user or per-flow licensing"
+              },
+              "groundingChunkIndices": [
+                17,
+                14,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5016,
+                "endIndex": 5070,
+                "text": "A reputable consultant should model this cost up front"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5075,
+                "endIndex": 5204,
+                "text": "**Governance and CoE:** Without governance, employees build flows on personal accounts that break when someone leaves the company"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5206,
+                "endIndex": 5332,
+                "text": "Ensure your partner uses **Service Principals**, sets up proper environment management, and documents error-handling protocols"
+              },
+              "groundingChunkIndices": [
+                22
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Velrada\" Perth \"Power Platform\" OR \"Power Automate\"",
+            "microsoft power automate consulting perth",
+            "power platform workflow automation consultancy perth western australia",
+            "\"Illuminance Solutions\" Perth \"Power Platform\" OR \"Power Automate\"",
+            "top microsoft partners perth power automate workflow automation"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 456,
+      "candidatesTokenCount": 1527,
+      "totalTokenCount": 3062,
+      "cachedContentTokenCount": 128,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 456
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 128
+        }
+      ],
+      "thoughtsTokenCount": 1079,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "NsbiapKMH6P2694Pws3_8Ak"
+  }
+}

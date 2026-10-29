@@ -1,0 +1,463 @@
+{
+  "slug": "melbourne",
+  "pk": "workflow_automation",
+  "plat": "gemini",
+  "text": "Which consultancies in Melbourne are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__workflow_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:14.955Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a consultancy in Melbourne for **business workflow automation** and **Microsoft Power Automate** implementation, the right choice depends heavily on your organization's size, technical complexity, and whether you need standalone workflow optimization or broader enterprise integration (such as Dynamics 365, SharePoint, or Azure AI).\n\n---\n\n### 1. Dedicated Microsoft Specialists & Pure-Plays (Best for Agility & Deep Platform Expertise)\n\n*   **Engage Squared** *(Headquartered in Melbourne)*\n    *   **Best for:** Modern workplace automation, SharePoint/Teams integration, and employee experience workflows.\n    *   **Overview:** A top-tier Microsoft Solutions Partner and former Microsoft Partner of the Year. They excel at transforming manual, paper-heavy, or fragmented departmental processes (such as HR onboarding, approvals, quality management, and policy compliance) into structured Power Automate and Power Apps workflows. They also have strong change-management and Center of Excellence (CoE) governance practices.\n    *   **Ideal Fit:** Mid-market to enterprise businesses looking to modernize internal operations tightly integrated with Microsoft 365.\n\n*   **Barhead Solutions** *(Melbourne office: Southbank)*\n    *   **Best for:** End-to-end Power Platform, Dynamics 365 integration, and complex CRM/ERP automation.\n    *   **Overview:** Recognized consistently as one of Microsoft’s leading Business Applications and Power Platform partners in Australia. Barhead focuses heavily on Power Apps, Power Automate (including Desktop RPA), and Copilot Studio. They are ideal if your workflow automation connects into customer service, finance, operations, or legacy desktop systems.\n    *   **Ideal Fit:** Organisations requiring formal process redesign, high-volume automated data pipelines, or integration with Dataverse and Dynamics.\n\n*   **Arinco** *(Headquartered in Melbourne)*\n    *   **Best for:** Technical architecture, Azure cloud automation, and AI-augmented workflows.\n    *   **Overview:** Arinco focuses on deep Microsoft cloud engineering, bridging the gap between low-code Power Automate and high-code Azure infrastructure (Logic Apps, Azure Functions, AI Builder, and Copilot Studio). If your automation requires custom API connectors, complex logic, enterprise security guardrails, or generative AI agent integration, Arinco is a front-runner.\n    *   **Ideal Fit:** Organizations with complex IT environments wanting enterprise-grade architecture, application lifecycle management (ALM), and AI-driven automation.\n\n*   **FiveP** *(Melbourne-based)*\n    *   **Best for:** Process digitisation, Microsoft 365 governance, and flexible ongoing support.\n    *   **Overview:** FiveP is a boutique Melbourne consultancy specializing in Microsoft digital workplace solutions. They run structured Power Platform \"Foundations\" and CoE deployment services to help teams eliminate spreadsheet-based processes safely without creating shadow IT.\n    *   **Ideal Fit:** Mid-sized businesses and regulated non-profits looking for a collaborative, high-touch local partner.\n\n---\n\n### 2. Mid-Market ERP, CRM & Business Process Specialists\n\n*   **Professional Advantage** *(Melbourne office: St Kilda Rd)*\n    *   **Best for:** Finance and operational workflow automation (e.g., invoice approvals, purchase orders, ERP routing).\n    *   **Overview:** One of Australia’s longest-standing mid-market IT consultancies. They have a dedicated Microsoft Business Applications practice connecting Power Automate with Business Central, Dynamics 365, and third-party accounting/finance platforms.\n    *   **Ideal Fit:** Companies whose automation needs center around core financial operations, supply chain, and reporting.\n\n*   **Rapid Circle** *(Melbourne presence)*\n    *   **Best for:** Cloud-first process automation, Microsoft Teams app integration, and citizen developer enablement.\n    *   **Overview:** Following acquisitions of Australian firms like Insync Technology, Rapid Circle has built a strong national practice around helping organisations move from legacy SharePoint/InfoPath workflows to modern Power Automate cloud flows and governance frameworks.\n\n---\n\n### 3. Global Systems Integrators (Best for Enterprise & Multinationals)\n\n*   **Avanade Australia** *(Melbourne office: Bourke St)*\n    *   **Best for:** Massive enterprise transformations, high-security government/banking environments, and full-scale Robotic Process Automation (RPA).\n    *   **Overview:** A joint venture between Accenture and Microsoft, Avanade possesses the largest pool of certified Microsoft professionals in the region. If you need complex multi-region rollouts, unattended desktop RPA replacing legacy software, or multi-system SAP/Salesforce/Microsoft automation, they are the standard enterprise choice.\n    *   **Ideal Fit:** Large enterprises and government agencies with massive compliance and scalability needs.\n\n---\n\n### How to Choose Among Them\n\n| Need / Priority | Recommended Partner |\n| :--- | :--- |\n| **SharePoint / M365 collaboration & workplace productivity** | **Engage Squared** or **FiveP** |\n| **Dynamics 365 / CRM / Field Service / Enterprise RPA** | **Barhead Solutions** |\n| **Azure integration, custom connectors, AI / Copilot Studio** | **Arinco** |\n| **Finance / ERP-centric workflow (Business Central / Nav)** | **Professional Advantage** |\n| **Global scale, heavy compliance, Tier-1 enterprise** | **Avanade** |\n\n### Questions to Ask Potential Partners\n1. **Governance & ALM:** *\"Do you implement the Microsoft Center of Excellence (CoE) Starter Kit and Environment Lifecycle Management so we don't end up with unmaintained rogue flows?\"*\n2. **Architecture:** *\"When do you recommend using Power Automate Cloud Flows vs. Desktop Flows (RPA) vs. Azure Logic Apps for our specific volume?\"*\n3. **Licensing Advisory:** Power Automate licensing (per-user vs. per-flow vs. hosted RPA) can become expensive quickly; ensure the consultancy provides licensing optimization as part of their scoping.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22FiveP%22+Melbourne+%22Power+Automate%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;FiveP&quot; Melbourne &quot;Power Automate&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead+Solutions%22+Melbourne+%22Power+Automate%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Barhead Solutions&quot; Melbourne &quot;Power Automate&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Engage+Squared%22+Melbourne+%22Power+Automate%22&client=app-vertex-grounding&safesearch=active\">&quot;Engage Squared&quot; Melbourne &quot;Power Automate&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Arinco%22+Melbourne+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Arinco&quot; Melbourne &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultancy+Melbourne+workflow+automation&client=app-vertex-grounding&safesearch=active\">Power Platform consultancy Melbourne workflow automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Automate+implementation+partner+Melbourne&client=app-vertex-grounding&safesearch=active\">Microsoft Power Automate implementation partner Melbourne</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfsxzrxRpGgPE9qXgDk0yighh6YTaK2p20Kxa4aCC3zW15Mc9KLOTk6jRnkk7k1IIsqTrdb_hZH4g98V4R1swKcRRXi0cfMQdnZM_f9kSATXUsgTZCWZiJe9UT03OH_PM7ATPy0UXkcVc=",
+                "title": "builtinmelbourne.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRx4BCriHa1xpRHU6qrNBv42J3U9yQINX26y75HRk1R3Pzdemwwjj1GDjGKFEHzoYXKgzpzgLoCfpjAEvB1Wg7KtTjT0frRrXEMthNCQTpIq5520iGqrBa-Emjm_APb1OVvIrzphhMV9miMgBiJK5bpoLrr1l5iyWM7RgcXJIsF5MqvGs2gYq5",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7j7A3UjXxmLD13rp-mZbDMH_JqG5eFXBGP20EZ2EWXV9TOztMQg66qdvc0053F1Mo6M37wj5R1A3zldjId61Y95fBzeqcoFz2Dw_xyl6I3kiCrEcQqbppaeGqHnWRKegnWz9Z2RqyS21tMYTRr3WsVWgOzUprPHbGyZcSMuhD4Ig50j3KOHj70sfRxoZRCy6n6lii",
+                "title": "techpartner.news"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUudrViQXXXwYJ_5-QSCKryaKVd2UOErVUCtGZS1gwIn7Z8ltVGJ2MnMLNh5VJuKYi-3olKfJCtfO6UyDii9Zks2HM1QluTCzQ_Z-L2Xoiwb2m1BqdT1Y-u6eMRnht1NMPl3O8eroMRV6CXbkd9zQTDcP9B9hVUNXe",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpuaWGK2WISnhkf84FKfaOtVlfnOaFmxJ3ahuGiQoz3yZBBslkRYhzieSkv6vfYkFc-8C9EZyD1o_PmT4a4C7m7KsCaA9CspWiwFulS1iuoMpCCFk=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk67eLcJeOu2oFyO4OP_3aah0F4lh2jOQ0HqmZHyH3ANsM9eThchS87aoU-Y50m5Br01lMxsZSDg3imSdcfW3Ref31HHZPSwpxcRxO2UplKOxkCUigs9E9tnnfu3ipJaEDrv1CP665SU3EBqmugezNr-2LYLNqwUEBpDhehrC0Sk3r2sajEmvBFSy-5kFRn4pQlUlezPQ9czPVAu-LkxmQQev5R-eOfTAB5E1sU7U3GmnOWsN5lHQm4Dg=",
+                "title": "hubspotusercontent-na1.net"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo-zhwQmlPPIl9Ax4JR-26LRwy-UeSRdTA4mPIt_rcQPsj5YdWPUIoWR99z8w2vSA_6QtWz4LHJqKHXO5PmaLxXe0OENKxFqHTtI8Bx3O0LlxK2GbjY3CUtMQs8zIfq9F8ACnJ",
+                "title": "nsw.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIReA1VbfNywyEJnOXJLSXsouZSymIv5t2Wsyg2TsP7rlwo55B-5kIHuKEpfI1HDibe3RqIA5D7SnXLKDI2tZPz_axTQicwRn6tRk-yWaXrd43",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDk2oK1qrpQ2jpe-6_trdeVxgzqUqzou0Q-h2YWui2b3FCAaThCKxUzhnp_gkAgybR_AlAhIgdvR10QTF5R4U78Dy-wCmvQhkmTbAo1H76UrM28ZuNM39Z00S7PTpAsHObD9MYgIsfvsH4GH-0KUSN5ngcZALkEYKl_uX3jDf9GNvvNYvS",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIj9BQOHd7pU90k_cBojoIgukbKvebzs-QBlReUTsMpXQvODTWQmMbokQidTQU5PfH2KV8LKnHWRYJ_O4O0BsRhmszic-79_ivRR4lmAA4L7tK9jgqgdc_AqHhDa1hAZIKiZP_ikFQbP3d93C49DTJEsxLF5bXi2F6EwHvFLW8E-R-mMD38ZJKPnLXu7N6NXSDEKlfGUw59mi2",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPET2Gnb5qmev-n9QCFSWtPKKXwaqqvg0xSRnjefI7e9Jq9RoIWApoTUNvl28WNHspur4IqaoULBlEXHwhwTtQR97YuoKgb6gupg==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrUFkFtvvZQmwx7QNQjktVbDxvHdezV1oQ6P2Ry1ewi_jhbqZC79yQxmoLG-9iMHeOSldEuBWearpJfqLsk0Pl7n39Z6iXDLv2n2RA7-7Jq3WQtDCIrJ_7r7pTIBj5tzVltiuipuST",
+                "title": "1dynamics.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCfWq-_pLvEXB0AcQenRw4yQHtzh8pOvSP2itIC4vE1sAEqKdwJYj3ZQwmkZVCZ_Vcn01UNsIhP1nNVz7YOWXNds3lCpmhD1-NE_SR",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_m3fG-B5GMeqa_YnUKQu_WAGUx3DkZV9NtxX2lxQGmFmg4ICa0AysJRTFzi3IOlbaVClgVqW25muT0MRKEqNE1MiItZcZMMx5F42dM4UDialoaWwT21JKIorbaOV",
+                "title": "administrate.dev"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVtRGUL_VBSuN9aGdzVGbMVtK4MdX9SA_rep3yWa0P1WxsgjtPQFQUDkjXc4bRJV42RTFN-HHKKf5mS5q7HapDV8NhhcvrFnUDuFg2tgvheCeUOKdv_bqL9ET_1Qzb-wUyZY=",
+                "title": "team400.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9HYpxmH5hk20h1GwSpDRcqZsd3Pu2a9frvFR6BrfP6I77HK7QhH3p-qsY734h5_0w5y43HrTCuVNHwEZHa4aFicJicgKzks2M9EUZHgx18mH9WVBIXx73__oOZVXa1q_osHBSOwPBpwLVQC3SZu7dt9bVhaKarGWeyN8J4uLoPjgxBtARaQgE4Lq2vMBzwQ==",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB8bo51lF8Y-IsiztXCwHH-FD_dIKnQTOfbFvJcmjhszaHzqBqGCs_DntxlLNiAKqEBhsedV-ALCEDyvsc3ApTY1WqoFVR36AWwOu8U88ecyVoLLyycbA=",
+                "title": "fivep.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgXDivDbKjBpZ57Ydp0hptub05Vp84OcC9NQh-vwlhRpy6XmWKtnkDrnCkXGFFlMY2im5wdXjRnGdq7-qX1AGp8a8WLZi4nEMdBzPusJ8xEtNQQE34JHGISExmF7M=",
+                "title": "fivep.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF65aUYijsX2MPWNWNwnFLjYfjn3zLLvH_o-wli3MC2q70wUE93kXHKPE9z6KLbv6akV_g1zj8DX2VrmJoNVUQ8eATz3az3LCuBEOKyxcTZz1KwKOeC82jjNq0guOCSO5Jwolof-nuXKZBlRn0VVFZrRMVTp3M-EkBljum2VaT8KCxXguuH9irdyWupKYpNSw==",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEMOhjNlHofZmsoCEKEfzgFa4kWifgQ4GChKqAzPHSdW5kl62JbnWSqOH7hKBlJMBpzgsDaRsnSHiNriobXZeOKE6HyQc8VDypK7gNBLLmaSqDCTMJy8twY9ifkWWzKeOv3FSGzxJP-odzuscc7absYZDjxm4uRsIj0c0ao-54U6FP29CkMzd0y9R4_B0qlU8MhHohzio=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhDw2pxyn_DWGBIR8vBFIWYSk0trzR3CirYYSucR63i5R62QzIzRi8VXw386Zn1E0SovJnN9bkwMa0ZhEg4fu9-Lse9pPjQr7A2WahHoiKVDouPFwrneDzcwlM-_ASwEZNSbldxr7fXRwP2_AUWkHxTA==",
+                "title": "weblinkplus.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 515,
+                "endIndex": 621,
+                "text": "**Best for:** Modern workplace automation, SharePoint/Teams integration, and employee experience workflows"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 631,
+                "endIndex": 724,
+                "text": "**Overview:** A top-tier Microsoft Solutions Partner and former Microsoft Partner of the Year"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 726,
+                "endIndex": 944,
+                "text": "They excel at transforming manual, paper-heavy, or fragmented departmental processes (such as HR onboarding, approvals, quality management, and policy compliance) into structured Power Automate and Power Apps workflows"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 946,
+                "endIndex": 1037,
+                "text": "They also have strong change-management and Center of Excellence (CoE) governance practices"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1047,
+                "endIndex": 1176,
+                "text": "**Ideal Fit:** Mid-market to enterprise businesses looking to modernize internal operations tightly integrated with Microsoft 365"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1245,
+                "endIndex": 1342,
+                "text": "**Best for:** End-to-end Power Platform, Dynamics 365 integration, and complex CRM/ERP automation"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1352,
+                "endIndex": 1484,
+                "text": "**Overview:** Recognized consistently as one of Microsoft’s leading Business Applications and Power Platform partners in Australia"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1486,
+                "endIndex": 1583,
+                "text": "Barhead focuses heavily on Power Apps, Power Automate (including Desktop RPA), and Copilot Studio"
+              },
+              "groundingChunkIndices": [
+                10,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1716,
+                "endIndex": 1860,
+                "text": "**Ideal Fit:** Organisations requiring formal process redesign, high-volume automated data pipelines, or integration with Dataverse and Dynamics"
+              },
+              "groundingChunkIndices": [
+                11,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1917,
+                "endIndex": 2005,
+                "text": "**Best for:** Technical architecture, Azure cloud automation, and AI-augmented workflows"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2015,
+                "endIndex": 2226,
+                "text": "**Overview:** Arinco focuses on deep Microsoft cloud engineering, bridging the gap between low-code Power Automate and high-code Azure infrastructure (Logic Apps, Azure Functions, AI Builder, and Copilot Studio)"
+              },
+              "groundingChunkIndices": [
+                14,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2396,
+                "endIndex": 2557,
+                "text": "**Ideal Fit:** Organizations with complex IT environments wanting enterprise-grade architecture, application lifecycle management (ALM), and AI-driven automation"
+              },
+              "groundingChunkIndices": [
+                15,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2602,
+                "endIndex": 2692,
+                "text": "**Best for:** Process digitisation, Microsoft 365 governance, and flexible ongoing support"
+              },
+              "groundingChunkIndices": [
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2702,
+                "endIndex": 2811,
+                "text": "**Overview:** FiveP is a boutique Melbourne consultancy specializing in Microsoft digital workplace solutions"
+              },
+              "groundingChunkIndices": [
+                16,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2813,
+                "endIndex": 2975,
+                "text": "They run structured Power Platform \"Foundations\" and CoE deployment services to help teams eliminate spreadsheet-based processes safely without creating shadow IT"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2985,
+                "endIndex": 3100,
+                "text": "**Ideal Fit:** Mid-sized businesses and regulated non-profits looking for a collaborative, high-touch local partner"
+              },
+              "groundingChunkIndices": [
+                16,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3363,
+                "endIndex": 3442,
+                "text": "**Overview:** One of Australia’s longest-standing mid-market IT consultancies"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3444,
+                "endIndex": 3614,
+                "text": "They have a dedicated Microsoft Business Applications practice connecting Power Automate with Business Central, Dynamics 365, and third-party accounting/finance platforms"
+              },
+              "groundingChunkIndices": [
+                20,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3624,
+                "endIndex": 3740,
+                "text": "**Ideal Fit:** Companies whose automation needs center around core financial operations, supply chain, and reporting"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5030,
+                "endIndex": 5126,
+                "text": "| **SharePoint / M365 collaboration & workplace productivity** | **Engage Squared** or **FiveP**"
+              },
+              "groundingChunkIndices": [
+                3,
+                1,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5129,
+                "endIndex": 5210,
+                "text": "| **Dynamics 365 / CRM / Field Service / Enterprise RPA** | **Barhead Solutions**"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5213,
+                "endIndex": 5289,
+                "text": "| **Azure integration, custom connectors, AI / Copilot Studio** | **Arinco**"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5292,
+                "endIndex": 5382,
+                "text": "| **Finance / ERP-centric workflow (Business Central / Nav)** | **Professional Advantage**"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5501,
+                "endIndex": 5683,
+                "text": "**Governance & ALM:** *\"Do you implement the Microsoft Center of Excellence (CoE) Starter Kit and Environment Lifecycle Management so we don't end up with unmaintained rogue flows?\"*"
+              },
+              "groundingChunkIndices": [
+                14,
+                16,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5790,
+                "endIndex": 5833,
+                "text": "Azure Logic Apps for our specific volume?\"*"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"FiveP\" Melbourne \"Power Automate\" OR \"Power Platform\"",
+            "\"Barhead Solutions\" Melbourne \"Power Automate\" OR \"Power Platform\"",
+            "\"Engage Squared\" Melbourne \"Power Automate\"",
+            "\"Arinco\" Melbourne \"Power Platform\"",
+            "Power Platform consultancy Melbourne workflow automation",
+            "Microsoft Power Automate implementation partner Melbourne"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 602,
+      "candidatesTokenCount": 1565,
+      "totalTokenCount": 3425,
+      "cachedContentTokenCount": 149,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 602
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 149
+        }
+      ],
+      "thoughtsTokenCount": 1258,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "m8XiasScGv_M694PoJnMgAc"
+  }
+}

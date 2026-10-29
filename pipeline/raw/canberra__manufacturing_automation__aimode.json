@@ -1,0 +1,157 @@
+{
+  "slug": "canberra",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:00.030Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000142,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Canberra%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCSGQXLBpTRZrEWBWaadu6gAF",
+      "datetime": "2026-10-29 04:08:54 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "You should speak to `specialized Microsoft low-code and business automation consulting groups` that operate locally or have dedicated teams in Canberra to bridge your shop floor and existing ERP.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n\n### Top Power Platform & Automation Consultants for Canberra Manufacturers\n\n- **Power Platform Experts (Office Experts Group)** \n\t- **Focus:** Custom Power Apps, Power Automate cloud and desktop flows, Power BI dashboards, and system integration without touching core ERP code.\n\t- **Why consider them for manufacturing:** They specialize in automating job folder creation, chasing manual forms, shop-floor data capture, and integrating low-code tools with legacy or third-party databases while maintaining a local Canberra presence.\n\t- **Website:** [Power Platform Consultants Canberra](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra) [[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n- **Nexacu** \n\t- **Focus:** Low-code app development, paper-form digitisation, automated approvals, and mobile-friendly shop-floor/inventory tracking apps built directly inside your existing Microsoft 365 / Dataverse environment.\n\t- **Why consider them for manufacturing:** They excel at replacing paper-heavy logs, manual spreadsheets, and legacy tracking sheets with clean, maintainable mobile apps that your operators can use on tablets or phones on the floor.\n\t- **Website:** [Nexacu Power Apps & Automate Consulting](https://nexacu.com.au/consulting/power-apps-automate/) [[1]](https://nexacu.com.au/consulting/power-apps-automate/)\n- **Broader Canberra Microsoft Gold/Solutions Partners (e.g., Data#3, Kinetic IT, or local boutique firms)** \n\t- **Focus:** Enterprise Microsoft 365, Azure integration, and Power Platform governance.\n\t- **Why consider them:** If your manufacturing footprint requires strict security, hybrid-cloud connectivity to on-premise ERP SQL databases, or Azure Logic Apps for heavy-duty EDI/order-processing queues, a larger enterprise-tier Microsoft partner can design the underlying data gateway.\n\n### Key Strategies for Automating Around Your ERP\n\n- **Shop-Floor Data Capture via Power Apps:** Deploy Canvas or Model-driven Power Apps on ruggedized tablets or smartphones. Operators can log scrap, downtime, job start/stop times, and quality checks directly into SharePoint or Dataverse, which then syncs or pushes summaries to your ERP via APIs or scheduled Power Automate flows.\n- **Order Processing & Ingestion:** Use Power Automate (with AI Builder if handling unstructured PDFs or emails) to parse incoming customer purchase orders, validate items against your current ERP stock tables, and draft/create sales orders or notification alerts without manual re-keying.\n- **Non-Invasive Integration:** Avoid custom modifications inside your core ERP. Instead, use secure read/write data gateways (like On-Premises Data Gateways for SQL Server or official ERP connectors) so the Power Platform acts as an agile operational \"skin\" over the top of your system.\n\nTo narrow down the best fit, could you share:\n\n- **What specific ERP system** you are currently running?\n- **Whether your shop-floor data capture** needs mobile tablets, barcode scanners, or touchscreens?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "You should speak to specialized Microsoft low-code and business automation consulting groups that operate locally or have dedicated teams in Canberra to bridge your shop floor and existing ERP.",
+              "markdown": "You should speak to `specialized Microsoft low-code and business automation consulting groups` that operate locally or have dedicated teams in Canberra to bridge your shop floor and existing ERP.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "title": "Power Platform Consultants Canberra",
+                  "text": "Services: Power Automate workflows, Power Apps custom applications, Power BI data visualisation, Power Pages deployment, business ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Power Platform & Automation Consultants for Canberra Manufacturers",
+              "text": "Power Platform Experts (Office Experts Group) Focus: Custom Power Apps, Power Automate cloud and desktop flows, Power BI dashboards, and system integration without touching core ERP code. Why consider them for manufacturing: They specialize in automating job folder creation, chasing manual forms, shop-floor data capture, and integrating low-code tools with legacy or third-party databases while maintaining a local Canberra presence. Website: Power Platform Consultants Canberra Nexacu Focus: Low-code app development, paper-form digitisation, automated approvals, and mobile-friendly shop-floor/inventory tracking apps built directly inside your existing Microsoft 365 / Dataverse environment. Why consider them for manufacturing: They excel at replacing paper-heavy logs, manual spreadsheets, and legacy tracking sheets with clean, maintainable mobile apps that your operators can use on tablets or phones on the floor. Website: Nexacu Power Apps & Automate Consulting Broader Canberra Microsoft Gold/Solutions Partners (e.g., Data#3, Kinetic IT, or local boutique firms) Focus: Enterprise Microsoft 365, Azure integration, and Power Platform governance. Why consider them: If your manufacturing footprint requires strict security, hybrid-cloud connectivity to on-premise ERP SQL databases, or Azure Logic Apps for heavy-duty EDI/order-processing queues, a larger enterprise-tier Microsoft partner can design the underlying data gateway.",
+              "markdown": "- **Power Platform Experts (Office Experts Group)** \n\t- **Focus:** Custom Power Apps, Power Automate cloud and desktop flows, Power BI dashboards, and system integration without touching core ERP code.\n\t- **Why consider them for manufacturing:** They specialize in automating job folder creation, chasing manual forms, shop-floor data capture, and integrating low-code tools with legacy or third-party databases while maintaining a local Canberra presence.\n\t- **Website:** [Power Platform Consultants Canberra](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra) [[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n- **Nexacu** \n\t- **Focus:** Low-code app development, paper-form digitisation, automated approvals, and mobile-friendly shop-floor/inventory tracking apps built directly inside your existing Microsoft 365 / Dataverse environment.\n\t- **Why consider them for manufacturing:** They excel at replacing paper-heavy logs, manual spreadsheets, and legacy tracking sheets with clean, maintainable mobile apps that your operators can use on tablets or phones on the floor.\n\t- **Website:** [Nexacu Power Apps & Automate Consulting](https://nexacu.com.au/consulting/power-apps-automate/) [[1]](https://nexacu.com.au/consulting/power-apps-automate/)\n- **Broader Canberra Microsoft Gold/Solutions Partners (e.g., Data#3, Kinetic IT, or local boutique firms)** \n\t- **Focus:** Enterprise Microsoft 365, Azure integration, and Power Platform governance.\n\t- **Why consider them:** If your manufacturing footprint requires strict security, hybrid-cloud connectivity to on-premise ERP SQL databases, or Azure Logic Apps for heavy-duty EDI/order-processing queues, a larger enterprise-tier Microsoft partner can design the underlying data gateway.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Consultants Canberra",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "domain": "www.powerplatformexperts.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Nexacu Power Apps & Automate Consulting",
+                  "description": null,
+                  "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+                  "domain": "nexacu.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "title": "Power Platform Consultants Canberra",
+                  "text": "Services: Power Automate workflows, Power Apps custom applications, Power BI data visualisation, Power Pages deployment, business process optimisation, low-code so..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nexacu",
+                  "domain": "nexacu.com.au",
+                  "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+                  "title": "Power Apps & Automate Consulting",
+                  "text": "Modernise forms, workflows and business processes Many organisations still rely on paper forms, spreadsheets, email approvals and ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Strategies for Automating Around Your ERP",
+              "text": "Shop-Floor Data Capture via Power Apps: Deploy Canvas or Model-driven Power Apps on ruggedized tablets or smartphones. Operators can log scrap, downtime, job start/stop times, and quality checks directly into SharePoint or Dataverse, which then syncs or pushes summaries to your ERP via APIs or scheduled Power Automate flows. Order Processing & Ingestion: Use Power Automate (with AI Builder if handling unstructured PDFs or emails) to parse incoming customer purchase orders, validate items against your current ERP stock tables, and draft/create sales orders or notification alerts without manual re-keying. Non-Invasive Integration: Avoid custom modifications inside your core ERP. Instead, use secure read/write data gateways (like On-Premises Data Gateways for SQL Server or official ERP connectors) so the Power Platform acts as an agile operational \"skin\" over the top of your system.",
+              "markdown": "- **Shop-Floor Data Capture via Power Apps:** Deploy Canvas or Model-driven Power Apps on ruggedized tablets or smartphones. Operators can log scrap, downtime, job start/stop times, and quality checks directly into SharePoint or Dataverse, which then syncs or pushes summaries to your ERP via APIs or scheduled Power Automate flows.\n- **Order Processing & Ingestion:** Use Power Automate (with AI Builder if handling unstructured PDFs or emails) to parse incoming customer purchase orders, validate items against your current ERP stock tables, and draft/create sales orders or notification alerts without manual re-keying.\n- **Non-Invasive Integration:** Avoid custom modifications inside your core ERP. Instead, use secure read/write data gateways (like On-Premises Data Gateways for SQL Server or official ERP connectors) so the Power Platform acts as an agile operational \"skin\" over the top of your system.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To narrow down the best fit, could you share:",
+              "markdown": "To narrow down the best fit, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What specific ERP system you are currently running? Whether your shop-floor data capture needs mobile tablets, barcode scanners, or touchscreens?",
+              "markdown": "- **What specific ERP system** you are currently running?\n- **Whether your shop-floor data capture** needs mobile tablets, barcode scanners, or touchscreens?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nexacu",
+              "domain": "nexacu.com.au",
+              "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+              "title": "Power Apps & Automate Consulting",
+              "text": "Modernise forms, workflows and business processes Many organisations still rely on paper forms, spreadsheets, email approvals and legacy Access databases to manage..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+              "title": "Power Platform Consultants Canberra",
+              "text": "Services: Power Automate workflows, Power Apps custom applications, Power BI data visualisation, Power Pages deployment, business process optimisation, low-code so..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

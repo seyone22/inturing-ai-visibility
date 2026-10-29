@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:51.518Z",
+  "cost": 0.006285,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 643,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005685,
+      "datetime": "2026-10-29 04:03:46 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Melbourne manufacturer that wants to **keep its ERP**, the strongest initial shortlist is:\n\n1. **Inturing** — the closest match to your use case. It specifically describes an operational layer over existing ERP, MES and PLM systems, with quote/order processing, Power Automate integrations, shop-floor progress, quality and inspection apps, offline capability, Power BI and AI.[6]\n\n2. **KLX Consulting** — Melbourne-based specialists in Dynamics 365, Power Platform and Azure. Their focus on integrations, applications, logged process automation, Power Automate, Azure Functions and Logic Apps is relevant where shop-floor and ERP data need reliable orchestration.[7]\n\n3. **1Dynamics** — Melbourne-based Power Platform consultancy offering Power Apps, Power Automate, Dataverse, analytics and governance. It appears well suited to building secure frontline apps for operational teams without replacing the core system.[4]\n\n4. **OfficePro Consulting** — Australian automation consultancy with Melbourne coverage and experience automating manufacturing-related SharePoint and Planner processes. Consider them for workflow automation, approvals, document handling and cross-system orchestration.[1]\n\n5. **Eagle360 Consulting** — useful if your ERP is **Dynamics 365 Business Central or MYOB Acumatica**, or if deeper ERP integration is required. It has Melbourne presence and combines ERP, Power Platform, EDI, warehouse and e-commerce integration capabilities.[3][9]\n\n6. **Essential Tech** — a broader managed-services and RPA option with a Melbourne operation, Power Automate consulting, application integration, monitoring and ongoing support. It may suit a manufacturer seeking implementation plus operational support.[8]\n\n7. **Office Experts Group** — Melbourne Power Platform team focused on business-process automation, custom apps and data visualisation. Worth including as a comparison bid for Power Apps and Power BI delivery.[10]\n\n## Recommended order of contact\n\n- **First:** Inturing, KLX Consulting and 1Dynamics.\n- **Add Eagle360** if your ERP is Business Central or MYOB Acumatica.\n- **Add OfficePro or Essential Tech** if document-heavy order processing, RPA or managed support is a major requirement.\n- **Add Office Experts** for an additional Power Platform implementation comparison.\n\nWhen briefing them, ask for a short discovery engagement covering:\n\n- Order intake from email, EDI, portals or customer documents into the existing ERP.\n- Power Apps for job progress, quality checks, inspections, downtime and non-conformance.\n- Offline operation and device management on the shop floor.\n- API-first integration, with RPA only where the ERP lacks suitable interfaces.\n- Error queues, retries, audit trails and alerts for failed transactions.\n- Dataverse, Power BI and governance design.\n- A pilot with measurable outcomes, such as reduced order-entry time, fewer transcription errors and faster production reporting.\n\nThe most targeted first conversation is likely **Inturing**, followed by **KLX Consulting** and **1Dynamics**, because their stated capabilities align most directly with connecting existing ERP and manufacturing systems rather than replacing them.[4][6][7]",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Technology Consulting in Melbourne | Automation Consulting",
+                  "url": "https://automationconsulting.com.au/melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting Australia | 1Dynamics",
+                  "url": "https://1dynamics.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC | Alphavima",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.klxconsulting.com.auKLX Consulting - Dynamics 365, Power Platform and Azure ...",
+                  "url": "https://www.klxconsulting.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate - Essential Tech",
+                  "url": "https://essentialtech.com.au/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform partner in Sydney & Melbourne",
+                  "url": "https://eagle360.consulting/microsoft-power-platform-partner-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find a Location",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "slug": "perth",
+  "pk": "manufacturing_automation",
+  "plat": "gemini",
+  "text": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__manufacturing_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:01.239Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "To automate order entry, shop-floor data capture, and operational workflows **without ripping and replacing your ERP**, you need a consultant skilled in **\"wrapper\" architectures**. In this model, Microsoft Power Platform and Azure Integration Services sit on top of your existing database or APIs to deliver modern mobile apps and automated pipelines.\n\nThe consulting landscape in Perth ranges from industrial-scale Microsoft partners to nimble local boutiques:\n\n---\n\n### 1. Enterprise & Industrial WA Specialists (Best for complex/large-scale operations)\n\n*   **Velrada (an NRI Company)**\n    *   **Perth Footprint:** Headquartered in Perth (St Georges Terrace), one of Australia’s most decorated Microsoft Business Applications partners.\n    *   **Why them:** Deep experience across WA’s industrial, mining, and discrete manufacturing sectors. They specialize in enterprise Power Platform deployments that orchestrate legacy back-ends (like SAP, Pronto, Epicor, or Syspro) without replacing the underlying system of record.\n*   **Insight (formerly Ignia)**\n    *   **Perth Footprint:** Significant local engineering and digital innovation team based in the Perth CBD.\n    *   **Why them:** Ignia was born in Perth and established a reputation for building robust custom connectors, cloud integrations, and mobile solutions for field and industrial workers. They are well-suited if your shop floor requires custom edge integration, offline data caching, or hardware/scanner integration.\n*   **Data#3**\n    *   **Perth Footprint:** Longstanding presence on Adelaide Terrace.\n    *   **Why them:** One of Microsoft’s largest Australian systems integrators. They have dedicated practices for Business Applications and automation (both cloud Power Automate and Power Automate Desktop RPA), ideal if your legacy ERP lacks modern APIs and requires screen-scraping/robotic entry.\n\n---\n\n### 2. Manufacturing & ERP Integration Specialists (Best for mid-market)\n\n*   **Professional Advantage**\n    *   **Perth Footprint:** Dedicated Perth team.\n    *   **Why them:** Unlike pure low-code agencies, Professional Advantage specializes in mid-market manufacturing and warehousing. They understand production scheduling, BOMs, inventory flow, and lot tracking, making them adept at designing shop-floor capture apps that feed cleanly into back-office financials.\n*   **Barhead Solutions**\n    *   **Perth Footprint:** National Microsoft partner with strong WA project delivery.\n    *   **Why them:** Barhead is among Australia's foremost Power Platform and AI specialists. They excel at implementing **AI Builder and Azure Document Intelligence** for order processing (e.g., turning incoming customer purchase orders in PDF/email format directly into structured ERP orders with human-in-the-loop validation).\n\n---\n\n### 3. Local Perth Boutiques (Best for rapid pilots and agile delivery)\n\n*   **Opticloud Solutions**\n    *   **Perth Footprint:** Local boutique on St Georges Terrace.\n    *   **Why them:** Focused specifically on Power Platform, Power Automate, and custom app delivery for WA businesses. Ideal if you want to run a rapid, cost-effective proof-of-concept (POC) for a specific production cell or automated order queue without large enterprise overhead.\n*   **Eversdale Technology**\n    *   **Perth Footprint:** Local Perth specialists in Power Platform and Dynamics.\n    *   **Why them:** Long-running local team with practical experience extending existing business systems through custom low-code tools.\n*   **Lateral**\n    *   **Perth Footprint:** East Perth-based custom software and systems integration consultancy.\n    *   **Why them:** If your ERP is an older on-premise system or proprietary database where standard Microsoft connectors do not work out of the box, Lateral specializes in bridging legacy databases with modern cloud apps and APIs.\n\n---\n\n### What to Look For and Questions to Ask\n\nWhen briefing these consultants, your non-replacement constraint changes the requirements:\n\n1. **ERP Connector Strategy:** Ask, *\"How will the Power Platform talk to our specific ERP (e.g., REST API, staging database, Azure Logic Apps, or Power Automate Desktop RPA)?\"* Avoid any vendor who suggests custom-coding everything from scratch if a lightweight middleware pipeline will do.\n2. **Shop-Floor User Experience & Hardware:** A tablet app on a clean desk behaves differently than one on a dusty production floor. Ask how they design for **ruggedized tablets/scanners (e.g., Zebra devices), barcode/QR input**, and whether the apps have **offline caching** if your factory has Wi-Fi dead zones.\n3. **Licensing Optimization:** Power Platform licensing can escalate quickly if every shift worker requires a full Power Apps premium license. An experienced partner will structure your architecture (e.g., shift-based pooled kiosks, Power Pages, or Dataverse-multiplexing compliant models) to keep software costs under control.\n4. **Order Automation / OCR Experience:** Ask to see live examples of how they handle multi-line order processing from customer PO PDFs (using Microsoft AI Builder / Power Automate) and how exceptions are routed for human review before touching the ERP.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partner+Perth+Western+Australia+automation&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partner Perth Western Australia automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultants+Perth+manufacturing+ERP&client=app-vertex-grounding&safesearch=active\">Power Platform consultants Perth manufacturing ERP</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdtZNSMGELbS3bmHvAWt-AC9-Sr_41kz8FZJHX9jJy8A5uQ5lpvvWJgs8vebd9RH6Ea-HgT7AmqpVZcwD3ffkAL7wcBmRFrnM9lHiyVsvlHSGrNz0etu1DyVK1zIp6xBs6D0xzbmVxAndFTQ-BxDPhhl3kPuJOy5zaZx9vbnt-8dlsA==",
+                "title": "concettolabs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4Ro76F7YNrddA96ZJaIQ4A7zY6Lw6pOWFBKtZ0UuKOvGe71NbQfiyHKjKhixAaBHTl1rmufrDExQ3e3DSpSEIgFM8COrsmzdbXhBRi9L0Mmq9a9VSHHcNZI7iCGOvBlqpvRdrk0BUFW12UAGKYsI-",
+                "title": "vibe0.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLITCgd4_S-UcLC2z3sSh-_CpMygzShDcf-Oody2OQO3gpYxZIYgtZQOGcbBrdik0vlebMplqsgGYcxme6UgdeN-hmAwd5pMwOW3DgwsJoVhbL_DVJKc4nDbV0lj2yLFF9W6oBvzWtOEbNhaVcn2vnvDccf5qI5cBFKpY7_Pssq47vdUQ=",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCrZQTNCBcAm8QYxSH4BvDJ-icF6jjqYSrl99l4_Xhrij0f7_nT9LZ0rmkkRkC1Uys8j-0oEmQU2s3TgX-dU_XfDI96uNcmFqy5070rPvCrB0edU15xf3Ejuvtxy86szLl0iPj",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzyhBydfFx-8iP82I_A8fRS1W5mOkUAACh26riVNsSkx98pOe8bR79XI9ns3rnuNBhFZnrCUMQInKyBwJUkmgdQpCBujYD2k0Tspet9yPj9uVTKElrnIySDmo_E7A1VM7aQHE2KX78cuk-_2gihy5HiJt17BHZc_ZDbyMRQNmlhJ-1WTrOewAjMLU2",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh9Gh1LZbaLrHFjL8-IRWx8B3f_fxIyM_LD3tmRybft5sH9o6Zimyi4W47hnk9pJ75SC734tYSGawzCx9hUP1LlVApeL_HDlOFLqViUxnzk1iCxWFQYymsszbv8snckFfhRgwR9ydVqd39JVuWOSEYwBGK06BAmi_9EFqxiFQgvVWecVWibZo=",
+                "title": "integral-mgt.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-pMLeYUc0EmyQzetV8oVHTc2aTogziVDXdTcKQ4GsjI4ZPdFiyANzuyf-XMVy1_JTvrp3NHgnxk7lwLonPLCjbT1r-YQCwpvP4tQp4uRiWwGir4BBZwFL",
+                "title": "opticloud.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRiBLDFIvMjnO5-f1xAGiLsPf99MWSCTzhxyIEzLC2D9LkuhLs7w9qv4YqmiLlfLifETdeEfYADGLEi4759UVaAv1rISDK_EA5YEjOn7jwikLu_5SCkw==",
+                "title": "eversdaletech.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 180,
+                "text": "To automate order entry, shop-floor data capture, and operational workflows **without ripping and replacing your ERP**, you need a consultant skilled in **\"wrapper\" architectures**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 182,
+                "endIndex": 351,
+                "text": "In this model, Microsoft Power Platform and Azure Integration Services sit on top of your existing database or APIs to deliver modern mobile apps and automated pipelines"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 562,
+                "endIndex": 590,
+                "text": "**Velrada (an NRI Company)**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 599,
+                "endIndex": 741,
+                "text": "**Perth Footprint:** Headquartered in Perth (St Georges Terrace), one of Australia’s most decorated Microsoft Business Applications partners"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1497,
+                "endIndex": 1507,
+                "text": "**Data#3**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1588,
+                "endIndex": 1661,
+                "text": "**Why them:** One of Microsoft’s largest Australian systems integrators"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1663,
+                "endIndex": 1879,
+                "text": "They have dedicated practices for Business Applications and automation (both cloud Power Automate and Power Automate Desktop RPA), ideal if your legacy ERP lacks modern APIs and requires screen-scraping/robotic entry"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1965,
+                "endIndex": 1991,
+                "text": "**Professional Advantage**"
+              },
+              "groundingChunkIndices": [
+                3,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2051,
+                "endIndex": 2174,
+                "text": "**Why them:** Unlike pure low-code agencies, Professional Advantage specializes in mid-market manufacturing and warehousing"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2176,
+                "endIndex": 2253,
+                "text": "They understand production scheduling, BOMs, inventory flow, and lot tracking"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2176,
+                "endIndex": 2355,
+                "text": "They understand production scheduling, BOMs, inventory flow, and lot tracking, making them adept at designing shop-floor capture apps that feed cleanly into back-office financials"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2361,
+                "endIndex": 2382,
+                "text": "**Barhead Solutions**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2391,
+                "endIndex": 2470,
+                "text": "**Perth Footprint:** National Microsoft partner with strong WA project delivery"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2480,
+                "endIndex": 2565,
+                "text": "**Why them:** Barhead is among Australia's foremost Power Platform and AI specialists"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2886,
+                "endIndex": 2909,
+                "text": "**Opticloud Solutions**"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2918,
+                "endIndex": 2975,
+                "text": "**Perth Footprint:** Local boutique on St Georges Terrace"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2985,
+                "endIndex": 3096,
+                "text": "**Why them:** Focused specifically on Power Platform, Power Automate, and custom app delivery for WA businesses"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3265,
+                "endIndex": 3289,
+                "text": "**Eversdale Technology**"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3298,
+                "endIndex": 3373,
+                "text": "**Perth Footprint:** Local Perth specialists in Power Platform and Dynamics"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3383,
+                "endIndex": 3512,
+                "text": "**Why them:** Long-running local team with practical experience extending existing business systems through custom low-code tools"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Power Platform partner Perth Western Australia automation",
+            "Power Platform consultants Perth manufacturing ERP"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 599,
+      "candidatesTokenCount": 1230,
+      "totalTokenCount": 3294,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 599
+        }
+      ],
+      "thoughtsTokenCount": 1465,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "P8biat-jNOei694Py_PK8AQ"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:13.242Z",
+  "cost": 0.006233,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 591,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005633,
+      "datetime": "2026-10-29 04:05:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Brisbane manufacturer that wants to **keep its ERP**, the strongest initial shortlist is:\n\n- **CG TECH** — Brisbane-based and explicitly focused on Australian manufacturing. It automates quoting, job setup, compliance records, supplier data, and reporting across Microsoft 365 and Power Platform, while adding automation around—rather than replacing—existing ERP or job-management systems.[1]\n- **Inturing** — a strong fit for manufacturing operations. Its stated scope includes quote and order processing, purchase approvals, shop-floor and inspection apps, supplier onboarding, operational dashboards, document extraction, and integration across ERP, MES, PLM and finance systems without an ERP replacement.[2][5]\n- **Strategik** — Brisbane-based, with emphasis on extracting operational data from ERP systems, building Power Platform line-of-business apps, automating spreadsheet-based processes, and delivering Power BI reporting.[9]\n- **Essential Tech** — Brisbane-headquartered Power Automate and RPA consultancy offering workflow automation, application integration, error monitoring and ongoing support.[3]\n- **Sunrise Technologies** — worth considering for a larger or more Microsoft-enterprise-oriented project involving Power Platform, shop-floor/MES integration, IoT, supply-chain processes and automated order channels.[4]\n\n## Recommended shortlist by requirement\n\n| Requirement | Best-fit consultants |\n|---|---|\n| Order intake, quote-to-order and document processing | **CG TECH, Inturing, Essential Tech** |\n| Shop-floor, inspection and offline data capture | **Inturing, Sunrise Technologies, CG TECH** |\n| ERP integration without replacement | **Inturing, CG TECH, Strategik** |\n| Power Apps, Power Automate and Power BI | **Strategik, Essential Tech, Inturing** |\n| Larger Azure, IoT or MES integration | **Sunrise Technologies** |\n\nA sensible first round would be **CG TECH, Inturing and Strategik**: they most directly match the combination of manufacturing, Brisbane presence, Power Platform and “automation around the existing ERP” rather than an ERP replacement.[1][2][5][9]\n\nWhen speaking with them, request a paid or fixed-scope discovery covering:\n\n- Order capture from email, PDF, EDI or web channels into the ERP\n- ERP master-data validation and exception handling\n- Tablet/mobile shop-floor job-progress and quality forms\n- Offline operation and later synchronisation\n- Integration method: APIs, webhooks, Dataverse, custom connectors or RPA\n- Power Platform governance, licensing, security and support\n- Audit trails, retry logic and ownership of failed transactions\n- A pilot with measurable outcomes, such as reduced order-entry time and improved production-data completeness\n\nAsk each consultant to demonstrate the proposed process using your actual ERP, order format and one representative shop-floor workflow. This will distinguish genuine integration capability from generic Power Platform development claims.",
+              "annotations": [
+                {
+                  "title": "Manufacturing automation for quoting and records - CG TECH",
+                  "url": "https://cgtech.com.au/industries/manufacturing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+                  "url": "https://inturing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate - Essential Tech",
+                  "url": "https://essentialtech.com.au/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Certified Microsoft Partner for Business Applications in Australia",
+                  "url": "https://www.sunrisetechs.com/microsoft-partner-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Digital Process Automation Solutions in Brisbane, QLD | Alphavima",
+                  "url": "https://alphavima.com/power-platform-2/digital-process-automation-solutions-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.strategik.com.auMicrosoft Power Platform, Brisbane | Strategik",
+                  "url": "https://www.strategik.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Solutions & Implementation in Brisbane - XCD IT",
+                  "url": "https://xcdit.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

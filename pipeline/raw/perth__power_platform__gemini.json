@@ -1,0 +1,296 @@
+{
+  "slug": "perth",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Perth? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:45.972Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft Power Platform partner in Perth, the right choice depends heavily on whether your project is an enterprise-wide low-code program (common in mining, energy, and public sector) or a focused workflow automation/app build for a mid-market business.\n\nBelow is a curated shortlist of reputable Microsoft Power Platform consulting partners with delivery teams and established track records in Perth:\n\n---\n\n### 1. **Velrada (an NRI Company)**\n* **Category:** Enterprise & Mission-Critical Solutions  \n* **Office:** St Georges Terrace, Perth CBD  \n* **Overview:** Founded in Perth, Velrada has grown into an internationally awarded Microsoft partner. They are arguably Western Australia’s strongest dedicated player in Microsoft Business Applications and Power Platform.\n* **Why Choose Them:**\n  * **Global Recognition:** Frequent Microsoft Partner of the Year finalist/winner for Business Applications and Dynamics 365.\n  * **App & Agent Factory Methodology:** Designed to scale low-code delivery quickly using Microsoft’s Well-Architected Framework (WAF) rather than treating Power Apps like ad-hoc scripting.\n  * **Industry Fit:** Extensive experience building asset tracking, field inspection, and safety apps for WA’s mining, resources, and utilities sectors.\n* **Best For:** Large enterprises, mining, and government organizations looking to roll out complex, scalable low-code apps integrated with Dynamics 365 and Azure.\n\n---\n\n### 2. **Capgemini Australia (formerly Empired)**\n* **Category:** Tier-1 Enterprise & Public Sector Systems Integrator  \n* **Office:** Perth CBD  \n* **Overview:** Empired was long one of Perth’s largest home-grown IT consultancies before being acquired by Capgemini. The Perth office maintains a very deep bench of Microsoft-certified specialists.\n* **Why Choose Them:**\n  * **Proven Local Track Record:** Decades of experience delivering digital transformation projects across WA State Government departments and top-tier resources companies.\n  * **End-to-End Delivery:** Capable of bridging Power Platform (Apps, Automate, Dataverse) with enterprise ERP, legacy core modernisations, and data pipelines.\n  * **Centre of Excellence (CoE):** Strong governance frameworks to help organisations adopt low-code safely without \"app sprawl\" or security leaks.\n* **Best For:** Government tenders and corporate enterprises requiring heavy compliance, architecture governance, and enterprise-grade scale.\n\n---\n\n### 3. **Data#3**\n* **Category:** National Tier-1 Microsoft Solutions Partner  \n* **Office:** Kings Park Road, West Perth  \n* **Overview:** Data#3 is one of Australia’s largest and most accredited Microsoft Solutions Partners, maintaining a significant local team in Perth.\n* **Why Choose Them:**\n  * **Licensing & Architecture Synergies:** Power Platform projects often suffer unexpected licensing costs (e.g., Dataverse, premium connectors). Data#3 excels at balancing Microsoft licensing procurement with technical deployment.\n  * **Full Cloud Ecosystem:** Seamlessly combines Power Platform builds with Microsoft 365 collaboration, Power BI analytics, and Azure security.\n* **Best For:** Organizations that want a single, trusted national partner for both Microsoft licensing and structured Power Platform development.\n\n---\n\n### 4. **Barhead Solutions (an Akkodis Company)**\n* **Category:** Pure-Play Power Platform & Dynamics Specialist  \n* **Office:** National presence delivering into WA  \n* **Overview:** Barhead is widely recognized across Australia as an industry leader dedicated specifically to Microsoft Business Applications, Power Platform, and Copilot Studio.\n* **Why Choose Them:**\n  * **Specialisation:** Unlike generalist IT managed service providers, Barhead's engineers live and breathe Power Apps, Power Automate, and Copilot.\n  * **Rapid Ideation & CoE:** Known for structured programs like \"App in a Day\" workshops, Power Platform governance assessments, and building citizen-developer enablement frameworks.\n* **Best For:** Organizations seeking a boutique, highly specialized partner to establish low-code governance, run ideation sprints, or implement custom Copilot/AI workflows.\n\n---\n\n### 5. **Insight Enterprises (incorporating legacy Ignia)**\n* **Category:** Cloud Innovation & Digital Engineering  \n* **Office:** Perth CBD  \n* **Overview:** Insight absorbed Ignia, one of Perth’s premier boutique digital and Microsoft practices. They have retained strong technical roots in WA.\n* **Why Choose Them:**\n  * **Integration & Pro-Dev Capabilities:** Ideal if your Power Platform project requires \"fusion teams\"—where citizen low-code apps integrate tightly with custom APIs, Azure Functions, and complex data models.\n  * **UI/UX Focus:** Above-average focus on design and user adoption for canvas and model-driven apps.\n* **Best For:** Businesses requiring modern digital applications that sit between low-code ease and custom software architecture.\n\n---\n\n### 6. **Bremmar Consulting**\n* **Category:** Mid-Market & Not-for-Profit Specialist  \n* **Office:** Osborne Park, Perth  \n* **Overview:** Bremmar is a locally owned, dedicated Perth IT consultancy focusing specifically on mid-market businesses and non-profit organisations.\n* **Why Choose Them:**\n  * **High Accessibility & Lower Overhead:** Enterprise consultancies can be cost-prohibitive for smaller projects; Bremmar provides direct access to senior consultants.\n  * **Digitisation of Legacy Workflows:** Strong focus on replacing paper-based processes, complex Excel spreadsheets, and InfoPath/Access forms with Power Apps and Power Automate.\n* **Best For:** Small-to-mid-sized businesses (SMBs) and non-profits seeking practical, budget-conscious workflow automation and app development.\n\n---\n\n### Evaluation Checklist for Choosing Your Perth Partner\n\nWhen vetting these partners, make sure to ask:\n1. **Governance & ALM:** Do they use the *Microsoft Power Platform CoE (Center of Excellence) Starter Kit* and implement Application Lifecycle Management (Dev/Test/Prod environments)?\n2. **Licensing Advisory:** Power Platform pricing can escalate quickly depending on Dataverse usage and API calls. Can they help architect the solution to minimize unnecessary premium licensing?\n3. **Local Delivery:** Ensure the core developers and architects are available in AWST (Perth time), particularly if workshops or user-acceptance testing (UAT) require on-site facilitation.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Apps+Power+Platform+consulting+Perth+Western+Australia&client=app-vertex-grounding&safesearch=active\">Power Apps Power Platform consulting Perth Western Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consulting+Perth+partners&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consulting Perth partners</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Velrada+Microsoft+Power+Platform+Perth&client=app-vertex-grounding&safesearch=active\">Velrada Microsoft Power Platform Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Barhead+Solutions+Perth+Power+Platform&client=app-vertex-grounding&safesearch=active\">Barhead Solutions Perth Power Platform</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcJf0dUtbzkwkWm2biPSjFNLQvlY61brmZIeZ5wGYGf-vN74jr0G7LTpWrL02VvszxZxrjeQnz6wqFWMj080xhkM5gEY2iXufl1ArjQr32EtWwzGb_w90AupYZvgNfu7A9pQponA==",
+                "title": "verosoftdesign.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKyaWUgX4Eoa9RI4oRF9aFU3deIMec977Aqly-EPaAdbcflTJPraCG63YSZX6c4GqRWmBaP9oJio5wPm4QPd1uSdQO0OPwklHJMyxX48geFh6oxlUHLhqTEAr6R6EKF9VKWEbK_ASXRGVjOto=",
+                "title": "wbresearch.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonorWlIb9C0EzP1zjiEyLQuPEkRZkoHJPuW4MmpZTgrSTYOkAD1dsK4YGNjbsw8rNtSOCOnu_7FMXQJyLXy6bKolj8xT3YJAmwGGa3bxwnGA4UqGQ71zXD9HZbu-H2O482C15hIqkwjAjGmQgYMp1wc8J4DUwlSwjQiFALZ8GHKJlV4iW",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYAs1aDh5nvrCDRp5e3hPC0ubl2gJQTe_BR6uJS_YUE9gjiedyvQoKrp43GPs6sOABrNMe4s6eX9eyKdXikhAB4_pqky7VZ0ylDnSFuZrPVaLIrwK7ogB9mdOiPlY-HAA-fM0zCufEHYPkcDDYR9VoEVhdm5Dfruu_6MZ_GWb9vyg_Rh2lMC2bRrEAKCzqHQEL4uhaK577bwk48EVWNhCm2uZOThfiB3q2nTpCyDx3GmM1wi0nn4vnCvK1m7GwsakQNEC87bxzCNXOE8yA_qFhe2fRJfQ=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTRdmxZET7Bp1Q3pDhgZzMQvyUkzmIu7w0dNnrRgv2NyJ6fzJgkvU6zonpvdAp3Keja7-CBiOmHnXQczgfDC1jtRMTGNCyCEAa4-AYK1BZdXfZad_55XDvTVtJPU0_JQ==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH67NfUIdof9EoszqmjGL5gw4mtzmW72T-QtHG_g5Z46Vsg0NeJpdVfrJtqD8O03XE__1X7JN27nZvPmBClum27ja8eeDjkm3QjXKXISg-idVDJCJybjykFChlXTxAAFa8eY2qV",
+                "title": "nsw.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKLeO92f8vWQM0Be4HFKDawmN3tVQIzjPeIrrChNMaYw6L6yD3vrKoMbz6StTau-0ugxp7PRH69tgzxw2I7gcIHBTo9sUgBHo10l5ruTQLuf8yVtfklXmY9Buc4_iVhVoDspQ4DBdMSprWGca6vDjhxC8b9jbVy3BEOfKg6hWMlgrWZo7Mxq1lysCGtI5Ek_-2IVWU8ZI=",
+                "title": "akkodis.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1X6kmqp3SLXQPYMDzfnVSwkDAb5VPgj-OvW4rPqp70JGYRP4nMWXk3i648GbpUwKlEJliLLYliZxZa34xuAt3BmDTBAujBhnMTp45ilx4k9U6cTbPzbuTTTPTz3vcVkmChOajdlS",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH82FDf1RMhaj7B62HG486T0Hn8bFYUKvE14g1b_0XDOpgB_PnFB0SqyU4Go2LtDGCUTQb_FThd3uym1XPhdCEzAMVigN7PbVBLOFqC-9eNgmwrGII_k3-0XoLGuX165lauuCCSZiz-rSVRDClOnpD_7dgWyEDa03_IpSKVXA1YKgvYWSN_Sb_yW4M8UfK1mwS_FN-lE-CxXL4gurWgWxJlz9aWQQc8-F3Y9VodWsKMGCeSFwcyrkc6f7sP6Ofh2JSHcpp19OYOum2THZxs_QRebGbtipJV6KZzHlcxJkbJDm1XdlmYnSoJ6qwVEA==",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_qObAC6zM6-hWLMgONLKoXgCcYYWaqu9J_FcrlfWaxf2kTf5JPb02bx9cdETfkQB685WSvZwNTdeLCG3FycDW3W_XLiFl1Kktk9xMUSt7UWHVWrYwZUEdysgx0tzR9gUCzAKbGn-GA1ul7UzYNcYkwQpNpeAsTQF2lA==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-O1ChDOjRXODxXdc_uzzOG_jDyky7JYpE9AbFVClWuk1pDsPUIdP1Um6ZPKjZo00ZuG7KPHBBLNIVw4dhLjdaNkUE2zPfGdk5avM-1X4VAq2UyPs6GiCd-bPoT7j5zz5PN7L3o_kOyF9bMqQ=",
+                "title": "bremmar.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFme1XcZVc1xmRMHpZpkBNgNLI064mMIHv67RCqq7IsDWHvOLwID8gKXZWB61KkeJYqMLc9Gm8pKCqeuUQ1Ah0RKkrwN5Xo1ld_xc_2c-IhE_q4ZadYqhE=",
+                "title": "bremmar.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 568,
+                "endIndex": 667,
+                "text": "**Overview:** Founded in Perth, Velrada has grown into an internationally awarded Microsoft partner"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 669,
+                "endIndex": 789,
+                "text": "They are arguably Western Australia’s strongest dedicated player in Microsoft Business Applications and Power Platform"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 818,
+                "endIndex": 939,
+                "text": "**Global Recognition:** Frequent Microsoft Partner of the Year finalist/winner for Business Applications and Dynamics 365"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 945,
+                "endIndex": 1132,
+                "text": "**App & Agent Factory Methodology:** Designed to scale low-code delivery quickly using Microsoft’s Well-Architected Framework (WAF) rather than treating Power Apps like ad-hoc scripting"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1138,
+                "endIndex": 1287,
+                "text": "**Industry Fit:** Extensive experience building asset tracking, field inspection, and safety apps for WA’s mining, resources, and utilities sectors"
+              },
+              "groundingChunkIndices": [
+                3,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1291,
+                "endIndex": 1451,
+                "text": "**Best For:** Large enterprises, mining, and government organizations looking to roll out complex, scalable low-code apps integrated with Dynamics 365 and Azure"
+              },
+              "groundingChunkIndices": [
+                3,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2589,
+                "endIndex": 2690,
+                "text": "**Overview:** Data#3 is one of Australia’s largest and most accredited Microsoft Solutions Partners"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3464,
+                "endIndex": 3639,
+                "text": "**Overview:** Barhead is widely recognized across Australia as an industry leader dedicated specifically to Microsoft Business Applications, Power Platform, and Copilot Studio"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3668,
+                "endIndex": 3812,
+                "text": "**Specialisation:** Unlike generalist IT managed service providers, Barhead's engineers live and breathe Power Apps, Power Automate, and Copilot"
+              },
+              "groundingChunkIndices": [
+                7,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3818,
+                "endIndex": 3996,
+                "text": "**Rapid Ideation & CoE:** Known for structured programs like \"App in a Day\" workshops, Power Platform governance assessments, and building citizen-developer enablement frameworks"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4000,
+                "endIndex": 4171,
+                "text": "**Best For:** Organizations seeking a boutique, highly specialized partner to establish low-code governance, run ideation sprints, or implement custom Copilot/AI workflows"
+              },
+              "groundingChunkIndices": [
+                6,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5078,
+                "endIndex": 5226,
+                "text": "**Overview:** Bremmar is a locally owned, dedicated Perth IT consultancy focusing specifically on mid-market businesses and non-profit organisations"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5255,
+                "endIndex": 5419,
+                "text": "**High Accessibility & Lower Overhead:** Enterprise consultancies can be cost-prohibitive for smaller projects; Bremmar provides direct access to senior consultants"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5425,
+                "endIndex": 5600,
+                "text": "**Digitisation of Legacy Workflows:** Strong focus on replacing paper-based processes, complex Excel spreadsheets, and InfoPath/Access forms with Power Apps and Power Automate"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5604,
+                "endIndex": 5746,
+                "text": "**Best For:** Small-to-mid-sized businesses (SMBs) and non-profits seeking practical, budget-conscious workflow automation and app development"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Power Apps Power Platform consulting Perth Western Australia",
+            "Microsoft Power Platform consulting Perth partners",
+            "Velrada Microsoft Power Platform Perth",
+            "Barhead Solutions Perth Power Platform"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 975,
+      "candidatesTokenCount": 1506,
+      "totalTokenCount": 4235,
+      "cachedContentTokenCount": 306,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 975
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 306
+        }
+      ],
+      "thoughtsTokenCount": 1754,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "Lsbiau6UDOnL694P-7_zuQU"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:02:45.886Z",
+  "cost": 0.006225,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 583,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005625,
+      "datetime": "2026-10-29 04:02:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Sydney manufacturer wanting to **keep its ERP** while automating order processing, shop-floor capture and operational workflows, these consultants are the strongest shortlist:\n\n- **Inturing** — the closest fit. It specifically works with manufacturers running Microsoft 365 alongside ERP, MES or PLM systems, and offers order-processing automation, shop-floor apps, inspections, quality workflows and integration without replacing existing systems. Its delivery team is based in Sydney.[1][5]\n- **Dynamic Aspect** — a good option for Power Automate, RPA, Power BI and Microsoft business-app integration, including manufacturing and administrative processes. It operates in Sydney and across Australia.[2]\n- **Oxana** — suitable if you want a broader technology partner covering Power Apps, Power Automate, dashboards, implementation and ongoing managed services. It is Sydney-based and works with established manufacturers and distributors.[9]\n- **Essential Tech** — worth considering for Power Automate, RPA, system integration, monitoring and ongoing support. It operates in Sydney, Melbourne and Brisbane.[6]\n- **Weblink Plus** — particularly relevant if your ERP is Microsoft Dynamics 365 Business Central or NetSuite, or if you need document capture, approvals, APIs and Power Platform integration. It is headquartered in North Sydney.[4]\n- **Eagle360 Consulting** — a strong ERP-adjacent option for manufacturers using or considering Business Central or MYOB Acumatica, with Power Apps, Power Automate, EDI, warehouse and e-commerce integration. It is based in North Sydney.[8]\n- **Austral Dynamics** — consider this if your current environment is Microsoft Dynamics 365 or Business Central and you need manufacturing, shop-floor, supply-chain and Power Platform expertise from a Sydney-based partner.[7]\n\n## Recommended first conversations\n\nStart with:\n\n1. **Inturing** — best match for non-replacement automation across an existing ERP, MES and shop-floor environment.\n2. **Dynamic Aspect** — strong Microsoft/Power Automate and manufacturing-process capability.\n3. **Oxana** — suitable for a broader managed-service and implementation relationship.\n4. Add **Weblink Plus** or **Eagle360** if your ERP is Business Central, NetSuite or MYOB Acumatica.\n\nWhen requesting proposals, ask each consultant to demonstrate a small pilot covering:\n\n- Email, PDF or EDI order ingestion and validation\n- ERP order creation with exception handling and audit trails\n- A tablet-based production, quality or downtime capture app\n- Offline capability for areas with unreliable connectivity\n- Integration through APIs or approved connectors rather than direct database writes\n- Licensing, support, security, governance and estimated ongoing run costs\n\nThe key selection test is whether they can show a **thin automation layer around your current ERP**, rather than steering the project toward an ERP replacement.",
+              "annotations": [
+                {
+                  "title": "About Inturing | Australian Power Platform Consultancy",
+                  "url": "https://inturing.com.au/about",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Solutions - Dynamic Aspect",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consulting Sydney",
+                  "url": "https://automationconsulting.com.au/sydney/ai-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP & CRM Implementation Partner Australia | Weblink Plus",
+                  "url": "https://www.weblinkplus.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate - Essential Tech",
+                  "url": "https://essentialtech.com.au/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Dynamics 365 Partner & Consultant in Sydney",
+                  "url": "https://australdynamics.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting | Oxana",
+                  "url": "https://oxana.com.au/solutions/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services in Sydney - Data Mastery",
+                  "url": "https://www.data-mastery.com/power-platform-consulting-au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

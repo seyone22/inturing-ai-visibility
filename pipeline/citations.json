@@ -1,0 +1,477 @@
+{
+  "totalCitations": 3615,
+  "uniqueDomains": 708,
+  "uniqueUrls": 1818,
+  "clientDomainCitations": 91,
+  "byType": [
+    {
+      "type": "Competitor Consultancy",
+      "count": 1817,
+      "sharePct": 50.3
+    },
+    {
+      "type": "Other Web Source",
+      "count": 1502,
+      "sharePct": 41.5
+    },
+    {
+      "type": "Vendor / Government / Standards",
+      "count": 134,
+      "sharePct": 3.7
+    },
+    {
+      "type": "Client Owned",
+      "count": 91,
+      "sharePct": 2.5
+    },
+    {
+      "type": "Social / Community",
+      "count": 39,
+      "sharePct": 1.1
+    },
+    {
+      "type": "B2B Tech Directory / Review",
+      "count": 28,
+      "sharePct": 0.8
+    },
+    {
+      "type": "Tech & Industry Media",
+      "count": 4,
+      "sharePct": 0.1
+    }
+  ],
+  "topDomains": [
+    {
+      "domain": "powerplatformexperts.com.au",
+      "count": 130,
+      "sharePct": 3.6,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "google.com",
+      "count": 101,
+      "sharePct": 2.79,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "inturing.com.au",
+      "count": 91,
+      "sharePct": 2.52,
+      "type": "Client Owned"
+    },
+    {
+      "domain": "pa.com.au",
+      "count": 68,
+      "sharePct": 1.88,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "alphavima.com",
+      "count": 67,
+      "sharePct": 1.85,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "revenuebase.ai",
+      "count": 66,
+      "sharePct": 1.83,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "microsoft.com",
+      "count": 57,
+      "sharePct": 1.58,
+      "type": "Vendor / Government / Standards"
+    },
+    {
+      "domain": "officeproconsulting.com.au",
+      "count": 57,
+      "sharePct": 1.58,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "eagle360.consulting",
+      "count": 54,
+      "sharePct": 1.49,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "agile-insights.com.au",
+      "count": 54,
+      "sharePct": 1.49,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "officeexperts.com.au",
+      "count": 53,
+      "sharePct": 1.47,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "ultrondevelopments.com.au",
+      "count": 50,
+      "sharePct": 1.38,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "leveragetech.com.au",
+      "count": 48,
+      "sharePct": 1.33,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "team400.ai",
+      "count": 46,
+      "sharePct": 1.27,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "frontrowtech.com.au",
+      "count": 46,
+      "sharePct": 1.27,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "evocate.com.au",
+      "count": 44,
+      "sharePct": 1.22,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "opticloud.com.au",
+      "count": 43,
+      "sharePct": 1.19,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "barhead.com",
+      "count": 37,
+      "sharePct": 1.02,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "cloudfactory.co",
+      "count": 37,
+      "sharePct": 1.02,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "velrada.com",
+      "count": 35,
+      "sharePct": 0.97,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "agerbi.com.au",
+      "count": 35,
+      "sharePct": 0.97,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "cgtech.com.au",
+      "count": 33,
+      "sharePct": 0.91,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "reportsimple.com.au",
+      "count": 32,
+      "sharePct": 0.89,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "myob.com",
+      "count": 32,
+      "sharePct": 0.89,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "concettolabs.com",
+      "count": 27,
+      "sharePct": 0.75,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "1dynamics.com.au",
+      "count": 24,
+      "sharePct": 0.66,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "data3.com",
+      "count": 24,
+      "sharePct": 0.66,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "antares.solutions",
+      "count": 22,
+      "sharePct": 0.61,
+      "type": "Competitor Consultancy"
+    },
+    {
+      "domain": "engagesq.com",
+      "count": 22,
+      "sharePct": 0.61,
+      "type": "Other Web Source"
+    },
+    {
+      "domain": "roardata.com.au",
+      "count": 21,
+      "sharePct": 0.58,
+      "type": "Competitor Consultancy"
+    }
+  ],
+  "topUrls": [
+    {
+      "url": "https://barhead.com",
+      "domain": "barhead.com",
+      "count": 28
+    },
+    {
+      "url": "https://pa.com.au",
+      "domain": "pa.com.au",
+      "count": 25
+    },
+    {
+      "url": "https://data3.com",
+      "domain": "data3.com",
+      "count": 23
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/locations",
+      "domain": "powerplatformexperts.com.au",
+      "count": 21
+    },
+    {
+      "url": "https://engagesq.com",
+      "domain": "engagesq.com",
+      "count": 21
+    },
+    {
+      "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+      "domain": "agile-insights.com.au",
+      "count": 20
+    },
+    {
+      "url": "https://microsoft.com",
+      "domain": "microsoft.com",
+      "count": 20
+    },
+    {
+      "url": "https://eagle360.consulting/",
+      "domain": "eagle360.consulting",
+      "count": 17
+    },
+    {
+      "url": "https://seek.com",
+      "domain": "seek.com",
+      "count": 16
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+      "domain": "powerplatformexperts.com.au",
+      "count": 16
+    },
+    {
+      "url": "https://tasict.com.au",
+      "domain": "tasict.com.au",
+      "count": 16
+    },
+    {
+      "url": "https://antares.solutions",
+      "domain": "antares.solutions",
+      "count": 15
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/",
+      "domain": "powerplatformexperts.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+      "domain": "powerplatformexperts.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+      "domain": "officeproconsulting.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+      "domain": "ultrondevelopments.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://leveragetech.com.au",
+      "domain": "leveragetech.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://ultrondevelopments.com.au/",
+      "domain": "ultrondevelopments.com.au",
+      "count": 14
+    },
+    {
+      "url": "https://beyondkey.com.au",
+      "domain": "beyondkey.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://inturing.com.au/",
+      "domain": "inturing.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://www.pa.com.au/products/microsoft-fabric/",
+      "domain": "pa.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://inturing.com.au/about",
+      "domain": "inturing.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://eagle360.consulting",
+      "domain": "eagle360.consulting",
+      "count": 12
+    },
+    {
+      "url": "https://revenuebase.ai",
+      "domain": "revenuebase.ai",
+      "count": 11
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+      "domain": "powerplatformexperts.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://inturing.com.au",
+      "domain": "inturing.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://isw.net.au",
+      "domain": "isw.net.au",
+      "count": 11
+    },
+    {
+      "url": "https://itechnologies.com.au",
+      "domain": "itechnologies.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf",
+      "domain": "telstra.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://onekloudx.com.au/expertise/integrations/",
+      "domain": "onekloudx.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+      "domain": "brightlabs.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://consultancy.com.au",
+      "domain": "consultancy.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://velrada.com",
+      "domain": "velrada.com",
+      "count": 10
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+      "domain": "powerplatformexperts.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.ssw.com.au/consulting/power-platform",
+      "domain": "ssw.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://eagle360.consulting/power-platform-copilot/",
+      "domain": "eagle360.consulting",
+      "count": 9
+    },
+    {
+      "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+      "domain": "powerplatformexperts.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://inturing.com.au/manufacturing",
+      "domain": "inturing.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://1dynamics.com.au",
+      "domain": "1dynamics.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+      "domain": "reportsimple.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://agerbi.com.au",
+      "domain": "agerbi.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://copilotsolutions.com.au/",
+      "domain": "copilotsolutions.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://myob.com",
+      "domain": "myob.com",
+      "count": 9
+    },
+    {
+      "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+      "domain": "microsoft.com",
+      "count": 8
+    },
+    {
+      "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+      "domain": "revenuebase.ai",
+      "count": 8
+    },
+    {
+      "url": "https://officeproconsulting.com.au",
+      "domain": "officeproconsulting.com.au",
+      "count": 8
+    },
+    {
+      "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+      "domain": "inturing.com.au",
+      "count": 8
+    },
+    {
+      "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+      "domain": "inturing.com.au",
+      "count": 8
+    },
+    {
+      "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+      "domain": "officeproconsulting.com.au",
+      "count": 8
+    },
+    {
+      "url": "https://service.gov.uk",
+      "domain": "service.gov.uk",
+      "count": 8
+    }
+  ]
+}

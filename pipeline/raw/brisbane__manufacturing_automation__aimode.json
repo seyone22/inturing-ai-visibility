@@ -1,0 +1,167 @@
+{
+  "slug": "brisbane",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:23.627Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Brisbane%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-29 04:05:18 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Automating order processing and shop-floor data capture without replacing your core ERP is a classic \"middle-tier\" integration challenge. The goal is to use `low-code/pro-code tooling` to wrap around your legacy or established ERP, pulling and pushing data via APIs, database views, or middleware without disrupting your ledger of record.\n\nGiven your location in **Brisbane** and your focus on the **Microsoft Power Platform (Power Apps, Power Automate, Power BI)** alongside manufacturing operations, several types of consultants and specialized partners are well-positioned to assist:\n\n### 1. Specialized Australian Power Platform & Manufacturing Consultants\n\n- **Inturing:** A prominent Australian consultancy focusing specifically on [Power Platform & AI for Manufacturing](https://www.inturing.com.au/manufacturing) . They specialize in bridging operational gaps, digitizing shop-floor checks, creating custom data capture apps, and building non-disruptive workflows that overlay existing enterprise infrastructure without forcing an ERP rip-and-replace.[[1]](https://www.inturing.com.au/manufacturing)\n- **Power Platform Experts (Brisbane-based):** A dedicated regional team focusing on localized [Power Platform Services in Brisbane](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane) . They handle end-to-end Power Automate orchestration, custom canvas/model-driven Power Apps for data entry, and Power BI operational reporting, making them handy for face-to-face workflow mapping on your site.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane)\n\n### 2. Large-Scale National / Enterprise Microsoft Partners\n\n- **Atturra:** A massive Australian technology services group that heavily incorporates business applications and manufacturing solutions (including specialized arms like their acquisition history with Kettering/manufacturing units). They excel at complex middle-tier integration, connecting low-code front ends to heavy back-end ERP environments.\n- **HCLTech / Deloitte (Brisbane offices):** If your manufacturing scale is upper-mid market or enterprise and you require robust governance, security architecture, and Azure/Dataverse environment scaling alongside your shop-floor rollout, these global integrators have strong local Brisbane presences and dedicated manufacturing/automation practices.\n\n### Key Questions to Ask Them During Discovery\n\nWhen you reach out to these consultants, make sure to evaluate them specifically on their **integration pattern experience**:\n\n1. *How do you handle bidirectional data flow with our specific ERP?* (Do they prefer direct SQL/ODBC connectors, custom middle-tier Azure Functions/Logic Apps, or standard ERP APIs?)\n2. *Can you show examples of offline-capable shop-floor Power Apps?* (Crucial if factory-floor Wi-Fi drops or has dead zones during heavy metal or concrete interference).\n3. *What is your strategy for Dataverse governance and licensing costs?* (Power Platform licensing can scale quickly with high-volume automated service accounts or external supplier portals—look for consultants who optimize data architecture to control costs).\n\nIf you can share **which ERP system** you are currently running (e.g., SAP, Pronto, Epicor, MYOB Advanced, or Dynamics) and **how many shop-floor users/devices** you need to support, I can narrow down which of these partners has the most relevant direct integration experience for your stack.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Automating order processing and shop-floor data capture without replacing your core ERP is a classic \"middle-tier\" integration challenge. The goal is to use low-code/pro-code tooling to wrap around your legacy or established ERP, pulling and pushing data via APIs, database views, or middleware without disrupting your ledger of record.",
+              "markdown": "Automating order processing and shop-floor data capture without replacing your core ERP is a classic \"middle-tier\" integration challenge. The goal is to use `low-code/pro-code tooling` to wrap around your legacy or established ERP, pulling and pushing data via APIs, database views, or middleware without disrupting your ledger of record.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Given your location in Brisbane and your focus on the Microsoft Power Platform (Power Apps, Power Automate, Power BI) alongside manufacturing operations, several types of consultants and specialized partners are well-positioned to assist:",
+              "markdown": "Given your location in **Brisbane** and your focus on the **Microsoft Power Platform (Power Apps, Power Automate, Power BI)** alongside manufacturing operations, several types of consultants and specialized partners are well-positioned to assist:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Specialized Australian Power Platform & Manufacturing Consultants",
+              "text": "Inturing: A prominent Australian consultancy focusing specifically on Power Platform & AI for Manufacturing. They specialize in bridging operational gaps, digitizing shop-floor checks, creating custom data capture apps, and building non-disruptive workflows that overlay existing enterprise infrastructure without forcing an ERP rip-and-replace. Power Platform Experts (Brisbane-based): A dedicated regional team focusing on localized Power Platform Services in Brisbane. They handle end-to-end Power Automate orchestration, custom canvas/model-driven Power Apps for data entry, and Power BI operational reporting, making them handy for face-to-face workflow mapping on your site.",
+              "markdown": "- **Inturing:** A prominent Australian consultancy focusing specifically on [Power Platform & AI for Manufacturing](https://www.inturing.com.au/manufacturing) . They specialize in bridging operational gaps, digitizing shop-floor checks, creating custom data capture apps, and building non-disruptive workflows that overlay existing enterprise infrastructure without forcing an ERP rip-and-replace.[[1]](https://www.inturing.com.au/manufacturing)\n- **Power Platform Experts (Brisbane-based):** A dedicated regional team focusing on localized [Power Platform Services in Brisbane](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane) . They handle end-to-end Power Automate orchestration, custom canvas/model-driven Power Apps for data entry, and Power BI operational reporting, making them handy for face-to-face workflow mapping on your site.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Power Platform & AI for Manufacturing",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "domain": "www.inturing.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Services in Brisbane",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "domain": "www.powerplatformexperts.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Inturing delivers Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "title": "Power Platform Consultants Brisbane",
+                  "text": "Working with a local Power Platform consultant brings the added advantage of understanding regional business requirements, faster ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. Large-Scale National / Enterprise Microsoft Partners",
+              "text": "Atturra: A massive Australian technology services group that heavily incorporates business applications and manufacturing solutions (including specialized arms like their acquisition history with Kettering/manufacturing units). They excel at complex middle-tier integration, connecting low-code front ends to heavy back-end ERP environments. HCLTech / Deloitte (Brisbane offices): If your manufacturing scale is upper-mid market or enterprise and you require robust governance, security architecture, and Azure/Dataverse environment scaling alongside your shop-floor rollout, these global integrators have strong local Brisbane presences and dedicated manufacturing/automation practices.",
+              "markdown": "- **Atturra:** A massive Australian technology services group that heavily incorporates business applications and manufacturing solutions (including specialized arms like their acquisition history with Kettering/manufacturing units). They excel at complex middle-tier integration, connecting low-code front ends to heavy back-end ERP environments.\n- **HCLTech / Deloitte (Brisbane offices):** If your manufacturing scale is upper-mid market or enterprise and you require robust governance, security architecture, and Azure/Dataverse environment scaling alongside your shop-floor rollout, these global integrators have strong local Brisbane presences and dedicated manufacturing/automation practices.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Questions to Ask Them During Discovery",
+              "text": "When you reach out to these consultants, make sure to evaluate them specifically on their integration pattern experience :",
+              "markdown": "When you reach out to these consultants, make sure to evaluate them specifically on their **integration pattern experience**:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "How do you handle bidirectional data flow with our specific ERP? (Do they prefer direct SQL/ODBC connectors, custom middle-tier Azure Functions/Logic Apps, or standard ERP APIs?) Can you show examples of offline-capable shop-floor Power Apps? (Crucial if factory-floor Wi-Fi drops or has dead zones during heavy metal or concrete interference). What is your strategy for Dataverse governance and licensing costs? (Power Platform licensing can scale quickly with high-volume automated service accounts or external supplier portals—look for consultants who optimize data architecture to control costs).",
+              "markdown": "1. *How do you handle bidirectional data flow with our specific ERP?* (Do they prefer direct SQL/ODBC connectors, custom middle-tier Azure Functions/Logic Apps, or standard ERP APIs?)\n2. *Can you show examples of offline-capable shop-floor Power Apps?* (Crucial if factory-floor Wi-Fi drops or has dead zones during heavy metal or concrete interference).\n3. *What is your strategy for Dataverse governance and licensing costs?* (Power Platform licensing can scale quickly with high-volume automated service accounts or external supplier portals—look for consultants who optimize data architecture to control costs).",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share which ERP system you are currently running (e.g., SAP, Pronto, Epicor, MYOB Advanced, or Dynamics) and how many shop-floor users/devices you need to support, I can narrow down which of these partners has the most relevant direct integration experience for your stack.",
+              "markdown": "If you can share **which ERP system** you are currently running (e.g., SAP, Pronto, Epicor, MYOB Advanced, or Dynamics) and **how many shop-floor users/devices** you need to support, I can narrow down which of these partners has the most relevant direct integration experience for your stack.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "www.inturing.com.au",
+              "url": "https://www.inturing.com.au/manufacturing",
+              "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+              "text": "Inturing delivers Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations across Australia."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+              "title": "Power Platform Consultants Brisbane",
+              "text": "Working with a local Power Platform consultant brings the added advantage of understanding regional business requirements, faster response times and direct, face-t..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

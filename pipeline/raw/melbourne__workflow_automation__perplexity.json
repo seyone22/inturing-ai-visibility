@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Melbourne are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:45.171Z",
+  "cost": 0.006197,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 572,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005597,
+      "datetime": "2026-10-29 04:03:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Melbourne organisations specifically seeking **Microsoft Power Automate and business workflow automation**, these consultancies are the strongest shortlist:\n\n- **OfficePro Consulting** — Best overall for Microsoft 365-centric businesses. It delivers Power Automate flows for approvals, reminders and handovers, plus Power Apps, Dataverse, Power BI and SharePoint. It offers onsite and remote delivery across Greater Melbourne.[5][7]\n- **Communicat IT** — Strong choice when you want an independent recommendation between Power Automate and n8n. Its Melbourne team builds custom workflows, focuses on data sovereignty and supports Microsoft 365, Teams, SharePoint and desktop RPA scenarios.[9]\n- **Solution Park** — Suitable for projects combining Power Automate with Dynamics 365, Power Apps, custom software or Power BI. It is Melbourne-based and provides discovery, deployment and ongoing support.[8]\n- **jeylabs** — Best suited to larger or more advanced Microsoft engagements involving AI-powered workflow automation, Copilot, intelligent document processing, SharePoint, Microsoft 365 and Power Platform.[6]\n- **Alphavima Technologies** — A specialist Power Platform option offering process mapping, Power Automate, Power Apps, testing, documentation, training and post-launch support. Verify local delivery arrangements and Australian references before appointing them.[1][2][3]\n- **CX IT Services** — Worth considering for SMBs wanting structured automation discovery and ROI prioritisation. It uses Power Automate for more complex or Microsoft 365-based workflows, alongside Make, Zapier and custom APIs.[10]\n\n## Recommended choice by situation\n\n| Requirement | Best starting point |\n|---|---|\n| Microsoft 365, SharePoint and Teams automation | OfficePro Consulting |\n| Power Automate versus n8n evaluation | Communicat IT |\n| Dynamics 365 plus Power Platform | Solution Park |\n| AI, Copilot or intelligent document workflows | jeylabs |\n| Formal process mapping and Power Platform governance | Alphavima |\n| SMB automation discovery and ROI prioritisation | CX IT Services |\n\nBefore choosing, ask each firm for:\n\n- Two recent Australian Power Automate case studies\n- Experience with your systems, such as Dynamics 365, SharePoint, Xero, Salesforce or legacy databases\n- Their approach to environments, solution packaging, security, licensing and governance\n- A fixed-price discovery phase and a separate implementation estimate\n- Post-launch monitoring, support and ownership of the flows\n- Evidence that they can build maintainable solutions rather than isolated “quick fixes”\n\nFor most Melbourne businesses already using Microsoft 365, **OfficePro Consulting and Communicat IT** are the most practical first calls; **Solution Park** is a better fit when Dynamics 365 or bespoke development is central to the project.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Melbourne, VIC | Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC | Alphavima",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Process Automation Consulting in Melbourne, VIC | Alphavima",
+                  "url": "https://alphavima.com/power-platform/process-automation-consulting-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best AI Business Automation Companies in Melbourne ...",
+                  "url": "https://www.cipherprojects.com/guides/australia/melbourne/best-ai-business-automation-companies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "jeylabs | Melbourne's Award-Winning AI Consultancy",
+                  "url": "https://jeylabs.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Automation Melbourne | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/service-area/melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Solution Park | IT Services and IT Consulting",
+                  "url": "https://www.linkedin.com/company/solutionparkau",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Automation Melbourne | n8n & Power Automate Workflows",
+                  "url": "https://communicat.com.au/solutions/automation-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Workflow Automation & Integrations for Melbourne Businesses",
+                  "url": "https://www.cxitservices.com.au/services/ai-automation/workflow-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

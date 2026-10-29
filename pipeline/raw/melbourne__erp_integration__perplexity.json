@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Melbourne are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:11.948Z",
+  "cost": 0.006212,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 577,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005612,
+      "datetime": "2026-10-29 04:04:06 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Melbourne candidates are:\n\n- **Communicat IT** — Best overall fit for a mixed environment involving **MYOB Acumatica, SAP, ERP, CRM and Microsoft 365**. It explicitly provides Melbourne-based workflow integrations across ERP, MYOB, SAP, CRM and Microsoft 365 services including SharePoint, Teams, Power Platform and Dataverse. It also supports and integrates MYOB Acumatica.[2][4]\n- **Leverage Technologies** — Best for **SAP- and MYOB-focused ERP integration**, particularly where CRM must be connected to enterprise finance and operations. It works with SAP, MYOB Acumatica and CRM applications and has a Melbourne office.[1][10]\n- **Cloud Factory** — Best for **ERP-led projects or replacing/modernising an ERP**. It implements MYOB Acumatica, SAP Business One and Microsoft Dynamics 365, and designs integrations with CRM, e-commerce, warehouse, reporting and other systems. It is based in Melbourne.[5][9]\n- **Eagle360 Consulting** — Best for **MYOB Acumatica or Microsoft Dynamics ecosystems**, especially manufacturing and distribution. Its integrations include Dynamics 365 CRM, Power Platform, Power BI, Microsoft Fabric, EDI, warehouses and e-commerce; it is a certified MYOB Acumatica partner with a Melbourne office.[7]\n- **KLX Consulting** — Best where **Microsoft 365, Dynamics 365, Azure and Power Platform** are central. It specialises in Microsoft integrations, applications, automation, data migration and ongoing support, but its public information is less explicit about SAP and MYOB Acumatica.[3]\n- **OneKloudX** — Worth considering for a specialist integration layer involving **MYOB Acumatica, SAP, CRM and APIs**. It provides Acumatica integrations with CRM, e-commerce, warehouse, payroll and banking systems and supports SAP and integration platforms such as Jitterbit, although its Melbourne presence is less clearly established.[6]\n\n## Recommended shortlist\n\nFor the exact combination in the question, start with:\n\n1. **Communicat IT** — broadest documented match across SAP, MYOB Acumatica, CRM and Microsoft 365.\n2. **Leverage Technologies** — strongest SAP/MYOB ERP and CRM credentials.\n3. **Cloud Factory** — strongest ERP implementation and integration option.\n4. **Eagle360 Consulting** — strongest Acumatica–Microsoft business-applications option.\n\nWhen requesting proposals, ask each provider to demonstrate experience with **SAP’s specific product**—for example SAP Business One versus S/4HANA—and to identify the proposed integration architecture, ownership of master data, synchronisation frequency, error handling, security, and ongoing support model.",
+              "annotations": [
+                {
+                  "title": "CRM ERP Solutions and Software for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/crm/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Systems Integration Melbourne | ERP, M365, API Integration",
+                  "url": "https://communicat.com.au/solutions/workflow-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.klxconsulting.com.auKLX Consulting - Dynamics 365, Power Platform and Azure ...",
+                  "url": "https://www.klxconsulting.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Systems",
+                  "url": "https://communicat.com.au/solutions/business-systems",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "System Integration Services in Melbourne",
+                  "url": "https://www.webalive.com.au/systems-integration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica Distribution ERP Australia - Cloud Factory",
+                  "url": "https://www.cloudfactory.co/solutions/erp/myob-acumatica/distribution",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Nonprofit Accounting Software",
+                  "url": "https://www.leveragetech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

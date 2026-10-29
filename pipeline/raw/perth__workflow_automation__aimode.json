@@ -1,0 +1,210 @@
+{
+  "slug": "perth",
+  "pk": "workflow_automation",
+  "plat": "aimode",
+  "text": "Which consultancies in Perth are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__workflow_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:28.009Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which consultancies in Perth are best for business workflow automation and Microsoft Power Automate implementation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20consultancies%20in%20Perth%20are%20best%20for%20business%20workflow%20automation%20and%20Microsoft%20Power%20Automate%20implementation%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:06:22 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for consultancies in Perth specialising in business workflow automation and Microsoft Power Automate implementation, `several local providers and specialist teams` stand out for their practical, low-code, and Microsoft-aligned expertise.\n\nHere are the prominent consultancies servicing the Perth region for Power Automate and broader Microsoft Power Platform integration:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfnqkdUfH6RYs7oPzNxrdkmAgnRvH_JFnYNs-DaqW_dXHCJeMOCQ5jalWzPgmR2yg437O1kdTt2r0oZ8Cdps2p5CvZ5_imto8w0m2HmNR7bWwk1ey5cEexwj9JEQtYH4GU6UplHvvujMmMk=s192-w192-h144-n-k-no)\nPower Platform Experts (Office Experts Group)5.0 (1)  \nComputer support and services  \nOpen  \nCall Website\n\n- **Core Focus:** Comprehensive low-code implementation across the entire Microsoft Power Platform stack.\n- **Services:** Specialises in Power Automate cloud/desktop flows, Power Apps custom application development, Power BI data visualisation, and Power Pages. Well-suited for small businesses up to large corporate and government requirements needing structured training and process optimisation.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe7QlbNNQA52XYFxihRkygSnw_uiozq0Bf5wI-dy56x4m2t5r7pFvbo1WoXRJ-r9vgGkBr_hd5i2ZZrs2Cr8oJ1rUuJXXDnkv_0u6C50PLx21_YQIhe89GrjjEB4vUgJPLUEc68fUPuJ5I=s192-w192-h144-n-k-no)\nBIZ-LYNX Technology 4.9 (29)  \nComputer support and services  \nOpen Unit 9/12 Argong Chase  \nCall Directions Website\n\n- **Core Focus:** Local Perth-based IT support, Microsoft 365 integrations, and targeted automation consulting.\n- **Services:** Offers current workflow reviews, clear automation roadmaps, custom Power Automate design, and ongoing management. They focus heavily on security alignment (such as Essential Eight guidelines) and plain-English consulting.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe9HliEOuuSEcGUaYRI1jP1dIOZ-RJxaWJqrvi-aVSZGTp1w-SrKiIp2sXAeSgmbzPvTUSpkOzFJjOqvqigULMw1ld6-PPa8sBj323i1VM1NCrYHG-98G0JJj7UUm4EjLELDnPSSvBkXxyC=s192-w192-h144-n-k-no)\nSupport Perth 5.0 (31)  \nComputer support and services  \nOpen Cambridge St  \nCall Directions Website\n\n- **Core Focus:** Microsoft 365 native tenant workflows (approvals, lead alerts, document routing).\n- **Services:** Provides a transparent initial workflow audit to identify repetitive tasks, alongside fixed-price or hourly engineering support. They advise transparently on licensing requirements (standard vs. premium connectors) and whether Power Automate fits your specific tech stack.\n\n\n\n---\n\nVibe0\n\n- **Core Focus:** Cloud flows, SharePoint routing, and governance.\n- **Services:** Focuses on building robust approval processes and system integrations while establishing clear tenant governance, Data Loss Prevention (DLP) rules, and environment strategies from day one.[[1]](https://www.biz-lynx.com.au/power-automate-service-perth/)[[2]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)[[3]](https://supportperth.com.au/services/power-automate)[[4]](https://www.vibe0.com.au/services/power-automate-consultant)\n\nTo help narrow down which of these teams fits best, let me know:\n\n- What **core systems or Microsoft 365 apps** (e.g., SharePoint, Dynamics, Outlook, or external databases) are you trying to connect?\n- Are you looking for a **fixed-scope project audit** or **ongoing development support**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for consultancies in Perth specialising in business workflow automation and Microsoft Power Automate implementation, several local providers and specialist teams stand out for their practical, low-code, and Microsoft-aligned expertise.",
+              "markdown": "When looking for consultancies in Perth specialising in business workflow automation and Microsoft Power Automate implementation, `several local providers and specialist teams` stand out for their practical, low-code, and Microsoft-aligned expertise.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here are the prominent consultancies servicing the Perth region for Power Automate and broader Microsoft Power Platform integration:",
+              "markdown": "Here are the prominent consultancies servicing the Perth region for Power Automate and broader Microsoft Power Platform integration:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Power Platform Experts (Office Experts Group) 5.0 (1) Computer support and services Open Call WebsiteCore Focus: Comprehensive low-code implementation across the entire Microsoft Power Platform stack.\nServices: Specialises in Power Automate cloud/desktop flows, Power Apps custom application development, Power BI data visualisation, and Power Pages. Well-suited for small businesses up to large corporate and government requirements needing structured training and process optimisation.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfnqkdUfH6RYs7oPzNxrdkmAgnRvH_JFnYNs-DaqW_dXHCJeMOCQ5jalWzPgmR2yg437O1kdTt2r0oZ8Cdps2p5CvZ5_imto8w0m2HmNR7bWwk1ey5cEexwj9JEQtYH4GU6UplHvvujMmMk=s192-w192-h144-n-k-no)\nPower Platform Experts (Office Experts Group)5.0 (1)  \nComputer support and services  \nOpen  \nCall Website\n\n- **Core Focus:** Comprehensive low-code implementation across the entire Microsoft Power Platform stack.\n- **Services:** Specialises in Power Automate cloud/desktop flows, Power Apps custom application development, Power BI data visualisation, and Power Pages. Well-suited for small businesses up to large corporate and government requirements needing structured training and process optimisation.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnqkdUfH6RYs7oPzNxrdkmAgnRvH_JFnYNs-DaqW_dXHCJeMOCQ5jalWzPgmR2yg437O1kdTt2r0oZ8Cdps2p5CvZ5_imto8w0m2HmNR7bWwk1ey5cEexwj9JEQtYH4GU6UplHvvujMmMk=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "BIZ-LYNX Technology 4.9 (29) Computer support and services Open Unit 9/12 Argong Chase Call Directions WebsiteCore Focus: Local Perth-based IT support, Microsoft 365 integrations, and targeted automation consulting.\nServices: Offers current workflow reviews, clear automation roadmaps, custom Power Automate design, and ongoing management. They focus heavily on security alignment (such as Essential Eight guidelines) and plain-English consulting.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe7QlbNNQA52XYFxihRkygSnw_uiozq0Bf5wI-dy56x4m2t5r7pFvbo1WoXRJ-r9vgGkBr_hd5i2ZZrs2Cr8oJ1rUuJXXDnkv_0u6C50PLx21_YQIhe89GrjjEB4vUgJPLUEc68fUPuJ5I=s192-w192-h144-n-k-no)\nBIZ-LYNX Technology 4.9 (29)  \nComputer support and services  \nOpen Unit 9/12 Argong Chase  \nCall Directions Website\n\n- **Core Focus:** Local Perth-based IT support, Microsoft 365 integrations, and targeted automation consulting.\n- **Services:** Offers current workflow reviews, clear automation roadmaps, custom Power Automate design, and ongoing management. They focus heavily on security alignment (such as Essential Eight guidelines) and plain-English consulting.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7QlbNNQA52XYFxihRkygSnw_uiozq0Bf5wI-dy56x4m2t5r7pFvbo1WoXRJ-r9vgGkBr_hd5i2ZZrs2Cr8oJ1rUuJXXDnkv_0u6C50PLx21_YQIhe89GrjjEB4vUgJPLUEc68fUPuJ5I=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Support Perth 5.0 (31) Computer support and services Open Cambridge St Call Directions WebsiteCore Focus: Microsoft 365 native tenant workflows (approvals, lead alerts, document routing).\nServices: Provides a transparent initial workflow audit to identify repetitive tasks, alongside fixed-price or hourly engineering support. They advise transparently on licensing requirements (standard vs. premium connectors) and whether Power Automate fits your specific tech stack.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLe9HliEOuuSEcGUaYRI1jP1dIOZ-RJxaWJqrvi-aVSZGTp1w-SrKiIp2sXAeSgmbzPvTUSpkOzFJjOqvqigULMw1ld6-PPa8sBj323i1VM1NCrYHG-98G0JJj7UUm4EjLELDnPSSvBkXxyC=s192-w192-h144-n-k-no)\nSupport Perth 5.0 (31)  \nComputer support and services  \nOpen Cambridge St  \nCall Directions Website\n\n- **Core Focus:** Microsoft 365 native tenant workflows (approvals, lead alerts, document routing).\n- **Services:** Provides a transparent initial workflow audit to identify repetitive tasks, alongside fixed-price or hourly engineering support. They advise transparently on licensing requirements (standard vs. premium connectors) and whether Power Automate fits your specific tech stack.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9HliEOuuSEcGUaYRI1jP1dIOZ-RJxaWJqrvi-aVSZGTp1w-SrKiIp2sXAeSgmbzPvTUSpkOzFJjOqvqigULMw1ld6-PPa8sBj323i1VM1NCrYHG-98G0JJj7UUm4EjLELDnPSSvBkXxyC=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Vibe0Core Focus: Cloud flows, SharePoint routing, and governance.\nServices: Focuses on building robust approval processes and system integrations while establishing clear tenant governance, Data Loss Prevention (DLP) rules, and environment strategies from day one.",
+              "markdown": "---\n\nVibe0\n\n- **Core Focus:** Cloud flows, SharePoint routing, and governance.\n- **Services:** Focuses on building robust approval processes and system integrations while establishing clear tenant governance, Data Loss Prevention (DLP) rules, and environment strategies from day one.[[1]](https://www.biz-lynx.com.au/power-automate-service-perth/)[[2]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)[[3]](https://supportperth.com.au/services/power-automate)[[4]](https://www.vibe0.com.au/services/power-automate-consultant)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "BIZ-LYNX Technology",
+                  "domain": "www.biz-lynx.com.au",
+                  "url": "https://www.biz-lynx.com.au/power-automate-service-perth/",
+                  "title": "Power Automate Service Perth │ Power Automation | BIZ-LYNX Technology",
+                  "text": "Core Services: MS Power Automate training and custom consulting, Microsoft 365 and Office 365 integrations, SharePoint and collabo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "title": "Power Platform Consultants Perth",
+                  "text": "Microsoft Power Platform consulting, automation solutions, and custom application development. offering process optimisation, trai..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "supportperth.com.au",
+                  "domain": "supportperth.com.au",
+                  "url": "https://supportperth.com.au/services/power-automate",
+                  "title": "Power Automate Perth | Microsoft 365 Workflows",
+                  "text": "Flows that run inside your Microsoft 365 tenant - lead alerts, approvals, follow-up reminders and document filing … a 45-minute ca..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "VibeZero",
+                  "domain": "www.vibe0.com.au",
+                  "url": "https://www.vibe0.com.au/services/power-automate-consultant",
+                  "title": "Power Automate Consultant Perth & Australia",
+                  "text": "SharePoint routing and system integrations built and maintained. We design the cloud flows and connectors so the workflow keeps wo..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these teams fits best, let me know:",
+              "markdown": "To help narrow down which of these teams fits best, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What core systems or Microsoft 365 apps (e.g., SharePoint, Dynamics, Outlook, or external databases) are you trying to connect? Are you looking for a fixed-scope project audit or ongoing development support ?",
+              "markdown": "- What **core systems or Microsoft 365 apps** (e.g., SharePoint, Dynamics, Outlook, or external databases) are you trying to connect?\n- Are you looking for a **fixed-scope project audit** or **ongoing development support**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "BIZ-LYNX Technology",
+              "domain": "www.biz-lynx.com.au",
+              "url": "https://www.biz-lynx.com.au/power-automate-service-perth/",
+              "title": "Power Automate Service Perth │ Power Automation | BIZ-LYNX Technology",
+              "text": "Core Services: MS Power Automate training and custom consulting, Microsoft 365 and Office 365 integrations, SharePoint and collaboration setup, managed IT services..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+              "title": "Power Platform Consultants Perth",
+              "text": "Microsoft Power Platform consulting, automation solutions, and custom application development. offering process optimisation, training workshops, and tailored low"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "VibeZero",
+              "domain": "www.vibe0.com.au",
+              "url": "https://www.vibe0.com.au/services/power-automate-consultant",
+              "title": "Power Automate Consultant Perth & Australia",
+              "text": "SharePoint routing and system integrations built and maintained. We design the cloud flows and connectors so the workflow keeps working long after launch."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

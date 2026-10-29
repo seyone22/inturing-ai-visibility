@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Sydney are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:02:46.063Z",
+  "cost": 0.006198,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 573,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005598,
+      "datetime": "2026-10-29 04:02:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Sydney organisations, the strongest shortlist is:\n\n- **Essential Tech** — Best for end-to-end Power Automate implementation, Dynamics 365/Microsoft 365 integration, RPA and ongoing support. It operates in Sydney and offers assessment, implementation, integration and service-desk support.[6]\n- **OfficePro Consulting** — Best for Microsoft 365-centric businesses wanting practical workflow automation, clear scoping and handover. Its Sydney offering covers Power Automate approvals, reminders, notifications, Power Apps and Power BI.[7]\n- **LOOKUP** — Best for process discovery and controlled automation involving Power Automate Cloud/Desktop, SharePoint, Teams, AI Builder and APIs. Its stated approach includes testing, exception handling, training and performance monitoring.[9]\n- **C9** — Best for larger bespoke software, integration and database projects where Power Automate is part of a broader custom solution. C9 reports typical projects of four to twelve weeks, but delivery is from its Brisbane headquarters rather than a Sydney office.[2][5]\n- **A1 Technologies** — Best for structured workflow assessment and implementation of more complex, scalable Power Automate solutions integrated with existing systems.[8]\n- **Power Platform Experts** — Best for organisations wanting a specialist across the broader Microsoft stack: Power Automate, Power Apps, Power BI and Power Pages, with implementation, training and support.[10]\n- **Azar Consulting** — Worth considering for custom integrations and newer AI-enabled operational workflows; it is based in Chiswick, Sydney, and lists Power Automate alongside APIs, n8n, Zapier and custom development.[3]\n\n### Recommended choice by requirement\n\n| Requirement | Best-fit consultancies |\n|---|---|\n| Microsoft 365 approvals, forms and notifications | OfficePro, Essential Tech |\n| Power Automate Desktop and legacy applications | Essential Tech, LOOKUP, C9 |\n| SharePoint, Teams and Power Platform integration | LOOKUP, Power Platform Experts, OfficePro |\n| Complex integrations and custom software | C9, A1 Technologies, Azar Consulting |\n| AI-assisted document and workflow automation | LOOKUP, Azar Consulting |\n| Ongoing managed support | Essential Tech, LOOKUP |\n| Broader Power Platform capability | Power Platform Experts, OfficePro |\n\nBefore selecting a provider, ask for two or three comparable case studies, confirmation of Microsoft certifications or partner status, ownership of the Power Platform environment, documentation and handover arrangements, support SLAs, licensing assumptions, and a plan for error handling and governance.\n\nFor a typical Sydney SME, the practical first shortlist would be **OfficePro Consulting, Essential Tech and LOOKUP**. For a larger transformation involving custom applications or complex integrations, add **C9** and **A1 Technologies**.",
+              "annotations": [
+                {
+                  "title": "Power Platform Partner in Sydney, NSW | Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-platform-partner-in-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Process Automation Sydney | Build Your Autonomous Asset",
+                  "url": "https://www.c9.com.au/Sydney/Process-Automation",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Process Automation Consultants Australia 2026",
+                  "url": "https://truespeak.io/blog/best-process-automation-consultants-australia-2026",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 SharePoint Consultants in Sydney (2026 List)",
+                  "url": "https://www.q3tech.com/blogs/sharepoint-consulting-companies-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Power Platform Developers | C9",
+                  "url": "https://www.c9.com.au/Sydney/Process-Automation/Power-Platform-Power-Automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate - Essential Tech",
+                  "url": "https://essentialtech.com.au/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Automation Consulting Sydney | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/service-area/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Automate Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI and workflow automation Sydney - LOOKUP",
+                  "url": "https://lookup.com.au/services/ai-automation-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Sydney",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

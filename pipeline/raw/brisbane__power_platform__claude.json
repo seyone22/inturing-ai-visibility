@@ -1,0 +1,426 @@
+{
+  "slug": "brisbane",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Brisbane? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:17.407Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgVsCAoSLcEXxWMbLyZDQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_016B5epAUUVkD2AyFUPiy3Hz",
+        "name": "web_search",
+        "input": {
+          "query": "best Microsoft Power Platform consultants Brisbane"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01LjgBKtsYZwD3sZEzbuLDfj",
+        "name": "web_search",
+        "input": {
+          "query": "Microsoft Power Platform consulting partners Brisbane Australia"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_016B5epAUUVkD2AyFUPiy3Hz",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Best Microsoft Power Platform Development Company in Brisbane",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+            "encrypted_content": "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",
+            "page_age": "89 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants Brisbane",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+            "encrypted_content": "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",
+            "page_age": "169 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+            "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+            "encrypted_content": "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",
+            "page_age": "216 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Consulting in Brisbane, QLD",
+            "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+            "encrypted_content": "EsMICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKu5gY66JtxjTX0iIhoMvq1HNDqADaZVBhPsIjD++/Oh78CHxj6iOky+UEWn9qji1s/jDeoLkErcp+yLJ5paK53unJkFZ9NYeXGZaJwqxgeOl4OKnYVCV/lbz4VweySZfuqi2U/DI1305T5LrvbA2Ex4L9QIINqkQ0dmQ4645n+GNW6C/gqa52aAwUfdNhSNJP3u+PMyC13d2B4yQ5WP/wa5bJBNkdN/pt7BAuaQcQSGJrxEmMtGbfqT/E8cwclA42JdNWkSvLMo0P8PYgsjClQwnibDhwnK787SOB4ZS59eVFOdeCZa37B2f3XV43Coil7U3GkKBvnx4LXCFqvknOjxz3CQyJBFczdaQnkqboiQY3OLCR9V76kxL9wVaeqXbtLpWkTPudbUFj21J2EqcI97fBxjHlEicup/uhK/DZ0yT2fmzrjZqgM3e53P2zbKOr51ncCy5YFB11E0eOJ9Q59qrteesrrkpLMN3QU5VzFCDOukA3rj1wQY8ryTQjrebstc0KjHNzMlAf7anJ3CKQ+unFlzAwxkuOEDOT3Xt169NuTjopvy1hygx5W3us4chnDbrA6BRYlpLEFf0eikMgC3LXzuQIOeGnSf/b0w8WW0nPu/cD7MGZDwfg2P0v5oKOJvRU9q5Z9+wE8oDsrdRAiEvCj5veTIZUfu1F8LTE4bc7F/nsZT/DI4YVNSf60LUBy/y4juZoHRWXW/ki0+sytRo5ZOnHWLXmVwEU2ozNydIjKhMvkzss1sL6z+KDdOOys7gdDlq8dSXmQ+GxCsIcoUnG/kHvFxA1xb1OBqADVsDuMaDCeZ0YH26ChBBT1Wp1m42qEorDO4Bmn/f1aOK4RuSadZZqgPr7mmse57TQnDMCii4A63VodI62p/f6eqSkPuMwrp23Hcj5ESwFcTwPwtpDBHsnf22hso8SmePx1GyoHSMjG3qPkVHditp9Rhy38ygUKweC6fdpd5nmkPhsgz7YLMGkcMgvIuTIl7UTkjM9fB9KDsx5zfeCyW6sUYrEN6Sk8onU/WgfSjsMlpQkBj9E6rPKWStXlEzm9g4tgybye9B69bqTmtJs6Nkw2JGyNdqFqeRDIJ+1WpQGxArPiBjVWX4Oaz4ykjFlIXr6xc93JGpDPOwY5iCCrrDnxjkWAGKLq6hWlMUSMowJmrpXuFPlSmA7CD/CYjy/2ORYjIZUc7LTvhYDYJ5KKFITmNB1HXPo5Rkk0hr8Yd8MBA4uKb/mvKFxnzAbREk+JikMwHvd0Mp1E+rimze0MXqo2rV/n7KH+K8oJRniMC/D5uMV1AKaLYY/XeFiSlT9sgbS1UEpIU3NA3HoWBe4EIMnEq0a2WcPvpGghYHkzlB36InxUfHX4T85p23H/tSQ86RSKeTYvU5UYYAw==",
+            "page_age": "222 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Australia's Trusted Power Platform Consultants",
+            "url": "https://www.powerplatformexperts.com.au/locations",
+            "encrypted_content": "EqcICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDC42MPsUMrWk7/mCQBoMnF5uvroXdgOo4HHgIjClBM1i/W6Ch2lPdgz2HSBOstuED/gzjJBNDBI7iS2T4rTJRYOoeKCf0qmhEDm/tC8qqgfmR4FiG8WA7F8pU1GWWGCkyuZDq4chChA0xQPvU6/mxL4Ht/RPeUSa2SZTnXOEEq1mU5bodPsEBSrsCX3XkBLB7J3xrLNjSENTw9ZhdoAA0u60FSoHrxeFSia/AhjKZNi985Etc/rSxrCGL450zidDeMpYg6XdkG0YMLURPk+lDydvCFAOXwCEtPNRNaF8JJucTyeU4/XITu5Lu3Lmg30uchyQMZ7yJiCXOCfIuGUbDJLuZHmZfnXV1GLAJaV0C70LMU8Itnf48kzF2aUBeQSURyCwl3D5rpLWMyMelLB9Sz2H3Zuy4L+zLV6DZnAI2XLoZ98r47r2RTxdsy9jH/i1RQXW3S1XUdUeIs5EBWKXEPj//QrtSbNg3xTsQmTXY9nMH5rq9W4NvwnwkW5RPXQz8nRfo4h1ECLltXkrzpr0ZrdGIFk2L5gOCUzaYeFYFEEQkljVzQYt2L0ave5GSfkmeqZtqUhGhu2PogTwkdfIeVNUlBvhZRuZniBkREZWy+Rao7hDLXNUbI1SWmYUBkaS9xL7p4auFUMlgsEIYaQaAB8xMa7oiu3u5LlC/OdS7TUfN9dgwKmf8FAsj1o6/L+CTMvsWzahnBtpRAZLMosx/JlW5eM93Cgh5oRJjL1wVGcuyzWfScj0aeD5ZIJuClRVmKRG+U1i4hWQcz4kfoImPLE6u37EayRt4xCGrlUe9GCQMtou9+2J5P3DUm+mOXQOZ/zRj2wRRbPrpliNiNOSx8hTU949gwBiGyucTyaMTmu0IKmoTPBp5V671LOO6N1FgaYNQX0n/qSblK/3tnBBFT61pgL0EpD1W/NP9wVy1WsQAa5kbyUqv+vjeW3UXifJwQch7q7E7AvNJHTJ2x61wbkcZrtOosAuHTsRNrRLo5Il5H1OCjWUubDRpOCSNbz6xVJv4L+PmfRlE1ADCzCx6K02mGYSpNqVqO05UbSL8hUjIVpsj5TvaNf5YOoP2qmKHH6p2wlgzDq3mctYVbobzK6KLd+cs6oz5gZouxQK2vhHjASMrJq8dak6yTuGUsK2MOtSa/lqV+U5jozVPu9AZLhKguuxX5+VKZpSKNCNsBSfkondkXH9kgKrtYSgSRsNu5z/c4OR1JeDVOZxV0An5NN51zd/CoFq0OfA7/XR/ied8q6pLZmev8i+p27YsDFSFbcMTuJivlyirNbmiki++Nowm1onU//NLBR/zcepzHtk7wIj6AaBq/LmsJqjhoWhmI2YKWEwPGn8vRgD",
+            "page_age": "582 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top Microsoft Consultants in Brisbane (2026)",
+            "url": "https://team400.ai/blog/2026-03-top-microsoft-consultants-brisbane",
+            "encrypted_content": "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",
+            "page_age": "211 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants",
+            "url": "https://www.workforcery.com/powerplatform",
+            "encrypted_content": "Eu4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJ4OQhvuiWgQhLpg+RoMYy04EMv8b/sjLNDcIjCMtkh9WKp2dh47lOP5Q/sPxdvFHYA+Ji5hlc3dcLddlpum+h1OK9P1/i0GmAptjNgq8QcKiayP+K+oaP3n5fs7+6jHv+u0PZJ1cNx82af4xTMufJFcQHjh4J6oSNsCXwZzG64XEJQaIUmWg2Rl6ntjjY1I9YHSChP5vdtZz8uwQFfM2koeAJCOggy9oLLzsx2Xl7L7+VpJVrcicPZ6Nn12jFx+85lzKB52GuQDLwLfgvVQ3+Uh4n09K8M8R5uVc+jgykSM+auAjh7huDCv410S9QYu5NOTQyeiVtNF0PqtoqbYE2f8yFb5SvWbqPKkBl0hXZElN/UnRSrY16b+tO8zQO6VhtLMSYDqsTTctdxFEJvR3ZInn4gXTKilIRJ34qwSXpQJqMaQ++xnS6X7Dwe52zOVsjoU+AA/1SacucW8dvg8z5Iq8GULr4ur+JuvE/xRF86vfP25w2eo8iYdcsCup9zq0C7PV6tPAZVAGC4wTqwzRgCweM1YyOImJoM0wCpOo7vhrKyZmRZrpKzdgCGG7okNYJaduxIze6W9wwQSVG92CehfVVlIvjs4bL1dMXXvwzX68u05lyHLn14XNdBz7LTg8l+ceFIdhPMhrb9jMYhIrmXw7EFLMSvnGOUhL6B5mtnVXva8Gv8utY50zNOm5idD8mDA7klLQOhTnmqORpJX0sIBOrxrOhTO0tUhbNAzSTlWz672Hp0ljI75Y7RZXwY2eZFdIfWPEgrhq74VlsgX0Jj1eKd62MHaVtJt0rbuo15uW5G8kXi1H1cezslBx9AjsBpNKnwwA0Mh7RerQ3pOKoeIKbnF6P680rfn08M/YRLbQ2sOu630RfXFZlfK8UcmVr4QQRuKD1u8fgp+LSRH3BHIqnptUVh/IbbmR6OBtflynO/Ky354PrapRA8eaOrYT20JdVu4NY31ArPReXE4kNyHJVL0rXRDgDwkLsSLwGnSGdGmf9ngkg46x3qC17wrr/HghKvwPGvLOLPJLWGX8Sdj0khPLLBdKzGNMv1SO7HetF+yfY7Ea+RKwtgPaPrvGXaDZCU2kiQTkyHddqXTbMhSyEGtvNE1atmaf5IeAYINwu5qbOi1lbEx7Iu25GOxAAW3nrwZVIBfunQqVc4WrSpEFFfvR1Ter7lSV4xutg1DrnpKfVX3E8OnWM0MVg1Ts4X3P90t4NoF9kTwSr4H+my1baAWwrWpfqphnx9kfuYOk6KaWfwndRgc/kaxa8yxe4MYJLOQUf1MbTBowlkwUoNRQhITsmR0OH5ytbwst9WXAahNqlETDLDSBVLOVrWTCt2hWPGzi4eB+LMaIcFiOOwuE4z8qj1VH3mhZBlxYKmvVCKKC7sFGRSjYUPfrRp8mZrHIfDDvhNAVcpUwe2skOpexCq5eTGbzIkPBXjXIQcCGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+            "url": "https://team400.ai/power-apps-developers",
+            "encrypted_content": "EvsFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKgWtr+CiPXmr6opAxoMl56JQ2KtODAb35ovIjCFSTZZ61OYhkc2Hscdb9lsyJV2/tYZd88xquIbgacex5BhNqLD3jhWSuEAqM/PjAsq/gSALMycLHmUL92mKPsM6Z91g1snl6gyorAGaTqvVsICE4KI12lihFHDfdMkrVkhPntWe0tbO6XpAyLVw70AUKwJiDqPv0KQZFOwS4cBBeMbq/EEEE42fxk8cDO5za0gp8RFmi4WfKWjLmg2ddhYNEcEhOv00hdJw932fIFz0imVzHOLyXGJKgVoUdi6yUgF6uiyrBQpnL7uU+PcBu0ES0yfyzlfgLnEsfaa7mkXzXMq4KotiBzkykWkZcvlwki7lbBvMsG7+oUTPbFSUQXPm3YRR4BmEU3HvT+J4w23PZsZXjskfnzx11tZYQoD4WF9qh6iFpBLjS82ieVyf3sMgMGbqRB9/KczAdSowIpn6JTKgqEETKP96Kvhgt9O6zj42aPFamSNnt46xxl0MKrP1tUJ6yRUJJUtM5RclyreG2PL8q2h3WKsIG1UYtOhOCbOQcgog9gYefBl7dpKD2qvYB4a3djPxbPQwzBDcHKcOQektJsbvTqRvTGh/eQziTPb2FTsdbogveq1qNOJsvCzPhjJuBtRAaCiPeO7Jk/aNg6wF3YO1FdEMGrckohnRpemHq1E0v9AW9JCuHiTbe31ZLlnFa2IiOzO9zDf0t/cT865rWImYrDHeJmqHZtoKEs9ckPyzq2FhKwa4K4bMVDvY6kHJjyIUAL0NKQtPYYiYdLPentZEa9gG/YcNhaf1pdqa/9PErr7At0vV4e5bcV4OUOaWVZokYhpmBEWlAXJdKmhMhTfw5b91A8rPoNqHnciYCyxYsM+rygD1QlHH/XspsAp9rXe0CIWAE3uMI8/ZKkPtL8PgKIWly34i1x4hKUPytI2w25HszokcbIIqStTKhgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps Consulting Services| Tech Engine Australia",
+            "url": "https://techengine.au/microsoft-power-apps-consulting-services/",
+            "encrypted_content": "EqEHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMVElzKZN4/v0F3i4hoMx0VUx8TT+xPceE+eIjD4FqpQSGowuKGECFLyE0jmZEF131IKThvG03RBEoTk/JqnWyHB3DyvcK0d0J9MUGAqpAbRwbihixwLgZyGItDyZWN30KrB2BIGU+nX3UVblm1z2DtVuE0eRbRKJcCWfUob2nxh5OXlTP7I2xxNLZ4HeIdpX54qMnSMjKDA26EA2JrX/ijCcMzp4u6Bb4Tx296ao+LXiPBJ/CX1righCFTpNsga/oNi/uRqKXjlA92OgnlErgOTZOeC9jYbLnPHghQ2yqw3WReRB2DoosNcOYQL7FuPSEiQAdMabiijdRxwIPYSiqzy00MRNBDhykjuABbBhTSU0g60/YbRhO2N+ot/KvC4h5GyFkt3Z0qrtfG3fHx4YO2ebGf/4Yk1RVLHeZ4rEQgxc8QIXYps0gfPmRAp6bOm9s6AcE8H70eBspOiGr0gMUXjtIZj6jANk4ihvaAf8tID6PVx03VVKMVZsiIFQ7bBwpu6bEjdTAddm2WZtTkH4fIY1jqyYBjx6dUVP2wsunBnv/MuDuNBNGPV8o2P6h9ZQPljvzCeFhXFYhwVdEhX8/jpy3/W3sQ3SGxs6I1/KbQKpAVCG8ypuG5orXXiMokCOXdE3UgLcXyPCmoQAHD4dfdrZclCbYoUlmEqWCuKAt4MKLXSp5eOYoTEfCpFagIlcwomRahYpFY+u0gooTDSFTD2SC/M1Cx/wvulQxiLJdAyefpKDGPXxT6elwJozxBPq7tHFrNTbKJDZPw1TPyyLnL5Vo8NEEChoUg1/wuDoHJ6O0NsXsLoEZHcOAmuC/zfHjK+xCw5Z5HiB9G9RpVx9Ibr5uCq4UdZMaw52oKttWAswbR0jiDJ8GPBOwM7EMnQNEHtALsEPLACWtsGsI23JZMe2EWPF/7MYDEEhJB9cVuXegmxLBJdXHGfJX+DBN5SSV2LRmHIk1UDKsWjNWT9+h0UZPINyMt5gB4m5O4gSSctE16K0yO1dpf4iZVI2Bg1VbCfV2aCrkCGEMP6j1L/QXvF4DcPPaB64Ba9VAo2z0Zx8lE8Lp+q5YdEloyMf2F0X7naFoXdM8GhQjOvr7lY/uQ7+5dj0/sdeEOV79H0wba+wZ8HeT+BCyc5aSHMYlutCoLdq7vyifhnsyaypUcQOngcObEYAw==",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01LjgBKtsYZwD3sZEzbuLDfj",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Best Microsoft Power Platform Development Company in Brisbane",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+            "encrypted_content": "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",
+            "page_age": "89 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Platform Consultants",
+            "url": "https://www.newpathweb.com.au/digital-services/microsoft-power-platform/",
+            "encrypted_content": "EooCCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHvBzcPEAi8qw98NoBoM+d9SGJ6FZ8RYjRowIjCrEyq5c35EZCqBToGUNELtYmn3Y5FdKArCIyOtXLhCJAC/S3y2zgKenrfowa9Zv+kqjQGJLQeGiuoKNaqUH8S3mOYWsKi94M2C0aS9Es5VKVghcDd+S72C+Je7MNArnW7DDS/s+XaitAP7MLrkOkW6Z5yVJx1lwHZXX7XW8TBTaba5lI8AiXBqgQ45i2/2innPMO7h0IzU93B0xPFoEXCkwVn/I4FU0J79HsKWG6DswtJCHzIfT6FdrdIQVpdt668YAw==",
+            "page_age": "952 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Best SharePoint Consulting Companies in Australia (2026)",
+            "url": "https://www.beyondintranet.com/blog/sharepoint-consulting-companies-in-australia/",
+            "encrypted_content": "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",
+            "page_age": "91 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+            "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+            "encrypted_content": "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",
+            "page_age": "216 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Australia's Trusted Power Platform Consultants",
+            "url": "https://www.powerplatformexperts.com.au/locations",
+            "encrypted_content": "EuAICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGSRwBYKEXVRr3hywxoMTkRTHNXhjGZuHNuqIjBW5fJ16wDg8CyzZWTzlSscAdrCz0xCVxaYPa+Y7PheORNHvEMDMGNwNnQrEzHWqVoq4wd4ViOsTBw21I2v8aWZw+TL4c3I2zSNI3csuveNANau2FYWVJkQR5saBzX94q0mCnrDNaTl76T6zvjvb/RCqK9JxoaqlgX6MnrwQfdBCv1ain/quBoGGt7H5dJ1gXnbaIdgCuv4ZeMczDQJGDemvRojgOmRSMBo6om2ZERgBSHEp0ahHzzoukUBLtFFa0J9LpNZDSkwanbbodrnjUKRktlkzkrl8PikCXbAHNoNAvBk6ZVW43iFpriin5T4LTtcPpAvdYK9mZBLZERwUwH9LRYXvghh/oRswQOTZv1X+CTsFnXxXTJ0f0tbfeyZCBubkmyDAcI09f26uMKwja6Ab/9AUCV/x8WHG7DF3Lem5SS8dnt6pbmb127IkVfv+inJiiRVhHq+5/05p9WlxcUcYFl5FJtA+qdQmNrRy5GU/N1Zhe2ZoZFiJuA03C4A4o2I7UJtzcGkF/fwO77fBkmuHgpceBMGv3ujWKwmPumgnuVw2k47y0Wx2QuQi0VKhbEWTS8pnyrCkTqYYdHDnDBPcmuKvg58mCYh4QDlg9wIPf1TG6GrrFhawyq4wzBaaj7KAR0KUiBw0TUhogqoXi80GbePXl6EQSrmyjSsheRASsxTuzUB8ldVIeoesZJt6MuGBXqNc0ydVssMUHSc9ZJNEFs8Jg5GtPegrTU1SOs8Vfgmc2lXRG1lF16+78y/IMMOR7CdwuTHAGh1hKefvE2aYREOqmXZF7YFNtA1VsjFAu50N8KUbfLe2AKuIu1rIcUUibluFIQqj241p4vxaaVnmUtFCClppZFIyRiZ3XDYdzutxMjOdcynAS8t7C/lrxOUE4EWD2itCX0xEsmZt0K3hgXPUklTkJ4lnX3d4WP2DOxYmIM2TnrPVJGeU8j9ZIi8GLZd2xgHvbKP3X0WKpLS5KIa7N8wQIZM0B3E5kMt4iwvcLSPzcXfIDTj/vrSIgfNk7wQNGj6BlXQ5vZp/dnLfsrV47C6fRF8UFoIzKG1pwhaXpGJDJoPQ/n78wvVaMQSvjC5cNjB0uBptYrMsDeMzo6NGJcBs6inTbPDjgfRJwIVcdOv/uEvRvGIfTczsHKWsJirUnERV256yNEfbR+f+quJ7mD08VlDMzzlxnXJ1FRg5jHV/Ruh5EFhWtGsIVjI1LJ3olViGGJVRpbmkwPDRqe+MNZ2b/2d4iuJbBBywFONED0mUhKiExHT+18Bz8qipCQQcsenbfAOEaSb4ER88Lv/rM/X7vcskPUCj3NR+at0UIPoj+dLDsTckkE6VvevYMdZs+P7YOGBDbjHS2+gefSZ1JtQypSjk9zHghaQ5okK5k5aWhgD",
+            "page_age": "582 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants Brisbane",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+            "encrypted_content": "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",
+            "page_age": "169 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consulting Australia",
+            "url": "https://www.reportsimple.com.au/consulting/power-platform-consulting",
+            "encrypted_content": "EqYECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDaQ/v9ZHS5rEHEqnxoM64X1wBNQMCjvnqB0IjD3tRp3QWVWScJgYPrzeEVaKMrTVALAJAi6j+HH1pbbwfyHNLGakWm8d2OeDmg7O0UqqQNge++D2NK69yzo4oqzKHt027emqvpy1TP7zGMCsI6rHs+N4tqgG6B6t6Kq/EPFIUicW9bDZvyPDvkhiEP8D5Ge68UtByNQgDtHxw+xgxWRi3HkUVqz7YWxqtnot3jOtvs0cwzfbP+FjlNNoeUXjjUOsKuIXfgUI47v/yaT1g0kZS2fJD8SRIw5kYJw5yKkmCJ1AvmkMx40F6eEmOpVISkS6IFxwxc7Ja4gcdkkeFlQfzQ6SyqPyhX5sXsnk/xiT2tDAqPXqeMlhptWMhuhUkS1/BIidgXtM4TCSz/5n4KSei3hm6hUAmyIdEMv5GH/GHUz5SZQ49/DdeMVfmyYE58vPUw+hnSkt5/l2sbLB0HqpUQidD5KB47kCr2wCvfVkyleA09sUPp4Y2IiD+gpp7y4AW3kfO+e7ZxQzerwivdCeyq6/eNevh+APC+HMGibxsUOClEWb6H9bjNyzct/q1QWEAVvvyNmc+zVWeU3VTGQIq7pb5wYU4TOhNzFPSsvTp3+x18SkcDOdjRSzTZAikasihB+fYmLkmdgHGlrgnCFQFNAfC+ojemTURgD",
+            "page_age": "301 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+            "url": "https://team400.ai/power-apps-developers",
+            "encrypted_content": "EtYFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJUYGUBuCqq6C5T7qBoMIcyhsZM3LtRvRBN3IjBuY08+TRCnFNQnPFT+qmG4Pq/vrzMZzglaph1HGADUkij30OK0U2gKaSlJex2gB6kq2QQwSRgwN/JfWG+MiPjIzjJIBN1GIM+NX+iE8USAwlU2wGQdBAyLKWNl/uJrGVd/xgE9/eELGzziSv/61g9arLUl8O32IQJciTjebL0f7PO2xvDWzHhhXGVcU//pS8IjfNka5nO69JI2rhFdzgYO9Jof34JjwcP41vHL39iw0k2jNn7f6P4ikO2w5M+TzgHIO08oH4roXQAUS+NF9GbJLHZKLKf+5jUghHVjViQyhVV1jgnpeAlJOSmhNdI6Woy036lJj4Pqmkva4JvmFgQSFlO3Cga9ZfnhAS8U6M06LKxX+A3MLxlKH9aVcorjTyrXiP0h4jDdcf2XhmZ9qJXsFqBt/CyQWa6EdHeNV2fUqzcofwhrEXf6L8y43G0VO1HEwMadCjoxNJu20nit58ruEV2Em/TeoeKkiz0DwxwTHCW+mRnthxeF0UMG0wiGK1ikxJAGsIkM0Tz6omkcBtfsDX4mAbviThbxv7boT9wQ23HrY8Vo0pSGzmd1TrDiCYB5fsbRkG53kC6oLz7aKnVezMVQ45/zZF0Yh0p9dEh2uGAFFefXp30z2BLi/fD6Lbngqa5AaSsddqEBNED5VFfWuUwWmp30Ds1YGfcHNn/CiEdhKGSgGDIdNZTAZDqCa1Oxp/An3IGsEzedOZ2MJwKGdPxDE0UnSW8BG7BzUdRUIgzWEL8/aSepa8G9vRbN6zZBt8GuY2pVHFM+ufAZ61+GMT1YqTwhltQWLTU0Yt/p+rOdXQjeZ6nAot1PwfE2dSGlTU0LiDnHF5qWUBev4mCLh+nXvkgdWAym/GoeGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants",
+            "url": "https://www.workforcery.com/powerplatform",
+            "encrypted_content": "EsUICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDP6Deuqifcu/YCTjuRoMLd3kJ1StNmAmYjfuIjDKc0E4aDo2Shq8ezhL9knURCbAfn6p+41FH20eqAm0Lj4wCqVEKIw0/UfhhwGHfB0qyAdPxIf0vK5DhHwG05PX453ojsGyTY51zil0kk14aAfT7x+/z4Anw+TfK042J+6UziI/vF0i2umvayeC7YdfZuL7o0a28cYb0lm92WO/+ZAn+IaH7O24eg/xOR0KFbT61jBAGT3X8kUmDffIb+4fe1gDGoR7Al3VDK3VSucRSJCCJ928+2yJWyEK6mSwWngNfkDqUf6QK7vkHacgwyVf1OAK1hPx2bd8xGA+qIXRdYDnQGNj71HVvdXfyVftDMM7Mur5WBVHaXP8yFBsOK6Khho4VQwT6+rT9zfci9va1HkVbDawTSYOXWsYgUw/sERhO8enSZD7EtAxM5I8TL8w1WE3rny1b96J9SinEOTQQIyW13M5f9juksN07yP8Qma1WTPFoGoih+qJF83QsCVJFhL13UfbqadKj0ywtZJiyAwhieVS4cCeITOBXg0JCW5aXmME4EhBjg7xrhQN+hucOKbR/608DDTr4KmbvRGTNC9xH4Zfi5T7071Jkh7BZyPh3wC8gnNZfD3NeNrbyuXib3lqrDL5AfOqumNxtcD7lnS4ITfA/qgIfZ9ULSbqAqX6nnbNpUKBg3lxRH4lHDjzVifyXDTarHLbLwnxudlpNtEfXUOM0dBPGzDTtO87OozVJlpEBGn+3merYTb7bfv16zQNoroEfAgcdPde1ZyTZH5qXHLTpHC6qB3H/4sq0TmjntfqGjyG6Sy7MiTouYZnwdR/zI1fns5n7YuslNvNKUdzTpXdO+uT5I02netJDY3+x39RubUNZJUGASNfCpv5TqNepPKMO2qbkcr9vMGORMiU8iISQWi4HpGo1CWkQgPBpC4xKv36j8262Jdg2VbpOewWJC2+XZjrJlWLadY7J/D4sYQK6lvbaBt0UEZVKZsQxU0tCoxlYDmUS0If8Ap8OAJlX00YP0PbSAt0KO7R0dWkzpl/+RZvCiE1IE0ReJulCT9PO9splZVsshWKsGu8UoDQVqBdiLJqESFB526sMeNw6b8vAcmU4Ha7On0qVPyh5qiwshXc8GTTnGHPJ8fgt8ku3/X9TIfumbGk2YN9OsWHiVStPMkjJRSb9Ij3CiEAH1gecNFjtppBks6I2j5AjA7U3no/QwQKTSmAQWbj4KrliHXPZ6OebvpPBgpeSD6sZ+/aM6pI0WLYkkGAgnnJB+cC9OA8J2l0HVHfKPXxWrXELG7QKDJtG69MKb8ngnty9x249ljrQUyQn6lOYM2XmFG+1eq1Yehle/I6Zo0Y4B752riGMX1IBooUKOKzwoIX3ILBmgpMgPDALBgD",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a shortlist of reputable Microsoft Power Platform consulting partners in Brisbane, based on current search results:\n\n---\n\n## 🏆 Best Microsoft Power Platform Consultants in Brisbane (2026)\n\n---\n\n### 1. 🥇 Power Platform Experts (Office Experts Group)\n**Website:** powerplatformexperts.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our nationwide team has 25+ years helping businesses streamline operations with Power BI, Apps, Pages, and Automate solutions.\n\n",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+            "title": "Power Platform Consultants Brisbane",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCJky2haUq7h0BU1VhoMvAflE3ElqwBNHnbpIjAcpuzbNLFvcy8vd/JiCTVe0XBL0FeuL5tfH+wjDeYdpw3g+ek7DBmf8mcO8BEyaSAqFFhkXeNMS2iUHQNQZnPNEQkPMmysGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Operating since 2000, their nationwide team has 25+ years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visua...",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+            "title": "Power Platform Consultants Brisbane",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNQQcP9RCP3GkoSTcBoMLItryu6xPgQqVtHAIjCf0Tzy6v1VNPCuJvwIYGx4wxJvMFhuAAUU7ncMP29mfL3YSXiD7dSpBPymY//4Uk0qFE2jNDckU+7XWE1Dx4o0FkNA60JvGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Through our extensive and growing customer base, our highly experienced Microsoft Power Platform consulting team is renowned for business process opti...",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+            "title": "Power Platform Consultants Brisbane",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOGfWpzDyQ+BS5tYdxoMaXRzlmgPAs3/5absIjBcZHIvXP9n5OKXwmQuPTwLkWaIgLdKp1vVsoFsX5nnXM/1v/mjw2MWV3jyOhsYCrwqFWpTAp0yB9GKGA0ZC33LoydF33wfjRgE"
+          }
+        ],
+        "type": "text",
+        "text": "The team is renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** SMEs and mid-market businesses looking for a long-established, Microsoft-certified local team with full-suite Power Platform coverage.\n\n---\n\n### 2. 🥈 Team 400\n**Website:** team400.ai\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Team 400\nTeam 400 is headquartered in Brisbane and we have been building on the Microsoft stack for over 25 years. Led by Microsoft MVP alumni, we spe...",
+            "url": "https://team400.ai/blog/2026-03-top-microsoft-consultants-brisbane",
+            "title": "Top Microsoft Consultants in Brisbane (2026)",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHNWA1NSSMFF8mdkRxoMvB8LiuaXDcj0D/6IIjApB8KbWI8Y9Y+J+FFsmf1PGCL/7hGuOhFkl+OCA0yKDVYOQIvea5V1pQYTfqKXPKUqFVMIcbqvaM1EUeduSR0Zq5ReeAO+sRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Team 400 is headquartered in Brisbane and has been building on the Microsoft stack for over 25 years, led by Microsoft MVP alumni, specialising in Azure AI Foundry, Azure OpenAI, AI agents, .NET development, and React on Azure."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Microsoft Fabric Power BI Consultants Data Factory Power Automate\n\nPower Apps Consultants LangChain Consultants OpenClaw Consultants\n\nSoftware Develop...",
+            "url": "https://team400.ai/power-apps-developers",
+            "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBg/hcRof+K5LYJV0BoMtc5BJVQfwfAmX4M3IjAf4DLcizuBofVI3MjqOtY9RPibvKNH7IkfZQqA3NxSthflSjObKKGdXFOim332VfUqFmrp/KW6Tj4coGzU3T6JFMRrmRuxJXQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Based in Brisbane, Sydney, and Melbourne, they build AI-powered business applications with Microsoft Power Platform — from Copilot Studio agents and AI Builder models to intelligent Power Automate flows, helping Australian businesses automate and scale with low-code backed by pro-code expertise."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**Who it's best for**: Brisbane and Queensland businesses on Microsoft that need AI, custom development, or Azure solutions built by experienced local...",
+            "url": "https://team400.ai/blog/2026-03-top-microsoft-consultants-brisbane",
+            "title": "Top Microsoft Consultants in Brisbane (2026)",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCtGZsn2yW1LmcSMAxoM/EzDgSdi02lXrXL/IjAlersi8oENPaTxCaUCMrInxRxEwSz+NdohijvZsqr9ZavaAhPOEH5YGmHUAgUECE0qFYpm9W20a4bE79Ib9zc69kOO80Y2VhgE"
+          }
+        ],
+        "type": "text",
+        "text": "Brisbane and Queensland businesses on Microsoft that need AI, custom development, or Azure solutions built by experienced local engineers — mid-market companies that want senior capability without big-four overhead."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 3. 🥉 Data#3\n**Website:** data3.com\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "It combines consulting with its own product, Sprocket 365, which extends SharePoint intranets with a knowledge base, ...\n\n# Best SharePoint Consulting...",
+            "url": "https://www.beyondintranet.com/blog/sharepoint-consulting-companies-in-australia/",
+            "title": "Best SharePoint Consulting Companies in Australia (2026)",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAfyOKXURCzFpr5buxoMynTyeOYOtW6cv2HNIjD4C5OMPIZlim4uJCNkhh0LDmkA4X8rtOavNeXufA43fyoDNBxnscw8ZWyF8JOVILoqFCS6rxchtTwsaonjpUdV4WX8ZHcYGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Data#3, headquartered in Brisbane, is Microsoft's largest Australian partner"
+      },
+      {
+        "type": "text",
+        "text": ", making them one of the most credible and well-resourced options for enterprise-scale Power Platform work. They cover Microsoft 365, licensing, security, and cloud adoption across enterprise, education, and government sectors.\n\n**Best for:** Large enterprises and government organisations needing a proven, tier-one Microsoft partner with deep resources and accountability.\n\n---\n\n### 4. Workforcery\n**Website:** workforcery.com\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "As a Microsoft Power Platform Consultant based in Brisbane, we specialise in harnessing the power of Power BI, Power Apps, and Power Automate to trans...",
+            "url": "https://www.workforcery.com/powerplatform",
+            "title": "Power Platform Consultants",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCer2Z+tv44jHQEFtRoM+IqM2oewz2EqKNPWIjC5sImb4SqJZYW22Y7TgaXwYtjGHugGg6Nnd4j6DYKMcv0q1Z04VeFWsR7sjz9sr48qFKChaANRhCbGWLhMl6WrryxZJ1LwGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Based in Brisbane, Workforcery specialises in harnessing the power of Power BI, Power Apps, and Power Automate to transform business processes."
+      },
+      {
+        "type": "text",
+        "text": " They take a business-first approach, focusing on understanding local business needs before building solutions.\n\n**Best for:** Small to mid-sized Brisbane businesses looking for a boutique, locally focused Power Platform consultancy.\n\n---\n\n### 5. Tech Engine Australia\n**Website:** techengine.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "At Tech Engine Australia, we pride ourselves on our deep expertise in Power Platform. Our Microsoft Power Apps consultants take a Business First appro...",
+            "url": "https://techengine.au/microsoft-power-apps-consulting-services/",
+            "title": "Microsoft Power Apps Consulting Services| Tech Engine Australia",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEM9eWU5OyntXDIORBoMSv+Hylj5DGR8lJDPIjDSa7A+jDouS8ETY4OlHOLNE1Pny8zoYhVlGoUC9y3JhwngQfN8jpPgCTj8Ye1VqLYqFekqae2cflm8rKPKkS9U6oeOHdD2DhgE"
+          }
+        ],
+        "type": "text",
+        "text": "Tech Engine Australia prides itself on deep expertise in Power Platform, with Microsoft Power Apps consultants who take a \"Business First\" approach — ensuring they understand your business needs, objectives, and context before starting."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Expert consultants and 24/7 support to help you build and maintain tailored solutions.\n\n",
+            "url": "https://techengine.au/microsoft-power-apps-consulting-services/",
+            "title": "Microsoft Power Apps Consulting Services| Tech Engine Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHQJ7rcV2f/sk2jvshoMjEqAnfTeo1LlzBsbIjCzbQ3Nrf5Mg4W3IM1pRi2U1T9EegSm0IXkIwOHdWUn8ZyXE0Ei6oI320Ztznj95CQqE9l3Nf6gTQA8JQjEzmnrTYA7xTcYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They offer expert consultants and 24/7 support to help build and maintain tailored solutions."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Brisbane businesses that want ongoing managed support alongside their Power Platform implementation.\n\n---\n\n### 6. Alphavima\n**Website:** alphavima.com\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Alphavima is a certified Microsoft Solutions Partner delivering Power Apps, Power Automate, Power BI, and Power Pages projects.\n\n",
+            "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+            "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH5rCELTxXWONG+OLRoMO3FHWrkjwP5aoZLqIjBGjRb1krMV8cG+JM/jFRXOwLHMRfYueC+kcVxcytMXJw0pwwtGqF7n1oUgKjwedm8qE1E6a+g+SNZRAGosGsOdidEPJmkYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Alphavima is a certified Microsoft Solutions Partner delivering Power Apps, Power Automate, Power BI, and Power Pages projects."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "With 20+ years of Microsoft platform experience, we configure Power Apps, Power Automate, Power BI, and Power Pages around how your Brisbane, QLD team...",
+            "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+            "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEsCXE7aUuSD4OrqvBoM+fQmkMd2Bohi1gcxIjAPDXMvZuKpwNNQ4ZdQBpJBCzOvMY7DGQkuL7LaZxjLGxKdPzUah2w7+LTydWZItUkqFIxtHV/daH/fpXP0wVOa4BTG1PFHGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "With 20+ years of Microsoft platform experience, they configure Power Platform tools around how your Brisbane team actually works."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Proven Results for Brisbane, QLD Organizations on Power Platform\nAlphavima implements Power Apps Consulting for Brisbane organizations using Micros...",
+            "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+            "title": "Power Apps Consulting in Brisbane, QLD",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBenXs4kcSrIZz+T9hoMaftHIq5m8NkkkINjIjAEo/OIW0U+a9ZK+NiqGfoasRSOzPPpTMsS0K5VBFnNsMiou6FP8pKn7G/MFYTUCdkqEysDYMx4OTjuyeQCFb1REHT0UUQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They implement Power Platform for Brisbane organisations using Australian-resident Azure data centres, with Power Apps for field operations, Power Automate for government workflow compliance, and Power BI for infrastructure project reporting."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Best for:** Mid-market and enterprise clients — particularly in mining, infrastructure, and government sectors — needing offshore-backed expertise with Australian data residency.\n\n---\n\n## 💡 Tips for Choosing the Right Partner\n\n| Factor | What to Look For |\n|---|---|\n| **Microsoft Certification** | Look for \"Microsoft Solutions Partner\" designation |\n| **Local Presence** | Brisbane-based consultants understand the local market |\n| **Industry Experience** | Match their portfolio to your sector (govt, mining, retail, etc.) |\n| **Full-Suite Coverage** | Ensure they cover Power Apps, Power Automate, Power BI, and Power Pages |\n| **Post-Implementation Support** | Training, governance, and ongoing support are critical |\n\n> ⚠️ **Disclaimer:** This shortlist is based on publicly available information and search results. It's always recommended to request case studies, references, and a scoping consultation before engaging any consulting partner."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13771,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1365,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:41.601Z",
+  "cost": 0.006172,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 536,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005572,
+      "datetime": "2026-10-29 04:06:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Perth-based operational apps, the strongest shortlist is:\n\n- **Ultron Developments** — A particularly good fit for warehouse, manufacturing, mining, and field operations. Its published examples include barcode-scanning and stock applications, quality-control apps, procurement workflows, mobile inspections, offline field-technician apps, and Dataverse-backed solutions. It offers Perth delivery, on-site scoping, and Australian-based consultants.[1][2]\n- **Alphavima Technologies** — Strong for Perth and WA organisations needing inventory, inspections, FIFO/mining operations, offline mobile forms, and production dashboards. It covers Canvas and Model-driven Power Apps, Dataverse, Power Automate, Power BI, and integrations with business systems.[3][7][9][10]\n- **Power Platform Consulting Team / Office Experts** — An established Australia-wide consultancy with Perth coverage and a team of more than 25 professionals. Its capabilities include Power Apps, Dataverse, Power Automate, SharePoint, SQL Server, Azure, Dynamics 365, and Power BI.[4]\n- **Velrada** — Worth considering for larger enterprise or regulated deployments. Perth-based consultant Ramesh Jangid’s profile shows delivery of Canvas and Model-driven apps, Dataverse, integrations, Dynamics 365 Field Service, and inspection or tablet applications for field engineers; validate the current local team and availability directly.[5]\n- **Rishabh Software** — A larger, distributed Microsoft Power Apps provider rather than a clearly Perth-local boutique. It is relevant when you need substantial development capacity for inventory, inspection, field-service, warehouse, or industrial applications, including Dataverse-based model-driven apps.[8]\n\n## Best fit by project type\n\n| Requirement | Best initial candidates |\n|---|---|\n| Warehouse scanning, inventory, and stock workflows | Ultron, Alphavima |\n| Shop-floor quality, production, or inspection apps | Ultron, Alphavima |\n| Offline apps for field, mining, or FIFO teams | Alphavima, Ultron |\n| Enterprise Field Service and Dynamics 365 integration | Velrada, Power Platform Consulting Team |\n| Larger development capacity or complex integrations | Rishabh Software, Velrada |\n\nFor a Perth operational app, ask each provider to demonstrate **offline capability, barcode/device integration, Dataverse security and environment strategy, role-based UX, ERP/API integration, deployment governance, and support after go-live**. A small paid discovery workshop using one real workflow—such as a goods receipt, safety inspection, or field job—will reveal more than a generic capability presentation.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia | Custom Business Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Developer Perth | Custom Business Apps",
+                  "url": "https://ultrondevelopments.com.au/power-apps-developer-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-Code App Development in Perth, WA | Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/low-code-app-development-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Power Platform Consulting Team",
+                  "url": "https://www.powerplatformexperts.com.au/meet-the-team",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ramesh J | LinkedIn",
+                  "url": "https://www.linkedin.com/in/ramesh-jangid",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Enterprise Power Apps Development & Consulting",
+                  "url": "https://ultrondevelopments.com.au/powerapps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Developer in Perth, WA | Alphavima",
+                  "url": "https://alphavima.com/power-platform/power-apps-developer-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps development services - Rishabh Software",
+                  "url": "https://www.rishabhsoft.com/microsoft-powerapps-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-Code Development Partner in Perth, WA | Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/low-code-development-partner-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Partner in Perth, WA - Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-platform-partner-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

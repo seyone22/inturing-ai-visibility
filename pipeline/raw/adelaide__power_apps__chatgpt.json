@@ -1,0 +1,866 @@
+{
+  "slug": "adelaide",
+  "pk": "power_apps",
+  "plat": "chatgpt",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Adelaide for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_apps__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:09.309Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Adelaide for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Adelaide%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hints=search",
+      "datetime": "2026-10-29 04:08:03 +00:00",
+      "markdown": "# Leading Power Apps and Dataverse consultants in Adelaide\n\nFor custom operational apps used by warehouse staff, shop-floor operators, maintenance crews and field teams, I’d shortlist consultancies that can do more than build a simple Power App. You want expertise in **Dataverse data modelling, mobile-first app design, workflow automation, system integration and production-grade support**\\.\n\nBased on my web search, these are the strongest candidates to investigate in Adelaide and across Australia. This is a shortlist based on publicly described capabilities and relevant project examples, not a definitive ranking of overall quality.\n\n## My top recommendations\n\n![simplefy.ai | Solutions](https://images.openai.com/static-rsc-4/WwGpFb8NsD_pYGlijdu2mtt82vdzHWOgrYELN3BemfZ7_nOJe_YtlKWT5ZEMhAidQtt1EfBuSRVz26-DwAVfUuNZH9wWedCsOV28IaXzEqkF57iw2GGKHvs7PFaHC3ZIz_vkEvj_7psMobmeL6zssYcUqpWmmg7bkPrnH2Mylq217i_zqq6KgrHkB4DsSH8D?purpose=fullsize)\n\n## 1\\. SimpleIT4U\n\n(Strong local fit)\n\nBest for a small or midsize business wanting a hands-on team to replace spreadsheets, paper forms and disconnected operational processes.\n\n- **Relevant evidence\\:** publishes a project for Adelaide business Tekton Solutions involving canvas and model-driven Power Platform apps for job management and CRM, with Power BI reporting.\n- **Potential applications\\:** job tracking, field-service workflows, work allocation and operational dashboards.\n- **Ask about\\:** Dataverse architecture, barcode scanning, offline operation and integrations with your inventory or ERP system.\n\nWebsite: [simpleit4u.com.au](https://simpleit4u.com.au/) · Adelaide-based\n\nSources: [simpleit4u.com.au](https://simpleit4u.com.au/?utm_source=chatgpt.com)\n\n---\n\n![A Big Chat - Live Online Chat - Join now!](https://images.openai.com/static-rsc-4/mmXr2Z2bbhuwTRlU0tbqBmkjt87xGrPv7Sc10QzFremUGfuoequafZ7Ml71TtplrMD3iy7UWFEU4dVlzxPlXhzkozmODC-T2BwGlmCY5SBw_9DbiSfjsRc-cZ28hg5DPWzv4PM0aXbeYH6C5ssfnyu5xdMTXT9ZVdwv6k_zQOn-OwegOIVtN-C0jTgTVSA9W?purpose=fullsize)\n\n## 2\\. JAC Services\n\n(Local Microsoft specialist)\n\nWorth considering when the app needs to integrate closely with Microsoft 365, SharePoint and existing business workflows.\n\n- **Relevant evidence\\:** explicitly offers Power Apps, workflow automation, cloud application development, data modelling and integration.\n- **Potential applications\\:** shop-floor checklists, quality inspections, approvals, maintenance requests and document-linked work orders.\n- **Ask about\\:** experience with Dataverse as the primary data store rather than SharePoint lists, and support for concurrent frontline users.\n\nWebsite: [jacservices.com.au](https://jacservices.com.au/) · Adelaide\n\nSource: [jacservices.com.au](https://jacservices.com.au/?utm_source=chatgpt.com)\n\n---\n\n![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)\n\n## 3\\. Office Experts Group\n\nA good candidate for practical business applications that connect mobile forms, automation, reporting and legacy databases.\n\n- **Relevant evidence\\:** its Adelaide consulting offering explicitly lists Power Apps, Power Automate, Power BI and Dataverse. It also describes mobile and offline capture for sites with unreliable connectivity.\n- **Potential applications\\:** field inspections, asset registers, compliance checklists, operational reporting and replacing Excel or Access-based processes.\n- **Ask about\\:** examples of production Dataverse apps, offline synchronisation and integrations with warehouse management systems.\n\nWebsite: [officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide) · Adelaide and Australia-wide\n\nSource: [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com)\n\n---\n\n![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)\n\n## 4\\. Mayasoft\n\nParticularly worth a conversation if your operational app needs to connect to Dynamics 365 or a broader Microsoft cloud environment.\n\n- **Relevant evidence\\:** an Adelaide-based team, Power Apps and Power Automate capability, Dynamics 365 implementation experience and integration services.\n- **Potential applications\\:** field-service extensions, operational data capture, service workflows and apps that complement an existing CRM.\n- **Ask about\\:** Dataverse-first custom applications, inventory-related use cases and experience integrating with your specific ERP.\n\nWebsite: [mayasoft.com.au](https://mayasoft.com.au/) · Adelaide CBD\n\nSource: [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com)\n\n---\n\n\n\n## 5\\. Ultron Developments\n\nA useful additional bidder if you want a specialist Power Apps delivery team and are comfortable working with a provider that serves Adelaide remotely.\n\n- **Relevant evidence\\:** explicitly describes canvas apps, model-driven apps, Power Automate workflows, architecture, testing and handover.\n- **Potential applications\\:** structured operational workflows, digital forms, approvals and mobile business apps.\n- **Ask about\\:** direct warehouse or manufacturing deployments, Dataverse licensing and ongoing support arrangements.\n\nWebsite: [ultrondevelopments.com.au/powerapps-consulting](https://ultrondevelopments.com.au/powerapps-consulting) · Australia-wide\n\nSource: [ultrondevelopments.com.au](https://ultrondevelopments.com.au/powerapps-consulting?utm_source=chatgpt.com)\n\n## Other providers worth comparing\n\nThese are more specialised or potentially better suited to larger, more complex implementations.\n\n![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)\n\n**Eagle360 Consulting**\n\nParticularly relevant to your use case: it explicitly describes Power Apps for warehouse operations, delivery-driver workflows and field service, with connections to Dataverse, SQL and Dynamics 365 Business Central.\n\nWebsite: [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/)\\. [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com)\n\n---\n\n![Being part of an innovative team is truly exciting. Let's continue to push the limits. Congratulations Velrada for such an incredible achievement. | Sehar Suleman](https://images.openai.com/static-rsc-4/749Mp3xIKZIV4IsbdPw3YwXX82Zv58U6e2dxzA-BoAoysDUy6fd-wfdVXcFm-nacvtTsYrWklANWVVpzeUhgUHk0nxwZW9q6dGIbpSE_GZmMhVUa8y3ZsCZxhGAMZwx_HjgktVkFG57_dyzidqi_S2d96Ij9L787l6KaESqutKNGRndmolFedY4t0dFQ5LPE?purpose=fullsize)\n\n**Velrada**\n\nConsider for enterprise-grade Power Platform architecture, governance, integration and security, particularly if the app will become a core operational system. It has an Adelaide CBD office.\n\nWebsite: [velrada.com](https://velrada.com/)\\. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)\n\n---\n\n![Fusion5 | LinkedIn](https://images.openai.com/static-rsc-4/VBC9aB8csHVeshPss6dKSvs4sZsl2i4CYFtnZFd5yJpC5LSdngiCJI24Pc3VO51WpFfCejZLERbF9Y4m3DuFqEovyK7XGZPCZZlmJaUdrH4e76cnffWBAGYf0j7jsosDxl4sE858Cad8EQ7cf_bDNMntrP36B2n6PTsh5gJAlkYa-LjdxqVyR-XO1iiPI0t0?purpose=fullsize)\n\n**Fusion5**\n\nWorth considering when the app is closely tied to ERP, inventory, procurement or supply-chain processes. Its broader Microsoft business applications practice may be more appropriate for a cross-system transformation than a standalone small app.\n\nWebsite: [fusion5.com.au](https://www.fusion5.com.au/)\\. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJmagZ-7POsGoR8SdJKnYaGCg&hl=en&utm_source=chatgpt.com)\n\n## Who would I approach first?\n\nFor your specific requirement, I would prioritise these three conversations\\:\n\n| Your priority | First provider to approach |\n|--------|--------|\n| Local, hands-on custom app development | SimpleIT4U |\n| SharePoint and Microsoft 365 workflow integration | JAC Services |\n| Dataverse, mobile capture and offline field workflows | Office Experts Group |\n| Warehouse apps integrated with Business Central | Eagle360 Consulting |\n| Enterprise governance and complex integrations | Velrada |\n\n\nThese are best-fit recommendations based on published service descriptions, not verified head-to-head delivery results. I haven't independently established which firm has the strongest references for live warehouse or shop-floor deployments.\n\n## What to test before hiring anyone\n\nFor operational applications, I would ask every finalist to demonstrate a working example or provide a relevant client reference covering these six areas\\:\n\n- **Dataverse\\:** proper relational data modelling, security roles, audit history and environment management.\n- **Frontline usability\\:** a fast interface on rugged tablets and phones, with minimal typing.\n- **Barcode scanning\\:** receiving, picking, stock movements, serial numbers or asset identification, if relevant.\n- **Connectivity\\:** what happens when Wi-Fi drops, including whether genuine offline operation is supported.\n- **Integration\\:** how the app exchanges data with your ERP, inventory, accounting or production systems.\n- **Long-term ownership\\:** source solutions, documentation, deployment pipelines, licensing, support costs and handover.\n\nOne particularly important distinction: a polished Power App demo is not evidence that the provider can deliver a reliable operational system under concurrent use, with proper error handling and data integrity.\n\n## Let me narrow this to the best two or three\n\nThe biggest factor is what your app actually needs to manage. Which is closest to your project?\n\n1\\. What will the app manage?\n\nWarehouse, inventory, receiving and picking\n\nShop-floor, manufacturing and quality control\n\nField service, inspections and maintenance\n\nJob tracking, work orders and workforce operations\n\n---\n\n2\\. What systems must it connect to?\n\nNew app using Dataverse\n\nDynamics 365 Business Central\n\nSAP or another ERP\n\nExcel, SharePoint or Microsoft 365\n\nNot decided yet\n\n---\n\n3\\. How many users?\n\nFewer than 20\n\n20–100\n\nMore than 100\n\n---\n\n4\\. Approximate implementation budget (AUD)\n\nUnder A\\$20,000\n\nA\\$20,000–A\\$75,000\n\nA\\$75,000–A\\$150,000\n\nOver A\\$150,000\n\nNot sure yet\n\n[Find my best-fit consultants]\n\nWith those details, I can distinguish providers suited to a straightforward custom app from those better equipped to build a business-critical warehouse, manufacturing or field operations system.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://mayasoft.com.au/about.html",
+          "domain": "mayasoft.com.au",
+          "title": "About Mayasoft — Australian Microsoft Partner Since 2016",
+          "description": null,
+          "breadcrumb": "mayasoft.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://jacservices.com.au/",
+          "domain": "jacservices.com.au",
+          "title": "Adeliade Sharepoint consulting South Australia - JAC Services",
+          "description": null,
+          "breadcrumb": "jacservices.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://simpleit4u.com.au/",
+          "domain": "simpleit4u.com.au",
+          "title": "Simpleit4U",
+          "description": null,
+          "breadcrumb": "simpleit4u.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://sharepoints.com.au/sharepoint-adelaide/",
+          "domain": "sharepoints.com.au",
+          "title": "Sharepoint Development and Sharepoint Consultants - Adelaide",
+          "description": null,
+          "breadcrumb": "sharepoints.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.accessexperts.com.au/access-consultants-adelaide",
+          "domain": "www.accessexperts.com.au",
+          "title": "Microsoft Access Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.accessexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Power Apps Consulting Australia | Custom Business Apps | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "domain": "eagle360.consulting",
+          "title": "Power Platform & Copilot",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.futureability.com/power-platform",
+          "domain": "www.futureability.com",
+          "title": "Power Platform Consultants Australia | FutureAbility",
+          "description": null,
+          "breadcrumb": "www.futureability.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting",
+          "domain": "www.reportsimple.com.au",
+          "title": "Power Apps Consulting Australia | Hire Power Apps Consultants",
+          "description": null,
+          "breadcrumb": "www.reportsimple.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://legodynamics.com.au/",
+          "domain": "legodynamics.com.au",
+          "title": "Home - legodynamics",
+          "description": null,
+          "breadcrumb": "legodynamics.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "simpleit4u.com.au",
+          "snippet": null,
+          "domain": "simpleit4u.com.au",
+          "url": "https://simpleit4u.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[simpleit4u.com.au](https://simpleit4u.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Simpleit4U",
+          "snippet": null,
+          "domain": "simpleit4u.com.au",
+          "url": "https://simpleit4u.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "SimpleIT4U",
+          "publication_date": "2019-01-14 11:58:27 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "jacservices.com.au",
+          "snippet": null,
+          "domain": "jacservices.com.au",
+          "url": "https://jacservices.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[jacservices.com.au](https://jacservices.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Adeliade Sharepoint consulting South Australia",
+          "snippet": null,
+          "domain": "jacservices.com.au",
+          "url": "https://jacservices.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "JAC Services",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "officeexperts.com.au",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Consultants Adelaide",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Office Experts Group",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Consultants Adelaide",
+          "snippet": null,
+          "domain": "www.powerplatformexperts.com.au",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Power Platform Experts",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "mayasoft.com.au",
+          "snippet": null,
+          "domain": "mayasoft.com.au",
+          "url": "https://mayasoft.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[mayasoft.com.au](https://mayasoft.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Mayasoft",
+          "snippet": null,
+          "domain": "mayasoft.com.au",
+          "url": "https://mayasoft.com.au/about.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Microsoft Partner Since 2016",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ultrondevelopments.com.au/powerapps-consulting",
+          "snippet": null,
+          "domain": "ultrondevelopments.com.au",
+          "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[ultrondevelopments.com.au/powerapps-consulting](https://ultrondevelopments.com.au/powerapps-consulting)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps Consulting Australia | Custom Business Apps",
+          "snippet": null,
+          "domain": "ultrondevelopments.com.au",
+          "url": "https://ultrondevelopments.com.au/powerapps-consulting?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Ultron",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "eagle360.consulting",
+          "snippet": null,
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[eagle360.consulting](https://eagle360.consulting/power-platform-copilot/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform & Copilot",
+          "snippet": null,
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Eagle360 Consulting",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "velrada.com",
+          "snippet": null,
+          "domain": "velrada.com",
+          "url": "https://velrada.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[velrada.com](https://velrada.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Velrada",
+          "snippet": "7/101 Pirie St, Adelaide SA 5000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "fusion5.com.au",
+          "snippet": null,
+          "domain": "www.fusion5.com.au",
+          "url": "https://www.fusion5.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[fusion5.com.au](https://www.fusion5.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Fusion5 - Transformation Partners",
+          "snippet": "Level 14/115 King William St, Adelaide SA 5000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJmagZ-7POsGoR8SdJKnYaGCg&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "leading Microsoft Power Apps Dataverse consultants Adelaide South Australia warehouse field service operational apps"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Adelaide software development and Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "SimpleIT4U",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Adelaide Microsoft SharePoint and Power Platform consultancy",
+          "category": "company",
+          "markdown": "JAC Services",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform and business application consultancy",
+          "category": "company",
+          "markdown": "Office Experts Group",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Dynamics 365 and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Mayasoft",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Power Apps and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Ultron Developments",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform and Dynamics 365 Business Central consultancy",
+          "category": "company",
+          "markdown": "Eagle360 Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian enterprise Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "Velrada",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian and New Zealand Microsoft business applications and ERP consultancy",
+          "category": "company",
+          "markdown": "Fusion5",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 19,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Leading Power Apps and Dataverse consultants in Adelaide\n\nFor custom operational apps used by warehouse staff, shop-floor operators, maintenance crews and field teams, I’d shortlist consultancies that can do more than build a simple Power App. You want expertise in **Dataverse data modelling, mobile-first app design, workflow automation, system integration and production-grade support**\\.\n\nBased on my web search, these are the strongest candidates to investigate in Adelaide and across Australia. This is a shortlist based on publicly described capabilities and relevant project examples, not a definitive ranking of overall quality.\n\n## My top recommendations\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![simplefy.ai | Solutions](https://images.openai.com/static-rsc-4/WwGpFb8NsD_pYGlijdu2mtt82vdzHWOgrYELN3BemfZ7_nOJe_YtlKWT5ZEMhAidQtt1EfBuSRVz26-DwAVfUuNZH9wWedCsOV28IaXzEqkF57iw2GGKHvs7PFaHC3ZIz_vkEvj_7psMobmeL6zssYcUqpWmmg7bkPrnH2Mylq217i_zqq6KgrHkB4DsSH8D?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://simplefy.ai/solutions/ai-strategy-governance",
+              "alt": "simplefy.ai | Solutions",
+              "image_url": "https://images.openai.com/static-rsc-4/WwGpFb8NsD_pYGlijdu2mtt82vdzHWOgrYELN3BemfZ7_nOJe_YtlKWT5ZEMhAidQtt1EfBuSRVz26-DwAVfUuNZH9wWedCsOV28IaXzEqkF57iw2GGKHvs7PFaHC3ZIz_vkEvj_7psMobmeL6zssYcUqpWmmg7bkPrnH2Mylq217i_zqq6KgrHkB4DsSH8D?purpose=fullsize",
+              "markdown": "![simplefy.ai | Solutions](https://images.openai.com/static-rsc-4/WwGpFb8NsD_pYGlijdu2mtt82vdzHWOgrYELN3BemfZ7_nOJe_YtlKWT5ZEMhAidQtt1EfBuSRVz26-DwAVfUuNZH9wWedCsOV28IaXzEqkF57iw2GGKHvs7PFaHC3ZIz_vkEvj_7psMobmeL6zssYcUqpWmmg7bkPrnH2Mylq217i_zqq6KgrHkB4DsSH8D?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. SimpleIT4U\n\n(Strong local fit)\n\nBest for a small or midsize business wanting a hands-on team to replace spreadsheets, paper forms and disconnected operational processes.\n\n- **Relevant evidence\\:** publishes a project for Adelaide business Tekton Solutions involving canvas and model-driven Power Platform apps for job management and CRM, with Power BI reporting.\n- **Potential applications\\:** job tracking, field-service workflows, work allocation and operational dashboards.\n- **Ask about\\:** Dataverse architecture, barcode scanning, offline operation and integrations with your inventory or ERP system.\n\nWebsite: [simpleit4u.com.au](https://simpleit4u.com.au/) · Adelaide-based\n\nSources: [simpleit4u.com.au](https://simpleit4u.com.au/?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "simpleit4u.com.au",
+              "snippet": null,
+              "domain": "simpleit4u.com.au",
+              "url": "https://simpleit4u.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[simpleit4u.com.au](https://simpleit4u.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Simpleit4U",
+              "snippet": null,
+              "domain": "simpleit4u.com.au",
+              "url": "https://simpleit4u.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "SimpleIT4U",
+              "publication_date": "2019-01-14 11:58:27 +00:00",
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Adelaide software development and Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "SimpleIT4U",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![A Big Chat - Live Online Chat - Join now!](https://images.openai.com/static-rsc-4/mmXr2Z2bbhuwTRlU0tbqBmkjt87xGrPv7Sc10QzFremUGfuoequafZ7Ml71TtplrMD3iy7UWFEU4dVlzxPlXhzkozmODC-T2BwGlmCY5SBw_9DbiSfjsRc-cZ28hg5DPWzv4PM0aXbeYH6C5ssfnyu5xdMTXT9ZVdwv6k_zQOn-OwegOIVtN-C0jTgTVSA9W?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.abigchat.com/chat/?channel=Cafe&guestcheck=true&nickname=2027",
+              "alt": "A Big Chat - Live Online Chat - Join now!",
+              "image_url": "https://images.openai.com/static-rsc-4/mmXr2Z2bbhuwTRlU0tbqBmkjt87xGrPv7Sc10QzFremUGfuoequafZ7Ml71TtplrMD3iy7UWFEU4dVlzxPlXhzkozmODC-T2BwGlmCY5SBw_9DbiSfjsRc-cZ28hg5DPWzv4PM0aXbeYH6C5ssfnyu5xdMTXT9ZVdwv6k_zQOn-OwegOIVtN-C0jTgTVSA9W?purpose=fullsize",
+              "markdown": "![A Big Chat - Live Online Chat - Join now!](https://images.openai.com/static-rsc-4/mmXr2Z2bbhuwTRlU0tbqBmkjt87xGrPv7Sc10QzFremUGfuoequafZ7Ml71TtplrMD3iy7UWFEU4dVlzxPlXhzkozmODC-T2BwGlmCY5SBw_9DbiSfjsRc-cZ28hg5DPWzv4PM0aXbeYH6C5ssfnyu5xdMTXT9ZVdwv6k_zQOn-OwegOIVtN-C0jTgTVSA9W?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. JAC Services\n\n(Local Microsoft specialist)\n\nWorth considering when the app needs to integrate closely with Microsoft 365, SharePoint and existing business workflows.\n\n- **Relevant evidence\\:** explicitly offers Power Apps, workflow automation, cloud application development, data modelling and integration.\n- **Potential applications\\:** shop-floor checklists, quality inspections, approvals, maintenance requests and document-linked work orders.\n- **Ask about\\:** experience with Dataverse as the primary data store rather than SharePoint lists, and support for concurrent frontline users.\n\nWebsite: [jacservices.com.au](https://jacservices.com.au/) · Adelaide\n\nSource: [jacservices.com.au](https://jacservices.com.au/?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "jacservices.com.au",
+              "snippet": null,
+              "domain": "jacservices.com.au",
+              "url": "https://jacservices.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[jacservices.com.au](https://jacservices.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Adeliade Sharepoint consulting South Australia",
+              "snippet": null,
+              "domain": "jacservices.com.au",
+              "url": "https://jacservices.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "JAC Services",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Adelaide Microsoft SharePoint and Power Platform consultancy",
+              "category": "company",
+              "markdown": "JAC Services",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMicrosoft_Power_Platform_logo.svg",
+              "alt": "File:Microsoft Power Platform logo.svg - Wikimedia Commons",
+              "image_url": "https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize",
+              "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Office Experts Group\n\nA good candidate for practical business applications that connect mobile forms, automation, reporting and legacy databases.\n\n- **Relevant evidence\\:** its Adelaide consulting offering explicitly lists Power Apps, Power Automate, Power BI and Dataverse. It also describes mobile and offline capture for sites with unreliable connectivity.\n- **Potential applications\\:** field inspections, asset registers, compliance checklists, operational reporting and replacing Excel or Access-based processes.\n- **Ask about\\:** examples of production Dataverse apps, offline synchronisation and integrations with warehouse management systems.\n\nWebsite: [officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide) · Adelaide and Australia-wide\n\nSource: [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "officeexperts.com.au",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Consultants Adelaide",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Office Experts Group",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Consultants Adelaide",
+              "snippet": null,
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Power Platform Experts",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform and business application consultancy",
+              "category": "company",
+              "markdown": "Office Experts Group",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.crmforagedcare.com.au/",
+              "alt": "Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS",
+              "image_url": "https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize",
+              "markdown": "![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Mayasoft\n\nParticularly worth a conversation if your operational app needs to connect to Dynamics 365 or a broader Microsoft cloud environment.\n\n- **Relevant evidence\\:** an Adelaide-based team, Power Apps and Power Automate capability, Dynamics 365 implementation experience and integration services.\n- **Potential applications\\:** field-service extensions, operational data capture, service workflows and apps that complement an existing CRM.\n- **Ask about\\:** Dataverse-first custom applications, inventory-related use cases and experience integrating with your specific ERP.\n\nWebsite: [mayasoft.com.au](https://mayasoft.com.au/) · Adelaide CBD\n\nSource: [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "mayasoft.com.au",
+              "snippet": null,
+              "domain": "mayasoft.com.au",
+              "url": "https://mayasoft.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[mayasoft.com.au](https://mayasoft.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Mayasoft",
+              "snippet": null,
+              "domain": "mayasoft.com.au",
+              "url": "https://mayasoft.com.au/about.html?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Microsoft Partner Since 2016",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Dynamics 365 and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Mayasoft",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Ultron Developments\n\nA useful additional bidder if you want a specialist Power Apps delivery team and are comfortable working with a provider that serves Adelaide remotely.\n\n- **Relevant evidence\\:** explicitly describes canvas apps, model-driven apps, Power Automate workflows, architecture, testing and handover.\n- **Potential applications\\:** structured operational workflows, digital forms, approvals and mobile business apps.\n- **Ask about\\:** direct warehouse or manufacturing deployments, Dataverse licensing and ongoing support arrangements.\n\nWebsite: [ultrondevelopments.com.au/powerapps-consulting](https://ultrondevelopments.com.au/powerapps-consulting) · Australia-wide\n\nSource: [ultrondevelopments.com.au](https://ultrondevelopments.com.au/powerapps-consulting?utm_source=chatgpt.com)\n\n## Other providers worth comparing\n\nThese are more specialised or potentially better suited to larger, more complex implementations.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "ultrondevelopments.com.au/powerapps-consulting",
+              "snippet": null,
+              "domain": "ultrondevelopments.com.au",
+              "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[ultrondevelopments.com.au/powerapps-consulting](https://ultrondevelopments.com.au/powerapps-consulting)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps Consulting Australia | Custom Business Apps",
+              "snippet": null,
+              "domain": "ultrondevelopments.com.au",
+              "url": "https://ultrondevelopments.com.au/powerapps-consulting?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Ultron",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Power Apps and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Ultron Developments",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.myob.com/au/implementation-partners/eagle360-consulting",
+              "alt": "Eagle360 Consulting MYOB Partner Profile",
+              "image_url": "https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize",
+              "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n**Eagle360 Consulting**\n\nParticularly relevant to your use case: it explicitly describes Power Apps for warehouse operations, delivery-driver workflows and field service, with connections to Dataverse, SQL and Dynamics 365 Business Central.\n\nWebsite: [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/)\\. [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "eagle360.consulting",
+              "snippet": null,
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/power-platform-copilot/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[eagle360.consulting](https://eagle360.consulting/power-platform-copilot/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform & Copilot",
+              "snippet": null,
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Eagle360 Consulting",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform and Dynamics 365 Business Central consultancy",
+              "category": "company",
+              "markdown": "Eagle360 Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "markdown": "![Being part of an innovative team is truly exciting. Let's continue to push the limits. Congratulations Velrada for such an incredible achievement. | Sehar Suleman](https://images.openai.com/static-rsc-4/749Mp3xIKZIV4IsbdPw3YwXX82Zv58U6e2dxzA-BoAoysDUy6fd-wfdVXcFm-nacvtTsYrWklANWVVpzeUhgUHk0nxwZW9q6dGIbpSE_GZmMhVUa8y3ZsCZxhGAMZwx_HjgktVkFG57_dyzidqi_S2d96Ij9L787l6KaESqutKNGRndmolFedY4t0dFQ5LPE?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.linkedin.com/posts/seharsuleman_being-part-of-an-innovative-team-is-truly-activity-7211881328122716160-utZQ",
+              "alt": "Being part of an innovative team is truly exciting. Let's continue to push the limits. Congratulations Velrada for such an incredible achievement. | Sehar Suleman",
+              "image_url": "https://images.openai.com/static-rsc-4/749Mp3xIKZIV4IsbdPw3YwXX82Zv58U6e2dxzA-BoAoysDUy6fd-wfdVXcFm-nacvtTsYrWklANWVVpzeUhgUHk0nxwZW9q6dGIbpSE_GZmMhVUa8y3ZsCZxhGAMZwx_HjgktVkFG57_dyzidqi_S2d96Ij9L787l6KaESqutKNGRndmolFedY4t0dFQ5LPE?purpose=fullsize",
+              "markdown": "![Being part of an innovative team is truly exciting. Let's continue to push the limits. Congratulations Velrada for such an incredible achievement. | Sehar Suleman](https://images.openai.com/static-rsc-4/749Mp3xIKZIV4IsbdPw3YwXX82Zv58U6e2dxzA-BoAoysDUy6fd-wfdVXcFm-nacvtTsYrWklANWVVpzeUhgUHk0nxwZW9q6dGIbpSE_GZmMhVUa8y3ZsCZxhGAMZwx_HjgktVkFG57_dyzidqi_S2d96Ij9L787l6KaESqutKNGRndmolFedY4t0dFQ5LPE?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n\n**Velrada**\n\nConsider for enterprise-grade Power Platform architecture, governance, integration and security, particularly if the app will become a core operational system. It has an Adelaide CBD office.\n\nWebsite: [velrada.com](https://velrada.com/)\\. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "velrada.com",
+              "snippet": null,
+              "domain": "velrada.com",
+              "url": "https://velrada.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[velrada.com](https://velrada.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Velrada",
+              "snippet": "7/101 Pirie St, Adelaide SA 5000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian enterprise Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "Velrada",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 8,
+          "rank_absolute": 16,
+          "markdown": "![Fusion5 | LinkedIn](https://images.openai.com/static-rsc-4/VBC9aB8csHVeshPss6dKSvs4sZsl2i4CYFtnZFd5yJpC5LSdngiCJI24Pc3VO51WpFfCejZLERbF9Y4m3DuFqEovyK7XGZPCZZlmJaUdrH4e76cnffWBAGYf0j7jsosDxl4sE858Cad8EQ7cf_bDNMntrP36B2n6PTsh5gJAlkYa-LjdxqVyR-XO1iiPI0t0?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://au.linkedin.com/company/fusion5",
+              "alt": "Fusion5 | LinkedIn",
+              "image_url": "https://images.openai.com/static-rsc-4/VBC9aB8csHVeshPss6dKSvs4sZsl2i4CYFtnZFd5yJpC5LSdngiCJI24Pc3VO51WpFfCejZLERbF9Y4m3DuFqEovyK7XGZPCZZlmJaUdrH4e76cnffWBAGYf0j7jsosDxl4sE858Cad8EQ7cf_bDNMntrP36B2n6PTsh5gJAlkYa-LjdxqVyR-XO1iiPI0t0?purpose=fullsize",
+              "markdown": "![Fusion5 | LinkedIn](https://images.openai.com/static-rsc-4/VBC9aB8csHVeshPss6dKSvs4sZsl2i4CYFtnZFd5yJpC5LSdngiCJI24Pc3VO51WpFfCejZLERbF9Y4m3DuFqEovyK7XGZPCZZlmJaUdrH4e76cnffWBAGYf0j7jsosDxl4sE858Cad8EQ7cf_bDNMntrP36B2n6PTsh5gJAlkYa-LjdxqVyR-XO1iiPI0t0?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\n\n**Fusion5**\n\nWorth considering when the app is closely tied to ERP, inventory, procurement or supply-chain processes. Its broader Microsoft business applications practice may be more appropriate for a cross-system transformation than a standalone small app.\n\nWebsite: [fusion5.com.au](https://www.fusion5.com.au/)\\. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJmagZ-7POsGoR8SdJKnYaGCg&hl=en&utm_source=chatgpt.com)\n\n## Who would I approach first?\n\nFor your specific requirement, I would prioritise these three conversations\\:\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "fusion5.com.au",
+              "snippet": null,
+              "domain": "www.fusion5.com.au",
+              "url": "https://www.fusion5.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[fusion5.com.au](https://www.fusion5.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Fusion5 - Transformation Partners",
+              "snippet": "Level 14/115 King William St, Adelaide SA 5000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJmagZ-7POsGoR8SdJKnYaGCg&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian and New Zealand Microsoft business applications and ERP consultancy",
+              "category": "company",
+              "markdown": "Fusion5",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 18,
+          "text": null,
+          "markdown": "| Your priority | First provider to approach |\n|--------|--------|\n| Local, hands-on custom app development | SimpleIT4U |\n| SharePoint and Microsoft 365 workflow integration | JAC Services |\n| Dataverse, mobile capture and offline field workflows | Office Experts Group |\n| Warehouse apps integrated with Business Central | Eagle360 Consulting |\n| Enterprise governance and complex integrations | Velrada |\n\n",
+          "table": {
+            "table_header": [
+              "Your priority",
+              "First provider to approach"
+            ],
+            "table_content": [
+              [
+                "Local, hands-on custom app development",
+                "SimpleIT4U"
+              ],
+              [
+                "SharePoint and Microsoft 365 workflow integration",
+                "JAC Services"
+              ],
+              [
+                "Dataverse, mobile capture and offline field workflows",
+                "Office Experts Group"
+              ],
+              [
+                "Warehouse apps integrated with Business Central",
+                "Eagle360 Consulting"
+              ],
+              [
+                "Enterprise governance and complex integrations",
+                "Velrada"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "markdown": "\nThese are best-fit recommendations based on published service descriptions, not verified head-to-head delivery results. I haven't independently established which firm has the strongest references for live warehouse or shop-floor deployments.\n\n## What to test before hiring anyone\n\nFor operational applications, I would ask every finalist to demonstrate a working example or provide a relevant client reference covering these six areas\\:\n\n- **Dataverse\\:** proper relational data modelling, security roles, audit history and environment management.\n- **Frontline usability\\:** a fast interface on rugged tablets and phones, with minimal typing.\n- **Barcode scanning\\:** receiving, picking, stock movements, serial numbers or asset identification, if relevant.\n- **Connectivity\\:** what happens when Wi-Fi drops, including whether genuine offline operation is supported.\n- **Integration\\:** how the app exchanges data with your ERP, inventory, accounting or production systems.\n- **Long-term ownership\\:** source solutions, documentation, deployment pipelines, licensing, support costs and handover.\n\nOne particularly important distinction: a polished Power App demo is not evidence that the provider can deliver a reliable operational system under concurrent use, with proper error handling and data integrity.\n\n## Let me narrow this to the best two or three\n\nThe biggest factor is what your app actually needs to manage. Which is closest to your project?\n\n1\\. What will the app manage?\n\nWarehouse, inventory, receiving and picking\n\nShop-floor, manufacturing and quality control\n\nField service, inspections and maintenance\n\nJob tracking, work orders and workforce operations\n\n---\n\n2\\. What systems must it connect to?\n\nNew app using Dataverse\n\nDynamics 365 Business Central\n\nSAP or another ERP\n\nExcel, SharePoint or Microsoft 365\n\nNot decided yet\n\n---\n\n3\\. How many users?\n\nFewer than 20\n\n20–100\n\nMore than 100\n\n---\n\n4\\. Approximate implementation budget (AUD)\n\nUnder A\\$20,000\n\nA\\$20,000–A\\$75,000\n\nA\\$75,000–A\\$150,000\n\nOver A\\$150,000\n\nNot sure yet\n\n[Find my best-fit consultants]\n\nWith those details, I can distinguish providers suited to a straightforward custom app from those better equipped to build a business-critical warehouse, manufacturing or field operations system.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

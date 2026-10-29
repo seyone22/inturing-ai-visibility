@@ -1,0 +1,593 @@
+{
+  "slug": "adelaide",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Adelaide for operational reporting and data warehousing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:44.889Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft partner in Adelaide for **Microsoft Power BI** and **Microsoft Fabric**, it is best to look at firms that combine deep data engineering (Fabric Lakehouses, Medallion architecture, and SQL Warehouses) with front-end reporting expertise (semantic modelling, Direct Lake mode, and operational dashboards). \n\nThe top consulting firms in and serving Adelaide for these capabilities fall into two primary categories:\n\n---\n\n### 1. Adelaide-Based & Local Data Specialists\n\n*   **Exposé Data (now part of Synechron)**\n    *   **Profile:** Headquartered in Adelaide (founded alongside Chamonix IT at Lot Fourteen), Exposé is one of South Australia’s flagship data analytics and BI consultancies. \n    *   **Focus Areas:** Data warehousing, Azure data platforms, Microsoft Fabric modernizations, and enterprise Power BI reporting.\n    *   **Best For:** State government departments (SA Health, Dept. for Education), utilities, and large commercial enterprises needing audit-proof governance and data engineering.\n*   **Data Sagacity**\n    *   **Profile:** An Adelaide-headquartered data consultancy and an official Microsoft delivery partner (including delivery of Microsoft's *“Fabric Analyst in a Day”* workshops).\n    *   **Focus Areas:** Microsoft Fabric migration, hybrid and cloud data warehousing, operational process automation, and Power BI dashboard development.\n    *   **Best For:** Mid-market and enterprise businesses in South Australia, particularly across Defence/DISP-aligned supply chains, FMCG, wine, and logistics.\n*   **InterIntra**\n    *   **Profile:** A regional IT and data consultancy with an established Adelaide footprint.\n    *   **Focus Areas:** Data warehousing architectures (Azure SQL, Azure Synapse, and Microsoft Fabric) paired with operational Power BI reporting for day-to-day operations.\n    *   **Best For:** Growing mid-tier businesses wanting end-to-end data consolidation from fragmented ERPs/CRMs into a managed data warehouse.\n\n---\n\n### 2. Major Consultancies with Strong Adelaide Practices\n\n*   **Altis Consulting**\n    *   **Profile:** One of Australia and New Zealand’s premier pure-play data and analytics consultancies, featuring an established local practice and consultants on the ground in Adelaide.\n    *   **Focus Areas:** End-to-end modern data platforms, data governance, traditional and modern data warehousing, and Microsoft Fabric/Power BI rollouts.\n    *   **Best For:** Large enterprises, higher education institutions, and utilities requiring enterprise-scale dimensional modelling, Lakehouse architecture, and complex BI deployments.\n*   **A1 Technologies (Adelaide Office on Flinders St)**\n    *   **Profile:** A trans-Tasman modern tech consultancy with dedicated Adelaide offices.\n    *   **Focus Areas:** Microsoft Fabric enablement, OneLake design, consolidating separate data silos (ADF, Synapse, SQL) into Fabric Lakehouses/Warehouses, and building operational reporting suites.\n    *   **Best For:** Organisations seeking a practical, phased migration away from legacy data warehouses to a unified Microsoft Fabric ecosystem.\n*   **Insight Enterprises (Insight Australia)**\n    *   **Profile:** A global Tier-1 Microsoft Solutions Partner with a strong Adelaide corporate team (frequently co-hosting Fabric roadshows alongside Microsoft's local Adelaide office).\n    *   **Focus Areas:** Large-scale enterprise Fabric capacity planning, Azure data platform architecture, automated ETL/ELT pipelines, and enterprise-wide Power BI tenant administration.\n    *   **Best For:** Large-scale public sector agencies and corporations looking for certified Microsoft ecosystem alignment and strategic roadmap design.\n\n---\n\n### 3. Specialized Boutique Practices (Adelaide Coverage)\n\nIf your requirement is a fixed-scope operational dashboard overhaul or rapid Fabric proof-of-concept, there are several specialised Australian boutiques actively servicing Adelaide clients:\n*   **DataMust:** Specialises in mid-market rapid Microsoft Fabric implementations and certified semantic models for operational dashboards (pricing, stock, cash flow, operational throughput).\n*   **Roar Data:** Focuses specifically on operational reporting, replacing manual Excel-heavy reporting with governed Power BI models for defence, manufacturing, and supply chain businesses in South Australia.\n\n---\n\n### What to Look For When Scoping Your Project:\n\n1. **Fabric Capacity (F-SKU) Governance:** Microsoft Fabric operates on a compute capacity model. Ensure your consultant knows how to size capacities, optimize Direct Lake queries, and prevent throttling at month-end.\n2. **Medallion Architecture Experience:** For data warehousing in Fabric, ensure the team uses best practices (Bronze/Silver/Gold Lakehouses and Warehouses) to preserve raw data while delivering clean, low-latency tables to Power BI.\n3. **Operational vs. Strategic Reporting:** Operational reporting requires scheduled or near-real-time data refreshes, incremental loading, and clear exception alerting (e.g., stock bottlenecks, delayed dispatches, or payroll variances), rather than just static monthly executive scorecards. Confirm the partner has delivered operational, workflow-driven dashboards in your industry.",
+              "thoughtSignature": "Ev4cCvscAWkUfROqtNxPkseVGAb+sYa8t4TMYw/bk807O2u28swrZML0G8wlZjTcvg8wGtUz8SyAer7QP6rUoVC5v3wl27BWZcCpQCtl0DxvQNScU4tiDLIfuDgTPh4M+LdvcUg1bj7dFvHWi5SplnpHmIJB3FsejGZXgnNjcHyL16CGJVuT52Evl0NQ+6T+j2C5KegpcPk7SBHHPCJrc/YgP92UtjuEmWA6omQP3CiKYIrnNF4nv6MOoVlj0rqdyVaFBmQbezVpKNUslqfxSTc0xpkfNw1t4Oy99o/nSql5QSU6RXoUH5RY17GjqaSFIzAXD8NfIFmBocaXtF49h/bVDeYTTmejKbyuAWjY0VEyrtUNqiiWf66j/QM19m6lzUa2Y48ugUWypHrwVefFRYGmoscS+2iPs457N2PazZKYN7CpMlDDBP3PX2oQAxDckqmIFh5lSb0+HiPuXhjVF7MK/eusEEMLrS+11ulr07F+Q6URT3/dZB/LMUeYpcVfoyfkaPDbOxPKbvpflFC810aAPblijJUjKIk0eaSvWBGfAPF45momUyi1zlmHkHSeQ3V4Vdtx7w3hD494u1sCxytAPd+RyOq/HOo+s5ckaZgbX4xcWrmeTs4dcZGgFx70f+GT+IrLqjRFy+6rF6WIuu+dOKlGNgL3ZR+Rg9ov3gwhJ7kWcGmb0MzHvp2Azf1D+OPYIxfKFNSgOLvjA2TvBsV67elVc9Oo20Xl30rt3sRmM0ESFjj+9uMnfaR1pEXKQUeOxrf3VgP6sTG0jtVtMPls6q+1KCmPucA9R19iYN4WDtp6LSCugQ8lZID3CgMXCavY+tOOQRB4knrAVxaoJsXA+q4xrAcxhDSVcpof/mD1JUz+kXitp21/23lAWHMpnifi2v6dEAGMYRA0vW9rbH9x/VwMPPODbVuOamILlP8OMRp+2FlLMIy1RKwI+kJj5HPQUcqG0uOZ5IIoW0MxtJLxMfaAXupf/97FlV3CCXl9TVmz6070VbzPrvcfnjuls+oGIrzY/Dqz1AOvMH484dEYg+KPys0La+5fk5pSgwGbvc22Eqk0e9Z3nDg+n0KXOtiZi5giX+3gx/xYb/M09VcdQ3zVrVz+52SpULmeoT4OAOhTVyKUJ/mfsIisf6hK347WINRMBPB8GYnMD3jvTOUcdDitzdG1oD3PAP2gNwaA2Ef/keDvELDQRmdeHEhjVr7dQF7z5RjReyiNpITT/pbXkEjn5v61oCagz8WL/rKk8rvpZJ0MCAjoj+zpmz5ggmaxCY5JiJ+zHu8kaanO2T47lkznXRJNLSzNWK2LzjvXlm0R8tMxUCLYivRgV3oMxgtqqvG6UXsRM6zG4Cmi959f2rYwwrW84ZY162TwG/Aw7tyhBx/D5saivTSN8wJj0cckJ0mN5ZlcWf3rTOboBOvNitn/15Xu6wwyGmCqUBNrUdmE9zrsT8BT30Fg/cLoiLYfbZTY/Cv9KQw6nfkcjz960Qeud7HKYqA69Uof76Eu2Irr5c5BNLlMdc3Gnla8WyaReoEnU7zxz9JDnr3bzZjnO5cD1et/BokzfTGCsAA6Q4kvOtuo0jbJLALnQr58Gl6+oF/tpIaXsXG3x2NsvlkOUoEoTSj+BY53q+4fJZmDKsKrqP5vceNTICS3wHjLR6sGOWXFnQ1qmNOGHi+2eJqEqF7CbLEzwXYdg50h82vjNlEN/YD6AoRPntL+snOpKU1gza+WXqtmcIy7SY/MORrzR1olW6aXrvVd/b5pce7zu4DSM63IJGKNUO3y2sSlZWLZkbviAlBUZI6VI6AlYSwmks7rcMV9sm5vKxfiTEtSO0dMFezw0k/BuecFUun30g8gIRGHfFXNTSaV00FA+z5ydnnQYbsHTRM6UwL2CO2qzSKIyfon07Wjj4h2e1pSL423AkbDuLJ+xL4l8k+g2ei9RrE27ItiuiWyR1VZ5NTpVsX0LSyubqNRnmD8SzzbTIJtfRwT810lDi74ZYdpiGFFL74r5BslSVlV9V/7702yWHf031t9Vak59cyEcQFg9rcoQ+hoG1tOM60cfogOS81i0xEKh3vKqi9FfnWVnqozBxpkj1n7xKLCD1lL7mBxV4DEMFYYlRRqyIV3iMAuyl9/tm7v96MXESFpsDQqkCjo3XM9UViSuJBbGN8ofC6VNo/aGJENmdpdXRggJ9QuLB39jXj/K2QSKRbHOBzkrvn/QqAfvyVyelhGKvIQzy4tvKpwWcbzaaYtXd1ysIEt49/8Pa+s5f+RrBpp7k1NMIccXMxxrNu3r3B4Pndo3WUfy7C6m7rarGb1rZEwdxEDIRPaDLsWGuVysyWPBDSRDHfiTfMZp2uhMMMgNMFk8CYMxV3KFTpIuqVAfLp2HdaCI4fU5FaXNTH+V427i9FgYejKPVZbvOn5kk2fC30R72Srp06mCE1icqGZNt5G+jcP6qAJba0vAxSrwwWpnt/bdtLSeCwbRUi42XAj9Z/ljdw7wL0/HseAp+rt33LAqSOc3Db/JkZoMLNdRxSUcAMLmwLqFoEAjGSjyU7ursvJxduJLnMBhdiXbTjav2MciNyJ7WUulhqvZIh102h/HyC4AjICV5ah+YzXCZVBigCG+X0MS0xhcvx1xFzx5Kf8SKJoWbFoDveavQ7iyERMZi4sFjv501lwFt6PmXG2MGl/x/aF+dy+xN1xY5R7mMYIVH5+GL7UFGhyuAvQ+cVkhVRYDtM0NsIegkKN4a+gt8vrzpCJzAvnoHdRfM3WaffP3P/IfMRRV/YPJMNewwDsv63Xh1vccnR1oXRovz9Z5yEfRbNIdNTSeNwJpsTbRG813V0g0x76r3XkXKnP84kF6mE9WJTcWN4PIJ6sKMTj8WUgT4DchXMq56m7/6pR7S+27pEu0kvH1bKgs++F8tGhAZBKCshYU2Ux4+wUT56/xxcNzlO1SSypyDgBwOL9Z/1yQgWi5bR91qeYyx/w8WOnI7lWA4fzDB5RbcZ4nOdKlgCR31DQwLgOOFCovG95bDkgrvpR7Z+2oPxvKAx3DXM33xUN4CoNOKmDbSFd3KEzDaTpFxTdi+jryhIn+P3DAR/iyT4vkqq/nHantQuEEMEMiZdsH7AKpASdvqo3acWG5U+sKFeufUQvqDdxKqXrsJGum5rxapr4k5sq/pNAvlAn0LcGBtZM/VxpcMuoRkQCaqfpcN2q++YfiPCt2EQVjAXMETxQnPcnH5ebOtOOjg74NEzf9qXcddGG1sG8wnxajUJzO2Ex3/5vYBvwl44TS6NF39MbmfxDuQXWrRu2Ct5BMYw/QxEywJmn1WpHwqSPvJQWXP+AP/UJ3vCav1qz97ZRa9GkSIfhyZTBURuSjMRF0ZXQpb7E1yx50tHZbIOvSjMQdgjGcRXTlorX2HPOhi4xq/T1VRYfdD60d2rSskTHf+tkKJNAwOEaPek8gDh5ZEMwN2IB3/bLqbSaD+2gDuiPensZ4KLF1rBG3mjtqFGH7RdK4+DIjeWVkrOVPI7dBmMRM7xYRLzV2AHHwZLaXbkaDB8P4up0wYqtzOCp0RbueUS6Yx9vPGaxDFF/GVRfS8Lwqa8tnLbnqXWtlGACez9mJ0KGafLNtb03Ss/GlSK+esEMJszpsyPZGBdrmtqRR0r0yorpMmjmff86hjFocCGzEfL2R5exlcx7XgIMxj+6frsqSNMDvRL78oQj5Xgqtm00GVy50oFW0UpQZPyxBBZLND0WrDugXlK8Asm674TlNRLgOzakkF9aXnmlEmQpnfOkX98xFCreg840b5/vKNzpCGOuZhWCG+X37Q5VRFBrPDNCoF7Mj4Bntvs+RMgkJdtKSl9adP1cr/dyYBuQU4Qt1Ctq3f3daljK+fyOWXDkgPZy8CNQ+PpmMv0n0aPBqITrWvVRPPOH6pHUwRyM7BGHQhN1QizuxEDe8u9ztUTA8TbJa/Iy4oe0jDQTQ8X8MhVw2JlVhY8IWrsq5sDwEXWFij6RHTEfNLJS8pge26E6KH0pvzTd9msl4I8Gasn5afHtcUCMwsMmH6EK3WMPLqQvsEdmt4691AV/qst81ECKSJBrSiaoegXx0+1eYVPfp2nWTc7mp7Dpb7BqyaLoeJPvSdhfzzRV3iW75/vu30OxlixDMC844YC32oxxyepEMBRa9ElJNY/UxbbvO+fBsGwQB6zRFHASMoYnsgJHUE3n0gPYAp4GxvbORYYznquqS3DZ1lVVDdoNF3tQZnYc7Toai5PR5Hzs8U8FYCvsuGA4XvI52C+5P7WyHXvuKhNjzgQuoTu+XK6O6maiOZEcOSopFcr4OqLQO5ZUPUIg+51UJYzg9ftuQVKp7KH4t15ZVRqdoVokxX43lMmfW3weqX5W8MY4Glgk2NxGdkmRafdVYBWk39WiBjF8YKVHgcoAnAlReD0b5044iT4MVd1mW7n7p3Gf8NDWjezwAzhPKm/Ll/VzHn+08BEn60Esfq7gaNUZdEwI5lTbCFLl9xQr36Pwvw3Mu8Ch5aSUM05Vmw44iH/zAhJM5r37BMpchOTutXNuvNOz8+hbFHAxDnQWrIdo1NDGLqJOrtsgMhrIluq1txxNGeo3z0pow5ftevLn1Pp8kTmClkkzfDgyoyEoHBFsJyGP0wEEZe82fGHfojCtHt9IcTJDh4zLHVq1zDxDx12b8rJf7QsasqdOE/0gdo00iiBkKVVFr0RSBHWxQJMwBa0/zTxV2m5JvHXutVqIU06fnrhI3zK8zu6oN2oAzYOZIW6jOj1i8f207BQYRmcARUbGH/dA/Cq3VRDrCQ4lrwijsIOV4wYl3ZvQouW+2hyWFCfuhvteSnqmky/zpeTJHSBd78heJJLsHQMsUWmw1Vr7tiWKwYg8Pu5IY0axLtuzbMfjt4rH78MS3eqAEEV/N8LYV2dcCgVrN5TfWD/iToWwPAqE8hwdO22b+dMONAwLdK9N2Jc="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Altis+Consulting%22+Adelaide+Microsoft+Power+BI+Fabric&client=app-vertex-grounding&safesearch=active\">&quot;Altis Consulting&quot; Adelaide Microsoft Power BI Fabric</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+BI%22+%22Adelaide%22+consulting+company+OR+firm&client=app-vertex-grounding&safesearch=active\">&quot;Power BI&quot; &quot;Adelaide&quot; consulting company OR firm</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+BI+Fabric+consultants+Adelaide+data+analytics+data+warehousing&client=app-vertex-grounding&safesearch=active\">Microsoft Power BI Fabric consultants Adelaide data analytics data warehousing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Expos%C3%A9%22+Adelaide+data+analytics+Power+BI&client=app-vertex-grounding&safesearch=active\">&quot;Exposé&quot; Adelaide data analytics Power BI</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Chamonix%22+Adelaide+data&client=app-vertex-grounding&safesearch=active\">&quot;Chamonix&quot; Adelaide data</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=data+analytics+consulting+Adelaide+%22Microsoft%22+partner+%22Power+BI%22&client=app-vertex-grounding&safesearch=active\">data analytics consulting Adelaide &quot;Microsoft&quot; partner &quot;Power BI&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Adelaide%22+data+warehouse+Microsoft+Power+BI+Fabric+consulting&client=app-vertex-grounding&safesearch=active\">&quot;Adelaide&quot; data warehouse Microsoft Power BI Fabric consulting</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data+Sagacity%22+Adelaide&client=app-vertex-grounding&safesearch=active\">&quot;Data Sagacity&quot; Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Microsoft+Fabric%22+Adelaide+consultant+OR+consulting&client=app-vertex-grounding&safesearch=active\">&quot;Microsoft Fabric&quot; Adelaide consultant OR consulting</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Fabric+consulting+Adelaide+South+Australia&client=app-vertex-grounding&safesearch=active\">Microsoft Fabric consulting Adelaide South Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+BI+consulting+Adelaide+operational+reporting+data+warehouse&client=app-vertex-grounding&safesearch=active\">Power BI consulting Adelaide operational reporting data warehouse</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWMnCh54h6tZw6L3chC3AQFw2qtQZZleWdllv9rrIT9KAaWSRp15e4238C2tfVF8ZF9RYOOI9CYMxsbeNJRyV-zrvR4_-gfBRVc9wdS6UGlie8Axq9Y3aUpnZ7as9z2WUCQMa-CXOfGQXoI3REGRtF0fI7hksyZ3rRUeyQr-JClLRtCIGBdN6_IU2nqLNFNxrdhIvxfg3qahyke5S8vL4kMPC9FpzL_URZdyGqScBfTHNNFhZEjn1A-_Fa0dtfguw5L7jPGOjAO9rESNbsiqFARN0iQlgNQnpMLNVuLkF1xMtKhVSDQoeC1rHU9qbjaglAaSF7qBZzUy5L",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtcJweNXVwR518OldQtm0EkYMnUA5bkpHo67uEuHpP9z2ejVbSzHQsQAPpy_zfoqpDs2d268rZRNedt9Uge8CjRVfWwhB3MABcQp3c01dn5Ar008TxGPDrayhD3CkU8R5vI2sLEJobY2-eyyyVke-QsUBA2NSq-IB1YplUJsaIHag7Z4-17S4DT-0OcK-jDuM1jEiRgOIy5xbdJdJYzz0E5nUmX2wIeV5PznbjcghyED_ncg0iTrPjP4tBYZ070mTenO6hftTFKKbMLDXeHXhPxsJLZozAeqlcFV5o5VImMPweM3CmHT5bKZYasKcn1r7qtGhdi2dQ7mEOP4ic12haLgcTrr5bHyxsIUE17fjuChy1VQ74ieKOw8SmcpU=",
+                "title": "prnewswire.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfPctUW0bc3gc6WwFul8GxGQhe-ICOHLsw6X1aZLBP013q_G923MvqoKZOqlF3RPQQMZFrY4-qPG7_tG2a4A-iZgg2BwzfGokXVWw1NEOGrw7n5o5hELbJXfazIkMwAfD_LFpfpFX7IiM8_r0x6oekLOKfqq2eq4aj_Rh9QX0E_EkTKxeHOfvZ",
+                "title": "renewalsa.sa.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExKKZ9_IUQlXfxr5WWUtGeoYE8Y84lfVwm_-xbOfSyNcIhgXMkakN_Cwv7N4BEo6wmCJ5e-WsYC27cVy-xue5zTf_QbFe7r2jeJFXMRqAm6f_abkIrnRHNaiDeC1KNN6AcVoSoIBRs-DqAPM2UqjLzZnTFOUPGG4lPK3tGGjDPr7Mkti3F92fUyyX1bZKkiQbG27fV1lMFmA==",
+                "title": "a1t.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6dysM-mpj7LDv4WSmd4bzHxViZ6df1DPiTuqjjjl8ACaHcBt7zlMujqZaiKb1l1FvatOdqEzTWQOa16gilNfCSQ8mEpwdLRUTGepr2wZ9zugWeW7DSQ==",
+                "title": "aeroleads.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvSSlXYUWNnOfzu8K7vatqNSCYuHXcyRMFLmt08k2gTS_SuV3mYyOLu0fx36qOWG7w0tt23q8emWt1cWODRuVJtlSlKlZH30ilUCVxrZtZRF8QgJn3UFqo0JrSipV5NKw6ulNi_PUd6YBelivvAaCRaWtN_Jo=",
+                "title": "seers.digital"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUfz9ogG7SVIitICYzB9LVGZ5FeaNEHaMhOjk8BKqn3lsGd_UyuuaqrrQtE22lP5Eph14lE_nK_o6ytsnXG2fWllrC1nx66Uh1qTm7bhPWJyFVKwJ5L-eSHn-eqkS5BQkW2yW4v8vX27Z4psDk1Qnk",
+                "title": "datasagacity.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqUMTwX7hpywCVHSVfmy8N19VmIp6IstaNB91q0ITmT0barbee6Lsze8RDRcc5Q_mXlz76OLAs98PV7G3RBbeds5zbubI89LYtzkEaHeDtN-cOOqA6fMO-SnCAQEEEXbTqiEvn_XOAcoDUpj1UyVwp-Rhb470=",
+                "title": "defencesa.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH34R2AM1sgejsYw9-lxN_y9aj_2B8ZGF99u39UBDaPxsJ10gVAyZ-3WDucVRd1JZRUG8a3tyTeLiTVgovVjLqhhddcoyoXI5D-CClDB7MBc4wA7Tmdv2eX8_ye7pkGBAMzJWi-kLLHLg==",
+                "title": "datasagacity.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFB7X62I8EEcvoNg9HKd1rU0rLHWKcd7EzVoSe7aj5tSsDuKgEepugXVFzD-GU6608d16mUC5R6i6xXtNe78GUwc_nqJDwxUpkUlRoFoEQDzzutg4AeumQpy-vtFyergIhh3e6KrB5ILSMMg==",
+                "title": "interintra.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ4xv181BCNXNjrojYG-AIgHus9zWGjqF-mSZSF1zCuRR8QU2oYeNbDrK0U8lOYMX4ZPnXGMt0XD34F_FCHoOYeah2aI6ze5MceJRNA_h9wwNKMUJdtNb_GPZiyhsExsEnjcAWbHg=",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV_kmZUEmv8rjic644gwRE7OgxswR2I4JKSLrhZzm7i8sAsDVdcnZXuuZ_hwpynJSUjRVH3Aud0GIzY6u75cRO_gsZ8z0kDVcgGq4LC_yRQd3h3kcp22Vh1asM1OUtLTZBxzH3u3vWu2wMXtdsbw==",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjBAuHrh9n0YRGShZnnkC8krKqBOsis6ii3aYqKinhSEeFmqHFbo88YFsoJFhr5kUzMSjY_BsOaq0mjA-ex5V9wMIqk7elImltZ56LPdckRc-h8xYY-dtYFcPKmdRqrbVFnzdNqUA=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQsSojvxpJL15QVCCtaWGfi2-h5Pu4L6PO0Zb7HQuGtepl0Eicpu5_JpoaDQQF4p0OOPAjGZH15PdrMV0HoQj7o8eNS9M7CNeUOkpL9qFoxsEV82CeDpQ7w4hT8r8Cwl2jtvVngZCV5Je5a9WtyVE=",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVxRvymZ9YSMgYzr5bJ7b5PiN3sCGYr0IPzDL_Xi1BA_pwSWeUJV0tgoajbWAf1NaKp7KCBDbc_7PvlHR5tQBF0hJt1rb-Hv0hrBgQkeY_oHFmX5jvPcDZeRBxS2OBKofgQMzLdwTRK76yqdoGp4xUFL4DvzABvom-6fceYHeBzWyaZbGjqYL7odBHIHu_gitywsjwHeAJlbdE5IPd8i-Acua7_zF77TglGgTTP3iteixwPQmVrcqZRA==",
+                "title": "govmarket.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyOABctC6NbgV2fs0tZn9BunJA7zrWFQT65KGlwNIM6wEPSpdWVtAUeM-J0-hk0WPsOpCXLGAnGuQMh6ocRam1bSGqcGDxevlZ4glqXGfCD5gW7vL8CI-N7UrN4Md_pluSECUs0ju1eYtD7dG4w==",
+                "title": "dynamicssquare.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGco3jwai16pDaPQ6lzOcJ0DeN_Nr_yw77SCgXcjc5k972AXLxv6nryX1wAqk_kd8U7j-5G3UpGc90oCmJ8H_AQ63eboSUkdaoaOQfhj4pAJ7JIl1VQtcC4E1vk8AQD9p4rR5L42OHQuSw57X7mqq7KWsbNNX9h0_tEE2HwjpxQjw==",
+                "title": "a1t.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM8unsLCM8xrGNW9hwsEUM0XXSH3r0qjFIlRuzjWtBbP9xRj9N-TW7HVk9oN1oe-Trhdq6Orwt5WhDm66CzEpY1zKQYs0bP_If1qIZoqZyTOT2kLXAxhZLZkTmACINYeadxN10GW1PPzNGsoqRlbaE",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoGpHv0HAo_IzhT65PGrWo2gJAvTO7PVJxx2m4yaquOPYIo2irXwbOYOWfI5FpDFGt3kbVpsY-JyuXRMTsRj9COAvEENnvA3CUoB_KTXdnOebFuQn2t8GQik8w1imQkvudATro4tRkJ4iIPVtQ744aHJgTlBLJYedcKXVV8Uny0bDCHYJFcxeH",
+                "title": "insight.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWyNgFsCPg1702RxuhG2n2zJFcKwkf29g9EBzrDsVj2A4elKiXvt2Ve3gcZLTw3y28O-nbDxo0oklBmjFCMlRWKR_jYNVR5vUPS4bsyFMEAa5-oFBnGG5IrcnZIE7S83o=",
+                "title": "agile-insights.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU8gBv_hY2fddFR_CJJ3Bh2TY1h_F6_6u25E_vYL_AddG-DYJZXGhmzFOc27H7O6g0hi3IaLFtSsnkE_iuj-WNyPW-URL7OPrBNPoTdgtQoQRHtXqWXPdRPjHPqv-iWiMj2hfuOe0B5PKpJX1JO2Mucw==",
+                "title": "lanter.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGgyukeFOJ3T5_kBAdZ15vihVnlEnMGvN3fxr0P60CaDerS6bXnlnsfUXb_rik6bSKsad_Ql-Rx7p6zNB66JVVsTPAoMf9BotR2K6fuAL-86KZPggHMkVdAlEmaba_a8J-YGt5ZVwrFO0Qw4Sy0q8qZ7yw",
+                "title": "datamust.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe8PuhSmZyH7J1JOqzK2P24P8LgJn3fREVq1g5kd3AI-bFBV0L1J-hM_8pk4-ulsjlhgE2mjblSvhjNs2KPosN-r2VveLXipz46E6pCfpDWsptTgYm39xSyW-usDynWMyZUaim4uYHHFCOKA==",
+                "title": "datamust.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe5HJa6y0HDHpGK-xjn6_sd8t1IDVRncix9SILt8B-fOilb1soqQTJE8x07lFaUh-17C_iBHK68hA6tIOAp0pQzSrE_1gsezHSQFU2Hn8xXhY0xxoBGTgBSmzHeHtkeiDJ5vnTeou1TsX4-J9LFy7bcwDGmjdDFcBPxXsvhmU6bzcwww==",
+                "title": "edgered.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSbHwJiJNCG4XxcCutR73rBNeEQKcwq4BsFOmmd8Uhiy86gf64TGiQMpXxeXtwyyWBW4J4CYA9FcAXUjVYVt4tqXMw8Y_uZU68YYESreeXRMihIxoHl24fV_q-ORcPoHnTUpa6ZDpUZA==",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTMOtQrI-uTJzq5Huv7uCLCicjnFIR6PobQDSHuo_S4cxv3kX3_5ATmJ0IM2nsLDolziYoplU3XucXAMwWs0h5P6MbaVjyTBPJ-nf8XOGZ7bLmg2BXpWPMpDnCft-n-n9sF53tkvQrSvMT8dDQ",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1w5kjxW2_OhOgynu_mqMoI28q0XNzzgACrQjyVZwxv4SiFfd5qlkBoKyokUC_5BbZs8RjjqU85S0kJZ8b_y13Aikz3MpexkiJptTnMtDcirSAsjSNFUAKUZ4Nqcl64w==",
+                "title": "dataintence.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 496,
+                "endIndex": 536,
+                "text": "**Exposé Data (now part of Synechron)**"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 545,
+                "endIndex": 631,
+                "text": "**Profile:** Headquartered in Adelaide (founded alongside Chamonix IT at Lot Fourteen)"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 545,
+                "endIndex": 715,
+                "text": "**Profile:** Headquartered in Adelaide (founded alongside Chamonix IT at Lot Fourteen), Exposé is one of South Australia’s flagship data analytics and BI consultancies"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 726,
+                "endIndex": 849,
+                "text": "**Focus Areas:** Data warehousing, Azure data platforms, Microsoft Fabric modernizations, and enterprise Power BI reporting"
+              },
+              "groundingChunkIndices": [
+                3,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 920,
+                "endIndex": 934,
+                "text": "for Education)"
+              },
+              "groundingChunkIndices": [
+                0,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 920,
+                "endIndex": 1031,
+                "text": "for Education), utilities, and large commercial enterprises needing audit-proof governance and data engineering"
+              },
+              "groundingChunkIndices": [
+                5,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1037,
+                "endIndex": 1054,
+                "text": "**Data Sagacity**"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1063,
+                "endIndex": 1239,
+                "text": "**Profile:** An Adelaide-headquartered data consultancy and an official Microsoft delivery partner (including delivery of Microsoft's *“Fabric Analyst in a Day”* workshops)"
+              },
+              "groundingChunkIndices": [
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1249,
+                "endIndex": 1395,
+                "text": "**Focus Areas:** Microsoft Fabric migration, hybrid and cloud data warehousing, operational process automation, and Power BI dashboard development"
+              },
+              "groundingChunkIndices": [
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1405,
+                "endIndex": 1557,
+                "text": "**Best For:** Mid-market and enterprise businesses in South Australia, particularly across Defence/DISP-aligned supply chains, FMCG, wine, and logistics"
+              },
+              "groundingChunkIndices": [
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1563,
+                "endIndex": 1577,
+                "text": "**InterIntra**"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1586,
+                "endIndex": 1672,
+                "text": "**Profile:** A regional IT and data consultancy with an established Adelaide footprint"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1682,
+                "endIndex": 1847,
+                "text": "**Focus Areas:** Data warehousing architectures (Azure SQL, Azure Synapse, and Microsoft Fabric) paired with operational Power BI reporting for day-to-day operations"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1857,
+                "endIndex": 1992,
+                "text": "**Best For:** Growing mid-tier businesses wanting end-to-end data consolidation from fragmented ERPs/CRMs into a managed data warehouse"
+              },
+              "groundingChunkIndices": [
+                10,
+                11,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2063,
+                "endIndex": 2083,
+                "text": "**Altis Consulting**"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2092,
+                "endIndex": 2275,
+                "text": "**Profile:** One of Australia and New Zealand’s premier pure-play data and analytics consultancies, featuring an established local practice and consultants on the ground in Adelaide"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2285,
+                "endIndex": 2432,
+                "text": "**Focus Areas:** End-to-end modern data platforms, data governance, traditional and modern data warehousing, and Microsoft Fabric/Power BI rollouts"
+              },
+              "groundingChunkIndices": [
+                3,
+                12,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2442,
+                "endIndex": 2620,
+                "text": "**Best For:** Large enterprises, higher education institutions, and utilities requiring enterprise-scale dimensional modelling, Lakehouse architecture, and complex BI deployments"
+              },
+              "groundingChunkIndices": [
+                15,
+                12,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2626,
+                "endIndex": 2678,
+                "text": "**A1 Technologies (Adelaide Office on Flinders St)**"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2687,
+                "endIndex": 2770,
+                "text": "**Profile:** A trans-Tasman modern tech consultancy with dedicated Adelaide offices"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2780,
+                "endIndex": 2972,
+                "text": "**Focus Areas:** Microsoft Fabric enablement, OneLake design, consolidating separate data silos (ADF, Synapse, SQL) into Fabric Lakehouses/Warehouses, and building operational reporting suites"
+              },
+              "groundingChunkIndices": [
+                3,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2982,
+                "endIndex": 3120,
+                "text": "**Best For:** Organisations seeking a practical, phased migration away from legacy data warehouses to a unified Microsoft Fabric ecosystem"
+              },
+              "groundingChunkIndices": [
+                17,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3126,
+                "endIndex": 3169,
+                "text": "**Insight Enterprises (Insight Australia)**"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3178,
+                "endIndex": 3357,
+                "text": "**Profile:** A global Tier-1 Microsoft Solutions Partner with a strong Adelaide corporate team (frequently co-hosting Fabric roadshows alongside Microsoft's local Adelaide office)"
+              },
+              "groundingChunkIndices": [
+                18,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3367,
+                "endIndex": 3546,
+                "text": "**Focus Areas:** Large-scale enterprise Fabric capacity planning, Azure data platform architecture, automated ETL/ELT pipelines, and enterprise-wide Power BI tenant administration"
+              },
+              "groundingChunkIndices": [
+                17,
+                5,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3556,
+                "endIndex": 3702,
+                "text": "**Best For:** Large-scale public sector agencies and corporations looking for certified Microsoft ecosystem alignment and strategic roadmap design"
+              },
+              "groundingChunkIndices": [
+                20,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3963,
+                "endIndex": 4150,
+                "text": "**DataMust:** Specialises in mid-market rapid Microsoft Fabric implementations and certified semantic models for operational dashboards (pricing, stock, cash flow, operational throughput)"
+              },
+              "groundingChunkIndices": [
+                21,
+                22
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4156,
+                "endIndex": 4361,
+                "text": "**Roar Data:** Focuses specifically on operational reporting, replacing manual Excel-heavy reporting with governed Power BI models for defence, manufacturing, and supply chain businesses in South Australia"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4421,
+                "endIndex": 4514,
+                "text": "**Fabric Capacity (F-SKU) Governance:** Microsoft Fabric operates on a compute capacity model"
+              },
+              "groundingChunkIndices": [
+                5,
+                23
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4516,
+                "endIndex": 4634,
+                "text": "Ensure your consultant knows how to size capacities, optimize Direct Lake queries, and prevent throttling at month-end"
+              },
+              "groundingChunkIndices": [
+                5,
+                21
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4639,
+                "endIndex": 4868,
+                "text": "**Medallion Architecture Experience:** For data warehousing in Fabric, ensure the team uses best practices (Bronze/Silver/Gold Lakehouses and Warehouses) to preserve raw data while delivering clean, low-latency tables to Power BI"
+              },
+              "groundingChunkIndices": [
+                21,
+                24
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4891,
+                "endIndex": 5160,
+                "text": "Strategic Reporting:** Operational reporting requires scheduled or near-real-time data refreshes, incremental loading, and clear exception alerting (e.g., stock bottlenecks, delayed dispatches, or payroll variances), rather than just static monthly executive scorecards"
+              },
+              "groundingChunkIndices": [
+                25,
+                26,
+                22
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5162,
+                "endIndex": 5252,
+                "text": "Confirm the partner has delivered operational, workflow-driven dashboards in your industry"
+              },
+              "groundingChunkIndices": [
+                25
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Altis Consulting\" Adelaide Microsoft Power BI Fabric",
+            "\"Power BI\" \"Adelaide\" consulting company OR firm",
+            "Microsoft Power BI Fabric consultants Adelaide data analytics data warehousing",
+            "\"Exposé\" Adelaide data analytics Power BI",
+            "\"Chamonix\" Adelaide data",
+            "data analytics consulting Adelaide \"Microsoft\" partner \"Power BI\"",
+            "\"Adelaide\" data warehouse Microsoft Power BI Fabric consulting",
+            "\"Data Sagacity\" Adelaide",
+            "\"Microsoft Fabric\" Adelaide consultant OR consulting",
+            "Microsoft Fabric consulting Adelaide South Australia",
+            "Power BI consulting Adelaide operational reporting data warehouse"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 487,
+      "candidatesTokenCount": 1480,
+      "totalTokenCount": 3189,
+      "cachedContentTokenCount": 300,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 487
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 300
+        }
+      ],
+      "thoughtsTokenCount": 1222,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "pcbiavvWGu_M694P5uurkAU"
+  }
+}

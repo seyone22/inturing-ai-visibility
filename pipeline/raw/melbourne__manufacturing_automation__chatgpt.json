@@ -1,0 +1,934 @@
+{
+  "slug": "melbourne",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:17.332Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Melbourne%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:04:11 +00:00",
+      "markdown": "For a Melbourne manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d shortlist specialist Microsoft Power Platform consultancies first, then compare them with a manufacturing-focused industrial automation provider.\n\nThe key is finding a partner that can connect Power Apps, Power Automate and Power BI to your existing ERP, rather than proposing another major system replacement. Microsoft’s own reference architecture demonstrates how Power Platform can support operational workflows while leaving the ERP as the system of record. [learn.microsoft.com](https://learn.microsoft.com/en-us/power-platform/architecture/reference-architectures/finance-and-operations-dataverse?utm_source=chatgpt.com)[learn.microsoft.com](https://learn.microsoft.com/power-platform/architecture/reference-architectures/order-acknowledgment-validation?utm_source=chatgpt.com)\n\n## Consultants I’d speak to first\n\n![Inauro | IoT For All](https://images.openai.com/static-rsc-4/9xQ-SpjVORg4rtvtpk83IdTSFxN3uZBt0hdV-xWAOcI4bbg3iNQezRbGuOIR4p5dcc2pQtLCUd3WNCUr6BQfCBapA64i2eNH_eELNj14jtTp-rwYDtZbRwFi3nygHZuXSPVoDDP8nTs5bewC1XOMUy1uqVUVQhRiUPhEFnlXeSBHysyZ4-OUDR8uNqZLRcAX?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing explicitly targets manufacturers running existing ERP, MES and PLM systems. Its services cover order processing, document extraction, system integration, shop-floor apps and operational reporting. Its published BBCP case study describes automation across MYOB Acumatica, SAP Ariba and SharePoint, with a reported reduction of over 90% in order-processing time. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)\n\n**Ask them about\\:** automating emailed purchase orders, validating orders against ERP master data, and capturing production progress and quality checks on tablets.\n\n---\n\n![Требуется авторизация - 429](https://images.openai.com/static-rsc-4/qQV0MTV3yVOO0MUqsCJHz13LR29FVhW7qnrqhE3KE-f1qvBRD3VyF06BFcL4QtUXJzoViVCwzwC88b4xGr5a0M3mwKEcVgryamkypJnkYMi-I6J8CjV8vGJqY_TPWhKmkqC6V3v8kIN8HBcifG2ue_90qpn9ZGoQHDvRkQnLh0Q5cbP9bz-MfP7LVxOvcOjP?purpose=fullsize)\n\n## 2\\. SP Software & Automation\n\nWebsite: [SP Software & Automation website](https://spsoftware.com.au/) · Moorabbin\n\nWorth speaking to if your shop-floor requirements extend beyond forms and approvals into production data, machine monitoring, quality records or industrial systems. Its published material describes manufacturing work involving production monitoring, data recording, reporting and digitised defect capture. [www.google.com](https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** integrating machine or production data with your ERP and Power BI, and where industrial controls or a dedicated manufacturing data platform are needed alongside Power Platform.\n\n---\n\n![Learn4D365 – Die Lernplattform für Dynamics 365](https://images.openai.com/static-rsc-4/2ZzNE22SCux0MYVNtewApwjtvTkcdASh7b4D9ZIba0Ldyov2VAKGDVMW7jpcZscKReI5yAKIZimk6WTRmnfaVJbr9m5QeXasKyUJSWe8-_kgwLMWSHJ8Gxhk4dG3Er38pB2ZySMCtdBA5hKbMJY8V8oT2q7f17iHSfNVLNiDAiKWZhmxpu3afZHz9tsDGZoz?purpose=fullsize)\n\n## 3\\. 1Dynamics\n\nWebsite: [1dynamics.com.au/power-platform](https://1dynamics.com.au/power-platform)\n\nA Melbourne-based team offering Power Apps, workflow automation, analytics and connected business applications. It is a candidate for digitising internal processes while keeping the scope tied to measurable business outcomes. [1dynamics.com.au](https://1dynamics.com.au/power-platform?utm_source=chatgpt.com)\n\n**Ask them about\\:** building shop-floor capture apps and automated order workflows that integrate with your particular ERP without introducing a competing system of record.\n\n---\n\n![MIIA - Agente de Inteligencia Artificial](https://images.openai.com/static-rsc-4/M4hj1F8idoOy8cBiBeJhJgblNdIgVqxaYsEE5yBzAQzQf2ADYhPIgLfMNx8FmlAQjG0relmVpeIqKTSXZIAnUxT8yQ5lUKApoqk15L1u4z_zZ6rWz01TAEvKV7FUTPQkMpHHKyI0Y6HZlkl6Obv3pAlSrpVnPE4XFLuHXJJCYyiGQQjUwB50qpPQoHlHHoIP?purpose=fullsize)\n\n## 4\\. MiiiA\n\nWebsite: [miiia.com.au](https://miiia.com.au/) · Melbourne\n\nOffers Power Apps, Power Automate, Power BI and Microsoft business application consulting. Its emphasis on composing connected Microsoft tools around a reliable source of truth is relevant to an ERP-extension strategy. [miiia.com.au](https://miiia.com.au/?utm_source=chatgpt.com)\n\n**Ask them about\\:** integration architecture, approvals, exception handling and production dashboards, particularly if your business already uses Microsoft 365 extensively.\n\n---\n\n![HyperWare Solutions | Consulenza ERP Microsoft Dynamics 365, Business Central e CRM per PMI](https://images.openai.com/static-rsc-4/Cq-yTGDeaDTfTVJqg0AOBGny36Ifb9Bdl7HJZsZts8SC6V0yp8Fry8kffAe5VfDLldRbjRPQxxuqzdn9FY8uG8znyUtpe565S6JeSu-YZVZWXqINHAgiQXP3NJwJFEhtlG9s6iNMPW4Aretx3C254pz0JEzPE7ZDc24XNj-QFpQZSvopwVkCtlYoRBV71q8c?purpose=fullsize)\n\n## 5\\. Hyperware\n\nWebsite: [hyperware.com.au/services/power-platform/](https://hyperware.com.au/services/power-platform/) · Melbourne\n\nFocuses on Power Apps, Power Automate, integration, application lifecycle governance and support. A good candidate for a contained pilot that needs to be reliable, maintainable and handed over cleanly to your internal team. [hyperware.com.au](https://hyperware.com.au/services/power-platform/?utm_source=chatgpt.com)\n\n**Ask them about\\:** governed production apps, approvals and alerts, plus how they will monitor failed workflows and manage changes after go-live.\n\n---\n\n![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)\n\n## 6\\. Velrada\n\nWebsite: [velrada.com](https://velrada.com/) · Melbourne CBD\n\nA further option for more complex enterprise automation involving Power Platform, legacy integrations, analytics and AI. Its described capabilities span process discovery through to automation delivery. [www.google.com](https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)[www.google.com.br](https://www.google.com.br/maps/place/Velrada/@-37.8159574,144.9587447,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad65d4ccc412997:0x2398e729d3f29054!8m2!3d-37.8159574!4d144.9587447!16s%2Fg%2F11bbrmxsfw?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** a broader automation roadmap if several departments, multiple sites or complicated ERP integrations need to be coordinated.\n\n## How I’d prioritise the shortlist\n\n| Your main requirement | Start with |\n|--------|--------|\n| Automate order entry and reduce manual admin | **Inturing** |\n| Connect production-floor or machine data | **SP Software &amp; Automation** |\n| Build Power Apps and connect Microsoft systems | **1Dynamics** |\n| Extend existing Microsoft business applications | **MiiiA** |\n| Build supportable apps with strong governance | **Hyperware** |\n| Coordinate a larger, more complex automation programme | **Velrada** |\n\n\nThese are recommendations based on publicly described capabilities, not a guarantee that every firm has delivered your exact ERP integration. I would validate relevant references before selecting a partner.\n\n\n\n## What to ask each consultant\n\nI would give all shortlisted firms the same brief and ask for a small, fixed-scope discovery engagement covering these five points.\n\n- **ERP integration\\:** Can you read and write data through our ERP's supported APIs, connectors or integration layer, without replacing it?\n- **Order processing\\:** Can you extract order details from emails and PDFs, validate customer, product, price and quantity, and send exceptions to a person for review?\n- **Shop-floor capture\\:** Can operators record job status, quantities, downtime and quality checks on shared tablets, including offline use where required?\n- **Data ownership\\:** How will you prevent duplicate records and ensure the ERP remains the authoritative source for orders, inventory and financial transactions?\n- **Reliability and cost\\:** What happens when an integration fails, and what are the expected implementation, licensing, support and ongoing maintenance costs?\n\nFor shop-floor work, specifically ask whether Power Apps is sufficient or whether you need an MES, PLC/SCADA integration or another industrial data platform. These are different technical problems, even if they ultimately feed the same dashboards.\n\n## My recommended first step\n\nStart with **Inturing and SP Software &amp; Automation** for contrasting perspectives: one focused on process automation across existing business systems, the other on industrial and production data. Add **1Dynamics** as a third bidder for a Power Platform-focused comparison.\n\nAsk each to propose one pilot, with measurable targets and no ERP replacement. For example, automate one product line's incoming orders or digitise one production cell's job and quality records before expanding.\n\nOne detail would help me refine the recommendations considerably: **which ERP are you currently running?**\n\nYour existing ERP\n\nSAP\n\nMicrosoft Dynamics 365\n\nMYOB Acumatica / MYOB\n\nEpicor\n\nPronto Xi\n\nOther ERP\n\n---\n\nYour first automation priority\n\nOrder processing and administration\n\nShop-floor data capture and production visibility\n\nBoth are equally important\n\n---\n\nApproximate employee count\n\nUnder 50\n\n50–250\n\n251–1,000\n\nOver 1,000\n\n[Refine my shortlist]",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/case-studies",
+          "domain": "inturing.com.au",
+          "title": "Client Results and Case Studies | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/manufacturing",
+          "domain": "inturing.com.au",
+          "title": "Manufacturing Process Automation | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions/system-integration",
+          "domain": "inturing.com.au",
+          "title": "ERP, CRM and MES System Integration | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions/business-apps",
+          "domain": "inturing.com.au",
+          "title": "Operational Business Apps with Power Apps | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://miiia.com.au/",
+          "domain": "miiia.com.au",
+          "title": "MiiiA - Microsoft Business Applications Consultancy",
+          "description": null,
+          "breadcrumb": "miiia.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.klxconsulting.com.au/",
+          "domain": "www.klxconsulting.com.au",
+          "title": "KLX Consulting",
+          "description": null,
+          "breadcrumb": "www.klxconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.klxconsulting.com.au/services",
+          "domain": "www.klxconsulting.com.au",
+          "title": "Dynamics 365, Power Platform & Azure Services | KLX Consulting Melbourne — KLX Consulting",
+          "description": null,
+          "breadcrumb": "www.klxconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://1dynamics.com.au/power-platform",
+          "domain": "1dynamics.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | 1Dynamics",
+          "description": null,
+          "breadcrumb": "1dynamics.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://learn.microsoft.com/en-us/power-platform/architecture/reference-architectures/finance-and-operations-dataverse",
+          "domain": "learn.microsoft.com",
+          "title": "Integrate Dynamics 365 finance and operations apps with Power Platform - Power Platform | Microsoft Learn",
+          "description": null,
+          "breadcrumb": "learn.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://learn.microsoft.com/power-platform/architecture/reference-architectures/order-acknowledgment-validation",
+          "domain": "learn.microsoft.com",
+          "title": "Automate procurement order acknowledgment matching with Copilot Studio and SAP - Power Platform | Microsoft Learn",
+          "description": null,
+          "breadcrumb": "learn.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://hyperware.com.au/services/power-platform/",
+          "domain": "hyperware.com.au",
+          "title": "Power Platform Consulting Melbourne | Hyperware",
+          "description": null,
+          "breadcrumb": "hyperware.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+          "domain": "officeproconsulting.com.au",
+          "title": "Power Platform & Power Automate Consulting Australia",
+          "description": null,
+          "breadcrumb": "officeproconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://adoption.microsoft.com/files/knowledge-and-content-services/COPP-Case-Study.pdf",
+          "domain": "adoption.microsoft.com",
+          "title": "City of Port Phillip Streamlines Contracts and Procurement with Microsoft SharePoint and Power Platform",
+          "description": null,
+          "breadcrumb": "adoption.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.klugo.au/case-studies/shop-for-shops/",
+          "domain": "www.klugo.au",
+          "title": "Shop for Shops choose ERP for Fit-Out & Manufacturing | Klugo",
+          "description": null,
+          "breadcrumb": "www.klugo.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.bakertilly.com/insights/shop-floor-integration-with-plex-enabling-your-business",
+          "domain": "www.bakertilly.com",
+          "title": "Shop floor integration with ERP: Enabling your business for Industry 4.0 | Baker Tilly",
+          "description": null,
+          "breadcrumb": "www.bakertilly.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://apac.crayonchannel.com/enablement/case-studies/msps-csps/rs-grating-cloud-erp-transformation/",
+          "domain": "apac.crayonchannel.com",
+          "title": "Cloud ERP solutions transform operations for R&S Grating",
+          "description": null,
+          "breadcrumb": "apac.crayonchannel.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/customers/story/1628106064451804013-komatsu-australia-manufacturing-power-automate?trk=article-ssr-frontend-pulse_little-text-block",
+          "domain": "www.microsoft.com",
+          "title": "Komatsu Australia achieves end-to-end automation with Power Automate | Microsoft Customer Stories",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://atturra.com/au-en/industries/manufacturing/",
+          "domain": "atturra.com",
+          "title": "Manufacturing - Atturra AU",
+          "description": null,
+          "breadcrumb": "atturra.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Integrate Dynamics 365 finance and operations apps with Power Platform - Power Platform",
+          "snippet": null,
+          "domain": "learn.microsoft.com",
+          "url": "https://learn.microsoft.com/en-us/power-platform/architecture/reference-architectures/finance-and-operations-dataverse?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Learn",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Automate procurement order acknowledgment matching with Copilot Studio and SAP - Power Platform",
+          "snippet": null,
+          "domain": "learn.microsoft.com",
+          "url": "https://learn.microsoft.com/power-platform/architecture/reference-architectures/order-acknowledgment-validation?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Learn",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Manufacturing Process Automation",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/manufacturing?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SP Software & Automation website",
+          "snippet": null,
+          "domain": "spsoftware.com.au",
+          "url": "https://spsoftware.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[SP Software & Automation website](https://spsoftware.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SP Software & Automation",
+          "snippet": "56 Keys Rd, Moorabbin VIC 3189, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "1dynamics.com.au/power-platform",
+          "snippet": null,
+          "domain": "1dynamics.com.au",
+          "url": "https://1dynamics.com.au/power-platform",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[1dynamics.com.au/power-platform](https://1dynamics.com.au/power-platform)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Platform Consulting Australia",
+          "snippet": null,
+          "domain": "1dynamics.com.au",
+          "url": "https://1dynamics.com.au/power-platform?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "1Dynamics",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "miiia.com.au",
+          "snippet": null,
+          "domain": "miiia.com.au",
+          "url": "https://miiia.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[miiia.com.au](https://miiia.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "MiiiA",
+          "snippet": null,
+          "domain": "miiia.com.au",
+          "url": "https://miiia.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Business Applications Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "hyperware.com.au/services/power-platform/",
+          "snippet": null,
+          "domain": "hyperware.com.au",
+          "url": "https://hyperware.com.au/services/power-platform/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[hyperware.com.au/services/power-platform/](https://hyperware.com.au/services/power-platform/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Consulting Melbourne",
+          "snippet": null,
+          "domain": "hyperware.com.au",
+          "url": "https://hyperware.com.au/services/power-platform/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Hyperware",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "velrada.com",
+          "snippet": null,
+          "domain": "velrada.com",
+          "url": "https://velrada.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[velrada.com](https://velrada.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Velrada",
+          "snippet": "Level 8/140 William St, Melbourne VIC 3000, Australia",
+          "domain": "www.google.com.br",
+          "url": "https://www.google.com.br/maps/place/Velrada/@-37.8159574,144.9587447,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad65d4ccc412997:0x2398e729d3f29054!8m2!3d-37.8159574!4d144.9587447!16s%2Fg%2F11bbrmxsfw?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.br",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Melbourne Australia Microsoft Power Platform consulting manufacturing order processing shop floor data capture ERP integration",
+        "Inturing manufacturing Power Platform customer case studies ERP integration Australia",
+        "Melbourne manufacturing shop floor digital transformation Power Platform consultant SP Software Automation VISY Glass"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform automation consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Melbourne industrial software and automation provider",
+          "category": "company",
+          "markdown": "SP Software & Automation",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Microsoft Dynamics and Power Platform consultancy",
+          "category": "company",
+          "markdown": "1Dynamics",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Melbourne Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "MiiiA",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Hyperware",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Enterprise Microsoft cloud and business automation consultancy",
+          "category": "company",
+          "markdown": "Velrada",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table",
+        "chat_gpt_local_businesses"
+      ],
+      "items_count": 17,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Melbourne manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d shortlist specialist Microsoft Power Platform consultancies first, then compare them with a manufacturing-focused industrial automation provider.\n\nThe key is finding a partner that can connect Power Apps, Power Automate and Power BI to your existing ERP, rather than proposing another major system replacement. Microsoft’s own reference architecture demonstrates how Power Platform can support operational workflows while leaving the ERP as the system of record. [learn.microsoft.com](https://learn.microsoft.com/en-us/power-platform/architecture/reference-architectures/finance-and-operations-dataverse?utm_source=chatgpt.com)[learn.microsoft.com](https://learn.microsoft.com/power-platform/architecture/reference-architectures/order-acknowledgment-validation?utm_source=chatgpt.com)\n\n## Consultants I’d speak to first\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Integrate Dynamics 365 finance and operations apps with Power Platform - Power Platform",
+              "snippet": null,
+              "domain": "learn.microsoft.com",
+              "url": "https://learn.microsoft.com/en-us/power-platform/architecture/reference-architectures/finance-and-operations-dataverse?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Learn",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Automate procurement order acknowledgment matching with Copilot Studio and SAP - Power Platform",
+              "snippet": null,
+              "domain": "learn.microsoft.com",
+              "url": "https://learn.microsoft.com/power-platform/architecture/reference-architectures/order-acknowledgment-validation?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Learn",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Inauro | IoT For All](https://images.openai.com/static-rsc-4/9xQ-SpjVORg4rtvtpk83IdTSFxN3uZBt0hdV-xWAOcI4bbg3iNQezRbGuOIR4p5dcc2pQtLCUd3WNCUr6BQfCBapA64i2eNH_eELNj14jtTp-rwYDtZbRwFi3nygHZuXSPVoDDP8nTs5bewC1XOMUy1uqVUVQhRiUPhEFnlXeSBHysyZ4-OUDR8uNqZLRcAX?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.iotforall.com/community/companies/inauro",
+              "alt": "Inauro | IoT For All",
+              "image_url": "https://images.openai.com/static-rsc-4/9xQ-SpjVORg4rtvtpk83IdTSFxN3uZBt0hdV-xWAOcI4bbg3iNQezRbGuOIR4p5dcc2pQtLCUd3WNCUr6BQfCBapA64i2eNH_eELNj14jtTp-rwYDtZbRwFi3nygHZuXSPVoDDP8nTs5bewC1XOMUy1uqVUVQhRiUPhEFnlXeSBHysyZ4-OUDR8uNqZLRcAX?purpose=fullsize",
+              "markdown": "![Inauro | IoT For All](https://images.openai.com/static-rsc-4/9xQ-SpjVORg4rtvtpk83IdTSFxN3uZBt0hdV-xWAOcI4bbg3iNQezRbGuOIR4p5dcc2pQtLCUd3WNCUr6BQfCBapA64i2eNH_eELNj14jtTp-rwYDtZbRwFi3nygHZuXSPVoDDP8nTs5bewC1XOMUy1uqVUVQhRiUPhEFnlXeSBHysyZ4-OUDR8uNqZLRcAX?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing explicitly targets manufacturers running existing ERP, MES and PLM systems. Its services cover order processing, document extraction, system integration, shop-floor apps and operational reporting. Its published BBCP case study describes automation across MYOB Acumatica, SAP Ariba and SharePoint, with a reported reduction of over 90% in order-processing time. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)\n\n**Ask them about\\:** automating emailed purchase orders, validating orders against ERP master data, and capturing production progress and quality checks on tablets.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Manufacturing Process Automation",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/manufacturing?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform automation consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Требуется авторизация - 429](https://images.openai.com/static-rsc-4/qQV0MTV3yVOO0MUqsCJHz13LR29FVhW7qnrqhE3KE-f1qvBRD3VyF06BFcL4QtUXJzoViVCwzwC88b4xGr5a0M3mwKEcVgryamkypJnkYMi-I6J8CjV8vGJqY_TPWhKmkqC6V3v8kIN8HBcifG2ue_90qpn9ZGoQHDvRkQnLh0Q5cbP9bz-MfP7LVxOvcOjP?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://tgstat.ru/channel/%40StrategyPartners/stat",
+              "alt": "Требуется авторизация - 429",
+              "image_url": "https://images.openai.com/static-rsc-4/qQV0MTV3yVOO0MUqsCJHz13LR29FVhW7qnrqhE3KE-f1qvBRD3VyF06BFcL4QtUXJzoViVCwzwC88b4xGr5a0M3mwKEcVgryamkypJnkYMi-I6J8CjV8vGJqY_TPWhKmkqC6V3v8kIN8HBcifG2ue_90qpn9ZGoQHDvRkQnLh0Q5cbP9bz-MfP7LVxOvcOjP?purpose=fullsize",
+              "markdown": "![Требуется авторизация - 429](https://images.openai.com/static-rsc-4/qQV0MTV3yVOO0MUqsCJHz13LR29FVhW7qnrqhE3KE-f1qvBRD3VyF06BFcL4QtUXJzoViVCwzwC88b4xGr5a0M3mwKEcVgryamkypJnkYMi-I6J8CjV8vGJqY_TPWhKmkqC6V3v8kIN8HBcifG2ue_90qpn9ZGoQHDvRkQnLh0Q5cbP9bz-MfP7LVxOvcOjP?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. SP Software & Automation\n\nWebsite: [SP Software & Automation website](https://spsoftware.com.au/) · Moorabbin\n\nWorth speaking to if your shop-floor requirements extend beyond forms and approvals into production data, machine monitoring, quality records or industrial systems. Its published material describes manufacturing work involving production monitoring, data recording, reporting and digitised defect capture. [www.google.com](https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** integrating machine or production data with your ERP and Power BI, and where industrial controls or a dedicated manufacturing data platform are needed alongside Power Platform.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "SP Software & Automation website",
+              "snippet": null,
+              "domain": "spsoftware.com.au",
+              "url": "https://spsoftware.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[SP Software & Automation website](https://spsoftware.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "SP Software & Automation",
+              "snippet": "56 Keys Rd, Moorabbin VIC 3189, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Melbourne industrial software and automation provider",
+              "category": "company",
+              "markdown": "SP Software & Automation",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Learn4D365 – Die Lernplattform für Dynamics 365](https://images.openai.com/static-rsc-4/2ZzNE22SCux0MYVNtewApwjtvTkcdASh7b4D9ZIba0Ldyov2VAKGDVMW7jpcZscKReI5yAKIZimk6WTRmnfaVJbr9m5QeXasKyUJSWe8-_kgwLMWSHJ8Gxhk4dG3Er38pB2ZySMCtdBA5hKbMJY8V8oT2q7f17iHSfNVLNiDAiKWZhmxpu3afZHz9tsDGZoz?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.learn4d365.com/",
+              "alt": "Learn4D365 – Die Lernplattform für Dynamics 365",
+              "image_url": "https://images.openai.com/static-rsc-4/2ZzNE22SCux0MYVNtewApwjtvTkcdASh7b4D9ZIba0Ldyov2VAKGDVMW7jpcZscKReI5yAKIZimk6WTRmnfaVJbr9m5QeXasKyUJSWe8-_kgwLMWSHJ8Gxhk4dG3Er38pB2ZySMCtdBA5hKbMJY8V8oT2q7f17iHSfNVLNiDAiKWZhmxpu3afZHz9tsDGZoz?purpose=fullsize",
+              "markdown": "![Learn4D365 – Die Lernplattform für Dynamics 365](https://images.openai.com/static-rsc-4/2ZzNE22SCux0MYVNtewApwjtvTkcdASh7b4D9ZIba0Ldyov2VAKGDVMW7jpcZscKReI5yAKIZimk6WTRmnfaVJbr9m5QeXasKyUJSWe8-_kgwLMWSHJ8Gxhk4dG3Er38pB2ZySMCtdBA5hKbMJY8V8oT2q7f17iHSfNVLNiDAiKWZhmxpu3afZHz9tsDGZoz?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. 1Dynamics\n\nWebsite: [1dynamics.com.au/power-platform](https://1dynamics.com.au/power-platform)\n\nA Melbourne-based team offering Power Apps, workflow automation, analytics and connected business applications. It is a candidate for digitising internal processes while keeping the scope tied to measurable business outcomes. [1dynamics.com.au](https://1dynamics.com.au/power-platform?utm_source=chatgpt.com)\n\n**Ask them about\\:** building shop-floor capture apps and automated order workflows that integrate with your particular ERP without introducing a competing system of record.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "1dynamics.com.au/power-platform",
+              "snippet": null,
+              "domain": "1dynamics.com.au",
+              "url": "https://1dynamics.com.au/power-platform",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[1dynamics.com.au/power-platform](https://1dynamics.com.au/power-platform)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Platform Consulting Australia",
+              "snippet": null,
+              "domain": "1dynamics.com.au",
+              "url": "https://1dynamics.com.au/power-platform?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "1Dynamics",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Microsoft Dynamics and Power Platform consultancy",
+              "category": "company",
+              "markdown": "1Dynamics",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![MIIA - Agente de Inteligencia Artificial](https://images.openai.com/static-rsc-4/M4hj1F8idoOy8cBiBeJhJgblNdIgVqxaYsEE5yBzAQzQf2ADYhPIgLfMNx8FmlAQjG0relmVpeIqKTSXZIAnUxT8yQ5lUKApoqk15L1u4z_zZ6rWz01TAEvKV7FUTPQkMpHHKyI0Y6HZlkl6Obv3pAlSrpVnPE4XFLuHXJJCYyiGQQjUwB50qpPQoHlHHoIP?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.mi-ia.ai/sign-in",
+              "alt": "MIIA - Agente de Inteligencia Artificial",
+              "image_url": "https://images.openai.com/static-rsc-4/M4hj1F8idoOy8cBiBeJhJgblNdIgVqxaYsEE5yBzAQzQf2ADYhPIgLfMNx8FmlAQjG0relmVpeIqKTSXZIAnUxT8yQ5lUKApoqk15L1u4z_zZ6rWz01TAEvKV7FUTPQkMpHHKyI0Y6HZlkl6Obv3pAlSrpVnPE4XFLuHXJJCYyiGQQjUwB50qpPQoHlHHoIP?purpose=fullsize",
+              "markdown": "![MIIA - Agente de Inteligencia Artificial](https://images.openai.com/static-rsc-4/M4hj1F8idoOy8cBiBeJhJgblNdIgVqxaYsEE5yBzAQzQf2ADYhPIgLfMNx8FmlAQjG0relmVpeIqKTSXZIAnUxT8yQ5lUKApoqk15L1u4z_zZ6rWz01TAEvKV7FUTPQkMpHHKyI0Y6HZlkl6Obv3pAlSrpVnPE4XFLuHXJJCYyiGQQjUwB50qpPQoHlHHoIP?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. MiiiA\n\nWebsite: [miiia.com.au](https://miiia.com.au/) · Melbourne\n\nOffers Power Apps, Power Automate, Power BI and Microsoft business application consulting. Its emphasis on composing connected Microsoft tools around a reliable source of truth is relevant to an ERP-extension strategy. [miiia.com.au](https://miiia.com.au/?utm_source=chatgpt.com)\n\n**Ask them about\\:** integration architecture, approvals, exception handling and production dashboards, particularly if your business already uses Microsoft 365 extensively.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "miiia.com.au",
+              "snippet": null,
+              "domain": "miiia.com.au",
+              "url": "https://miiia.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[miiia.com.au](https://miiia.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "MiiiA",
+              "snippet": null,
+              "domain": "miiia.com.au",
+              "url": "https://miiia.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Business Applications Consultancy",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Melbourne Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "MiiiA",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![HyperWare Solutions | Consulenza ERP Microsoft Dynamics 365, Business Central e CRM per PMI](https://images.openai.com/static-rsc-4/Cq-yTGDeaDTfTVJqg0AOBGny36Ifb9Bdl7HJZsZts8SC6V0yp8Fry8kffAe5VfDLldRbjRPQxxuqzdn9FY8uG8znyUtpe565S6JeSu-YZVZWXqINHAgiQXP3NJwJFEhtlG9s6iNMPW4Aretx3C254pz0JEzPE7ZDc24XNj-QFpQZSvopwVkCtlYoRBV71q8c?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.hyperware.io/",
+              "alt": "HyperWare Solutions | Consulenza ERP Microsoft Dynamics 365, Business Central e CRM per PMI",
+              "image_url": "https://images.openai.com/static-rsc-4/Cq-yTGDeaDTfTVJqg0AOBGny36Ifb9Bdl7HJZsZts8SC6V0yp8Fry8kffAe5VfDLldRbjRPQxxuqzdn9FY8uG8znyUtpe565S6JeSu-YZVZWXqINHAgiQXP3NJwJFEhtlG9s6iNMPW4Aretx3C254pz0JEzPE7ZDc24XNj-QFpQZSvopwVkCtlYoRBV71q8c?purpose=fullsize",
+              "markdown": "![HyperWare Solutions | Consulenza ERP Microsoft Dynamics 365, Business Central e CRM per PMI](https://images.openai.com/static-rsc-4/Cq-yTGDeaDTfTVJqg0AOBGny36Ifb9Bdl7HJZsZts8SC6V0yp8Fry8kffAe5VfDLldRbjRPQxxuqzdn9FY8uG8znyUtpe565S6JeSu-YZVZWXqINHAgiQXP3NJwJFEhtlG9s6iNMPW4Aretx3C254pz0JEzPE7ZDc24XNj-QFpQZSvopwVkCtlYoRBV71q8c?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Hyperware\n\nWebsite: [hyperware.com.au/services/power-platform/](https://hyperware.com.au/services/power-platform/) · Melbourne\n\nFocuses on Power Apps, Power Automate, integration, application lifecycle governance and support. A good candidate for a contained pilot that needs to be reliable, maintainable and handed over cleanly to your internal team. [hyperware.com.au](https://hyperware.com.au/services/power-platform/?utm_source=chatgpt.com)\n\n**Ask them about\\:** governed production apps, approvals and alerts, plus how they will monitor failed workflows and manage changes after go-live.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "hyperware.com.au/services/power-platform/",
+              "snippet": null,
+              "domain": "hyperware.com.au",
+              "url": "https://hyperware.com.au/services/power-platform/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[hyperware.com.au/services/power-platform/](https://hyperware.com.au/services/power-platform/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Consulting Melbourne",
+              "snippet": null,
+              "domain": "hyperware.com.au",
+              "url": "https://hyperware.com.au/services/power-platform/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Hyperware",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Hyperware",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://velratech.com/",
+              "alt": "Velratech | Technology Consultancy & Venture Studio",
+              "image_url": "https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize",
+              "markdown": "![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. Velrada\n\nWebsite: [velrada.com](https://velrada.com/) · Melbourne CBD\n\nA further option for more complex enterprise automation involving Power Platform, legacy integrations, analytics and AI. Its described capabilities span process discovery through to automation delivery. [www.google.com](https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)[www.google.com.br](https://www.google.com.br/maps/place/Velrada/@-37.8159574,144.9587447,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad65d4ccc412997:0x2398e729d3f29054!8m2!3d-37.8159574!4d144.9587447!16s%2Fg%2F11bbrmxsfw?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** a broader automation roadmap if several departments, multiple sites or complicated ERP integrations need to be coordinated.\n\n## How I’d prioritise the shortlist\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "velrada.com",
+              "snippet": null,
+              "domain": "velrada.com",
+              "url": "https://velrada.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[velrada.com](https://velrada.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "SP Software & Automation",
+              "snippet": "56 Keys Rd, Moorabbin VIC 3189, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/SP+Software+%26+Automation/@-37.9485484,145.0650861,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad66c0e6c026659:0x6d1aa5914daaf2de!8m2!3d-37.9485484!4d145.0650861!16s%2Fg%2F11c3mtdf78?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Velrada",
+              "snippet": "Level 8/140 William St, Melbourne VIC 3000, Australia",
+              "domain": "www.google.com.br",
+              "url": "https://www.google.com.br/maps/place/Velrada/@-37.8159574,144.9587447,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad65d4ccc412997:0x2398e729d3f29054!8m2!3d-37.8159574!4d144.9587447!16s%2Fg%2F11bbrmxsfw?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com.br",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Enterprise Microsoft cloud and business automation consultancy",
+              "category": "company",
+              "markdown": "Velrada",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Your main requirement | Start with |\n|--------|--------|\n| Automate order entry and reduce manual admin | **Inturing** |\n| Connect production-floor or machine data | **SP Software &amp; Automation** |\n| Build Power Apps and connect Microsoft systems | **1Dynamics** |\n| Extend existing Microsoft business applications | **MiiiA** |\n| Build supportable apps with strong governance | **Hyperware** |\n| Coordinate a larger, more complex automation programme | **Velrada** |\n\n",
+          "table": {
+            "table_header": [
+              "Your main requirement",
+              "Start with"
+            ],
+            "table_content": [
+              [
+                "Automate order entry and reduce manual admin",
+                "**Inturing**"
+              ],
+              [
+                "Connect production-floor or machine data",
+                "**SP Software &amp; Automation**"
+              ],
+              [
+                "Build Power Apps and connect Microsoft systems",
+                "**1Dynamics**"
+              ],
+              [
+                "Extend existing Microsoft business applications",
+                "**MiiiA**"
+              ],
+              [
+                "Build supportable apps with strong governance",
+                "**Hyperware**"
+              ],
+              [
+                "Coordinate a larger, more complex automation programme",
+                "**Velrada**"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\nThese are recommendations based on publicly described capabilities, not a guarantee that every firm has delivered your exact ERP integration. I would validate relevant references before selecting a partner.\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 16,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Velrada",
+              "description": "Business management consultant",
+              "address": "Level 8, 140 William Street, Melbourne VIC 3000, Australia",
+              "phone": "+61 1300 835 723",
+              "reviews_count": 4,
+              "url": "https://velrada.com/?utm_source=chatgpt.com",
+              "domain": "velrada.com",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "SP Software & Automation",
+              "description": "Software company",
+              "address": "56 Keys Road, Moorabbin VIC 3189, Australia",
+              "phone": "+61 421 180 662",
+              "reviews_count": 1,
+              "url": "http://www.spsoftwareautomation.com.au/?utm_source=chatgpt.com",
+              "domain": "www.spsoftwareautomation.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 3,
+                "votes_count": 1,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "MiiiA",
+              "description": "Software company",
+              "address": "17/31 Queen Street, Melbourne VIC 3000, Australia",
+              "phone": "+61 447 822 467",
+              "reviews_count": null,
+              "url": "https://miiia.com.au/?utm_source=chatgpt.com",
+              "domain": "miiia.com.au",
+              "rating": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\n\n## What to ask each consultant\n\nI would give all shortlisted firms the same brief and ask for a small, fixed-scope discovery engagement covering these five points.\n\n- **ERP integration\\:** Can you read and write data through our ERP's supported APIs, connectors or integration layer, without replacing it?\n- **Order processing\\:** Can you extract order details from emails and PDFs, validate customer, product, price and quantity, and send exceptions to a person for review?\n- **Shop-floor capture\\:** Can operators record job status, quantities, downtime and quality checks on shared tablets, including offline use where required?\n- **Data ownership\\:** How will you prevent duplicate records and ensure the ERP remains the authoritative source for orders, inventory and financial transactions?\n- **Reliability and cost\\:** What happens when an integration fails, and what are the expected implementation, licensing, support and ongoing maintenance costs?\n\nFor shop-floor work, specifically ask whether Power Apps is sufficient or whether you need an MES, PLC/SCADA integration or another industrial data platform. These are different technical problems, even if they ultimately feed the same dashboards.\n\n## My recommended first step\n\nStart with **Inturing and SP Software &amp; Automation** for contrasting perspectives: one focused on process automation across existing business systems, the other on industrial and production data. Add **1Dynamics** as a third bidder for a Power Platform-focused comparison.\n\nAsk each to propose one pilot, with measurable targets and no ERP replacement. For example, automate one product line's incoming orders or digitise one production cell's job and quality records before expanding.\n\nOne detail would help me refine the recommendations considerably: **which ERP are you currently running?**\n\nYour existing ERP\n\nSAP\n\nMicrosoft Dynamics 365\n\nMYOB Acumatica / MYOB\n\nEpicor\n\nPronto Xi\n\nOther ERP\n\n---\n\nYour first automation priority\n\nOrder processing and administration\n\nShop-floor data capture and production visibility\n\nBoth are equally important\n\n---\n\nApproximate employee count\n\nUnder 50\n\n50–250\n\n251–1,000\n\nOver 1,000\n\n[Refine my shortlist]",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

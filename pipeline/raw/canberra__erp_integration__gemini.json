@@ -1,0 +1,357 @@
+{
+  "slug": "canberra",
+  "pk": "erp_integration",
+  "plat": "gemini",
+  "text": "Which system integration specialists in Canberra are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__erp_integration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:46.518Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Connecting **MYOB Acumatica** (formerly MYOB Advanced), **SAP**, **CRM** (such as Dynamics 365 or Salesforce), and **Microsoft 365** involves bridging mid-market and enterprise architectures. Because this typically requires a robust middleware/iPaaS layer (such as Azure Integration Services, Boomi, or MuleSoft), the ideal partner must possess both ERP domain knowledge and strong cloud-integration capabilities.\n\nSeveral top system integration specialists with a strong presence in Canberra are well-suited for this scope:\n\n---\n\n### 1. Mid-Market ERP & MYOB Acumatica Specialists\n*Best if MYOB Acumatica serves as your core operational hub or is being integrated into a parent SAP/CRM environment.*\n\n* **Kilimanjaro Consulting (Enprise Group)**\n  * **Canberra Presence:** Dedicated local consultants and an established ACT portfolio (e.g., Museum of Australian Democracy).\n  * **Core Strength:** They are the largest and premier MYOB Acumatica implementer in ANZ.\n  * **Integration Capability:** Highly experienced in custom API development (.NET, REST APIs, SQL Server) and middleware pipelines connecting MYOB Acumatica to external CRM tools, web portals, and parent ERPs.\n* **FUJIFILM MicroChannel**\n  * **Canberra Presence:** Active local delivery practice.\n  * **Core Strength:** Rare dual-specialization. They are one of the few partners in ANZ that hold top-tier accreditations across **SAP Business One**, **Microsoft Dynamics 365 (CRM & ERP)**, and other mid-market ERP suites. This makes them uniquely qualified if your SAP footprint is at the mid-market level.\n\n---\n\n### 2. Multi-ERP & Cross-Platform Specialists (Canberra Local)\n*Best for vendor-neutral ERP orchestration, custom web services, and workflow bridging.*\n\n* **ERP IT Canberra**\n  * **Canberra Presence:** Locally founded and based in Canberra.\n  * **Core Strength:** Specializes specifically in multi-vendor financial system orchestration. Their team directly handles integration across disparate platforms including **SAP, Microsoft Dynamics, MYOB, and custom web services/APIs** for commercial and public sector entities in the ACT.\n\n---\n\n### 3. Microsoft 365, CRM & Azure Integration Specialists\n*Best if Microsoft 365 / Power Platform / Azure Logic Apps will serve as the integration glue and CRM layer.*\n\n* **Walkerscott**\n  * **Canberra Presence:** Dedicated Canberra team supporting ACT government, semi-government, and commercial clients.\n  * **Core Strength:** Microsoft Solutions Partner focused on Dynamics 365 CRM, Power Platform, and Microsoft 365. They excel at integrating Microsoft suites with third-party ERPs like SAP and MYOB using Azure Integration Services (APIs, Logic Apps, Service Bus).\n* **OPC IT (Fyshwick, Canberra)**\n  * **Canberra Presence:** Long-standing Canberra-based managed services and systems integrator.\n  * **Core Strength:** Deep expertise in Microsoft 365, Power Automate, Power BI, and Dynamics 365. They specialize in building secure API links between Microsoft cloud estates and external line-of-business software.\n\n---\n\n### 4. Large Enterprise & Government Tier-1 Integrators\n*Best if you have a full enterprise SAP instance (e.g., SAP S/4HANA or ECC6) requiring deep security accreditation and complex middleware.*\n\n* **Datacom (Canberra)**\n  * One of the largest systems integrators in the ACT. They run major practices for both **SAP** and **Microsoft (M365, Azure, Dynamics)**, making them well-suited for enterprise-scale middleware design connecting ERPs to CRM and office suites.\n* **DXC Technology / Avanade**\n  * Both have large Canberra practices focused on complex enterprise landscapes, specialized in tying enterprise SAP environments into Microsoft 365 and Dataverse using enterprise integration platforms (Boomi, SAP BTP, MuleSoft).\n\n---\n\n### Recommended Selection Framework\n\n1. **If MYOB Acumatica is the focal point:** Contact **Kilimanjaro Consulting**. Most generic integrators lack the low-level API nuance needed for complex Acumatica entity-level syncs.\n2. **If SAP is the core master data source:** Contact **FUJIFILM MicroChannel** (for SAP B1/mid-market) or **Datacom / ERP IT Canberra** (for complex hybrid SAP environments).\n3. **If Microsoft 365 / Dynamics CRM is the primary hub:** Engage **Walkerscott** or **OPC IT** to build the integration workflows using Azure Logic Apps and Power Automate.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Canberra+system+integration+%22SAP%22+%22Microsoft%22+ERP&client=app-vertex-grounding&safesearch=active\">Canberra system integration &quot;SAP&quot; &quot;Microsoft&quot; ERP</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Kilimanjaro+Consulting%22+Canberra+integration&client=app-vertex-grounding&safesearch=active\">&quot;Kilimanjaro Consulting&quot; Canberra integration</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integration+Canberra+ERP+CRM+SAP+Microsoft+365&client=app-vertex-grounding&safesearch=active\">system integration Canberra ERP CRM SAP Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=MYOB+Acumatica+integration+partners+Canberra+Australia&client=app-vertex-grounding&safesearch=active\">MYOB Acumatica integration partners Canberra Australia</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1xzZJWb5gl6NgLKFS3xRvCMcS-5ez2NkhuWbRUmgv4F0slxn_lM10wqzxL0-JJrCRSRGhCMFOjwriuQmxvIGWyLTbbRSYWNRbnxNIN7aNmK-2Nmto470wnAZe7MU6VCeOzXJlBh0mWsw=",
+                "title": "erpresearch.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWox9tjef2OsU7L2bAp0fN-PTRtFa_YYuDygzByeKWzo1TF7ItG5GcWqLvpbxacRQmWiAhMxcf17_cphOQ8_L8UEtobMS0A85RYRVAh_yGimmgLDUnoJ3vjKNxl4dZSBS5DaT_ahNyoLLUzDRzbqBD9oJ7SETPii3RoxH01zMk-aydSoanlkhd94ja_Q==",
+                "title": "seeburger.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8a48Z7QGo5d88nu6vgHxfRaDlYrrVKeUevRCb03htWKT4DMAM2Lu3TrZnfrs3qBtHcjunlX_LxM6Arwj5FG8YASyWBN9SnqzvFwE807V_LTm3oPEgJx_SlkTN52heyhRQKbuPsyplroeSkBKDQMlH",
+                "title": "kilimanjaro-consulting.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRu-F82WcIvNmP75FxtzknKG72iHhLQS-a901l-h3VdQpQzKhlEi000burnYPtF9KGymHgevzP4Dpowg3YvhOHH4ysR0F_oWTJ_aJUeFqEEMFaxQ==",
+                "title": "enprisegroup.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4CVY6pjij08c7JOr09PGnRadMzmXBRT0Sxhk2oPC1wqeB7Aemj4NIFU0Ry_YTuHu2uXpgkZ3LeTcVq_CWeA5kbgt4FEbvmoaimcAVSHvZYpks9rBnGxv2AQZNozZOjXjtnDS2xToai4QO",
+                "title": "kilimanjaro-consulting.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwvayzTCLucX72HkAHXwEEY0TUXyCodqFlq8gXLTT4bed6p1SDJBXQsadKXvwtHJJBoNlwCkKkltXCpmK3PL854Zcufm3VWFBNxcXxMcnXJtdRlUI3swOw6wpR1y94IpXbfTxt6pJ8FBXg7u2MwB0AeCESE8uYBPMS_dUbemwYtkAG-V5YgMYmXao=",
+                "title": "kilimanjaro-consulting.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNKWJnXfzOBzdlW-3ZJ4pHEcmMhhFsLN4SrsWLcDzpLsNfq9WjIvjZybmiAkmvsNcx89AaTnVwlJmmRuc4daKPx5_YXc95_iDhYXUR79pqm_BQBrge8yxu9cSHJSxC2gmxq6vB9xRvQCnu9QSlq0RGhOBNKafKNQ==",
+                "title": "momentumsoftwaresolutions.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAw8PJ8C9igGWOyM_yXQqcrKoebWHB69Th84U6nqk5Rx8weywhqme9aIg9N6GS35WD_cu6aSPe85-LK3lhWTanXtmdDhIorXg_ZICuilYZtYnx_06r2bdSwY9_wR-uEJcM1bVLNIBPtFHb1H64yPKuJAAWra1vN6U=",
+                "title": "microchannel.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR5e4FzZjK4aaB22sdqV3bCkzBG-zKPdg2ChO750wwehy-6M1Ibn4YgUVYFIbkNUcbaKNpli6eOv6ZeG5G_vXX2ERlZEwPamiqlvR-A6LfESmRPdy00OmbT5a0mdTIFTs2emAi",
+                "title": "erp-it-canberra.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5G2JOC34ELOD5z7qZJN1PUx09fGwwhRfgqILONTL_vrcFPi7lEjFCENZdwIK78d5sh518u6dGZVdfrkPASCU56vdNp5t07EANpZLJt7i0O7r_Fhb7I9NbraaWaV6rhj4Da1PSn8fdt9ULiFojNCNqMonadL1hbjJVgFcocGZ0",
+                "title": "walkerscott.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEo4EGPKnTGkw7aVCVMr_krP65fgQ03t6V1R7HnK_5aJBzSYw6Uph7IpTocb1W7KDsaVTA4vWVgg35tt_jHoIZPAQKicwkDpt4VOEAvr2407Xjw3h6P_kXhLt5",
+                "title": "opc.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6R5K30u8BUpEuor3kmKySPqjNfOlEFpCjc_cN7v-LGMI1n1RSs3Myp-Ixu3saLLOscwYqiFBFqEBw0cU2HmnV5pVvalM2YjcuSxKNvuYNhFk7bvqa1P-jVuGPMWxh6gMrMTowza0UsJGJ2WknWTPtV5Z2akRcGL5-Mhbm1AN5QDYxdUR61v-Sk9CW3sx0iQ==",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5xSVHrYuES4N0Gqac2o_WGmBOw7raT43SafO5qCXCvCELxhQpvcFRkpzUQrzDjvqa_20dwxjMMZU_T64O_bcJoCPcFYl8F7L4HwnkXFVQqF95w6wcLVqhMekVQ_pPd-LCi0yAmL5eOmFDBRclQSAWX8APpNOmhw==",
+                "title": "erp.today"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXy0jfIoa3rezfZ2XkrKrLLqHir7pG1JdGmdCh0hGU1v8DsU-Vq1vwFiNdiePYsrOE1IvS8Ip6E7-NhZQhCl-b4kP_PO5hM-SBCb0JgQSjRQ50la42kKVr0d1C1T5jIuGWgqFePw2WTRbMiMM6pjS4w5iMnJLVJ0QR_zIu",
+                "title": "intuitionsoftech.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 192,
+                "endIndex": 312,
+                "text": "Because this typically requires a robust middleware/iPaaS layer (such as Azure Integration Services, Boomi, or MuleSoft)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 704,
+                "endIndex": 746,
+                "text": "**Kilimanjaro Consulting (Enprise Group)**"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 751,
+                "endIndex": 873,
+                "text": "**Canberra Presence:** Dedicated local consultants and an established ACT portfolio (e.g., Museum of Australian Democracy)"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 879,
+                "endIndex": 964,
+                "text": "**Core Strength:** They are the largest and premier MYOB Acumatica implementer in ANZ"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1045,
+                "endIndex": 1175,
+                "text": "NET, REST APIs, SQL Server) and middleware pipelines connecting MYOB Acumatica to external CRM tools, web portals, and parent ERPs"
+              },
+              "groundingChunkIndices": [
+                6,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1209,
+                "endIndex": 1262,
+                "text": "**Canberra Presence:** Active local delivery practice"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1313,
+                "endIndex": 1487,
+                "text": "They are one of the few partners in ANZ that hold top-tier accreditations across **SAP Business One**, **Microsoft Dynamics 365 (CRM & ERP)**, and other mid-market ERP suites"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1759,
+                "endIndex": 1819,
+                "text": "**Canberra Presence:** Locally founded and based in Canberra"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1825,
+                "endIndex": 1915,
+                "text": "**Core Strength:** Specializes specifically in multi-vendor financial system orchestration"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1917,
+                "endIndex": 2110,
+                "text": "Their team directly handles integration across disparate platforms including **SAP, Microsoft Dynamics, MYOB, and custom web services/APIs** for commercial and public sector entities in the ACT"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2309,
+                "endIndex": 2422,
+                "text": "**Canberra Presence:** Dedicated Canberra team supporting ACT government, semi-government, and commercial clients"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2428,
+                "endIndex": 2537,
+                "text": "**Core Strength:** Microsoft Solutions Partner focused on Dynamics 365 CRM, Power Platform, and Microsoft 365"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2726,
+                "endIndex": 2817,
+                "text": "**Canberra Presence:** Long-standing Canberra-based managed services and systems integrator"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2823,
+                "endIndex": 2917,
+                "text": "**Core Strength:** Deep expertise in Microsoft 365, Power Automate, Power BI, and Dynamics 365"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2919,
+                "endIndex": 3034,
+                "text": "They specialize in building secure API links between Microsoft cloud estates and external line-of-business software"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3236,
+                "endIndex": 3237,
+                "text": "*"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3544,
+                "endIndex": 3768,
+                "text": "Both have large Canberra practices focused on complex enterprise landscapes, specialized in tying enterprise SAP environments into Microsoft 365 and Dataverse using enterprise integration platforms (Boomi, SAP BTP, MuleSoft)"
+              },
+              "groundingChunkIndices": [
+                0,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3816,
+                "endIndex": 3892,
+                "text": "**If MYOB Acumatica is the focal point:** Contact **Kilimanjaro Consulting**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4001,
+                "endIndex": 4172,
+                "text": "**If SAP is the core master data source:** Contact **FUJIFILM MicroChannel** (for SAP B1/mid-market) or **Datacom / ERP IT Canberra** (for complex hybrid SAP environments)"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4177,
+                "endIndex": 4346,
+                "text": "**If Microsoft 365 / Dynamics CRM is the primary hub:** Engage **Walkerscott** or **OPC IT** to build the integration workflows using Azure Logic Apps and Power Automate"
+              },
+              "groundingChunkIndices": [
+                10,
+                9
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Canberra system integration \"SAP\" \"Microsoft\" ERP",
+            "\"Kilimanjaro Consulting\" Canberra integration",
+            "system integration Canberra ERP CRM SAP Microsoft 365",
+            "MYOB Acumatica integration partners Canberra Australia"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 779,
+      "candidatesTokenCount": 1189,
+      "totalTokenCount": 3605,
+      "cachedContentTokenCount": 228,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 779
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 228
+        }
+      ],
+      "thoughtsTokenCount": 1637,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "48bias_EB5WC694P5fTe-Qk"
+  }
+}

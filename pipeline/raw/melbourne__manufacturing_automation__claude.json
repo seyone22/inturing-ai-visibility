@@ -1,0 +1,315 @@
+{
+  "slug": "melbourne",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:24.887Z",
+  "cost": 0.063997,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9644,
+      "output_tokens": 1631,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063397,
+      "datetime": "2026-10-29 04:04:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong Power Platform and automation consultants in Melbourne well-suited to manufacturers looking to automate order processing, shop-floor data capture, and operations **without replacing their ERP**. Here's a curated shortlist:\n\n---\n\n## 🏭 Power Platform & Automation Consultants for Melbourne Manufacturers\n\n---\n\n### 1. 🔵 OfficePro Consulting\n**Location:** Melbourne, VIC\n**Contact:** 1300 160 336 | contact@officeproconsulting.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting is a Melbourne-based technology consultancy specialising in business automation, AI, custom apps, reporting, and system integration for Australian organisations.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They work with Power Automate, which connects to 1,000+ applications including SharePoint, Teams, Outlook, Salesforce, Xero, and hundreds of others — and they design, build, and support Power Automate solutions for Australian businesses of all sizes.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** Their focus on system integration makes them well-suited to layering automation on top of your existing ERP rather than replacing it.\n\n---\n\n### 2. 🔵 Power Platform Experts (Office Experts Group)\n**Location:** Melbourne, VIC (Australia-wide)\n**Contact:** 1300 102 810 | consult@officeexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their nationwide team has 25+ years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services across the full Power Platform stack.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔵 Team 400\n**Location:** Melbourne, Sydney & Brisbane\n**Website:** team400.ai\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Team 400 combines low-code speed with pro-code depth to deliver Power Platform solutions that scale across your organisation, with teams in Brisbane, Sydney, and Melbourne.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They set up Power Platform governance from day one — including environment strategy, DLP policies, the Centre of Excellence toolkit, managed environments, and ALM pipelines.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team helps Australian businesses automate and scale with low-code backed by Copilot Studio agents, AI Builder models, and intelligent Power Automate flows",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — ideal for shop-floor data capture apps and order workflow automation. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Projects typically start from $15,000 for focused applications, with larger implementations ranging from $40,000 to $150,000.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🔵 C9 Custom Software\n**Location:** Level 28, 303 Collins St, Melbourne VIC 3000\n**Contact:** +61 7 3071 7442\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "C9's Melbourne-based Power Platform specialists engineer custom automation solutions, and their localised Power Automate development services are crafted to translate specific operational complexities into streamlined, intelligent workflows.",
+              "annotations": [
+                {
+                  "title": "Melbourne Power Platform Automation Experts",
+                  "url": "https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They conduct a comprehensive discovery phase to precisely map your unique business requirements, ensuring they deliver a solution that transforms your operational potential.",
+              "annotations": [
+                {
+                  "title": "Melbourne Power Platform Automation Experts",
+                  "url": "https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** Their custom software and integration background means they can build bespoke shop-floor or order-processing apps that connect seamlessly to your existing ERP.\n\n---\n\n### 5. 🔵 Dynamic Aspect\n**Location:** Melbourne (also Sydney, Brisbane, Perth, Adelaide)\n**Website:** dynamicaspect.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dynamic Aspect is an Australian Microsoft ERP Systems consultancy that also delivers Power Automate, Power Apps, and Power BI solutions — helping businesses automate workflows, build custom apps, and visualise data.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** Their dual specialisation in **Microsoft ERP systems AND Power Platform** makes them particularly valuable if you want automation that integrates tightly with an ERP like Business Central or Dynamics 365.\n\n---\n\n### 6. 🔵 Alphavima\n**Location:** Melbourne, VIC (global delivery)\n**Website:** alphavima.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a certified Microsoft Solutions Partner delivering Power Apps, Power Automate, Power BI, and Power Pages projects.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 20+ years of Microsoft platform experience, they configure Power Apps, Power Automate, Power BI, and Power Pages around how your team actually works.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why them for manufacturing?** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melbourne organisations running manual processes, disconnected spreadsheets, and legacy tools can use their Power Platform expertise to build custom apps, automate repetitive tasks, and turn raw data into actionable reports.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you meet with these firms, make sure to ask:\n\n1. **Do you have experience with manufacturing clients?** (shop-floor data capture, production scheduling, quality checks)\n2. **Which ERPs have you integrated with?** (SAP, MYOB, Business Central, Oracle, etc.)\n3. **Can you show us a reference case of ERP-adjacent automation?**\n4. **Do you support Power Automate Desktop (RPA) for legacy system integration?**\n5. **What does your post-go-live support model look like?**\n\n---\n\nWould you like help narrowing this list based on your specific ERP (e.g., SAP, MYOB, Dynamics), or would you like a list of questions tailored to your exact use cases like barcode scanning on the shop floor or automated purchase order processing?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Melbourne Australia",
+        "ERP integration automation consultants manufacturing Melbourne 2024 2025"
+      ]
+    }
+  ]
+}

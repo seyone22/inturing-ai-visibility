@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Perth specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:06.331Z",
+  "cost": 0.006334,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 700,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005734,
+      "datetime": "2026-10-29 04:07:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Perth-based consultancies appear well aligned with **Microsoft Copilot Studio, AI agents, and practical workflow automation for mid-market organisations**:\n\n| Consultant | Best fit | Relevant capabilities |\n|---|---|---|\n| **TechBrain** | Managed, end-to-end AI for Perth mid-market businesses | Builds and operates custom agents using **Microsoft Copilot Studio, Power Automate and Azure AI Foundry** within the client’s Microsoft 365 tenancy; also provides governance and ongoing management.[2] |\n| **Austin Technology** | Microsoft-first automation integrated with managed IT and security | Delivers **Copilot Studio agents**, Power Automate workflows, document and email processing, business-system integrations, governance, training and support. It is based in Subiaco and supports more than 300 organisations nationally.[1] |\n| **Frontrow Technology** | Applied Microsoft AI and production-grade agents | Focuses on Microsoft 365 Copilot readiness, **Copilot Studio agents**, Azure AI Foundry, RAG, multi-agent workflows, monitoring and governance for Perth mid-market businesses.[5] |\n| **Ultron Developments** | Technical custom-agent engineering and complex integrations | Builds Copilot Studio agents and extensions connected to Dataverse, SharePoint, SAP and REST APIs, alongside Power Automate workflow automation and Azure-based AI architecture.[3][6] |\n| **CG Tech** | Practical transformation for 50–500 employee organisations | Offers AI roadmaps, governance, Microsoft 365 and Copilot, Power Platform automation, custom agents, data and reporting work, with Perth delivery available onsite or remotely.[4] |\n| **Ential** | Copilot adoption, training and governed internal agents | Builds custom Copilot Studio agents grounded in SharePoint and business data, while emphasising role-based adoption, permissions and governance for Western Australian businesses.[7] |\n| **Scalify** | Focused Copilot Studio builds without forcing an AI solution | Develops Copilot Studio agents from Perth, but also builds custom AI teams, chat and voice systems where Copilot Studio is not the right fit.[10] |\n| **Res-Q IT** | Smaller-business practical automation and honest tool selection | Provides Copilot adoption, workflow automation, integrations and self-hosted n8n solutions; explicitly distinguishes between tasks suited to AI and those better handled by deterministic automation.[8] |\n\n### Strongest shortlist\n\n- **TechBrain** — strongest match if the requirement is a managed service covering agent design, deployment, governance and ongoing operation.[2]\n- **Austin Technology** — strong option where Microsoft 365, security, IT support and automation need to come from one Perth-based provider.[1]\n- **Frontrow Technology** — suitable for more technical or production-oriented Copilot Studio and Azure AI work.[5]\n- **Ultron Developments** — worth considering for complex enterprise integrations, custom APIs, Dataverse, SAP or industrial workflows.[3][6]\n- **CG Tech** — a good fit for a 50–500-person organisation wanting practical transformation rather than an experimental AI project.[4]\n\nFor an initial conversation, ask each provider to demonstrate one complete workflow—such as inbound-email triage, document extraction, approval routing or internal policy support—with **human review, permissions, auditability, exception handling and a measurable business outcome** included from the outset.",
+              "annotations": [
+                {
+                  "title": "AI & Automation Consultant",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consulting Services Perth - Managed AI | TechBrain",
+                  "url": "https://www.techbrain.com.au/perth/ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Perth | Business Automation & Copilot",
+                  "url": "https://ultrondevelopments.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Working With Cg Tech In...",
+                  "url": "https://cgtech.com.au/locations/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic ...",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Workflow Automation Consultant Perth | Ultron",
+                  "url": "https://ultrondevelopments.com.au/ai-workflow-automation-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot Specialists in Perth · Ential",
+                  "url": "https://www.ential.com/copilot-specialist-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Automation Services Perth | Practical Workflow Automation",
+                  "url": "https://res-q.com.au/business-it/ai-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI consultants in Australia | Australian AI Consultant Guide",
+                  "url": "https://aussieaiconsultants.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot Studio Consultants Perth & Australia - Scalify",
+                  "url": "https://scalify.au/microsoft-ai/copilot-studio",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

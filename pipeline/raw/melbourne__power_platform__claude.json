@@ -1,0 +1,290 @@
+{
+  "slug": "melbourne",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Melbourne? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:02.029Z",
+  "cost": 0.059692,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10099,
+      "output_tokens": 1253,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.059092,
+      "datetime": "2026-10-29 04:03:56 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable **Microsoft Power Platform consulting partners in Melbourne**, based on available information:\n\n---\n\n## 🏆 Top Microsoft Power Platform Consultants in Melbourne\n\n---\n\n### 1. **Power Platform Experts / Office Experts Group**\n🌐 powerplatformexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating since 2000",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", this is one of Melbourne's most established Microsoft consulting firms. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their highly experienced consulting team is renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer flexible engagement models including on-site consultation at your location or efficient remote access and support.",
+              "annotations": [
+                {
+                  "title": "Power BI Consultants Melbourne",
+                  "url": "https://www.powerplatformexperts.com.au/power-bi-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Businesses wanting a long-standing, locally trusted Microsoft specialist with a broad skill set across the full Microsoft suite.\n\n---\n\n### 2. **jeylabs**\n🌐 jeylabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "jeylabs is a Melbourne-based multi-award winning AI and software consultancy with deep industry experience across aged care, financial services, education, defence, government, and startups.",
+              "annotations": [
+                {
+                  "title": "Microsoft Agents, Power Apps, Power BI, Power Platform, Dataverse Consulting and Support Services Melbourne, Australia",
+                  "url": "https://www.jeylabs.com/powerapps_consulting_and_support",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver Microsoft 365, AI-powered software, and custom solutions that optimise operations and accelerate success.",
+              "annotations": [
+                {
+                  "title": "Microsoft Agents, Power Apps, Power BI, Power Platform, Dataverse Consulting and Support Services Melbourne, Australia",
+                  "url": "https://www.jeylabs.com/powerapps_consulting_and_support",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Melbourne, Australia, they have years of expertise in Microsoft 365, automating workflows, and application design, build, and support, with both on-site and remote delivery capabilities.",
+              "annotations": [
+                {
+                  "title": "Microsoft Agents, Power Apps, Power BI, Power Platform, Dataverse Consulting and Support Services Melbourne, Australia",
+                  "url": "https://www.jeylabs.com/powerapps_consulting_and_support",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Organisations in regulated or complex industries (government, defence, healthcare) that need AI-enhanced Power Platform solutions.\n\n---\n\n### 3. **Alphavima**\n🌐 alphavima.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a certified Microsoft Solutions Partner delivering Power Apps, Power Automate, Power BI, and Power Pages projects.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 20+ years of Microsoft platform experience, they configure Power Apps, Power Automate, Power BI, and Power Pages around how your Melbourne team actually works.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A standout feature is their governance capability: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima sets up a Power Platform Center of Excellence (CoE) for organisations that includes DLP policies, environment management, maker onboarding, and usage analytics.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also build custom connectors, dataflows, and API integrations that link Power Platform to existing ERP, CRM, HRIS, and line-of-business applications.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Melbourne, VIC",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Mid-market to enterprise organisations needing structured governance, deep integrations, and a globally experienced partner.\n\n---\n\n### 4. **Team 400**\n🌐 team400.ai\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Brisbane, Sydney, and Melbourne, Team 400 builds AI-powered business applications with Microsoft Power Platform, from Copilot Studio agents and AI Builder models to intelligent Power Automate flows.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They combine low-code speed with pro-code depth to deliver Power Platform solutions that scale across organisations.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their senior Power Platform developers are based locally in Melbourne, offering on-site workshops and face-to-face collaboration when needed.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia - Power Platform AI & Copilot Studio",
+                  "url": "https://team400.ai/power-apps-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Businesses looking to leverage cutting-edge AI capabilities (Copilot Studio, AI Builder) alongside traditional Power Platform development.\n\n---\n\n## 📝 Quick Comparison Summary\n\n| Partner | Key Strength | Best For |\n|---|---|---|\n| **Power Platform Experts** | 25+ years experience, full Microsoft suite | SMBs & enterprises needing broad Microsoft support |\n| **jeylabs** | Multi-award winning, AI + M365, regulated industries | Government, healthcare, defence |\n| **Alphavima** | Certified partner, CoE governance, ERP integrations | Mid-market/enterprise, complex integrations |\n| **Team 400** | AI-first, Copilot Studio, pro-code + low-code | Innovation-focused, AI-driven automation |\n\n---\n\n> **💡 Tip:** When choosing a partner, look for **Microsoft Solutions Partner** designation, industry-specific experience, and whether they offer post-implementation support. It's also worth checking the **Microsoft Partner Finder** (partner.microsoft.com) to verify certifications and read client reviews.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consultants Melbourne",
+        "Microsoft Power Platform consulting partners Melbourne Australia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Melbourne specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:29.738Z",
+  "cost": 0.006306,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 672,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005706,
+      "datetime": "2026-10-29 04:04:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Melbourne options matching **Microsoft Copilot Studio, AI agents, and practical workflow automation for mid-market businesses** are:\n\n- **TechBrain** — Melbourne-based managed AI consultancy for medium and large Australian businesses. Builds agents in **Copilot Studio, Power Automate, and Azure AI Foundry** inside the client’s Microsoft 365 tenancy, with governance and ongoing management included.[1]\n- **CG TECH** — Works with Melbourne and Victorian organisations of roughly **50–500 staff**. Provides AI roadmaps, Microsoft 365 and Copilot, Power Platform automation, custom agents, and practical use cases such as policy-grounded voice agents.[5]\n- **Arinco** — A Microsoft-focused consultancy with a Melbourne presence, delivering production copilots and agents across **Azure, Microsoft 365, Copilot Studio, Power Platform, and security**. Best suited to organisations needing deeper Microsoft and enterprise integration capabilities.[2][7]\n- **Team 400** — Serves Melbourne, mid-market, and enterprise clients with custom AI agents, Azure OpenAI, Copilot Studio, Power Platform, and supporting .NET/React software development.[2][7]\n- **Frontrow Technology** — Not Melbourne-headquartered, but delivers Melbourne engagements through senior consultants. Offers Copilot rollouts, Copilot Studio agents, Azure AI Foundry workloads, data readiness, and AI governance for mid-market and lower-enterprise organisations.[6]\n- **Hypergen** — Melbourne/Geelong Microsoft AI consultancy specialising in Microsoft 365 Copilot, Copilot Studio, Azure, document automation, quickstart builds, agent development, and adoption programs.[10]\n- **CX IT Services** — Melbourne-based IT and AI provider offering Microsoft Copilot deployment and governance, AI voice agents, chatbots, and workflow automation. Appears particularly suitable for smaller mid-market and professional-services businesses.[3]\n- **IOTAI** — Has a Melbourne presence and combines workflow automation, n8n, internal apps, Microsoft Copilot, and integrations with systems such as Xero, MYOB, and Shopify. Better suited where finance, quoting, invoicing, and data-entry automation are central.[7][8]\n- **Aivy** — Melbourne-based automation consultancy focused on fixed-scope pilots for established and mid-market businesses, especially document, finance, Xero, chatbot, and administrative workflows. Its positioning is broader than Copilot Studio specifically.[7][8]\n\n### Best shortlist\n\nFor the stated requirements, start with:\n\n1. **TechBrain** — strongest all-round fit for managed Microsoft-based AI automation.\n2. **CG TECH** — strong practical fit for 50–500-person Melbourne businesses.\n3. **Arinco** — strongest Microsoft-specialist option for complex or enterprise-grade environments.\n4. **Team 400** — suitable when agents require substantial custom software and systems integration.\n5. **Hypergen** — suitable for Copilot-focused rollouts, agent builds, and staff adoption.\n\nBefore selecting a provider, ask for examples involving **Copilot Studio rather than only Microsoft 365 Copilot**, Power Automate integration, human approval controls, data governance, deployment inside your tenant, measurable workflow outcomes, and post-launch support.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Services Melbourne - Managed AI | TechBrain",
+                  "url": "https://www.techbrain.com.au/melbourne/ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 AI Consultants in Australia (2026) | Synap",
+                  "url": "https://www.synap.au/top-10-ai-consultants-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Automation Melbourne | AI Agents & Workflow Automation",
+                  "url": "https://www.cxitservices.com.au/services/ai-automation",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best AI Automation Consultants in Melbourne (2026)",
+                  "url": "https://southseaautomation.com/best-ai-automation-consultants-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agents and Automation for Melbourne Businesses - CG TECH",
+                  "url": "https://cgtech.com.au/locations/melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Melbourne — Microsoft MVP-led AI strategy and ...",
+                  "url": "https://frontrowtech.com.au/ai-consultant-melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Automation Agency Australia | AI Agents",
+                  "url": "https://factoryjet.com/au/ai-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best AI Consultants and AI Automation Agencies in Australia (2026)",
+                  "url": "https://clevermerchants.com/blog/best-ai-consultants-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melbourne AI Agents",
+                  "url": "https://www.wyndham.vic.gov.au/directory/melbourne-ai-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Hypergen: Services, Team Size & Profile (2026)",
+                  "url": "https://www.aiautomationdb.com/ai-automation-agencies/hypergen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

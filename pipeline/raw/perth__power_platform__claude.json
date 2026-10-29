@@ -1,0 +1,236 @@
+{
+  "slug": "perth",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Perth? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:38.647Z",
+  "cost": 0.059089,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9953,
+      "output_tokens": 1242,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.058489,
+      "datetime": "2026-10-29 04:06:33 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable Microsoft Power Platform consulting partners in Perth, WA:\n\n---\n\n## 🏆 Best Microsoft Power Platform Consultants in Perth\n\n---\n\n### 1. **Power Platform Experts Perth** (by Office Experts Group)\n🌐 powerplatformexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their highly experienced consulting team is renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services across Power Automate, Power Apps, Power BI, and Power Pages.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have 25+ years of experience helping businesses streamline operations.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A dedicated Power Platform brand with deep Microsoft specialisation, long track record, and a Perth-local team.\n\n---\n\n### 2. **Office Experts Group**\n🌐 officeexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Office Experts Group has been in the industry since 2000 and covers the full Microsoft ecosystem, including Excel automation, Word template development, Access databases, and Power Platform solutions.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build automated approval workflows, mobile-ready data collection apps for field teams, and live Power BI dashboards — particularly useful for organisations managing remote sites or FIFO operations.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Ideal for WA's mining, resources, and infrastructure sectors, with deep knowledge of industries that drive the Western Australian economy.\n\n---\n\n### 3. **Ultron Developments**\n🌐 ultrondevelopments.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron is an Australian Microsoft consultancy based in Perth, supporting organisations across Australia. Their role is to make a complicated delivery decision understandable, build the right system, and leave a clear operating boundary behind.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Core delivery includes Power Apps, Power Automate, Dataverse, Power BI, Microsoft Fabric, SharePoint, Microsoft 365, Microsoft Copilot, and bounded AI workflows, with integration considered where the solution requires it.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A strong choice if you want a technically rigorous partner that covers the full modern Microsoft stack including AI and Microsoft Fabric — and you want to deal directly with an Australian consultant, not a sales queue.\n\n---\n\n### 4. **Report Simple**\n🌐 reportsimple.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a Microsoft Power Platform consulting partner, Report Simple helps Australian organisations get governed, joined-up value from Power BI, Power Apps, Power Automate, and Dataverse, rather than disconnected point solutions — setting the roadmap, the governance, and the architecture so citizen development accelerates the business safely.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Work is delivered by senior, Australian Microsoft specialists who understand how the whole Power Platform fits together.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Best suited for organisations that need a strategic, governance-first approach to Power Platform adoption rather than just point-in-time development.\n\n---\n\n### 5. **A Dark Cloud Creative**\n🌐 adarkcloud.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Dark Cloud Creative provides a Perth-based starting point for Power Platform work, with remote help across Australia, covering Power Automate, Power Apps, and Power Pages.",
+              "annotations": [
+                {
+                  "title": "Power Platform support Perth",
+                  "url": "https://www.adarkcloud.com.au/services/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They focus on IT help for sole traders and small teams in Perth, with fees agreed before work begins.",
+              "annotations": [
+                {
+                  "title": "Power Platform support Perth",
+                  "url": "https://www.adarkcloud.com.au/services/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A great option for small businesses or sole traders looking for affordable, transparent Power Platform support without enterprise-scale overhead.\n\n---\n\n## 📝 Summary Table\n\n| Consultant | Best For | Perth-Based? |\n|---|---|---|\n| Power Platform Experts | Full Power Platform, all business sizes | ✅ |\n| Office Experts Group | Mining, FIFO, infrastructure sectors | ✅ |\n| Ultron Developments | Modern stack incl. AI & Fabric | ✅ |\n| Report Simple | Governance-first strategy | ✅ (AU-wide) |\n| A Dark Cloud Creative | Small business & sole traders | ✅ |\n\n---\n\n> 💡 **Tip:** When selecting a partner, look for Microsoft certifications, industry experience relevant to your sector (especially mining/resources in WA), and whether they offer post-implementation support and training.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consultants Perth Australia",
+        "Microsoft Power Platform consulting partners Perth Western Australia"
+      ]
+    }
+  ]
+}

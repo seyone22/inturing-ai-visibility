@@ -1,0 +1,173 @@
+{
+  "slug": "brisbane",
+  "pk": "workflow_automation",
+  "plat": "aimode",
+  "text": "Which consultancies in Brisbane are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__workflow_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:02.225Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which consultancies in Brisbane are best for business workflow automation and Microsoft Power Automate implementation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20consultancies%20in%20Brisbane%20are%20best%20for%20business%20workflow%20automation%20and%20Microsoft%20Power%20Automate%20implementation%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-29 04:04:56 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "`Several prominent consultancies and digital specialists` operate out of Brisbane with a core focus on business process automation, workflow design, and Microsoft Power Automate implementation:\n\n- **Breadcrumb Digital** : Located on Queen Street in Brisbane City, they specialise exclusively in the Microsoft 365 ecosystem. Their team focuses on making information systems easier to manage and collaborate on, offering targeted delivery across Power Automate, Power Apps, Power BI, and Microsoft Teams.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hBeWRIZG9abTQYCg)\n- **CG TECH** : Headquartered on Eagle Street in Brisbane City, CG TECH is a dedicated digital transformation and automation consultancy . While technology-agnostic (spanning Microsoft as well as generative AI tools), they focus extensively on practical business process automation and enterprise-grade Power Platform implementation designed to reduce manual workloads for teams.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU5HTmlibUpvGAo)\n- **[Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane) / Office Experts Group** : A specialized Australian Microsoft consulting group with a strong local Brisbane presence. They provide end-to-end low-code solutions centered around Microsoft-certified expertise in Power Automate workflow deployment, database integration, Power Apps, and Power BI dashboards.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane)\n- **Applecart Digital** : Operating out of Queen Street, Brisbane, Applecart Digital caters heavily to small-to-medium enterprises looking to extract more value out of the Microsoft 365 productivity suite . They assist with consulting, custom Power Apps/Power Automate development, and hands-on staff training.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNk1HaGpNWEJ3GAo)\n- **[Bremmar](https://bremmar.com.au/microsoft-power-automate-brisbane/)** : A prominent Queensland Microsoft partner known for rolling out Power Automate and cloud transformation architectures, particularly serving complex sectors like not-for-profits, aged care, and disability services in the Brisbane region.[[1]](https://bremmar.com.au/microsoft-power-automate-brisbane/)\n\nTo help narrow down which of these partners aligns best with your needs, could you share:\n\n- What **systems or software** (e.g., SharePoint, Dynamics 365, Salesforce, SQL) do you need Power Automate to integrate with?\n- What is the rough **scale of your organization** (SME, Enterprise, or Public Sector)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several prominent consultancies and digital specialists operate out of Brisbane with a core focus on business process automation, workflow design, and Microsoft Power Automate implementation:",
+              "markdown": "`Several prominent consultancies and digital specialists` operate out of Brisbane with a core focus on business process automation, workflow design, and Microsoft Power Automate implementation:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Breadcrumb Digital : Located on Queen Street in Brisbane City, they specialise exclusively in the Microsoft 365 ecosystem. Their team focuses on making information systems easier to manage and collaborate on, offering targeted delivery across Power Automate, Power Apps, Power BI, and Microsoft Teams. Breadcrumb Digital Breadcrumb Digital CG TECH : Headquartered on Eagle Street in Brisbane City, CG TECH is a dedicated digital transformation and automation consultancy. While technology-agnostic (spanning Microsoft as well as generative AI tools), they focus extensively on practical business process automation and enterprise-grade Power Platform implementation designed to reduce manual workloads for teams. CG TECH CG TECH , CG TECH is a dedicated digital transformation and automation consultancy CG TECH Power Platform Experts / Office Experts Group : A specialized Australian Microsoft consulting group with a strong local Brisbane presence. They provide end-to-end low-code solutions centered around Microsoft-certified expertise in Power Automate workflow deployment, database integration, Power Apps, and Power BI dashboards. Applecart Digital : Operating out of Queen Street, Brisbane, Applecart Digital caters heavily to small-to-medium enterprises looking to extract more value out of the Microsoft 365 productivity suite. They assist with consulting, custom Power Apps/Power Automate development, and hands-on staff training. Applecart Digital , Applecart Digital caters heavily to small-to-medium enterprises looking to extract more value out of the Microsoft 365 productivity suite Applecart Digital Bremmar : A prominent Queensland Microsoft partner known for rolling out Power Automate and cloud transformation architectures, particularly serving complex sectors like not-for-profits, aged care, and disability services in the Brisbane region.",
+              "markdown": "- **Breadcrumb Digital** : Located on Queen Street in Brisbane City, they specialise exclusively in the Microsoft 365 ecosystem. Their team focuses on making information systems easier to manage and collaborate on, offering targeted delivery across Power Automate, Power Apps, Power BI, and Microsoft Teams.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hBeWRIZG9abTQYCg)\n- **CG TECH** : Headquartered on Eagle Street in Brisbane City, CG TECH is a dedicated digital transformation and automation consultancy . While technology-agnostic (spanning Microsoft as well as generative AI tools), they focus extensively on practical business process automation and enterprise-grade Power Platform implementation designed to reduce manual workloads for teams.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU5HTmlibUpvGAo)\n- **[Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane) / Office Experts Group** : A specialized Australian Microsoft consulting group with a strong local Brisbane presence. They provide end-to-end low-code solutions centered around Microsoft-certified expertise in Power Automate workflow deployment, database integration, Power Apps, and Power BI dashboards.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane)\n- **Applecart Digital** : Operating out of Queen Street, Brisbane, Applecart Digital caters heavily to small-to-medium enterprises looking to extract more value out of the Microsoft 365 productivity suite . They assist with consulting, custom Power Apps/Power Automate development, and hands-on staff training.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNk1HaGpNWEJ3GAo)\n- **[Bremmar](https://bremmar.com.au/microsoft-power-automate-brisbane/)** : A prominent Queensland Microsoft partner known for rolling out Power Automate and cloud transformation architectures, particularly serving complex sectors like not-for-profits, aged care, and disability services in the Brisbane region.[[1]](https://bremmar.com.au/microsoft-power-automate-brisbane/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Experts",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "domain": "www.powerplatformexperts.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Bremmar",
+                  "description": null,
+                  "url": "https://bremmar.com.au/microsoft-power-automate-brisbane/",
+                  "domain": "bremmar.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hBeWRIZG9abTQYCg",
+                  "title": "Breadcrumb Digital | Microsoft Specialists",
+                  "text": "Level 18/324 Queen St, Brisbane City QLD 4000 · Breadcrumb helps organisations get more value from Microsoft 365 by making informa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU5HTmlibUpvGAo",
+                  "title": "CG TECH",
+                  "text": "Level 14/167 Eagle St, Brisbane City QLD 4000 · CG TECH is an Australian digital transformation, automation and AI consultancy bas..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "title": "Power Platform Consultants Brisbane",
+                  "text": "Workflow automation, process optimisation, database/template enhancement, macro development, and system integration across diverse..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSNk1HaGpNWEJ3GAo",
+                  "title": "Applecart Digital Brisbane",
+                  "text": "20d/444 Queen St, Brisbane City QLD 4000 · Applecart Digital is a Brisbane based digital agency. We are specialised in helping sma..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "bremmar.com.au",
+                  "domain": "bremmar.com.au",
+                  "url": "https://bremmar.com.au/microsoft-power-automate-brisbane/",
+                  "title": "Microsoft Power Automate Brisbane - Bremmar",
+                  "text": "At Bremmar, our Microsoft Power Automate approach has revolutionised the Not For Profit, Aged Care and Disability Care industries ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these partners aligns best with your needs, could you share:",
+              "markdown": "To help narrow down which of these partners aligns best with your needs, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What systems or software (e.g., SharePoint, Dynamics 365, Salesforce, SQL) do you need Power Automate to integrate with? What is the rough scale of your organization (SME, Enterprise, or Public Sector)?",
+              "markdown": "- What **systems or software** (e.g., SharePoint, Dynamics 365, Salesforce, SQL) do you need Power Automate to integrate with?\n- What is the rough **scale of your organization** (SME, Enterprise, or Public Sector)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+              "title": "Power Platform Consultants Brisbane",
+              "text": "Workflow automation, process optimisation, database/template enhancement, macro development, and system integration across diverse business and government sectors."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hBeWRIZG9abTQYCg",
+              "title": "Breadcrumb Digital | Microsoft Specialists",
+              "text": "Level 18/324 Queen St, Brisbane City QLD 4000 · Breadcrumb helps organisations get more value from Microsoft 365 by making information easier to find, processes easier to manage, and collaboration easier to achieve."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU5HTmlibUpvGAo",
+              "title": "CG TECH",
+              "text": "Level 14/167 Eagle St, Brisbane City QLD 4000 · CG TECH is an Australian digital transformation, automation and AI consultancy based in Brisbane. We work with business and technical leaders across the private and public sector to design, build and embed automation and AI that takes real work off their teams. Technology agnostic, we work across Microsoft, OpenAI, Anthropic, Perplexity and open-source, picking the right tools for the job. Our services include advisory and enablement, agentic and generative AI, business process automation, digital workplace, data and analytics, and sales and CRM. Everything we build is safe by design, with the controls regulated industries expect. Senior consultants, fixed-price discovery, and on-the-ground delivery in Brisbane, Sydney and Melbourne."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

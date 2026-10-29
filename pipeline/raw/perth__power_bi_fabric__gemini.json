@@ -1,0 +1,436 @@
+{
+  "slug": "perth",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:34.430Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When evaluating Microsoft Power BI and Microsoft Fabric analytics consultancies in Perth for **operational reporting** and **data warehousing**, the local market tends to divide into two primary categories: **specialized boutique data firms** that move quickly on custom reporting and architecture, and **enterprise systems integrators** suited for large-scale mining, government, and multi-system ERP deployments.\n\n---\n\n### 1. Specialized Perth-Based Data & Analytics Boutiques\n\nThese firms focus specifically on the modern Microsoft data stack (Fabric, OneLake, Lakehouse/Warehouse, and Power BI semantic models) and typically offer fast turnaround and deep architectural agility.\n\n*   **Access Analytic**\n    *   **Focus:** Power BI reporting, DAX optimization, operational dashboard design, financial modeling, and Fabric adoption.\n    *   **Profile:** One of Perth’s most recognized names in the local Microsoft community (co-hosts of the Perth Power BI & Modern Excel User Group). They excel at converting sprawling operational spreadsheets and disparate transactional databases into governed, high-performing Power BI models and dashboards.\n*   **AGER BI**\n    *   **Focus:** End-to-end Microsoft Fabric implementation, Medallion architecture (Bronze/Silver/Gold), OneLake data warehousing, and real-time Power BI reporting.\n    *   **Profile:** Headquartered in Perth with delivery nationwide. They specialize in architecting modern data warehouses inside Fabric, migrating legacy SQL/Azure systems, and establishing robust semantic layers for operational teams.\n*   **SolveBI**\n    *   **Focus:** Native Microsoft Fabric data engineering, OneLake lakehouse/warehouses, real-time intelligence, and custom operational dashboards.\n    *   **Profile:** A dedicated Perth consultancy focusing squarely on Fabric and Power BI. They have particular depth in Fabric Warehouse, T-SQL pipelines, and real-time operational streaming using KQL and Fabric Real-Time Intelligence.\n*   **Data One Technologies (DOT)**\n    *   **Focus:** Modern data platform architecture, Microsoft Fabric, enterprise data warehousing, and operational Power BI dashboards.\n    *   **Profile:** Located on St Georges Terrace in Perth, DOT specializes in resources, mining, and government sectors. They focus heavily on medallion architectures, star schema modeling, row-level security (RLS), and operational reporting.\n\n---\n\n### 2. Tier-1 & Enterprise Microsoft Partners (Perth Presence)\n\nIf you are dealing with multi-million-dollar transformations involving Dynamics 365, SAP, extensive IoT infrastructure, or strict corporate governance frameworks, these enterprise players maintain large Perth consulting benches:\n\n*   **Velrada (an NRI company)**\n    *   **Focus:** Enterprise-scale Microsoft Fabric, Azure data warehousing, Power BI, and Microsoft Copilot integrations.\n    *   **Profile:** Founded and headquartered in Perth (St Georges Terrace), Velrada is one of Australia's premier Microsoft Solutions Partners and a Microsoft Fabric Featured Partner. They are deeply entrenched in WA’s resources, utilities, and local government sectors.\n*   **Telstra Purple (incorporating Readify & Kloud)**\n    *   **Focus:** Enterprise cloud migrations, Azure Synapse/Fabric lakehouse architecture, real-time analytics, and operational Power BI.\n    *   **Profile:** Telstra Purple’s Perth technical team has heavy engineering expertise in building large-scale data platforms, pipeline automation (ADF/Fabric pipelines), and complex BI deployments for infrastructure and heavy industry.\n*   **Data#3**\n    *   **Focus:** Microsoft modern data estate, Fabric architecture, Azure Data Factory, and enterprise Power BI governance.\n    *   **Profile:** With a major team in Perth, Data#3 assists enterprise clients in bridging IT procurement, cloud infrastructure licensing, and modern data warehouse implementations.\n*   **Avanade / Accenture**\n    *   **Focus:** Global Tier-1 Microsoft implementation partner with deep local presence for mining and utility majors in Perth.\n    *   **Profile:** Ideal for large enterprises needing enterprise-wide Fabric rollouts, global 24/7 support models, and complex ERP-to-warehouse integrations.\n\n---\n\n### 3. National Consultancies with Active WA Delivery\n\n*   **Professional Advantage:** A Microsoft Solutions Partner with a national footprint that frequently delivers Fabric OneLake consolidation and Power BI operational reporting projects for mid-to-large enterprises.\n*   **Datacom:** Offers strong cloud, data engineering, and Fabric consulting services across Western Australia, with a focus on cross-platform integration (Dynamics, ERPs, and Microsoft data stacks).\n\n---\n\n### How to Select the Right Consultant for Your Project\n\n| If your primary need is... | Best Fit |\n| :--- | :--- |\n| **Rapid operational dashboards, financial modeling, or upskilling internal BI staff** | **Access Analytic** or **SolveBI** |\n| **Greenfield Microsoft Fabric deployment (Lakehouse, OneLake, Medallion layer)** | **AGER BI**, **SolveBI**, or **Data One Technologies** |\n| **Large-scale enterprise data warehousing tied into Dynamics 365/ERP & Mining ops** | **Velrada**, **Data#3**, or **Telstra Purple** |\n\n**Key Questions to Ask Potential Partners:**\n1. *Direct Lake vs. Import Mode:* How do they design Fabric semantic models to utilize **Direct Lake mode** for real-time reporting without exceeding Fabric capacity limits?\n2. *Medallion Architecture:* What is their standard approach for designing Bronze, Silver, and Gold layers inside OneLake for operational vs. historical reporting?\n3. *Capacity (F-SKU) Governance:* How do they monitor and manage Fabric capacity units (CU) to prevent unexpected compute consumption throttling during automated ETL refreshes?",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Velrada%22+%22Power+BI%22+OR+%22Fabric%22+Perth&client=app-vertex-grounding&safesearch=active\">&quot;Velrada&quot; &quot;Power BI&quot; OR &quot;Fabric&quot; Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+BI+Microsoft+Fabric+analytics+consultants+Perth&client=app-vertex-grounding&safesearch=active\">Power BI Microsoft Fabric analytics consultants Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Access+Analytic%22+Perth+Power+BI&client=app-vertex-grounding&safesearch=active\">&quot;Access Analytic&quot; Perth Power BI</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Fabric+partner+Perth+data+warehouse+operational+reporting&client=app-vertex-grounding&safesearch=active\">Microsoft Fabric partner Perth data warehouse operational reporting</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Telstra+Purple%22+Microsoft+Fabric+Power+BI+Perth&client=app-vertex-grounding&safesearch=active\">&quot;Telstra Purple&quot; Microsoft Fabric Power BI Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Microsoft+Fabric+Power+BI+Perth&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Microsoft Fabric Power BI Perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data+One+Technologies%22+Perth+Power+BI&client=app-vertex-grounding&safesearch=active\">&quot;Data One Technologies&quot; Perth Power BI</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Wardy+IT%22+OR+%22Datacom%22+%22Fabric%22+Power+BI+Perth&client=app-vertex-grounding&safesearch=active\">&quot;Wardy IT&quot; OR &quot;Datacom&quot; &quot;Fabric&quot; Power BI Perth</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGudJwjnGfNuMoGlaIeE0l4SgI7I0GaHUreb3orUnDIdGs17UXrCZk60xhe04eO4Ys499v_DJ1J8AZa2FXLY2jBsjP6FqBlhE8PHKqW1G3BftzsgXjb2Tw=",
+                "title": "slideshare.net"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgak9KepobuuHYpUTa7QqdncLJRbpD163slo-8UDs3gqfx3csO8qbGqEJ411HEeDZKe-ievkL8bpcAQVwKVhSojG5lLazsgBi23ZLQYuPHEgsVD_tfB5uRC19mA0dBAw3X1sLw8A==",
+                "title": "accessanalytic.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGIhzZZvmeOFIav2xFNRaEJzZ5Lp3-OoEGzrh9Jm2gB9oqcvox36I1p3DXyjHsqR2sI5oKbyhTGtEnvoj6QgF87z-4Qds8hyn8lgiAepyu-VCJuOkgf_K1vboVLBvIaMfZdWbftAlVsuKbiOq0_IYUlpIafg6GMtAnLA==",
+                "title": "meetup.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3AGJavGhtGD4Ybqb90DofwLGed3lpvTBh4r0acpF-pxVUZ7BfxmBVofck7ZnHv0zmtcSHoeS6GF8P2grtVkFlmyue2j_k64cU4ktePtwc3RaHPq9NPBOE1tDUQMHgsyF0k60_9cPX",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGkhpPpLbebyuAqdqTwINCZkP0DJBhCgcgKBP4mEN9lY04ChJbbODtSTWHMr9cV1muCUgSLKf3f9jImBsRCnIJsbUtIl0Rp1G2",
+                "title": "solvebi.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSddJVfkYuxMBho2NcC65KNJ7uSX9VPBKby42OirpPHJOJuDy_q3Bi0mZz9ne41KukEoCzUWEzRtHSaKnAB_XnAoxP3VhFsCLKyQuqdgnF",
+                "title": "solvebi.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHinRgKaXmjg2oMVxtnV9N9fR1iqd5e-2032RsBYvLjOX3Pd9VfufRyJvzAv1v70zPfurL-6gu_c54XDUaBKIxufiVioYdCr9uWqztpvoNKEHDBRzKQFUdmYGYjwSq2wk5Y",
+                "title": "dataonetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShbed_y7nKHKYlZ6mV1B6qSfAHN8s1Y-JRo2B_IXA0QJlL3vsutvZ36x5LNKQLN3GA-FSLERv8ustQIpOvn0sza1ytiGT5T8twbhKMIoNA0-IMVJk7k3o8SDcISPTtmodAw==",
+                "title": "dataonetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl2O_0YXqXruXLezWbKqGzyCEJNX9EVOBqws3ZR47XLvrA5eOnsxtSLlfYMTcBKNAluepynPbWftpzIVaXDdJSugmu9PNcrfibTLnB4Iul0T2sDsnEFGhR-kmLfxvEDBOG",
+                "title": "dataonetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAJvrcwr7HlMuKCPIUxWltx5x0Pu1LrdMGMKuNMtqGn8jcH5xtEqD0KIB9_abYzQluy7HRsCdowGM0u0YLsr2GEixlqkU2f5ctQ==",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8vf_esjoC37-85wuRhGw7Qvzn8FnI_98tGnDF7THIFoKAJMi8KghW_5W5arFvUzWG_6dhJfpzD6dwpug904RSuKkPW2IEm6WWsCl_hpO_1160wY4=",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw8hw9CdoqvOzgbg0E2wR7v0JYHe-i9x-vLXd7MiuRqxBoK26IYv_JtHvh1xufzELLmXrB1sWb4J-dzyumKmhYyZGLvTN1LvTktkQXJ5lOazQwR0vSw-5IAUB4ug==",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIV6v1xYtLjtTIc3S5VLObQcrZPDIZIcnneiP6OBmqoXEtOcXBSDbgywc_g3oV60rWqBGKF1u34ji6fO-cfzofaJWg1DznJlWP3uvJ2mvsVB8FJg7n1_f13jrr4IiFDNz-R9a_bCty-x8N1o3Zv_Kzjw==",
+                "title": "continia.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoD1XlYDyxzinkqdIZA33HSoft8DcpRPpVL6KmfZNloccD_0T5oa_ydJbsotX_sZmh53dephu8ANvV1fy6LFr78EKO8a49775uNbpiUCX42y_r1UT9JEK6wQc8R1OynpNB_1UDrMrtVnbzVbBw35O1Rztxk5bNh6wMUch_3VRod0uzEPP9dUHVTdZhHmDyc2RjWS7XC1yUNImgLgaUWr7ipz_utwmCduOIh7fQmez46XzGEmgQLtZQ24vq74Pc57aRNQLyhLIzjGJr6ti_U9gbZg==",
+                "title": "service.gov.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG30Jlk8yiD2hPlxatAqybifXWyhVqiXZGjVymAgCQNC37W3Yx7_GiYaZnohXYN7cAFPk5DBKVPhaKLZSxF4VMcF4zTM2H9gWUAjTXIiYwLUGxGfE2d2fwjQHsHwxmPbGRo6cU593T5jJFhdXT75pvoKCgAr3uCy3oDngjHCYW5ndsWol3xTbPmO4JxAmiEvMArXIQpTVE=",
+                "title": "techpartner.news"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERf-W3uVydMZqDtoN5UrTdLmMUdUk_F6_UFUsQs7_6pltd70lCdjqSpN3x-_Pfy7DS03xNrDIIc-stGzRZ3DvVjnsbwZrxqY6N4pCz9JmaGT9VaYTwcvWTlSQ8Mhxs_Yv2EQ0abf4ca2LnT4P0Hko=",
+                "title": "issuu.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHQ-JLgj9rge52hDkVkqDvWcdeDqfAN1tGM0qqXaxS4UOWIotATatAavQmYLiuClJxqAP8PVbzpF-VmrmPAvTVsDUPOoQK_1GNimvqnCz2RhZSKfoarwIqW1w5LhhLbK7FgZTDn7fbOaQ_X9S0fMws",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENZgpSfdCLyvBy5pvfruntdSpNC5M2aR2LCYkWwfCuTIyHe3LDSZuen25LjcKwBYHV11jZBVHUPXpSZy6PrBSTZGdzMNGJLCrT8j8l1CB5jgUp_cIPFI8TcbNDgTmCoofnoITcWrIkhADH4IWMmaMMnGtmZcYPlA==",
+                "title": "jora.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbSUDStq-O-k4PSwEC-QmHYjdA0hETEeOb9MZsNsFUnaM7Z7KDmlnvUCQdP5tcvLoojKq7tnrhIOOBViKK7iCbd4GfOfN3FU3TK5JDB5gMahuBhE7Na8TJD_mAtqnw7474dI3WKz_UsdG_fE_vkgn269OKzP9GAYQ=",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm4DVMsFabPS-R6BJwYy0RW9_F6aBByQFpDKFjuhaUUsd4nSRGOSd7TOzAOZciCdEXnG77Ypjp1MDHw6O8LqhfXNK8jwORUuihWsXchvHFhKFczjRzvK33SzgDh7gsrrgRIUw49uUiEXVk2vx1QnAGHafKQbvrh_7_b9YDijuAuX7IGeceBv75ZD63wcCi3wH1VgTUxUmG-6Eton4ug9q2mqoa4Q==",
+                "title": "dxc.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6-YCEbPS98ViZplCRSLqCyL8vuYqRGqoOU1jB6PUc45TnGdkfpMTm0JpiYWB02q7H0Nao2NDBK7WyQaH3naU6FBP-IfzDLa2jnNcIrXDHhX89BdAk-A-FuRHBm10oFog0VpNIZD1DE9fx4EIdJdUrWRw=",
+                "title": "indeed.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEolZ44W9oLCvz7gpdSdFoYrLM1H4cNhTK1zG9kdBYUzsx6wdacVJkObQE5QlO9BnWLcyLOLeYuN_dCtzCIVMhbKOEsB0_oq-eQx8U8pn84t67UsdCTXsZYDqNBTlXLCA5qyAqZng==",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw6f4vSU__DOYPXd-pxa3IxTfpxncaWO9eRc4A8ud4l5v7AHnjRhbrnYf-D3siVzMoslbY88NcYhUXr4qBLkMRZVzhiW-KEWZftE2k6FMz67Bit9myStoMnyB6y-IGWQCIlSvAmBDNhWNmArdzYM158Jx5XlU_T1gSppul4PLmlA==",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl1Bz4cP2xnOw4sPhZyknMMddHqeseiU9pvI6e765gUbwDi-VaXIEZgAehSs3VaHasGeQw_1qtNk9mlF5yI2DE796JC_3VU0OWKAl5jTEwhgl9iSKaUHuCAvPqiwEDyGFL_Wx-RHX_aRjhU7WXyVc=",
+                "title": "seek.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 716,
+                "endIndex": 834,
+                "text": "**Focus:** Power BI reporting, DAX optimization, operational dashboard design, financial modeling, and Fabric adoption"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 844,
+                "endIndex": 987,
+                "text": "**Profile:** One of Perth’s most recognized names in the local Microsoft community (co-hosts of the Perth Power BI & Modern Excel User Group)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1174,
+                "endIndex": 1332,
+                "text": "**Focus:** End-to-end Microsoft Fabric implementation, Medallion architecture (Bronze/Silver/Gold), OneLake data warehousing, and real-time Power BI reporting"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1342,
+                "endIndex": 1402,
+                "text": "**Profile:** Headquartered in Perth with delivery nationwide"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1404,
+                "endIndex": 1571,
+                "text": "They specialize in architecting modern data warehouses inside Fabric, migrating legacy SQL/Azure systems, and establishing robust semantic layers for operational teams"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1597,
+                "endIndex": 1737,
+                "text": "**Focus:** Native Microsoft Fabric data engineering, OneLake lakehouse/warehouses, real-time intelligence, and custom operational dashboards"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1747,
+                "endIndex": 1830,
+                "text": "**Profile:** A dedicated Perth consultancy focusing squarely on Fabric and Power BI"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1832,
+                "endIndex": 1976,
+                "text": "They have particular depth in Fabric Warehouse, T-SQL pipelines, and real-time operational streaming using KQL and Fabric Real-Time Intelligence"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2022,
+                "endIndex": 2150,
+                "text": "**Focus:** Modern data platform architecture, Microsoft Fabric, enterprise data warehousing, and operational Power BI dashboards"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2160,
+                "endIndex": 2273,
+                "text": "**Profile:** Located on St Georges Terrace in Perth, DOT specializes in resources, mining, and government sectors"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2275,
+                "endIndex": 2395,
+                "text": "They focus heavily on medallion architectures, star schema modeling, row-level security (RLS), and operational reporting"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2738,
+                "endIndex": 2852,
+                "text": "**Focus:** Enterprise-scale Microsoft Fabric, Azure data warehousing, Power BI, and Microsoft Copilot integrations"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2862,
+                "endIndex": 3038,
+                "text": "**Profile:** Founded and headquartered in Perth (St Georges Terrace), Velrada is one of Australia's premier Microsoft Solutions Partners and a Microsoft Fabric Featured Partner"
+              },
+              "groundingChunkIndices": [
+                11,
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3040,
+                "endIndex": 3127,
+                "text": "They are deeply entrenched in WA’s resources, utilities, and local government sectors"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3192,
+                "endIndex": 3322,
+                "text": "**Focus:** Enterprise cloud migrations, Azure Synapse/Fabric lakehouse architecture, real-time analytics, and operational Power BI"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3332,
+                "endIndex": 3565,
+                "text": "**Profile:** Telstra Purple’s Perth technical team has heavy engineering expertise in building large-scale data platforms, pipeline automation (ADF/Fabric pipelines), and complex BI deployments for infrastructure and heavy industry"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3590,
+                "endIndex": 3706,
+                "text": "**Focus:** Microsoft modern data estate, Fabric architecture, Azure Data Factory, and enterprise Power BI governance"
+              },
+              "groundingChunkIndices": [
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3716,
+                "endIndex": 3892,
+                "text": "**Profile:** With a major team in Perth, Data#3 assists enterprise clients in bridging IT procurement, cloud infrastructure licensing, and modern data warehouse implementations"
+              },
+              "groundingChunkIndices": [
+                16,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3930,
+                "endIndex": 4051,
+                "text": "**Focus:** Global Tier-1 Microsoft implementation partner with deep local presence for mining and utility majors in Perth"
+              },
+              "groundingChunkIndices": [
+                19,
+                20
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4279,
+                "endIndex": 4489,
+                "text": "**Professional Advantage:** A Microsoft Solutions Partner with a national footprint that frequently delivers Fabric OneLake consolidation and Power BI operational reporting projects for mid-to-large enterprises"
+              },
+              "groundingChunkIndices": [
+                21
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4495,
+                "endIndex": 4690,
+                "text": "**Datacom:** Offers strong cloud, data engineering, and Fabric consulting services across Western Australia, with a focus on cross-platform integration (Dynamics, ERPs, and Microsoft data stacks)"
+              },
+              "groundingChunkIndices": [
+                22,
+                23
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Velrada\" \"Power BI\" OR \"Fabric\" Perth",
+            "Power BI Microsoft Fabric analytics consultants Perth",
+            "\"Access Analytic\" Perth Power BI",
+            "Microsoft Fabric partner Perth data warehouse operational reporting",
+            "\"Telstra Purple\" Microsoft Fabric Power BI Perth",
+            "\"Data#3\" Microsoft Fabric Power BI Perth",
+            "\"Data One Technologies\" Perth Power BI",
+            "\"Wardy IT\" OR \"Datacom\" \"Fabric\" Power BI Perth"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 626,
+      "candidatesTokenCount": 1421,
+      "totalTokenCount": 3373,
+      "cachedContentTokenCount": 324,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 626
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 324
+        }
+      ],
+      "thoughtsTokenCount": 1326,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "XsbiavKABbjD694PvfjM8Qc"
+  }
+}

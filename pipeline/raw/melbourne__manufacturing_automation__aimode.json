@@ -1,0 +1,187 @@
+{
+  "slug": "melbourne",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:01.902Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Melbourne looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Melbourne%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-29 04:03:56 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When you want to layer automation, shop-floor data capture, and process orchestration on top of an existing ERP without ripping and replacing it, the `Microsoft Power Platform` (Power Apps, Power Automate, Power BI, and Copilot Studio) is an ideal \"glue.\"\n\nFor a Melbourne-based manufacturer, you should look for consulting partners who understand operational technology (OT), shop-floor realities (shift work, rugged devices, offline capabilities), and complex ERP integration patterns (via standard connectors, custom APIs, or data gateways).[[1]](https://eagle360.consulting/microsoft-power-platform-partner-in-australia/)[[2]](https://www.inturing.com.au/manufacturing)\n\nSpecialist and experienced partners to consider include:\n\n1. **Inturing** \n\t- **Focus:** Dedicated [Inturing Power Platform for Manufacturing](https://www.inturing.com.au/manufacturing) consulting, implementation, and optimization across Australia.\n\t- **Why them:** They specialize heavily in manufacturing operational workflows—building shop-floor Power Apps, automated approval loops, production tracking dashboards, and digital quality/safety audit trails that cleanly layer over existing enterprise systems.[[1]](https://www.inturing.com.au/manufacturing)\n2. **Eagle360 Consulting** \n\t- **Focus:** Microsoft partner with a strong presence in Melbourne and Sydney specializing in low-code architecture, Dataverse, and governed Power Platform solutions.\n\t- **Why them:** They excel at mid-market integration and structured deployments (including fixed-price scope frameworks), ensuring that your shop-floor apps and automated flows talk securely to your databases and ERP backbones without creating shadow-IT nightmares.[[1]](https://eagle360.consulting/microsoft-power-platform-partner-in-australia/)\n3. **C9 (C9 Partners / C9 Power Platform Automation)** \n\t- **Focus:** Process automation and enterprise low-code integration servicing Melbourne organizations.\n\t- **Why them:** They focus on heavy-duty Power Automate workflow orchestration and data consolidation, connecting disparate systems, legacy tools, and Microsoft 365 environments into cohesive operational layers.[[1]](https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate)\n4. **Local Enterprise / Boutique Microsoft Gold Partners** \n\t- *Note:* Larger national/global tier-1 Microsoft partners (such as Avanade, Empired/Telstra Purple, or Velrada) also have massive Melbourne practices, though they typically target larger enterprise transformations. For mid-market manufacturing, specialized boutique firms often provide faster turnaround and pragmatic, shop-floor-friendly designs.\n\nTo help narrow down which of these consultants matches your setup best, could you share:\n\n- What **ERP system** are you currently running?\n- What specific **shop-floor data capture** challenges are you facing first (e.g., paper-based work orders, barcode scanning, machine data)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When you want to layer automation, shop-floor data capture, and process orchestration on top of an existing ERP without ripping and replacing it, the Microsoft Power Platform (Power Apps, Power Automate, Power BI, and Copilot Studio) is an ideal \"glue.\"",
+              "markdown": "When you want to layer automation, shop-floor data capture, and process orchestration on top of an existing ERP without ripping and replacing it, the `Microsoft Power Platform` (Power Apps, Power Automate, Power BI, and Copilot Studio) is an ideal \"glue.\"",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a Melbourne-based manufacturer, you should look for consulting partners who understand operational technology (OT), shop-floor realities (shift work, rugged devices, offline capabilities), and complex ERP integration patterns (via standard connectors, custom APIs, or data gateways).",
+              "markdown": "For a Melbourne-based manufacturer, you should look for consulting partners who understand operational technology (OT), shop-floor realities (shift work, rugged devices, offline capabilities), and complex ERP integration patterns (via standard connectors, custom APIs, or data gateways).[[1]](https://eagle360.consulting/microsoft-power-platform-partner-in-australia/)[[2]](https://www.inturing.com.au/manufacturing)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Eagle360 Consulting",
+                  "domain": "eagle360.consulting",
+                  "url": "https://eagle360.consulting/microsoft-power-platform-partner-in-australia/",
+                  "title": "Microsoft Power Platform expert partner - Eagle360 Consulting",
+                  "text": "Eagle360 is a Microsoft partner in Sydney and Melbourne that builds governed Power Platform solutions and Copilot agents for Austr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Power Platform can integrate with ERP and manufacturing systems using connectors, gateways, APIs and database integration."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Specialist and experienced partners to consider include:",
+              "markdown": "Specialist and experienced partners to consider include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Inturing Focus: Dedicated Inturing Power Platform for Manufacturing consulting, implementation, and optimization across Australia. Why them: They specialize heavily in manufacturing operational workflows—building shop-floor Power Apps, automated approval loops, production tracking dashboards, and digital quality/safety audit trails that cleanly layer over existing enterprise systems. Eagle360 Consulting Focus: Microsoft partner with a strong presence in Melbourne and Sydney specializing in low-code architecture, Dataverse, and governed Power Platform solutions. Why them: They excel at mid-market integration and structured deployments (including fixed-price scope frameworks), ensuring that your shop-floor apps and automated flows talk securely to your databases and ERP backbones without creating shadow-IT nightmares. C9 (C9 Partners / C9 Power Platform Automation) Focus: Process automation and enterprise low-code integration servicing Melbourne organizations. Why them: They focus on heavy-duty Power Automate workflow orchestration and data consolidation, connecting disparate systems, legacy tools, and Microsoft 365 environments into cohesive operational layers. Local Enterprise / Boutique Microsoft Gold Partners Note: Larger national/global tier-1 Microsoft partners (such as Avanade, Empired/Telstra Purple, or Velrada) also have massive Melbourne practices, though they typically target larger enterprise transformations. For mid-market manufacturing, specialized boutique firms often provide faster turnaround and pragmatic, shop-floor-friendly designs.",
+              "markdown": "1. **Inturing** \n\t- **Focus:** Dedicated [Inturing Power Platform for Manufacturing](https://www.inturing.com.au/manufacturing) consulting, implementation, and optimization across Australia.\n\t- **Why them:** They specialize heavily in manufacturing operational workflows—building shop-floor Power Apps, automated approval loops, production tracking dashboards, and digital quality/safety audit trails that cleanly layer over existing enterprise systems.[[1]](https://www.inturing.com.au/manufacturing)\n2. **Eagle360 Consulting** \n\t- **Focus:** Microsoft partner with a strong presence in Melbourne and Sydney specializing in low-code architecture, Dataverse, and governed Power Platform solutions.\n\t- **Why them:** They excel at mid-market integration and structured deployments (including fixed-price scope frameworks), ensuring that your shop-floor apps and automated flows talk securely to your databases and ERP backbones without creating shadow-IT nightmares.[[1]](https://eagle360.consulting/microsoft-power-platform-partner-in-australia/)\n3. **C9 (C9 Partners / C9 Power Platform Automation)** \n\t- **Focus:** Process automation and enterprise low-code integration servicing Melbourne organizations.\n\t- **Why them:** They focus on heavy-duty Power Automate workflow orchestration and data consolidation, connecting disparate systems, legacy tools, and Microsoft 365 environments into cohesive operational layers.[[1]](https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate)\n4. **Local Enterprise / Boutique Microsoft Gold Partners** \n\t- *Note:* Larger national/global tier-1 Microsoft partners (such as Avanade, Empired/Telstra Purple, or Velrada) also have massive Melbourne practices, though they typically target larger enterprise transformations. For mid-market manufacturing, specialized boutique firms often provide faster turnaround and pragmatic, shop-floor-friendly designs.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Inturing Power Platform for Manufacturing",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "domain": "www.inturing.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Inturing delivers Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations across Australia."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Eagle360 Consulting",
+                  "domain": "eagle360.consulting",
+                  "url": "https://eagle360.consulting/microsoft-power-platform-partner-in-australia/",
+                  "title": "Microsoft Power Platform expert partner - Eagle360 Consulting",
+                  "text": "Eagle360 is a Microsoft partner in Sydney and Melbourne that builds governed Power Platform solutions and Copilot agents for Australian mid-market businesses"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "C9 Pty.Ltd.",
+                  "domain": "www.c9.com.au",
+                  "url": "https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate",
+                  "title": "Melbourne Power Platform Automation Experts - C9",
+                  "text": "User-Friendly Low-Code Applications Empower your Melbourne team with custom Power Apps. We create intuitive, user-friendly interfa..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these consultants matches your setup best, could you share:",
+              "markdown": "To help narrow down which of these consultants matches your setup best, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What ERP system are you currently running? What specific shop-floor data capture challenges are you facing first (e.g., paper-based work orders, barcode scanning, machine data)?",
+              "markdown": "- What **ERP system** are you currently running?\n- What specific **shop-floor data capture** challenges are you facing first (e.g., paper-based work orders, barcode scanning, machine data)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "www.inturing.com.au",
+              "url": "https://www.inturing.com.au/manufacturing",
+              "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+              "text": "Inturing delivers Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations across Australia."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Eagle360 Consulting",
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/microsoft-power-platform-partner-in-australia/",
+              "title": "Microsoft Power Platform expert partner - Eagle360 Consulting",
+              "text": "Eagle360 is a Microsoft partner in Sydney and Melbourne that builds governed Power Platform solutions and Copilot agents for Australian mid-market businesses"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "C9 Pty.Ltd.",
+              "domain": "www.c9.com.au",
+              "url": "https://www.c9.com.au/Melbourne/Process-Automation/Power-Platform-Power-Automate",
+              "title": "Melbourne Power Platform Automation Experts - C9",
+              "text": "User-Friendly Low-Code Applications Empower your Melbourne team with custom Power Apps. We create intuitive, user-friendly interfaces that enable staff to capture..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "slug": "perth",
+  "pk": "power_apps",
+  "plat": "claude",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_apps__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:19.017Z",
+  "cost": 0.063988,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10396,
+      "output_tokens": 1480,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063388,
+      "datetime": "2026-10-29 04:07:13 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of the leading Microsoft Power Apps and Dataverse consultants in Perth who are well-suited to building custom operational business apps for warehouse, shop-floor, or field teams:\n\n---\n\n## 🏆 Leading Power Apps & Dataverse Consultants in Perth\n\n---\n\n### 1. 🥇 Ultron Developments *(Perth-Based Specialist — Top Pick)*\n**Website:** ultrondevelopments.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron is an Australian Microsoft consultancy based in Perth, supporting organisations across Australia.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They stand out for their operational focus, which directly maps to warehouse, shop-floor, and field team use cases.\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build role-based applications and automated workflows for field, office, and operational teams, backed by controlled data and identity — replacing forms, email approvals, and operational spreadsheets.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in custom Canvas & Model-Driven apps, Dataverse architecture, and governance.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Core delivery includes Power Apps, Power Automate, Dataverse, Power BI, Microsoft Fabric, SharePoint, Microsoft 365, Microsoft Copilot, and bounded AI workflows, with integration considered where the solution requires it.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Permissions, environment strategy, testing, release controls, documentation, ownership, and support can be included in the delivery scope rather than left as assumptions.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron Developments is an Australian delivery team based in Perth, WA, and can coordinate projects remotely across Australia or arrange on-site workshops where they add value.",
+              "annotations": [
+                {
+                  "title": "Power Apps Developers & Consultants Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🥈 Eversdale Technology *(Perth Microsoft Partner — Dynamics & Power Platform)*\n**Website:** eversdaletech.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Eversdale Technology is Perth's specialist Microsoft Dynamics 365 and Power Platform partner, delivering business transformation since 1997, with a 100% Perth-based team.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Apps lets them build tailored, mobile-ready business applications quickly — without the cost of full custom development.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver work order management, intelligent scheduling, IoT integration, and field technician mobile apps.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- Their full stack covers Dynamics 365, Power Apps, Power BI, Power Automate, Microsoft Copilot, and Field Service — making them a strong choice for more complex operational environments.\n\n---\n\n### 3. 🥉 Office Experts Group / Power Platform Experts *(Operating Since 2000)*\n**Website:** officeexperts.com.au | powerplatformexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating since 2000, they are one of Australia's longest-standing Microsoft consulting groups with a local Perth team.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build automated approval workflows, mobile-ready data collection apps for field teams, and live Power BI dashboards — particularly useful for organisations managing remote sites or FIFO operations.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Perth consultants implement Power Platform solutions for businesses throughout Western Australia, developing custom Power Apps, Power Automate workflows, Power BI dashboards, and Power Pages portals.",
+              "annotations": [
+                {
+                  "title": "Australia's Trusted Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their consultants cover every part of the Microsoft ecosystem — from Excel and Access through to Power Platform, Microsoft 365, and custom development.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. Concetto Labs *(Power Platform Development Company in Perth)*\n**Website:** concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Using low-code or no-code approaches, they enable companies to build bespoke apps via Power Apps, simplifying and digitising processes, with custom applications tailored to different company demands.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Perth",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They work with both PowerApps and Dataverse as core delivery tools.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Perth",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They leverage Microsoft Power Platform's security capabilities such as role-based access control, data encryption, compliance tools, and Dataverse integration.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Perth",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- They have a relevant case study in aeronautical parts quality inspection — a useful reference point for shop-floor and quality control scenarios.\n\n---\n\n## 🔑 Key Things to Look for When Choosing\n\n| Criteria | Why It Matters for Warehouse/Shop-Floor/Field |\n|---|---|\n| **Dataverse expertise** | Governs your operational data with proper relationships, security roles & audit trails |\n| **Canvas vs. Model-Driven App skills** | Canvas = mobile-first field apps; Model-Driven = structured operational systems |\n| **Power Automate integration** | Automates approvals, alerts, and handovers between teams |\n| **Perth-based or on-site capable** | Enables site visits for process discovery in warehouses or on shop floors |\n| **Microsoft Partner status** | Indicates certified, accountable delivery |\n\n---\n\n**Recommendation:** For warehouse, shop-floor, or field team apps specifically, **Ultron Developments** and **Eversdale Technology** stand out as the most operationally focused Perth-based options. Ultron is particularly strong on Dataverse architecture and role-based app design, while Eversdale brings deep Dynamics 365 + Field Service integration capability for more complex environments.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power Apps Dataverse consultants Perth warehouse shop-floor field teams",
+        "Power Apps custom business apps consultants Perth Western Australia"
+      ]
+    }
+  ]
+}

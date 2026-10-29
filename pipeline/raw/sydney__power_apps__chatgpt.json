@@ -1,0 +1,946 @@
+{
+  "slug": "sydney",
+  "pk": "power_apps",
+  "plat": "chatgpt",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Sydney for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__power_apps__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:16.276Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Sydney for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Sydney%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hints=search",
+      "datetime": "2026-10-29 04:03:10 +00:00",
+      "markdown": "# Leading Power Apps and Dataverse consultants in Sydney\n\nFor custom operational apps serving warehouse staff, shop-floor operators and field teams, I’d prioritise consultancies that can do more than build a Power Apps interface. You want a team that understands **Dataverse data modelling, mobile usability, offline work, barcode or QR scanning, workflow automation, and integration with ERP or inventory systems**\\.\n\nBased on current public service descriptions, I’d start with the following shortlist. This is a fit-based assessment, not a definitive industry ranking: the strongest choice depends on whether you need a focused low-code build or a larger business-systems implementation.\n\n## My recommended shortlist\n\n![Microsoft Power Platform | Superware | Human-centred applications for superhuman results.](https://images.openai.com/static-rsc-4/X1IpLthtQwUwR1yWR7EDXMQi6dwmd0NibUYvQNXEgUWzfempGxMMka1akICPvVgWRiqc0mO-_kEAVEnn8gFE5dZQrtryaddQ4xKtJtOReRRUGsOja8rIego1FKvMi3wAI3Tv6zrSVEOo28-EQgf7sb5rhrPWZ5HayoMap8QLTOFmDkOJFsbh9fakRLsjm9dc?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Best fit for operational apps)\n\nInturing explicitly targets operational business apps for warehouses, shop floors and field teams. Its published services include Power Apps, Dataverse, Power Automate, integration with ERP/MES/PLM systems, and operational analytics. It also describes manufacturing, wholesale and distribution use cases. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its positioning closely matches your use case, particularly if you want to digitise operational processes without replacing your existing core systems.\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\n---\n\n![CoSource | Software Development Sydney | Expert Development Services NSW](https://images.openai.com/static-rsc-4/hpCz0ml1YgDnVzI-_F9xhnT4sHhJRgCGwVhnZV9uiFZ-SXts-MYb6Qzph1J14gajGoC6HgHryg033FZe54GqVWT-bhGX_wgvNYtrTvTb2z1RdnYq6_0X5oaYRRsK7pxQIOReif27y6xGXg7sFxTzR2DOow-xvO-1DAjreI7gIO71pAeYCD8XoRWaR_cD9j8l?purpose=fullsize)\n\n## 2\\. codeSource\n\ncodeSource offers Sydney-based Power Platform consulting and custom Canvas and model-driven Power Apps, including mobile data-entry applications, workflow automation, reporting and integration with existing systems. [codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong candidate if you need a bespoke application and want software engineering and integration capability alongside low-code development.\n\nWebsite: [codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/)\n\n---\n\n![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)\n\n## 3\\. Eagle360 Consulting\n\nEagle360 is a Sydney-based Microsoft business applications consultancy specialising in Business Central, Power Platform and related business systems. Its stated industry focus includes manufacturing and distribution. [eagle360.consulting](https://eagle360.consulting/?utm_source=chatgpt.com)[www.erpresearch.com](https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com)[www.telstra.com.au](https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant when your operational app needs to connect closely to purchasing, inventory, sales orders, finance or an existing ERP.\n\nWebsite: [eagle360.consulting](https://eagle360.consulting/)\n\n---\n\n![Introduction to Power Apps: Briefing | 15 September 2021 - Barhead Solutions](https://images.openai.com/static-rsc-4/AzaJ2CPVI90cY2vh8tBGcgbNKIz5qNfHKxNDKSjYuYE0Zmtg1QbY7YIjtLeJ2zaXL-nCyRaFjksCPQhZZ_5V6JW4yFmuhYFJ8B4UKdpbraWeYoUOOb1A6rZ_YzmFwKvGLYWolgYXgnMLKX1h6Xu9z4fIRo-ZrqKxoYjkNQwbQbf3HGlDD2jZJdPCNaJZs6ur?purpose=fullsize)\n\n## 4\\. Barhead Solutions\n\nBarhead has an established Microsoft business applications practice covering Power Platform and Dynamics 365, including Field Service and wider enterprise business applications. It became part of Akkodis in 2025. [www.erpresearch.com](https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com)[www.telstra.com.au](https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering for a larger or more complex rollout involving enterprise security, integrations, Dynamics 365 and multiple teams or business units.\n\nWebsite: [barhead.com](https://barhead.com/)\n\n---\n\n![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)\n\n## 5\\. TechRam\n\nTechRam builds Power Apps and Power Automate solutions for Sydney organisations, with an emphasis on operational systems, practical automation, maintainability and keeping solutions within the customer's Microsoft environment. [techram.com.au](https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com)[techram.com.au](https://techram.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate if you want a pragmatic, relatively focused engagement to replace manual processes, registers and spreadsheets with maintainable Microsoft-based applications.\n\nWebsite: [techram.com.au](https://techram.com.au/)\n\n---\n\n![Microsoft Solutions | NCS AU](https://images.openai.com/static-rsc-4/9JakwhaAqF37E8DkBKozrGLch3PtZ8UCv3BL23PUoZyMeeK5njR2Z3NwUs6Ybr_CMKJQGV5NVv2Ppr9NOPZ1eFBU_EEfygpAFvByoeMHYqgXwA1aWAL2Wi9TYm8347JkbMSl0EgMTGpq3-B3P3UMbzCPG8SndKsXTDhilfh6szxXFSGNRWUdwykat_SSfHsl?purpose=fullsize)\n\n## 6\\. Walkerscott\n\nWalkerscott is a Sydney-based Microsoft Solutions Partner focused on Dynamics 365, Power Platform, Azure application modernisation and operational workflow solutions. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Why shortlist it\\:** An additional option if you need custom business applications supported by broader Microsoft cloud and application expertise.\n\nWebsite: [walkerscott.com](https://walkerscott.com/)\n\n## Who I’d contact first\n\nFor your particular use case, I’d narrow the initial conversations to three firms\\:\n\n| Priority | Consultant | Best reason to engage |\n|--------|--------|--------|\n| 1 | Inturing | Most explicit alignment with warehouse, shop-floor and field apps using Dataverse |\n| 2 | codeSource | Bespoke application development, mobile interfaces and integration |\n| 3 | Eagle360 | Operational apps closely connected to ERP and inventory processes |\n\n\nInturing is the clearest match on the published evidence: it specifically describes Dataverse-backed operational apps, offline capture, shop-floor readiness and ERP integration. [inturing.com.au](https://inturing.com.au/solutions/business-apps?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[learn.microsoft.com](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com)\n\n## What to ask before appointing a consultant\n\nA polished demo isn't enough for an operational system. Ask each firm to demonstrate how it would handle your actual workflow.\n\n- **Dataverse\\:** How would you model products, locations, work orders, inventory movements, inspections and users?\n- **Warehouse usability\\:** Can staff scan barcodes or QR codes, work with gloves on tablets, and minimise typing?\n- **Connectivity\\:** What happens when Wi-Fi drops in a warehouse, factory or remote field location?\n- **Integration\\:** How will transactions synchronise with your ERP, inventory platform or manufacturing system without creating duplicate or inconsistent records?\n- **Governance\\:** How will permissions, audit trails, environments, testing and deployment be managed?\n- **Ownership\\:** Will you receive the source solution, documentation, deployment process and training to maintain it?\n\nMicrosoft documents offline support for Dataverse-based canvas apps, but the consultant should demonstrate that the specific workflow and integrations work under your connectivity conditions. [learn.microsoft.com](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com)\n\n## One question to help me refine the shortlist\n\nWhat kind of operational app are you looking to build first?\n\n1\\. Primary workflow\n\nWarehouse, stock movements and barcode scanning\n\nManufacturing, work orders and quality inspections\n\nField service, maintenance and site inspections\n\nA broader operational app spanning several teams\n\n---\n\n2\\. Existing systems\n\nExisting ERP or inventory system\n\nMostly Microsoft 365 and spreadsheets\n\nStarting from scratch\n\n---\n\n3\\. Business size\n\nSmall business\n\nMid-sized business\n\nLarge enterprise or multiple sites\n\n[Refine my shortlist]\n\nWith those details, I can focus on the consultants most likely to deliver a robust production-ready solution rather than a generic Power Apps implementation.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/",
+          "domain": "techram.com.au",
+          "title": "Microsoft & SharePoint Consultants, Sydney | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/power-platform/",
+          "domain": "techram.com.au",
+          "title": "Power Apps & Power Automate Consultants, Sydney | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/microsoft-365/",
+          "domain": "techram.com.au",
+          "title": "Microsoft 365 Consultants in Sydney | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf",
+          "domain": "www.telstra.com.au",
+          "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem - Australia 2022",
+          "description": null,
+          "breadcrumb": "www.telstra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/",
+          "domain": "eagle360.consulting",
+          "title": "Eagle360 Consulting – ERP and e-Commerce Experts | Home - v2",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/",
+          "domain": "codesource.com.au",
+          "title": "Microsoft Power Platform & Power Apps Consulting | codeSource",
+          "description": null,
+          "breadcrumb": "codesource.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://msppie.com/specialists/microsoft-partner/new-south-wales/sydney",
+          "domain": "msppie.com",
+          "title": "Microsoft specialists in Sydney NSW | MSP Pie",
+          "description": null,
+          "breadcrumb": "msppie.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/technology",
+          "domain": "inturing.com.au",
+          "title": "Microsoft Power Platform Technology | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions/business-apps",
+          "domain": "inturing.com.au",
+          "title": "Operational Business Apps with Power Apps | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://sydneydynamics.com/",
+          "domain": "sydneydynamics.com",
+          "title": "SydneyDynamics — Data Migration Consulting",
+          "description": null,
+          "breadcrumb": "sydneydynamics.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.erpresearch.com/dynamics-partners/barhead-solutions",
+          "domain": "www.erpresearch.com",
+          "title": "Barhead Solutions — Dynamics 365 Gold Partner | ERP Research",
+          "description": null,
+          "breadcrumb": "www.erpresearch.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-sydney",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Sydney | Office Experts Group Australia",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting",
+          "domain": "www.reportsimple.com.au",
+          "title": "Power Apps Consulting Australia | Hire Power Apps Consultants",
+          "description": null,
+          "breadcrumb": "www.reportsimple.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en-au/power-platform/contact-us",
+          "domain": "www.microsoft.com",
+          "title": "Contact Microsoft - Support for Power Platform | Microsoft Power Platform",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/locations",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Sydney",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 25 Microsoft power platform consulting companies based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/power-platform-solution-partners/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 16 Power platform solution partners based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/power-platform-consulting-companies/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 18 Power platform consulting companies based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 24 Microsoft power platform partners based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://github.com/MicrosoftDocs/powerapps-docs/blob/main/powerapps-docs/maker/canvas-apps/offline-apps.md",
+          "domain": "github.com",
+          "title": "powerapps-docs/powerapps-docs/maker/canvas-apps/offline-apps.md at main · MicrosoftDocs/powerapps-docs · GitHub",
+          "description": null,
+          "breadcrumb": "github.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps",
+          "domain": "learn.microsoft.com",
+          "title": "Develop offline-capable canvas apps - Power Apps | Microsoft Learn",
+          "description": null,
+          "breadcrumb": "learn.microsoft.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Solutions",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Platform & Power Apps Consulting",
+          "snippet": null,
+          "domain": "codesource.com.au",
+          "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "codeSource",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "codesource.com.au",
+          "snippet": null,
+          "domain": "codesource.com.au",
+          "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Eagle360 Consulting – ERP and e-Commerce Experts",
+          "snippet": null,
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Home - v2",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Barhead Solutions — Dynamics 365 Gold Partner",
+          "snippet": null,
+          "domain": "www.erpresearch.com",
+          "url": "https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "ERP Research",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem",
+          "snippet": null,
+          "domain": "www.telstra.com.au",
+          "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australia 2022",
+          "publication_date": "2022-04-13 04:36:48 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "eagle360.consulting",
+          "snippet": null,
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[eagle360.consulting](https://eagle360.consulting/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "barhead.com",
+          "snippet": null,
+          "domain": "barhead.com",
+          "url": "https://barhead.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[barhead.com](https://barhead.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps & Power Automate Consultants, Sydney",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "TechRam",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft & SharePoint Consultants, Sydney",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "TechRam",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "techram.com.au",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[techram.com.au](https://techram.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Walkerscott Pty Ltd",
+          "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "walkerscott.com",
+          "snippet": null,
+          "domain": "walkerscott.com",
+          "url": "https://walkerscott.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[walkerscott.com](https://walkerscott.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Operational Business Apps with Power Apps",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions/business-apps?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Develop offline-capable canvas apps - Power Apps",
+          "snippet": null,
+          "domain": "learn.microsoft.com",
+          "url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Learn",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Sydney Australia leading Microsoft Power Apps Dataverse consultants warehouse shop floor field service business apps"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sydney custom software and Power Platform consultancy",
+          "category": "company",
+          "markdown": "codeSource",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sydney Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "Eagle360 Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Microsoft Dynamics 365 and Power Platform consultancy, part of Akkodis",
+          "category": "company",
+          "markdown": "Barhead Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sydney Microsoft 365 and Power Platform consultancy",
+          "category": "company",
+          "markdown": "TechRam",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Microsoft business applications and cloud consultancy",
+          "category": "company",
+          "markdown": "Walkerscott",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Leading Power Apps and Dataverse consultants in Sydney\n\nFor custom operational apps serving warehouse staff, shop-floor operators and field teams, I’d prioritise consultancies that can do more than build a Power Apps interface. You want a team that understands **Dataverse data modelling, mobile usability, offline work, barcode or QR scanning, workflow automation, and integration with ERP or inventory systems**\\.\n\nBased on current public service descriptions, I’d start with the following shortlist. This is a fit-based assessment, not a definitive industry ranking: the strongest choice depends on whether you need a focused low-code build or a larger business-systems implementation.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Microsoft Power Platform | Superware | Human-centred applications for superhuman results.](https://images.openai.com/static-rsc-4/X1IpLthtQwUwR1yWR7EDXMQi6dwmd0NibUYvQNXEgUWzfempGxMMka1akICPvVgWRiqc0mO-_kEAVEnn8gFE5dZQrtryaddQ4xKtJtOReRRUGsOja8rIego1FKvMi3wAI3Tv6zrSVEOo28-EQgf7sb5rhrPWZ5HayoMap8QLTOFmDkOJFsbh9fakRLsjm9dc?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.superware.ai/what-we-do/microsoft-power-platform",
+              "alt": "Microsoft Power Platform | Superware | Human-centred applications for superhuman results.",
+              "image_url": "https://images.openai.com/static-rsc-4/X1IpLthtQwUwR1yWR7EDXMQi6dwmd0NibUYvQNXEgUWzfempGxMMka1akICPvVgWRiqc0mO-_kEAVEnn8gFE5dZQrtryaddQ4xKtJtOReRRUGsOja8rIego1FKvMi3wAI3Tv6zrSVEOo28-EQgf7sb5rhrPWZ5HayoMap8QLTOFmDkOJFsbh9fakRLsjm9dc?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform | Superware | Human-centred applications for superhuman results.](https://images.openai.com/static-rsc-4/X1IpLthtQwUwR1yWR7EDXMQi6dwmd0NibUYvQNXEgUWzfempGxMMka1akICPvVgWRiqc0mO-_kEAVEnn8gFE5dZQrtryaddQ4xKtJtOReRRUGsOja8rIego1FKvMi3wAI3Tv6zrSVEOo28-EQgf7sb5rhrPWZ5HayoMap8QLTOFmDkOJFsbh9fakRLsjm9dc?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best fit for operational apps)\n\nInturing explicitly targets operational business apps for warehouses, shop floors and field teams. Its published services include Power Apps, Dataverse, Power Automate, integration with ERP/MES/PLM systems, and operational analytics. It also describes manufacturing, wholesale and distribution use cases. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its positioning closely matches your use case, particularly if you want to digitise operational processes without replacing your existing core systems.\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Solutions",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![CoSource | Software Development Sydney | Expert Development Services NSW](https://images.openai.com/static-rsc-4/hpCz0ml1YgDnVzI-_F9xhnT4sHhJRgCGwVhnZV9uiFZ-SXts-MYb6Qzph1J14gajGoC6HgHryg033FZe54GqVWT-bhGX_wgvNYtrTvTb2z1RdnYq6_0X5oaYRRsK7pxQIOReif27y6xGXg7sFxTzR2DOow-xvO-1DAjreI7gIO71pAeYCD8XoRWaR_cD9j8l?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://cosource.dev/",
+              "alt": "CoSource | Software Development Sydney | Expert Development Services NSW",
+              "image_url": "https://images.openai.com/static-rsc-4/hpCz0ml1YgDnVzI-_F9xhnT4sHhJRgCGwVhnZV9uiFZ-SXts-MYb6Qzph1J14gajGoC6HgHryg033FZe54GqVWT-bhGX_wgvNYtrTvTb2z1RdnYq6_0X5oaYRRsK7pxQIOReif27y6xGXg7sFxTzR2DOow-xvO-1DAjreI7gIO71pAeYCD8XoRWaR_cD9j8l?purpose=fullsize",
+              "markdown": "![CoSource | Software Development Sydney | Expert Development Services NSW](https://images.openai.com/static-rsc-4/hpCz0ml1YgDnVzI-_F9xhnT4sHhJRgCGwVhnZV9uiFZ-SXts-MYb6Qzph1J14gajGoC6HgHryg033FZe54GqVWT-bhGX_wgvNYtrTvTb2z1RdnYq6_0X5oaYRRsK7pxQIOReif27y6xGXg7sFxTzR2DOow-xvO-1DAjreI7gIO71pAeYCD8XoRWaR_cD9j8l?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. codeSource\n\ncodeSource offers Sydney-based Power Platform consulting and custom Canvas and model-driven Power Apps, including mobile data-entry applications, workflow automation, reporting and integration with existing systems. [codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong candidate if you need a bespoke application and want software engineering and integration capability alongside low-code development.\n\nWebsite: [codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Platform & Power Apps Consulting",
+              "snippet": null,
+              "domain": "codesource.com.au",
+              "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "codeSource",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "codesource.com.au",
+              "snippet": null,
+              "domain": "codesource.com.au",
+              "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[codesource.com.au](https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sydney custom software and Power Platform consultancy",
+              "category": "company",
+              "markdown": "codeSource",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.myob.com/au/implementation-partners/eagle360-consulting",
+              "alt": "Eagle360 Consulting MYOB Partner Profile",
+              "image_url": "https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize",
+              "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Eagle360 Consulting\n\nEagle360 is a Sydney-based Microsoft business applications consultancy specialising in Business Central, Power Platform and related business systems. Its stated industry focus includes manufacturing and distribution. [eagle360.consulting](https://eagle360.consulting/?utm_source=chatgpt.com)[www.erpresearch.com](https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com)[www.telstra.com.au](https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant when your operational app needs to connect closely to purchasing, inventory, sales orders, finance or an existing ERP.\n\nWebsite: [eagle360.consulting](https://eagle360.consulting/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Eagle360 Consulting – ERP and e-Commerce Experts",
+              "snippet": null,
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Home - v2",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Barhead Solutions — Dynamics 365 Gold Partner",
+              "snippet": null,
+              "domain": "www.erpresearch.com",
+              "url": "https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "ERP Research",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem",
+              "snippet": null,
+              "domain": "www.telstra.com.au",
+              "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australia 2022",
+              "publication_date": "2022-04-13 04:36:48 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "eagle360.consulting",
+              "snippet": null,
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[eagle360.consulting](https://eagle360.consulting/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sydney Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "Eagle360 Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Introduction to Power Apps: Briefing | 15 September 2021 - Barhead Solutions](https://images.openai.com/static-rsc-4/AzaJ2CPVI90cY2vh8tBGcgbNKIz5qNfHKxNDKSjYuYE0Zmtg1QbY7YIjtLeJ2zaXL-nCyRaFjksCPQhZZ_5V6JW4yFmuhYFJ8B4UKdpbraWeYoUOOb1A6rZ_YzmFwKvGLYWolgYXgnMLKX1h6Xu9z4fIRo-ZrqKxoYjkNQwbQbf3HGlDD2jZJdPCNaJZs6ur?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://barhead.com/20210915-introduction-to-power-apps-briefing/",
+              "alt": "Introduction to Power Apps: Briefing | 15 September 2021 - Barhead Solutions",
+              "image_url": "https://images.openai.com/static-rsc-4/AzaJ2CPVI90cY2vh8tBGcgbNKIz5qNfHKxNDKSjYuYE0Zmtg1QbY7YIjtLeJ2zaXL-nCyRaFjksCPQhZZ_5V6JW4yFmuhYFJ8B4UKdpbraWeYoUOOb1A6rZ_YzmFwKvGLYWolgYXgnMLKX1h6Xu9z4fIRo-ZrqKxoYjkNQwbQbf3HGlDD2jZJdPCNaJZs6ur?purpose=fullsize",
+              "markdown": "![Introduction to Power Apps: Briefing | 15 September 2021 - Barhead Solutions](https://images.openai.com/static-rsc-4/AzaJ2CPVI90cY2vh8tBGcgbNKIz5qNfHKxNDKSjYuYE0Zmtg1QbY7YIjtLeJ2zaXL-nCyRaFjksCPQhZZ_5V6JW4yFmuhYFJ8B4UKdpbraWeYoUOOb1A6rZ_YzmFwKvGLYWolgYXgnMLKX1h6Xu9z4fIRo-ZrqKxoYjkNQwbQbf3HGlDD2jZJdPCNaJZs6ur?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Barhead Solutions\n\nBarhead has an established Microsoft business applications practice covering Power Platform and Dynamics 365, including Field Service and wider enterprise business applications. It became part of Akkodis in 2025. [www.erpresearch.com](https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com)[www.telstra.com.au](https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering for a larger or more complex rollout involving enterprise security, integrations, Dynamics 365 and multiple teams or business units.\n\nWebsite: [barhead.com](https://barhead.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Barhead Solutions — Dynamics 365 Gold Partner",
+              "snippet": null,
+              "domain": "www.erpresearch.com",
+              "url": "https://www.erpresearch.com/dynamics-partners/barhead-solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "ERP Research",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem",
+              "snippet": null,
+              "domain": "www.telstra.com.au",
+              "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australia 2022",
+              "publication_date": "2022-04-13 04:36:48 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "barhead.com",
+              "snippet": null,
+              "domain": "barhead.com",
+              "url": "https://barhead.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[barhead.com](https://barhead.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Microsoft Dynamics 365 and Power Platform consultancy, part of Akkodis",
+              "category": "company",
+              "markdown": "Barhead Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+              "alt": "Microsoft Power Platform Consulting | Professional Advantage Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. TechRam\n\nTechRam builds Power Apps and Power Automate solutions for Sydney organisations, with an emphasis on operational systems, practical automation, maintainability and keeping solutions within the customer's Microsoft environment. [techram.com.au](https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com)[techram.com.au](https://techram.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate if you want a pragmatic, relatively focused engagement to replace manual processes, registers and spreadsheets with maintainable Microsoft-based applications.\n\nWebsite: [techram.com.au](https://techram.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps & Power Automate Consultants, Sydney",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "TechRam",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft & SharePoint Consultants, Sydney",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "TechRam",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "techram.com.au",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[techram.com.au](https://techram.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sydney Microsoft 365 and Power Platform consultancy",
+              "category": "company",
+              "markdown": "TechRam",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Microsoft Solutions | NCS AU](https://images.openai.com/static-rsc-4/9JakwhaAqF37E8DkBKozrGLch3PtZ8UCv3BL23PUoZyMeeK5njR2Z3NwUs6Ybr_CMKJQGV5NVv2Ppr9NOPZ1eFBU_EEfygpAFvByoeMHYqgXwA1aWAL2Wi9TYm8347JkbMSl0EgMTGpq3-B3P3UMbzCPG8SndKsXTDhilfh6szxXFSGNRWUdwykat_SSfHsl?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.ncs.co/en-au/services/partner-solutions/microsoft-solutions/?redirectFrom=MS-Dynamics",
+              "alt": "Microsoft Solutions | NCS AU",
+              "image_url": "https://images.openai.com/static-rsc-4/9JakwhaAqF37E8DkBKozrGLch3PtZ8UCv3BL23PUoZyMeeK5njR2Z3NwUs6Ybr_CMKJQGV5NVv2Ppr9NOPZ1eFBU_EEfygpAFvByoeMHYqgXwA1aWAL2Wi9TYm8347JkbMSl0EgMTGpq3-B3P3UMbzCPG8SndKsXTDhilfh6szxXFSGNRWUdwykat_SSfHsl?purpose=fullsize",
+              "markdown": "![Microsoft Solutions | NCS AU](https://images.openai.com/static-rsc-4/9JakwhaAqF37E8DkBKozrGLch3PtZ8UCv3BL23PUoZyMeeK5njR2Z3NwUs6Ybr_CMKJQGV5NVv2Ppr9NOPZ1eFBU_EEfygpAFvByoeMHYqgXwA1aWAL2Wi9TYm8347JkbMSl0EgMTGpq3-B3P3UMbzCPG8SndKsXTDhilfh6szxXFSGNRWUdwykat_SSfHsl?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. Walkerscott\n\nWalkerscott is a Sydney-based Microsoft Solutions Partner focused on Dynamics 365, Power Platform, Azure application modernisation and operational workflow solutions. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Why shortlist it\\:** An additional option if you need custom business applications supported by broader Microsoft cloud and application expertise.\n\nWebsite: [walkerscott.com](https://walkerscott.com/)\n\n## Who I’d contact first\n\nFor your particular use case, I’d narrow the initial conversations to three firms\\:\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott Pty Ltd",
+              "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "walkerscott.com",
+              "snippet": null,
+              "domain": "walkerscott.com",
+              "url": "https://walkerscott.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[walkerscott.com](https://walkerscott.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Microsoft business applications and cloud consultancy",
+              "category": "company",
+              "markdown": "Walkerscott",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Priority | Consultant | Best reason to engage |\n|--------|--------|--------|\n| 1 | Inturing | Most explicit alignment with warehouse, shop-floor and field apps using Dataverse |\n| 2 | codeSource | Bespoke application development, mobile interfaces and integration |\n| 3 | Eagle360 | Operational apps closely connected to ERP and inventory processes |\n\n",
+          "table": {
+            "table_header": [
+              "Priority",
+              "Consultant",
+              "Best reason to engage"
+            ],
+            "table_content": [
+              [
+                "1",
+                "Inturing",
+                "Most explicit alignment with warehouse, shop-floor and field apps using Dataverse"
+              ],
+              [
+                "2",
+                "codeSource",
+                "Bespoke application development, mobile interfaces and integration"
+              ],
+              [
+                "3",
+                "Eagle360",
+                "Operational apps closely connected to ERP and inventory processes"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\nInturing is the clearest match on the published evidence: it specifically describes Dataverse-backed operational apps, offline capture, shop-floor readiness and ERP integration. [inturing.com.au](https://inturing.com.au/solutions/business-apps?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[learn.microsoft.com](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com)\n\n## What to ask before appointing a consultant\n\nA polished demo isn't enough for an operational system. Ask each firm to demonstrate how it would handle your actual workflow.\n\n- **Dataverse\\:** How would you model products, locations, work orders, inventory movements, inspections and users?\n- **Warehouse usability\\:** Can staff scan barcodes or QR codes, work with gloves on tablets, and minimise typing?\n- **Connectivity\\:** What happens when Wi-Fi drops in a warehouse, factory or remote field location?\n- **Integration\\:** How will transactions synchronise with your ERP, inventory platform or manufacturing system without creating duplicate or inconsistent records?\n- **Governance\\:** How will permissions, audit trails, environments, testing and deployment be managed?\n- **Ownership\\:** Will you receive the source solution, documentation, deployment process and training to maintain it?\n\nMicrosoft documents offline support for Dataverse-based canvas apps, but the consultant should demonstrate that the specific workflow and integrations work under your connectivity conditions. [learn.microsoft.com](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com)\n\n## One question to help me refine the shortlist\n\nWhat kind of operational app are you looking to build first?\n\n1\\. Primary workflow\n\nWarehouse, stock movements and barcode scanning\n\nManufacturing, work orders and quality inspections\n\nField service, maintenance and site inspections\n\nA broader operational app spanning several teams\n\n---\n\n2\\. Existing systems\n\nExisting ERP or inventory system\n\nMostly Microsoft 365 and spreadsheets\n\nStarting from scratch\n\n---\n\n3\\. Business size\n\nSmall business\n\nMid-sized business\n\nLarge enterprise or multiple sites\n\n[Refine my shortlist]\n\nWith those details, I can focus on the consultants most likely to deliver a robust production-ready solution rather than a generic Power Apps implementation.",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Operational Business Apps with Power Apps",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions/business-apps?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Develop offline-capable canvas apps - Power Apps",
+              "snippet": null,
+              "domain": "learn.microsoft.com",
+              "url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/offline-apps?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Learn",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

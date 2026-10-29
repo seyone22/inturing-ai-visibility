@@ -1,0 +1,290 @@
+{
+  "slug": "brisbane",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:48.714Z",
+  "cost": 0.060349,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9368,
+      "output_tokens": 1443,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.059749,
+      "datetime": "2026-10-29 04:05:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong Power Platform and automation consultants in Brisbane who specialise in helping manufacturers automate order processing, shop-floor data capture, and operations **without replacing their existing ERP**. Here's a curated shortlist worth contacting:\n\n---\n\n## 🏭 Brisbane Power Platform & Automation Consultants for Manufacturers\n\n---\n\n### 1. 🔵 Power Platform Experts (Office Experts Group)\n**Website:** powerplatformexperts.com.au | **Phone:** 1300 102 810\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their nationwide team has 25+ years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Brisbane",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Brisbane",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — all of which can sit on top of your existing ERP via connectors. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Brisbane",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they suit manufacturers:** Workflow automation and custom apps are ideal for shop-floor data capture and order processing layers that connect to (not replace) your ERP.\n\n---\n\n### 2. 🟠 Alphavima\n**Website:** alphavima.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a certified Microsoft Solutions Partner delivering Power Apps, Power Automate, Power BI, and Power Pages projects.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 20+ years of Microsoft platform experience, they configure Power Apps, Power Automate, Power BI, and Power Pages around how your team actually works.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they suit manufacturers:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They automate approvals, notifications, data entry, and system updates, and build automated workflows using Power Automate to replace manual handoffs with rules-based automation that runs 24/7.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also set up a Power Platform Centre of Excellence (CoE) for organisations that need to scale Power Platform adoption while maintaining IT oversight and compliance.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🟢 C9 Brisbane\n**Website:** c9.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "C9 delivers custom Power Platform solutions designed for growing Brisbane businesses.",
+              "annotations": [
+                {
+                  "title": "Brisbane Power Platform Development Experts",
+                  "url": "https://www.c9.com.au/Brisbane/Process-Automation/Power-Platform-Power-Automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their specialised Power Platform and Power Automate services are engineered to revolutionise organisational productivity, transforming complex workflows into streamlined, intelligent processes.",
+              "annotations": [
+                {
+                  "title": "Brisbane Power Platform Development Experts",
+                  "url": "https://www.c9.com.au/Brisbane/Process-Automation/Power-Platform-Power-Automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they suit manufacturers:** Their focus on precision automation for Brisbane enterprises makes them a good fit for structured manufacturing workflows like order processing and production tracking.\n\n---\n\n### 4. 🟡 Workforcery\n**Website:** workforcery.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build low-code solutions to automate business processes, specialising in Power BI, Power Apps, and Power Automate to transform business processes.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants",
+                  "url": "https://www.workforcery.com/powerplatform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Automate solutions focus on automating workflows and utilising connectors to enhance productivity and reduce manual task load.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants",
+                  "url": "https://www.workforcery.com/powerplatform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they suit manufacturers:** Their connector-first approach means they can bridge your existing ERP data with new automation layers — no rip-and-replace required.\n\n---\n\n### 5. 🔴 Team 400\n**Website:** team400.ai\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Team 400 is a Brisbane-based AI agency that provides strategy, development, and deployment of AI systems and applications.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants & Agencies: 13 Vetted Experts (2026) · The Expert Roster",
+                  "url": "https://theexpertroster.com/stack/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also cover Power Platform and Copilot Studio, making them suitable if you want to layer AI-driven automation (e.g. intelligent order triage or anomaly detection on the shop floor) on top of your ERP.\n\n---\n\n### 6. 🟣 Concetto Labs\n**Website:** concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Concetto Labs helps businesses of all sizes from start to finish, providing strategic planning, governance setup, and compliance support for smooth and successful implementations.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They empower non-technical users to build apps and automate tasks using low-code tools, reducing IT bottlenecks and promoting innovation — accelerating internal process improvements without deep coding knowledge.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why they suit manufacturers:** Great for enabling your own team (e.g. floor supervisors, ops managers) to build and maintain their own apps over time.\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you speak to these firms, make sure to ask:\n\n1. **\"Have you worked with manufacturers in Queensland?\"** — Industry experience matters for shop-floor nuances.\n2. **\"Which ERP systems have you integrated with via Power Platform connectors?\"** — e.g. SAP, MYOB Acumatica, Microsoft Dynamics, Pronto, etc.\n3. **\"Can you build shop-floor data capture apps that work offline or on tablets?\"** — Critical for factory floor environments.\n4. **\"How do you handle ERP write-back vs. read-only integrations?\"** — Important for order processing automation.\n5. **\"Do you offer ongoing support post-implementation?\"**\n\nWould you like help preparing a brief or RFQ document to send to these consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Brisbane",
+        "ERP integration automation consultants Brisbane manufacturing"
+      ]
+    }
+  ]
+}

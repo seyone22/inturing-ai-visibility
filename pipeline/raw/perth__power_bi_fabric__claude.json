@@ -1,0 +1,494 @@
+{
+  "slug": "perth",
+  "pk": "power_bi_fabric",
+  "plat": "claude",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_bi_fabric__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:37.852Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgVsMk5BdBSC2exkxkZn9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_013qVSh4QxdRHP3UH5AWHj8s",
+        "name": "web_search",
+        "input": {
+          "query": "Microsoft Power BI Fabric analytics consultants Perth operational reporting data warehousing"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01Pbh3Zcqpgj6cmR8fNkxidz",
+        "name": "web_search",
+        "input": {
+          "query": "top Power BI Microsoft Fabric consulting firms Perth Western Australia"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_013qVSh4QxdRHP3UH5AWHj8s",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "encrypted_content": "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",
+            "page_age": "71 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric Consulting & Data Integration Experts",
+            "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+            "encrypted_content": "EvMECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIKwTlGSg7+kXukzrBoM0I4Bueib7zoepvF4IjAUKrswzQjn1shY2JS8fhy+5EZPUt7uZazAGmZCf1tKgu2BoI8lfgV/EDlouijPqnkq9gObnLQcaTgka9MdIYZD3gDgHbcMF7xJQyVrWmmCOHAlleW9bw9XWmtZmNb684jgD56zbZcL/lfJOX3S/HRL7RZb58aFxS/DI5TmJAbAaNOtQFrxjsOCwYMSI0WlFRMcYVH5926tOhAzZoDDfP+IQEcn/ZsPsuDRzOx+44im1MwBzkXiSkfpLgnnJTE0YssDpY3aj03TNRRKOsPe0kxpuQsMEA/vvi2cmvKAiJHB4+dyEie1AY225n0nkPQl9ypDgj7y4sJYfxYNIqcDDVc8y82WtvqrHcsF52tW+tGZEPRaGzIx9dk2A2ZurzWrAcstzXh4gyiVGrTmow3oRfmfdCVanXW3FFxl1kZ2kSp0XyXhP11yCELmolBvWQX6B/DXJoV1kPUSPj6xc+UmYosReP2mRtPo098BT3chcK9Nz0PWvK77DoeHzuUT0mERVGQ4+WQMOuXk7fCGl+j4HRGz57do3GE71fqY6/w6GXXM5RUQTdj/4/RkVX+BiC9J97Jl0O+XY1HkSt9/PuHED3HO69KXwd0bU/M10/WvMUj7ym/jD+4m7llIVoxW2ieg3rDpAcMPs0gHE+XdtonE9vJNmA5lyOXZWBmw+q6k+oYuyHw12f1XJHDp7GAht+/lRU2I9pWBRJDwrkTiNbLS7rLevGWsemohDUkRGAM=",
+            "page_age": "128 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consulting Australia",
+            "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+            "encrypted_content": "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",
+            "page_age": "95 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric Consulting Australia",
+            "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+            "encrypted_content": "EskGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBH0xoccw0CH+Ht8choMy89UAGdTt3nLQSa2IjBTKhJqM0US7mnQUty7W3A5vFezDQdtF13whdAIhc2VHojWgVTESSHnQfp1BEtuO4gqzAX7/loLME6cV/oahF/S4eZA92Qx2nWrdoQbY59UM9k7CLomdDD1sbHMg7dtjPF72VF/mWMHdJbE/hd1GyXWhcmlYNs+u+2skdwTxQr9S8ovJuy14jPTlCsICA/pXLRCjt4Gsh+1wBWzYvWj0XM+6iVYSEQSSyBfDT7hHxI7dB8VaG3uIuzKd4dqXZDTQFV86ULcJ0KHEH6TQAPbTEQFXAd9xQ/W7qogfs3PvGPp6fcGI506a61p7xE6SmaFtSGnL/RYz9Lu1FgbwkxPRdYIm/gA6YPoW7/CeQqI1rR+NlSq+fY+lTF9W2ca4wu9aM9Xu+9IJFKr5UUn5mnd1zTTEW8wHe9AZbUbimHU1xecFu6oHWvml8p5fAUDqQO+WBDzS97NmP1kVe3U92vFId7c7VRvzea5FANfZNLnGA/qg11d6BjIix+l+aUvCHcn5nPSckMeU0X7uVaiz00TbsOJZKgayJuPpBPfoTVR8TAmf8Vwpu/9l1JG+Qwnz+zNAzG2RGZszBuoV7ppFF1AuU/MmmDwLZINyt+aHdILpcLcmwd3S8PUF/ppToHBnuuSfKR+O6pzhYv6RlEWdplWC9BpgK3EErpMQEKFOUi+S1a0Uce2mKYhgK1Cv3Z+tDd7WqhkWs8N4zBRZc0N8OdpjcNZHUk427kW0yUh+wz5aEvcUP4JzyfoRLJwyDCuLUFhuAb8Ct1Ej1O4TPSYmVK0SRrvqvEYx8E8gNJ7me40gaN2f4U2ydSRzB1sSFfd6e/gCQstrSFggm9vuzudPJNxFs8zgHq4fqov84n5fEIEzb+dM1FTK5IDlzfzJYsnQtjbzXjTJgSW0NPSAc9sQ4ul0nyE0JBEkY5i0MY5byHi9t2gzwlbPC8wG/1SW1cEHt+sGuc1jmvt+jm/d74zZPffrk+tvkSEOALl/t2SOHLAVs2p9SgepabuWqd17TU++YFk/xgD",
+            "page_age": "95 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Data Warehouse Consulting Australia",
+            "url": "https://agerbi.com.au/data-warehouse-consulting/",
+            "encrypted_content": "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",
+            "page_age": "41 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Data Analytics Consulting Australia",
+            "url": "https://agerbi.com.au/data-analytics-consulting/",
+            "encrypted_content": "EucICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLQeDn/TsoqoLJtnWhoMt4iso+f6vVeLf2d8IjD3TMqxiE8iM+szUqLagJR1bdEdxOu07cYxisjmRptG08CTu5EQJfSEtF4C1gLdGAEq6gfrghfpS1h/AlJIiWPK9+JFFkEb7b14kPiry7s5uo0Zv0OH6ro30FpoQNDdIa1sD6vfzilQWTFbTLW+obscM4K1W361AT64cEi9NKQTe/LzB078ZmSeqbwCDX7Cbqzu4mQsi+2KryfS484McV7DbB7XW0w2fgX45dXUYTQQnuVFEDAVnZ8Z7zHY/OPZiancnQKiIK93qg2YpZ88cJ9Ym0thk9uTscCrVWMFlhw6i2qcN6mIw+V1C1ChQ8x3rutrN2Vc/y7qKqmbV65Uum/tSFWwIS9zcxZZrv5T1v7xfRo+uAtHsTEsIr36bix0eWBz5cGXvm9YnB59jVeMxMPtrV10HaVSNmE2I0dEsfuQiyNJCOVMsbs4b7YAHfoylehmqJCLzSLLub3XkuSTazjmNlFpb5sqI2F/L4ZmKsWC1T6skKZLAxQhFdllDB6pILCx6LLR7vnT90O5CjuV6Me1S+H4QfLsU3heGk9t4PM1zFAip883/UosqhRI1R7GWF7VOJ0GiGtTk6N+GKnqcDAx3PsUznkt9kuWhL068tSE0bm1lC9GQzSElEFBPDOf+rU3j3SkaP4G8n/kdl8qR3dSGk0/v1uTxnDAjLLqoFd9O5ZnWiYaKQXBK/HeJCjNoN5yfNfsdRBbyZJBx6GIrDGBJwnm/EBeyy/qvq5ft0nEvK1DYyg4bkh+fJuuvTMmBO5wXLuXDhMdCugiSyiWowK2wmFZd8Anv8ARTm/NyNzb3Ne3foRFrDhTCOCHqS7/3ayRjRfLq+X3aFfQM/xfjrzTjF+Fbdkn6baeworNjIGVI13wNGLG407ipL+Gob699SpEJUSRx7523krAs1qIzwAapcwlh708esgDqqsaKEZfmpl5thJrONm9wzgVb9/tfdzmIH4kGTA/898Fo7qFEwUTTsYMdxJt5wD18LZk2zLqUxbVuZ0WnVbSFn/6W8iw83MESXQiEtxxu5gCJbOTABR81TRX1zF7tj9x8gh1ReQgterd/tbPR9J7M76B1lLRtAYnVmXlsCCVqByL3SFdqb5JOGeTEzcAu5Gkw27iKTBhPXObgUbuKkRjdjiHicrxlT7wtPYwPjr91jphuQ52x+60ke8I/LyNejAm6Tczhj3wK2hxhLSp3aGow86yNgmieRhEw0rs59uK9XZbzGxD1GPwCwtakdoZ2vYf8jY337eZFuhvmPfTIReXXYPbJqx/BeE2DkLGfuiZfD2F+C8jOEnd43l3KBO188v9fTsZtNkjFX26V448S6bjKkAuomoEP+xWwkJQMWwauqoMWcuFRncm4tySE3ehJ5LMbLKDQ7zpFoidmnorT6epdvUPmOIYAw==",
+            "page_age": "42 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Business Intelligence Consulting Perth",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "encrypted_content": "EuAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDL/4W8d90xEHbLfWGhoMqWKhc23LO5gDsoTsIjAefs5njmhEX/AOdrc1IRJ/+lCwnx2sjY65HGn2lZN4y11HjhZDmW/SfnyYvJXvdBwq4w8mLfp1AT3eHE7aYGw0OgZ3tOXZb5XibeRzcDQ4VZ+TUBV9pRTEpe0i+R8sc4IqUKqXudzj4Hu8xBVTJGwAoWNWs3USGYGcIHN3y/U++iwv37YuMySQ+MApSBiAGzOEMEyg3m66i9ZUI9qg6QjrV9keNVoQLb9kE9dpcYr4kgvsYUWOWmnKB+z51vcDkG6d69Ho0afDvSZ6p6tBXjWInkr8SODypYs+3+6SMSBQBmEwX/MlNHvLIOrR+NUkI9We0dhWd50UHsdXwvsmLHQ2wpRj5sQTCRjetWyLj7Z/QeoQiOYSbThrP2lYBGPwJFp1FZ3yjgpv7t3d6oo0OuSL0DHI80bwR03B4mod784t+YipfxHKxXDOFINldECFodbhhMHUVtZbcEoAwoTRCjarQV/e5m+vKZgUTmVnxseez1m4iblPfwQTa6IMlM+QvQkCq1EpoL84unms+dKDTA7FdFwHSsSxo3aOb9idltIMNnyaPE9xXHb71akpbU/LMRgrp34Xe9noVACHB/CKhUciENWpEcCG7ECGX6rLOsBqxnp7lbk4Vc4OlZ/vNe5t/yjRWtKrZXroHQjpI7jbbUd5EefxWr+lLbiR9Mdkd0b246RcrTuKx7QqDNf+EHFKQHwQgswFTjA0+flXjCj4JMGZQX6GduaACiI1FKN01Lmu835hL0vZpkNo3Z9JvfUmnYppUdMiJBhDtbjjLXo+AP76SQeI0nVFRJHb+3S5F2Aq4xQBjC6wB4NOuBDnhUpk9OTf90ZuUszHDkltmHUw54KAsJVcuScLWHtm7Zot9keS3ocZe5REpKozYqiZ3wgDQ1PRqWhPUT4uVUXDW/dCXK3ICwan2ADEx0g3fJBkse4f+9hCuVucIS8zu4qId29HJXUztxQc7WflbniwG2e0JbmpnToiG9dID0kjEX776yS1LgaY5XdZPHAQr/SA03zzbdpGKYv7vguS1QNAxfaowpTtrHyWbS4XiRrGSIEcRvljgEsRM9ubg4rYc5UQNQS+KU7gkzUu0YbX0VxyWApEGz5Hw0yKuuE7Kbh0hKlKndTLKhWkLg2mr4OkIGSoyG5QIJl44NO2idPtUm6TBo8/E30b2nhpuoXmdb+pfJ776J7t5Nktq1VRtRfWhtokrVe0F9p82GxgYjGezhjvKtZCLmencLrm7rFxqG8ixsNwx1a/LtciW6+j2U6YSEb+wjrspTJ/n8ec4c/xm0e+5u34UmS7sY9ykFJEJ+a7wF2NKVt29u5u1bf58BV8og6BTmGrpFJEgpzASRVio9YE1nATJkEpYR5fpwQ49F2+6c5WoRHhQreIj64rQNlBDze9is6z3WiAn1uywMDPxaOT/Nv6PUlJvUowh1Z3ITq4fgN+jWLZAYtXbSTIT82AmYsLHROm0FNBmXqe4VInPpSJxaAjUwDtzdinolwp/y7vL9rQwSKqkgV1F6nkpnC+ZFjxUOqQbiuHT+tIkS9cOsCx2gfKVPR1cA3/F6JYk0KyGJTjsFTvO4QmeL5LnVULaz+Pch0Ecg1f/GZiFde2CoHpMT7UMDgY5uTgU+0ILYs4xt9FYCLO1F34UEOdiJaqX473kfsrdDX9MhkWqI7ZxGTV4J98obWUsBEykKYHDGReYgsZZDTn/Fnaf7B+yQJK4jLubJmq0vsoMPKRg+J3klPaNYeI1NRgTN4uErUPyk9IpMFkmMMqtFzbKVOLWYKerA452OQPazAOY256TAMZFGC9RK3WpkcI+xIDfRI7DX+qc5biFmT4wsWKzKNtY6vTHjj4SNsLb3H2tkYZkQl6bmRq9tlX7iT/GRvGE5ppL1zOIPAqioLLLhsAQhCV40eofHbxitOqIcmerXeQGPSwWwMBypq1eArwhPHFnyCTE4cu/T9cm+jhR2E47i4cOH4e4DKQHOP1CoC1Tmst/XHu3csItfD5wo7mJVGlu9b0nYtzcF9JSR+ZconjM5F65B1bmnqEBm0pvcG7j0ji+EOaNm14bDn2qYKjEZnr0TqQY6/hwxRYWsmYzUMsanyM1RmfRR9fPgSXb4s90tSGB+yL2OnFMkm+QLGvaa9yRz8HXJpKy6NlNcTh2kXASx+oie6dBX7IBMzUot1sis5MlqxUUGrWL8v0f3YBnEILA2LHDzTzu8n+XIpxRpoMvUMFJRw9jfz9KJKWrrLSunp3hHk2aL58/OVbcN6sCMl+pK8gkBfvv4KQjZSxVrC0jpKg9g3lwlNWSlZAlLf/+r7n20tmzLZykqXcDfI/FALkElYuQuppCYzRqOhQUOyZuDzWyfNPyR5UKn2zwv/h/581rh8nWs2IRXVMbNwAig+CTfPJ10azUHg6umIc4hJChpYgVO615ihhp5SZz8eeAQ5SziB0vt22mtn1QkPyTLttf9UCwRINL0N9CPALeld41/owJmQE6nC+xIlFybyunKZgJ8njhRMcASoFDWaZPsJ55R86ZeKpaJFwwLye3r6V3RDGPAbCbPPvMkN2IlnGu9OUbys0dlukDN9+raUxAhbSGMY6zFHddbVYjBsOBinww3z9d9g4M0XTlFvhhN1EWXz0ryUt0AnpqGWGp4f4i8rMLtCEjjQUvKnD1hZuwHnUDuLMBlygBkcky2KXs5mzg7Ud/YvVmoJBsXckDRUxF4qArfjZWxFjmecXFhvv98lEF971okLElf0OnHMd1DY6Jt+P96kYAw==",
+            "page_age": "158 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power BI Consulting Services",
+            "url": "https://www.thevirtualforge.com/services/ai-and-data/power-bi-consulting-services",
+            "encrypted_content": "EsAICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNShVFyqdHbsUxZpKhoMBQ7++UIevZkxKU91IjBfDhsm3EyxOoas/Veio/BBY1UsDMB1aEBNJGd+htx5u3aqwjpPd1PO8ghkD5w8RbgqwwevtsU5NjpoGpHYilbBuaUYi7mlAYdpa2h8FDx7AuFFiCg/3b1O/0R0JfJOZV0e6Q9WkKc4WgomXhYE/YTJYExWLIp83EOjAMsYlgfzQ1YhXazUCHzqtHKMkStM/b1BZb6RBfOm7+MvLJ9gqShNJmtgKbOscQC/tzaQzj5WnwKbEC5+wmW4s/jlgieR7a72HAyIJTwtCpEGaI4Sv8wSEJs7diANkU0WHjmoUHDuBhb95IuNxSo/zTqZPEWEV2VQUAHgpiBvE7d/+gGixBarGMdFoH9n3wSzUX3nnw2IB/OIpdWDhkE15hCa9XzclxT7sxF3Yzwq1g0BrIryRysiVNSfv3NjjqJVoRX5x0mo8N3CJ3pBta6/6Vdk2X8hlzgFZPSmsjuXKkYS2QAsGAF/GCPXAcMz+mdXekYR9ANj6dNjDOu6butxCT8phg52moejdJEfOBMYKgLWgIsr4GFOPI4rgkxiTVAudM0XWfI47FtltNtPdQr5ktn1Qp3DtsLUF5xqtVSX5bEdzFcxMyi8PvsbVLDDPkiAeMJ0P7x9CpDOtEcNrAL41izqwjRud3vlWmofCZqsx+TnhI5EiBkVC+V/H6IAT/wVJbBafZzLnUOvIGBBhjwp4VaEm7NcPFmAAELhYdHB2JByzLLn9r6QmvCq1fgyBvr7jvCtF4cNAqm16FU0/UOQIPf5acUE+PaqTX6tEJPpWVOKkEm1bAeW7QiKReCNx8J1GcdZ34EcNAHCmDnJ92ujM+01LxifsS8MeqqL3eAfUPQ6cCc+vRkcwo0uNMmxwHDEnGw6R1ohLk8eg/BoVEj319M46JO8ZmOzwkt4XV9Qs3MBveC3P9REI0EDCY1mmZMmtBTsKn33MCUcL/BEY6EeC4T/WJeBh8GWOwOrIx8zqRuV/IuesYZgXMD2VPcUGQLh2qPBIbo6VxIF66t0pxjbVZrt8HrALbRojoE3SewN24bCZiIcPblY6O4xHZZvN1TfrzLtfLTNHhAyUrBZwnIHVVnHAk0IpPBAMMuTHBybwhiHF6oL57QjgEDQe3ePQo0xK1TVPefp8rP8IzUk+uZ2hCNHsniRRsAakWAgbR4FbLahWZhnA/0sV2sDNdbKJFZawduDIVxP7Ug9o8kUq7S+TzN3cZ6MEqwYQ5iP9KQNo9Ear7LOwxCjmGPL2azNBLUexc8CG3kFRwg++s0eA7cAEuxC2HZgtqPcSpXOdKQ4C7/Kz0mi+w9S3mZ6+AAdW/fmvlRtNFST8v4BPmaAJZS/jPw5ZHiR0m3/8X6kwqgYAw==",
+            "page_age": "20 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric Consulting Melbourne & Australia",
+            "url": "https://www.streamlineanalytics.ai/services/microsoft-fabric-melbourne",
+            "encrypted_content": "EuEECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNFcnNx9jqj1Pq4DyBoM7p0tiuLfjjiv+FeWIjCEeCX2pOBDUs5VV7Q0HJ9PPxe8iZs5RCKkAtStBE8rEHPM2esdgd3ACb/Z6U9icsMq5AMxbxuMHG17EcGZF7JxGQ9uCz+EK8R+Z/JG/XH+tqwnusQUgW6V3CoVeat/p0BA0EXf7jq/AEQmnzbbE/R3nTymw6I9sqILUnopxcI4vmJYsx2Bnf8rBk0JaK2oiJ++xQ2uyoEHv9X4nJwyCFTgllFFGrj9Pe620b8SXPTBxpXhE5BZ4nIQ5TF+/g3ZZwYUS2jUIAu+coBKE1v/ocr5LK1fQXCtMej/kr1Z4T/2ivrxVBhnssqClMY1uB/g8vHpJkvj104bWw519LhdUXu4SWN9yfGAgjpLzPOuhCvNFptp1qxyk69BH8/QlCkfRNt3LJA+KV1pIIZjyUyCNRuWLQeu1bRvSM21uUevnC1LpR0jw/DwobDl2dEvfTnrMtkWo6H1r/KnlAXhNs1iLPQNW/KLLIpAIZhmTXoy/VBHW/YDH+XrLI3jPxDJhbYrgaz66PfNZI+Yvga5jiZ0qwWZhh+rWqcEhIYZ+wq+Kr5sl9xvMehzFlIhJtIX1DWz3uBKleq/Nmfi0GHVFNHhtFYDWgS8d1Evvx8YBV/LSb9ISQHgCCRKC0UccHnY9Axkyj20RUDkCCw0Jg3keJAZsNz7VY73fwMygXp9RBjnUCzdpvQVgqhIbxqgqMKASeONYrlzv6AQUbzTGAM=",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01Pbh3Zcqpgj6cmR8fNkxidz",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "encrypted_content": "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",
+            "page_age": "71 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric in Australia",
+            "url": "https://agerbi.com.au/microsoft-fabric/",
+            "encrypted_content": "Ev8KCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDABdMJye9EZ3vb24zhoMFybS3jQ99qe46LAFIjDdXmcdnbtWN6awLriKHKENZafmxYAwopQvjdl9yFM6qP+N55z/D55MjsxMJuZJt0Iqggrb/2nkNR/WaGXln+Djzt9FAtts2RAWFy57k7idzObW5OB/7y5KvbY1uvbO5Fh9zUPTVBKHbDoowyPf5fZ2WbZP80hzyl12p3yGs7U/lrZo04IXDr5vuor+UIgRyZV29nYFw4uVB8ZiJdTepYT6E6ghYZ4XK0gf7Q6B3gxGzUygLe8JN9Q/x8Muef7Hh1wfTe6I6gjf77+c+pmvddeElJ2ZMNwubmjDVWOoIRgBkD1CAEEF5+ZYg8NcmkGXHOGxlPKfQfUjo05QCI+4gT7uRvhCTihkw1fWbVYrfcKnYorqD3RpmqGtoFTzUBX1YIHJvB1slCMJcGZIA/GpEHiG0OzrjRvNHs905aabyWya//Upyc0JMApfId9MlafZ1F8T8BVYOS99rwcDo/PVjRbFVnLo3ksNKP8ne8W4eyC+zqQYQFD/IvXDIVfljwh2C2sQTsfQsmJ+zfSUZmnfuX+Ko01bUSBKKvPtejMv3vxjBfAfXt15hAKTJU7as+IJkj0quLnaa8AP8Hi9km2KLNa/z1rV088gFhUkt4GgsUlq9ytUynaO6lB24/taJMILI4ourzltIu9fme7VgWuxDvSPXWos5fY9EBKa9eF/1MsVS9yRPNN/LRtZulltbruXkoNm6bmafPagr+6dEmgybKsg8Xya5CnM/ZNTnK7Dsv20pKv+BE1NvcR1HEkz6TWFXLqrPvhT+uoItlh3KUzCxPBBfHaq2Ia3GCTh5yQOhApP4Ly3cPQjaWiEgtq37OkodmfnKfbjJbwZbGzm18plemGalYYSE3QauLpgvmEBPm5Nk9i5U1OV9AupaKjBECoelkX6XEflB+77UyvR9yQkRM8JpvsDOAyubcmg61JYUTU9I/5LCCLvsM5DMLoOYdfxkdy7VNhgeQXrNWCbvTzKNtfVHUzzcm/ETfzhnUk0x6vYGjZCTdSXbNSivJ2U2NXnhPuJnvs53cnyN7WcEC/aDc02qQ2o5Aht+hFIRudcukRhRHngsc4oZuOEJeq8yECh7YjmqP8miiHGQPXXf4r3y24rRuh88zwjhUe8V1WJZJBCDMAP+2PtLxkjK0ixsChXcFoHuIUIotziiCDwG3Pxf9bPo4VycRKvPeX4iDq/fivnEV2tr1Aw6kvB3FoJLqsDx17vAWZOyUa2xoyeZoRXZrkHUaLnGavFRqWRlqiW56tfNuCDI4i/BgB3V8dVT+xjbS6aCu/Akuk06OJ5UNYvzxxaF+m26oLo9wxtl4ryILSAbFTGMmnzu4ZiacmUziZeQcF+0Z9KSQLNr1iRrZEVkm146OFcQGgHXUUKZh5DYpKAgslk4Qj13UBIl4ofRd4srfEvMPUwcWfDUsvSpczmwYnNur1TyY6u2WzN1B2FdE5N0bTTN8rDVo1wg54HfEzL9Kg+Kxaccaf3DHqQIWxCCDhidess5FdIB8Lt4svuGt2IOJpzA3D/y3gX+OYoambFbdYOQ6Sb+VCnDMTzNX4FL3pvMzy05CxOvdmwxwsCKHIEXALZaeaHSedCYoZJ8tTu1r96JdHZxvBQqsXbMU4Fy/qIc9u+SSMLhsyt+fxkSTEEm7llZzLMkw4LBB5p7FR1u/I+SBwRlpDu+txux4MOR9eV5w58hAeoyudmu+0AYOV8oNcdkh4xVhRx8a74wZucisoTwy/iNX6OsqNQSXNpJVwGB6kU7/dzRJBdx14NYTWD5BtQPN3gGAM=",
+            "page_age": "161 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consulting Australia - Data Analytics Experts",
+            "url": "https://agerbi.com.au/power-bi-consulting/",
+            "encrypted_content": "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",
+            "page_age": "37 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Consultants Perth",
+            "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+            "encrypted_content": "EvYICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH8NBgxqRDqFbqB39BoMECTtFrvxfaAkF2utIjBB5LE42ns4dCpZGGKH3zEeFF15f6Tn3SlfpqC7dwc6F/ZfO5uQDvdaAyazPZVb/bUq+QcfTHsyAfZuIrlDM6Wrs8r1Y+Cx+nKoIm2EfzrCBiL4RvJDh15XIwYzuR5Xp4vaimNJRNBbR3WJY3PSbClETI6cfqBVdl4LdM9tn3iO5ALS/TcSIL1cIbJELsrUPA6OA4lcsEVh7wZQyf62qLE5a7Q2bLH8IN6osdFRgiVPnCQg0fPK86HY5aaEHalyydPXuqxCJQPe4NTqglNtCarIHQovQkiPbp59sgTsHXFg10/tF+zmG9dKnvX7B2BAtpNCZfGV/A0p6I9lWXX4NI+zxWi1aKRevGQA0z8eNLZHOQ2qoOz/5O1vH1wumB4bGv8eWjQicvpjjEk//5AANgW+My7NN7VWxou0TCdd2YrHO71eeZZLEUFfxKDAxmBz7KkeV4HnTnmmh4QZH0AvvTSjY+XtnPCF6BXqwBe3T3KJjKCDyZe5LtMvxhDvntOVCWKgi0MYjyiVk1YoOpSeDADj2ow0A9ApPAEy4CGxKlRxPQRKx+hdEkWl4ws0rXanm7YyB4DU9rIc+t9XukqkzfPuYPkKF80Ny7ybYIvaPCtlifXR4NXd3syIA+GlFD+lqQlj09CDhWz9TWDYCG6D1BnALXk+L9X+jbsq7ZmYyWgEuAK6yx/08ma1nzYg3jgECEjq/TtwpLpnRYWqktCX6wG59gLlQlkRrRqJ013Lci3tUnSkEFGwZgL+O/y7VcoS7XEr8TLB/c7kpbGnyldgwEh59g0+A7MSPrDqnWER6MgBdJ9RSN1h2AGM79u+qMpq8Kj0U2ZsXnGxKtFZVE5bKQzu15gGVE91aXhZOym21cAZEV2tGxyY0eaiQuW/f9DJ9K9Lh9tcKHrOcOlmd910XB4u/trEqqZu0ZZX5CVWDuuJnId3AXq1SpXzI2/FgDrkNAeBmbEgjaItvMspFvuJM1Upl4ZAqgubnFVOxYOdNeJ8ssej4Jxg5ROp01+ZDruqSxsA28fKv0PpWYPB9mXIdEOhFndGjqURtMcPlmXGE8/fgrAolxrR2uSBTKhGbfTIAxJkFpz0rJcNQoNFnFBPnhXtXAXN66bu0di3+96wBcH/6I07b/W5fSHuR35xd1i5LPUldEPAMWDXEoHCPri9kev6a8yB0p57j4F1sXUp9hSs82n0j60TAHjfIl1IRvBRJUwOKIvIh8p0Bi1is9CRk27E15ArvcCA9jnYnFvJSoaeXiVKicbl5ilv0kSlAbALlZTnNKxkXuYfOqcP/UED0vU79fV4Ll3pSFRn2bYED6/BcLPUMmCMbJE1zGw81QGuyCTAoNGlmEAB339EdpVhmC94OOaI8+cCw3RQ2p7sxeS1Z8IXI+7JOiKXm/jwuNB6Q9cmQREGgl4em2vGV6gYAw==",
+            "page_age": "164 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consulting Australia",
+            "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+            "encrypted_content": "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",
+            "page_age": "95 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Business Intelligence Consulting Perth",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "encrypted_content": "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",
+            "page_age": "158 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power BI Consulting & Data Services",
+            "url": "https://solvebi.com/services/",
+            "encrypted_content": "Eu4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAisWk8YOKZaZvbtkhoMEfl4rF24tDjA+cOZIjDdmr22agZzw67dWBjG+hvy3OZFwSRhbpUnLUoiaKUtmiURKvdQe0BtvrbihFC0So4q8QdL3x2QCIeNWXvEtVZHP1/i4Ieuv9muyIH6GvS2jqU+m4NENPlCkvGpVocsMuWoBs21lDb8HhG62zIiQJVVbn5KQMkFoTYhao0jswW+Db2dunuQ3bpCCnS3qZajMym940D8NLhqR+Cw48ZxHSOszodKnpHwLZnwSSa9wCGsergCyKhJ3Tg9RZ321G3wlrr2AP2NaiRcugmHarv34+IE+WgSZYt4A/VG9zxb4NdHEPp1hXosOz+Cq5mF1RlWsJiKvdzfTL7xXUyRYdD19jtpPe14vyPGqJ4M8RGFIe4s6NJT5aQPeQoTVRYJuORo7Z2DRwDcazgCIuqUUVe9PTEjz7IegVEUoEXl36iJOZrWxQcNWdb7Zug3M6wtWiZ2ssPptwRLD3ss78Sgr+e23h4o85dge/tUIlXOD9IfzM2k0eEyI4Ke8RdbjFa+23HdGhpkj4B8E6Z7uGH9idAoZbQSJ7e80tNj6ovzolcEOzZZAkXcMQN8Cj1IdS/g8osWcDXRwsqSJiQo+o3E2NwttppiCKSGgBKE67oOHQ9veXanXqNIpvG6HOiy6u52isUQKIlGtz4BvB8hlQEFshlJ6UxaKbTlr9F0oXfNkgRewmfQ6lfC9pi7pyrZNH/BVIKcnIFEsy2mwXesNrjM2/VO47XX0k6GtX2AiI+Hgm/WuriiNBD1mEDdaTghPLl3P8wufCmmhcGLFDraySVmTWYS3kejsMuA3cHfyxjt2ai8gFBp0E+AvrN1Wt7EBheXp9TTKdj1jKJzSB/yU+6Q5KFGglRX3JiqS4yBbLcl4Lt2K8MrgiuzMmY9f8ZwdC3yssMwMOINU+RKSwioN4im7QzO27iiMvzNfrVjDAfJy4DHEAspUR5+Tk/6SSqwGBdpGRr5ozgTsBsiA88Qt6hO67KdWr7o+gGX/xFd/IEd+gYAbZHYfT9nwjxESrJbBspP1OnLSJHYIfpgZ1imGA09FQZ+mPcYS3PQ9LIs6CSGR1RtmOWghYsMuJ1R6ehG0+o7IQxhIUN25g80CRcBhHc5RpAJEUVHskMyJkzDOxWuHfnMiEntBPiYgYdbWmLZwTceTVem7cLW9xRxaPRNEk3j1ouG0SUx+o86M6aYz8bPq6S2+pRSsj7FObtsBwEWfyiiqfAp1a0Ts36N4zj97hOCdZOwIvr9/huq7WMjlH51s5rbmRLcuyoNuKzmZgxUg/sBheYGA/TDwhLvxu6Xc+w/RLazS8pOhm68qtkX5O1Y82slKZJuWz0GJsMOTyZtBEDeMF/SBZ65ie+plP8BENl2b7whFGi9r315oxXq3Z13CV1b/v2CptOvjfihTsQ5jqQ51Q8gkWUPdQAPGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric Consulting Australia",
+            "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+            "encrypted_content": "EpkGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIay3W0iTBgdgJdb4RoMHRJMUdgTto4Wge0lIjDNn/N7WnWhPtlmoypZdUAtUnGuIeYP9tgdPJvlEwHi/+9npw8oRd+7gerV7YKwQW4qnAUJOFOUkje73mSW8EuBcKlqhnypB3ee6ldsneepCzEQ3EouZ0mkBJYIzWatKRf0hnnSPALCvk6g3+O2Xty3AWIEjKt92QxrDtV7d0O7K8YT98lPiJDEPVHkmd2rYtxvrXIlajEAjXKpoPsTm8rNDo2MBJDAGtW+CfeTYCiHpyS0UmYqg+oDhAe9B5Qc0gOxsLFHqZut0A4zkGHo5UBTcEDi0+vh7ZciA23tUuQ3deJACQKp3rgHQdlda6nOY/rnhL68x1RsklYYn2pYx3TXkOirYKQOiZaz9wi9q2vPfAbT80husZ78jWzqxBM96ek74wOkdd1dPZ+kj3FCDcDbV2P40p1Fd3mO4DWTw74QCYKH621ZN0YQkH/O6OCDsZVxZcKu7FY7VB96s7OA4QR3TFdWHM8y/+oz1teunSsUDrwI2DnD+IRV4+Pw4t8f7jIUY75Vxfd9V2B3FgRWpmnkHVVKSL1t5FVripb0jL0pvotIu0YEL0rLsh3n9KlQrCDtONI33qrFY8RrR4XN8ptXU99n8x5SMHd5GKtUjP+im62fdo+xqfqzWaJb1cCHNp+tbbHOlD8cU0svIvNd978O+BxGxsxxHX6r6uWevX4beNudBeQeIQhaIEm1y6lytjiAkiT+tH66m/F31eNn/M/w/hSKMLI6O+39hNDog4+MJ9RBAaOpH2cdRo4CjmnvnnkbaavdLWEMO3jrygfmzsC3d9OLhPicipehZfkSB9fp4ZI09mhx64Jx1LZY5bkkPo7Aw/6W54+vn/4fU18fSr4sbib6C8o/+P6CZGO06Oj0oE7CeCstHvA/EnI1Lme/hyaIcT+g3GFnBVj3hCZBMWaIQcxZrU915aRP3vihFe6puwqwYdzh7S1EmKshgmyovBgD",
+            "page_age": "95 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Fabric Consulting & Data Integration Experts",
+            "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+            "encrypted_content": "EpMFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKepQcOE4kUpqeaDhxoMEW2edLGHFExcZ0h+IjDG0AM+PD7IEYCSMOZx0vuRkXS91LTbYhaDBsxPVs8qjIM8Rou0NIdUPLstFCCdeXMqlgREN2xt9+7CQh9dJgUmYheJV9NurdJEtTlQy4LkHxgbMbSRxG8w84RBxK7mKvzJa96d5ahHM7do9iIUysFUpXXCIncNvrCW1uQ9clMH8LJMCP4xM/li4EN2VnyCv8POtlu6rKZm/C9DNZ/vAmajZB9x7K2JJzq8cNdprA3lIfWwYAt2rVONancMnNiK2ujChXhyUiCkR+inNIEnm0wsL/pXGlD9CYEnJaEOdQsfAZV694T7xsmQ8sAcwdOCMtPmGxpjeFlXC80tQDzh4/CgfP0Y/gQEJwoROS7SLDg3agdpG/IaSaHIeNjk7mUyfCuSJz0fkGjrB0pa/+o61dpEHq3bmDNbEssbnk1l2bfwOF7kFuEOr+m/62mi4XwtPU1tWtyju3YglZ2g/9dIKddozmWZ4LtGxh19fuAVBZH1Qgy97OxrVAxsK0XaL2d6qlxRkyhaM1GDood9oOG/tXVzsyK5x/Bjv4WthMJ61DtL8FnJns7nUDwn8oFXt+H56Az2reNr/udhNMJlFOn0dfrb/XzAThrglPV03WQOVUcjh/6xnlYSGiJKiyAsTV33CHZmdfjtZyo86lhNfPrUXJWjiouke04Shb1A3ihHRx3qnEGMMlWWtBuRdMdSRg2Ec7DHEkdtsH/Vr2qlEXJwa3MRqf1ZH3NusjxjUxQnSJMU92/ds97I48Wd5+Vm9X2NiGXqnACeZ7SXRf0YAw==",
+            "page_age": "128 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is an overview of the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing:\n\n---\n\n## 🏆 Top Power BI & Microsoft Fabric Analytics Consultants in Perth\n\n---\n\n### 1. 🥇 AGER BI — *Perth's Leading Specialist*\n**Website:** [agerbi.com.au](https://agerbi.com.au)\n📍 202/37 Barrack Street, Perth WA 6000\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "AGER BI is a Perth-based Microsoft data and analytics consultancy providing specialist Power BI consulting and development services to organisations a...",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPGEeni9rzJZa5PqHRoMqepOmSKQlVMD93mSIjAunQeccsPtVionA26hcsoBnxeJ8G16u5RrDP8/CGcxQ+8nks6vLg4tJzkx3YZTNH4qFO619MhUp2DZiKtTxJMEq1RsH9dCGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "AGER BI is a Perth-based Microsoft data and analytics consultancy providing specialist Power BI consulting and development services to organisations across Western Australia."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We help businesses transform operational, financial and corporate data into professional Power BI reporting that provides clear, reliable information ...",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMm6V8YqSNMeg4Gs6BoMc5+YUS59K8VqEVQHIjBdUjCgr/gcWZQ5yVOUjamDKjy7SKnqqH4XihwrGLT6k0IsFPNSNiPM84QNK6TUKIkqE7+3KYzaK5WVHp1c5MoDYcTZFUgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They help businesses transform operational, financial and corporate data into professional Power BI reporting that provides clear, reliable information for decision-making."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why they stand out:**\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our senior-led consulting approach provides clients with direct access to experienced specialists throughout their engagement, combining local accessi...",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFagwQz/yMTjbmFu7xoMOzzfjUeXZa9wUGIPIjBWIL38GmtB3kRNMzSDX0gLLr5mJQ2d3cbqPQo+xQchqr94gICqFX52l9PO9qjoj/UqEx24z214GOVZ+LQPvECZLwIABxAYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their senior-led consulting approach provides clients with direct access to experienced specialists throughout their engagement, combining local accessibility with enterprise-grade Microsoft data and analytics expertise."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our experienced data warehouse consultants work across Microsoft Fabric, Azure and modern cloud data platforms, helping organisations integrate fragme...",
+            "url": "https://agerbi.com.au/data-warehouse-consulting/",
+            "title": "Data Warehouse Consulting Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHTOMNG9ac84AK1MsBoM96moRI9k0CQDpdthIjC1Q0fwgrGYs9Im4f/WBZj8ivFqQdIWNoYd5GUdM7TJN2h6Rw6O9mazUAXlwIiUqRYqE2zNQ7KsyCrTcBn6gz1FjFXhWnUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their experienced data warehouse consultants work across Microsoft Fabric, Azure and modern cloud data platforms, helping organisations integrate fragmented data, improve performance and build reliable data architectures designed around their business requirements."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Your Trusted Certified Microsoft Data Warehouse Experts\nMicrosoft Azure Data Engineer Associate\n\n\n\nfabric analytics engineer logo\n\nFabric Analytics...",
+            "url": "https://agerbi.com.au/data-warehouse-consulting/",
+            "title": "Data Warehouse Consulting Australia",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFqGfFwHmgiOphfUvRoMshjTpvvCVmHPqIKTIjDaDz/ct86MFiWoq0v1ge+vWei+9E+u69PZ4ucJtAK41SVvXfg6fyspLmsm4FKuDnoqFbyEdol2ZgSYVFjH0o0MGjDOC5qGmxgE"
+          }
+        ],
+        "type": "text",
+        "text": "AGER BI specialises in Microsoft data and analytics technologies including Microsoft Fabric, Fabric Data Warehouse, OneLake, Azure Data Factory, Azure SQL and Azure Synapse Analytics, and also works across complementary platforms including Snowflake and Databricks."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "{\"name\":\"AGER BI\",\"legalName\":\"AGER BI\",\"description\":\"AGER BI is a specialist data consulting and business intelligence firm delivering Power BI, Mic...",
+            "url": "https://agerbi.com.au/microsoft-fabric/",
+            "title": "Microsoft Fabric in Australia",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKaW0gLGlAkpsxT15xoMaA6X1768w1SUYTJxIjC/j35PDMFfcU96mBHkO4CtZ8n6/ccNkLFZCjpF8e6fRwPsv/YgcbGYQTf1D6FphaAqGB74E7gGOwCLhm1cSWomkVUg3mCtSe5TJRgE"
+          }
+        ],
+        "type": "text",
+        "text": "AGER BI is a specialist data consulting and business intelligence firm delivering Power BI, Microsoft Fabric, Azure data engineering, data governance, data migration, and enterprise reporting solutions. The firm was founded by Lee Ager, a Microsoft-certified business intelligence specialist with over 25 years of global experience in Power BI, Microsoft Fabric, Azure, and enterprise data consulting."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Where greater data integration, scale or governance is needed, AGER BI can extend the solution using data warehousing and Microsoft Fabric. This provi...",
+            "url": "https://agerbi.com.au/power-bi-consultant-perth/",
+            "title": "Power BI Consultant Perth - Data Analytics Experts",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHpFrmkH5TpHeKTQmhoMr6cZrxOMhs4H5FfRIjC4RK188+SdzfL+bXgCiHTffRiQnQ6fO9DVxi1td7tEpbV/PynK2mFFDOP9Uz/Nlq4qFaI1zG0dBciAya3Fw0M1VbY23oMtNBgE"
+          }
+        ],
+        "type": "text",
+        "text": "Where greater data integration, scale or governance is needed, AGER BI can extend the solution using data warehousing and Microsoft Fabric, providing a practical pathway from Power BI reporting to a broader enterprise data platform when the business requirement justifies it."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our headquarters are based in Perth, but we proudly service clients throughout Australia, New Zealand, and internationally.\n\n",
+            "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+            "title": "Microsoft Fabric Consulting & Data Integration Experts",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMU8zjergyZrGtAxOhoM4M+wIySSKTMBit1IIjA0Rs97QCRAMcENQdAt8gUpR8gV+s+zPr6nBP6J9GVM850TDa2C1cU/oYMfq83K+kwqE43FNv0tpFzq8hE6KeOT5KMlvwQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their headquarters are based in Perth, but they proudly service clients throughout Australia, New Zealand, and internationally."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Certifications:** Microsoft Azure Data Engineer Associate, Fabric Analytics Engineer Associate, Power BI Data Analyst Associate, and LGCA Approved Supplier.\n\n---\n\n### 2. 🥈 SolveBI — *Perth-Founded BI Specialists*\n**Website:** [solvebi.com](https://solvebi.com)\n📍 Headquartered in Perth, WA\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Business intelligence consulting in Perth - what it actually involves, how to choose the right partner, and what separates good from bad\n## Short an...",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "title": "Business Intelligence Consulting Perth",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLaYO8j7RNU9g5FlaxoM451AaajbvbXNB7zQIjBKYYG8D8j4zCTWkC/b5Sx7pa3LGyQtgX3GF+r3A8CWXubyMA/YZs8ZtYRg09HbOvgqFslaEtoKtXDgrba6lfAC6J1/Wcwrhe0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "SolveBI are certified Power BI & Fabric Consultants headquartered in Perth, Western Australia, delivering end-to-end business intelligence consulting — BI strategy, data integration, dashboard development, Microsoft Fabric and managed BI services — for Perth businesses and organisations across Australia."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why they stand out:**\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Why Perth businesses choose SolveBI\nSolveBI was founded in Perth in 2018 with one goal: help WA businesses make better decisions from their data. W...",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "title": "Business Intelligence Consulting Perth",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNWNwI8UNpe1w6YFiBoMZ2iH34OVV9tZlQS0IjDC6h/kfO9fre2xNU5zvd/EdDQJsI3iTvP0H3b+CdKuPCSiMGWcVS5tu5teznJd9HMqGDDazyKj6nDziPcAcyBCpFTIPMtuM4QRbBgE"
+          }
+        ],
+        "type": "text",
+        "text": "SolveBI was founded in Perth in 2018 with a focus on helping WA businesses make better decisions from their data. They are not a national SI with a Perth sales office — they are a Perth firm that also serves clients across Australia."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "- **Local knowledge of WA's industries** - resources, healthcare, retail, transport, professional services - we've built BI for all of them and unders...",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "title": "Business Intelligence Consulting Perth",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNPa0NRsr3sRkONqJRoM3V6WN/AVx9ej8G3SIjATmEUJjoBf/X2etwmN0xrcCDd3VAm2IyJTjFJy1mq4YCXLW0liNouSc7IPy0+LgPYqFUvFvfF7oPCsi3Fa0eeBIoNQLHwADxgE"
+          }
+        ],
+        "type": "text",
+        "text": "They have local knowledge of WA's industries — resources, healthcare, retail, transport, professional services — and understand the operational context."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Common Questions\nSolveBI are Microsoft-certified Power BIpartners headquartered in Perth, delivering BI strategy, data integration and dashboard de...",
+            "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+            "title": "Business Intelligence Consulting Perth",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGOwiRjtjlqgs2V4VRoM8kI7dZieD/guXup3IjDAX9VotbLV1d4w8XTkY1NsEHO1frLSs9U3RjLy6l/QmnPC219zgagTc0jE9zw9WBAqF6/S7imXkGJ92jPgqi5ZE0Kwpf64B7PkGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "SolveBI are Microsoft-certified Power BI partners headquartered in Perth, delivering BI strategy, data integration and dashboard development for WA businesses since 2018, with a boutique specialist model where senior consultants do the work — not graduates."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 3. 🥉 Report Simple — *National Firm Serving Perth*\n**Website:** [reportsimple.com.au](https://www.reportsimple.com.au)\n📍 Based on the Gold Coast, QLD (serves Perth clients)\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our Microsoft Power BI consultants move beyond basic reporting to architect scalable solutions that drive decisive action, backed by a 78% client retu...",
+            "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+            "title": "Power BI Consulting Australia",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEPFZmotCxR7WsKttxoMNwnemxpNsfDa42LhIjDjxRqP634ZexTwj0j53nyz1iev/Z+GCsq121tVHyrC+v218u1tfZ8MfmKy3rB9SPwqFRO7dI/+om2vWfIvHQsJla1rVRnRVRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Report Simple's Microsoft Power BI consultants move beyond basic reporting to architect scalable solutions that drive decisive action, backed by a 78% client return rate. They provide Power BI consulting Australia-wide, supporting organisations in Sydney, Melbourne, Brisbane, Perth, Adelaide and across Queensland."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why they stand out:**\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Whether you are migrating from Azure Synapse or building a new OneLake architecture, our local team of Fabric consultants deliver scalable solutions t...",
+            "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+            "title": "Microsoft Fabric Consulting Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOO3WI/5VAjUoUN/YhoMTQH0w2TcZUrggjE2IjC9w2+wwg4WI91x1XBysNTo8XYxxuZmmtWQ406ljoV25cAqOBXNvuGLELu1S0nh2mYqFifgPWXeLXrTQP/asCiDJF+TlyIPL0wYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Whether migrating from Azure Synapse or building a new OneLake architecture, their team of Fabric consultants deliver scalable solutions that simplify governance and accelerate insights, with Microsoft Fabric consulting available Australia-wide including Perth."
+      },
+      {
+        "type": "text",
+        "text": "\n- "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**Report Simple is an Australian Power BI consultancy based on the Gold Coast in Queensland, working with organisations right across the country, incl...",
+            "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+            "title": "Power BI Consulting Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFkA7Z2aZrSW5GV5GBoMnY0JFae2S6pUph0GIjBG6Kgh1mzHLAzgGQuOHyA/atiD+ACoOoBW1UtZgzsDVydtokx3CYzd4yZbxaq4J4UqFpwwOLx/2/B1ApSI2yM6jgPVXFTuwS0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Report Simple is an Australian Power BI consultancy that works with organisations right across the country, with their team working in Australian time zones, with no offshore handoffs."
+      },
+      {
+        "type": "text",
+        "text": "\n- Their expertise covers Power BI, Microsoft Fabric, data warehousing, data modelling, DAX, Snowflake, and more.\n\n---\n\n### 4. Office Experts Group — *Full Microsoft Stack Generalists*\n**Website:** [officeexperts.com.au](https://www.officeexperts.com.au)\n📍 Perth, WA\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Power Platform Solutions\nPower Apps, Power Automate and Power BI give Perth businesses a powerful toolkit that slots right into their existing Mic...",
+            "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+            "title": "Microsoft Consultants Perth",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI2cWUBBV88mbuAfaBoMLn3GEBP6DOS0Lxj6IjBnT2aYPxSo505jtuOnFNPHk4j2f8o6GEXk9qzC+LlVoIro/wKbIC3GRXz+REPvgaIqFvzbjGeSU2nyte1zG0HVgaTPGJ6yUcQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Power Apps, Power Automate and Power BI give Perth businesses a powerful toolkit that slots right into their existing Microsoft 365 setup. They build automated approval workflows, mobile-ready data collection apps for field teams, and live Power BI dashboards that pull from existing systems."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### One team across the full Microsoft suite\nFrom Excel and Access through to Power Platform, Microsoft 365 and custom development, our consultants co...",
+            "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+            "title": "Microsoft Consultants Perth",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFfmhssiDcazlNd4kRoMDYwFgnymbz4qWxj6IjCo1FQLby3nbKr9/GBhjh4Q5gpwcRF0cEWqSjHG8jWKVHMbwC7cP3Y+jyvJNKNnkloqFENdJ8cghHo2AZSlCab3Z483dGOsGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Their consultants cover every part of the Microsoft ecosystem, from Excel and Access through to Power Platform, Microsoft 365 and custom development."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 📊 Summary Comparison\n\n| Firm | Perth-Based | Power BI | Microsoft Fabric | Data Warehousing | Operational Reporting |\n|---|---|---|---|---|---|\n| **AGER BI** | ✅ Yes | ✅ | ✅ | ✅ | ✅ |\n| **SolveBI** | ✅ Yes | ✅ | ✅ | ✅ | ✅ |\n| **Report Simple** | 🔶 National | ✅ | ✅ | ✅ | ✅ |\n| **Office Experts Group** | ✅ Yes | ✅ | ❌ | ❌ | ✅ |\n\n---\n\n**💡 Recommendation:** For businesses in Perth specifically focused on **operational reporting and data warehousing** with Microsoft Power BI and Microsoft Fabric, **AGER BI** and **SolveBI** stand out as the most locally focused and technically specialised options, with deep expertise across the full Microsoft data platform stack. Both are headquartered in Perth, offer senior-led engagements, and hold relevant Microsoft certifications."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13707,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1894,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

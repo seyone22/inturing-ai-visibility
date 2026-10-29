@@ -1,0 +1,344 @@
+{
+  "slug": "perth",
+  "pk": "erp_integration",
+  "plat": "claude",
+  "text": "Which system integration specialists in Perth are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__erp_integration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:27.932Z",
+  "cost": 0.06874,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9820,
+      "output_tokens": 1912,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.06814,
+      "datetime": "2026-10-29 04:07:22 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **best system integration specialists in Perth** for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems:\n\n---\n\n## 🏆 Top System Integration Specialists in Perth\n\n---\n\n### 1. 🔷 **Integral Management Systems**\n📍 Level 11, Brookfield Place, 125 St Georges Terrace, Perth WA 6000\n📞 08 9332 9148\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A West Australian-based company specialising in Dynamics CRM & ERP Software consulting, implementation, training, and support services.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics Service Integral Management Systems",
+                  "url": "https://integral-mgt.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As the preferred Microsoft partner in WA for Dynamics 365, they are official certified specialists for Microsoft Business Central & Dynamics 365.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics Service Integral Management Systems",
+                  "url": "https://integral-mgt.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 30+ years of building long-term partnerships and a WA-focused approach for quality local support, they are an official Microsoft Partner & Specialist.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics Service Integral Management Systems",
+                  "url": "https://integral-mgt.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Microsoft Dynamics CRM & ERP, Business Central, Microsoft 365 integration\n\n---\n\n### 2. 🔷 **Metisc**\n📍 Perth, WA | 🌐 metisc.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Metisc is a Perth-based Microsoft Dynamics 365 specialist providing software and integration services to customers in various industries and sizes.",
+              "annotations": [
+                {
+                  "title": "Business Application & Integrator - Metisc",
+                  "url": "https://metisc.com/solutions/integrator",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer pre-built connectors including integration with Microsoft Dynamics 365, Dynamics NAV, MYOB, Xero Accounting, QuickBooks, Oracle (SQL), Salesforce, WordPress, and many more.",
+              "annotations": [
+                {
+                  "title": "Business Application & Integrator - Metisc",
+                  "url": "https://metisc.com/solutions/integrator",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have experience of more than 25 years in the industry.",
+              "annotations": [
+                {
+                  "title": "Business Application & Integrator - Metisc",
+                  "url": "https://metisc.com/solutions/integrator",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** MYOB, Microsoft Dynamics 365, CRM, ERP, Salesforce integrations\n\n---\n\n### 3. 🔷 **Eversdale Technology**\n📍 Perth, Western Australia | 🌐 eversdaletech.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Eversdale Technology is Perth's specialist Microsoft Dynamics 365 CRM, Power Platform, and AI Copilot partner.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer deep expertise in Dataverse & Integration with custom entity modelling, Power Platform connectors, and deep integration with existing enterprise systems, as well as Microsoft 365 Copilot configuration, governance, and custom plugin development for Teams, Outlook, and SharePoint.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded in 1997, they have 25+ years of delivery, 100+ clients served, and 5 Microsoft Specialisations.",
+              "annotations": [
+                {
+                  "title": "Eversdale Technology Perth",
+                  "url": "http://www.eversdaletech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Dynamics 365 CRM, Microsoft 365, Power Platform, enterprise system integration\n\n---\n\n### 4. 🔷 **Dapth**\n📍 Perth, WA | 🌐 dapth.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dapth provides Perth ERP implementation and operations integration for organisations ready to replace disconnected systems, delivering Odoo, Dynamics 365, and custom integrations that unify finance, sales, inventory, HR, and operations.",
+              "annotations": [
+                {
+                  "title": "Enterprise Resource Planning Services Perth",
+                  "url": "https://dapth.com/services/enterprise-resource-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They implement Odoo and Dynamics 365 for organisations that need their ERP connected to the full operational picture, and build API integrations between ERP and websites, CRM, portals, HRIS, industry-specific platforms, and custom applications.",
+              "annotations": [
+                {
+                  "title": "Enterprise Resource Planning Services Perth",
+                  "url": "https://dapth.com/services/enterprise-resource-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** ERP + CRM integration, Microsoft Dynamics 365, API integrations, Odoo\n\n---\n\n### 5. 🔷 **iCatalyst**\n📍 Perth (+ Melbourne, Brisbane, Sydney) | 🌐 icatalyst.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "iCatalyst was established with a clear mission: to bring together a team of highly qualified, senior Microsoft Dynamics professionals focused on empowering organisations through technology-led business transformation.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "url": "https://icatalyst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team offers unparalleled knowledge and capability across the implementation of Dynamics 365 Business Central, Dynamics 365 Finance and Supply Chain, Dynamics 365 Customer Engagement (CRM), and Power Platform.",
+              "annotations": [
+                {
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "url": "https://icatalyst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Large-scale ERP & CRM implementations, Dynamics 365, Power Platform\n\n---\n\n### 6. 🔷 **Cloud Factory Solutions / Inecom**\n📍 Australia-wide (including Perth) | 🌐 elioplus.com listing\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cloud Factory provides implementation and support services for Dynamics 365 Business Central, MYOB Advanced, SAP B1, Wiise, and Körber Warehouse Management.",
+              "annotations": [
+                {
+                  "title": "Best Erp solutions companies in Australia",
+                  "url": "https://elioplus.com/asia-pacific/australia/channel-partners/erp",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Similarly, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Inecom covers MYOB Advanced, SAP Business One, Microsoft Dynamics Business Central, and Wiise Solutions, and is a Cloud ERP specialist helping companies implement Cloud ERP systems.",
+              "annotations": [
+                {
+                  "title": "Best Erp solutions companies in Australia",
+                  "url": "https://elioplus.com/asia-pacific/australia/channel-partners/erp",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** MYOB Acumatica (MYOB Advanced), SAP Business One, Dynamics 365\n\n---\n\n### 7. 🔷 **Bright Labs**\n📍 Australia | 🌐 brightlabs.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bright Labs designs and delivers CRM and ERP integrations that connect websites, web applications, and mobile apps with the systems that run your business. Their integration work focuses on reliable data flow, clear ownership of systems, and workflows that reflect how your organisation actually operates — resulting in fewer hand-offs, less re-keying, and greater confidence in data.",
+              "annotations": [
+                {
+                  "title": "CRM & ERP integration",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They integrate with enterprise and mid-market ERPs including SAP and Microsoft Dynamics 365, as well as financial and accounting systems like Xero, MYOB, and Sage.",
+              "annotations": [
+                {
+                  "title": "CRM & ERP integration",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** SAP, MYOB, Microsoft Dynamics 365, CRM & ERP web integrations\n\n---\n\n## 📊 Quick Comparison Table\n\n| Specialist | MYOB Acumatica | SAP | Microsoft 365/Dynamics | CRM | ERP |\n|---|---|---|---|---|---|\n| Integral Management Systems | ✅ | ❌ | ✅✅ | ✅ | ✅ |\n| Metisc | ✅ | ❌ | ✅✅ | ✅ | ✅ |\n| Eversdale Technology | ❌ | ❌ | ✅✅ | ✅ | ✅ |\n| Dapth | ❌ | ❌ | ✅✅ | ✅ | ✅ |\n| iCatalyst | ❌ | ❌ | ✅✅ | ✅ | ✅ |\n| Cloud Factory / Inecom | ✅ | ✅ | ✅ | ❌ | ✅ |\n| Bright Labs | ✅ | ✅ | ✅ | ",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "system integration specialists Perth ERP CRM SAP Microsoft 365",
+        "MYOB Acumatica integration specialists Perth"
+      ]
+    }
+  ]
+}

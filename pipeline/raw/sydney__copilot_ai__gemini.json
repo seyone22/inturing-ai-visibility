@@ -1,0 +1,515 @@
+{
+  "slug": "sydney",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Sydney specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:56.981Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Several Microsoft partner consultancies and boutique AI automation agencies in Sydney specialise in **Microsoft Copilot Studio**, **AI agent architecture**, and **practical workflow automation** tailored for mid-market organisations. \n\n### 1. Premier Microsoft AI & Cloud Specialists\nThese consultancies bring deep technical capabilities across both low-code (Copilot Studio, Power Platform) and pro-code (Azure OpenAI, Azure AI Foundry, Semantic Kernel) ecosystems.\n\n* **Arinco** *(Sydney CBD - 24 Campbell St)*\n  * **Core Focus:** Cloud, Data, and AI engineering. They offer dedicated offerings like the **Copilot Studio Agent Builder Accelerator** and hands-on **Agentathons**.\n  * **Mid-Market Fit:** Ideal for businesses that want to move beyond generic chat to build autonomous, multi-step agents that interact with enterprise databases and line-of-business software via APIs. They bridge low-code Copilot Studio tools with robust Azure AI governance.\n* **Engage Squared** *(Sydney & Melbourne)*\n  * **Core Focus:** Recognized as a Microsoft Copilot Specialisation partner. They focus on Copilot Studio agent builds, workflow automation, and organizational adoption.\n  * **Mid-Market Fit:** Strong choice if user adoption, governance, and change management are top priorities. Their **Secure Agentic Foundations** accelerator helps mid-market IT leaders manage data oversharing (via Microsoft Purview/Entra ID) before deploying custom agents.\n* **Barhead Solutions** *(Sydney CBD - 123 Pitt St)*\n  * **Core Focus:** Power Platform (Power Apps, Power Automate, Dataverse) and Dynamics 365.\n  * **Mid-Market Fit:** If your mid-market automation relies heavily on CRM/ERP data (e.g., Dynamics 365, Salesforce, Dataverse), Barhead excels at embedding Copilot Studio agents directly into transactional workflows and automated approval loops.\n\n---\n\n### 2. Pragmatic, Mid-Market-First Consultancies\nThese firms operate without the overhead of enterprise tier-1 consultancies, delivering agile, fixed-scope, or outcome-focused automation.\n\n* **Frontrow Technology** *(Sydney)*\n  * **Core Focus:** Microsoft Copilot readiness, deployment, and custom Copilot Studio agent builds specifically for Sydney mid-market and lower enterprise clients.\n  * **Mid-Market Fit:** Highly practical approach. They run fixed-scope assessments to remediate identity and SharePoint permission risks first, then build purpose-driven Copilot Studio agents grounded in company-specific operational data.\n* **Eagle360 Consulting** *(Sydney)*\n  * **Core Focus:** Microsoft Power Platform and Dynamics 365 Business Central automation.\n  * **Mid-Market Fit:** Specifically tailored to Australian mid-market operational workflows. They specialize in building Copilot Studio agents that read/write into ERPs, process supplier invoices via AI Builder, and automate quote-to-cash sequences using Power Automate.\n* **IOTAI** *(North Sydney - 99 Walker St)*\n  * **Core Focus:** Custom Copilot Studio agents and workflow automation for SMBs and mid-market businesses.\n  * **Mid-Market Fit:** Offers fast, fixed-fee deployment models (typically live in 2–4 weeks). They specialise in connecting Copilot agents not just to Microsoft 365, but also common Australian accounting and operations platforms like Xero and MYOB via custom connectors.\n* **Synenza** *(Sydney)*\n  * **Core Focus:** Copilot Studio agents, Power Platform integration, and Azure AI Foundry solutions.\n  * **Mid-Market Fit:** Focused on turning repetitive manual tasks (IT triage, HR policy discovery, invoice reconciliation) into automated agent flows using Power Automate and Dataverse.\n\n---\n\n### Key Questions to Ask When Selecting a Consultant\n\n1. **How do they handle data security and \"oversharing\"?**\n   * *Why it matters:* Copilot and Copilot Studio respect existing SharePoint/OneDrive permissions. If your internal access controls are loose, deploying an agent can accidentally expose confidential executive or payroll data to general staff. A good partner will audit permissions and configure Microsoft Purview before deployment.\n2. **Low-Code vs. Pro-Code Integration:**\n   * If your workflows only involve SharePoint, Teams, and standard Microsoft 365 apps, standard **Copilot Studio + Power Automate** is sufficient.\n   * If you need the agent to query legacy SQL databases, proprietary APIs, or perform complex logic, ensure the consultant has engineering skills in **Azure AI Foundry, REST APIs, and Semantic Kernel**.\n3. **Licensing and Capacity Planning:**\n   * Microsoft Copilot Studio requires message/capacity credits, which are separate from standard Microsoft 365 Copilot user seats. A good consultant will help you model query volumes and licensing costs before building.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+AI+partner+Sydney+Copilot+Studio+Power+Platform+mid+market&client=app-vertex-grounding&safesearch=active\">Microsoft AI partner Sydney Copilot Studio Power Platform mid market</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Arinco%22+%22Copilot+Studio%22+OR+%22AI+agents%22&client=app-vertex-grounding&safesearch=active\">&quot;Arinco&quot; &quot;Copilot Studio&quot; OR &quot;AI agents&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+consultants+Sydney+mid+market+AI+automation&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio consultants Sydney mid market AI automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+workflow+automation+consultants+Sydney+Copilot+Studio&client=app-vertex-grounding&safesearch=active\">AI workflow automation consultants Sydney Copilot Studio</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead%22+%22Copilot+Studio%22+Sydney&client=app-vertex-grounding&safesearch=active\">&quot;Barhead&quot; &quot;Copilot Studio&quot; Sydney</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Engage+Squared%22+%22Copilot+Studio%22&client=app-vertex-grounding&safesearch=active\">&quot;Engage Squared&quot; &quot;Copilot Studio&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfvzp02ND_cuDY3EXPfUcuYl-GR43aBbVToJABRQEiOnbwdCiDklBYZOEO2mV8vHi2-yHbv5nUCShLvElBdXJqmkXtym-p08eUTcsxp3MuqDzj_mogO5r0IfyYZ96OProDV4PuIzxrju8U8IvN8RsWZRwr7nKnSdLxqQ1givpIzdcs3futJDHcYQtMT3axIHx3fIMvhmIR8_tREaq-DBypNHgMSYzJmg==",
+                "title": "reddit.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP-T0rtAJcWq2gwR4yU-48BPOslCk8-JcQv-wbVNC8_eyMqGauz1HodkqhNHtZHUR3JsRcyIPvZGQICLtRQK7MfLhcvPwvxr9soUkZIXrDc55zSl8QXbt7JQVrTtzLMycve8Ot5XhxjHAKWw4oEyuVRkeGnfRU1PHDxszY91m49TkiUIeIBnyXoQd2IaHUq5H5Eks=",
+                "title": "livehire.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxZNoyEBmc4q7VzYsooBtdl5G8YfsT_j7jlmgr6aYWG-ePKMDZfDh93Y5nbK3cG_w6vYMC8DP0FRmsjvN1sKG7s9ZxshQzdiz4uT03CrPP8whG8QwaGIDx7TbdBRPwxM9nyrbxKa1waiYe6C7O1xapMJuuTTKca34kqOly1M=",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkvd6eEkEGE5C5c2AeU1SL8Fx62EC7zrZ0bJOmbc4flK3KfN7yf2d-EeJqfF7RzTPAmfreeWvHQTy0PqvftmeMjDx--0bYdWgDGrtW1L56B4UZhex_Aai8u0i5C514HvFQQ7Ea4ylIQwLn9B-7z67wjMrcjPMXDPtstfCM",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTgI5EMqHx_eqKET884RZ_roFzJzPBHgSC4Ygnxh9w0l9EInUpsy-k2Gm7632KGtj51qsIiH4H4Yu7abSdmH5OiLrEDmu7QkVSdO_SmGjVWF8CNFPoFqThiTdbAQhmpNCTXI9s",
+                "title": "agile-insights.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYTBoMhzGD1d7TnAtqz8LdFJJh6yQWUkbWGEPorfGiwu2YkS8wD0-Dwrw6nMF2N2pQ60toiKrZPf4jgwYm1QNleTDkLZb_mG0itS39YBEpBvVz_-IiJi993XNLWUINzjNgroIYe5zC1bZ045SlViKZkZf-jYayDt9qdCxKr9iu-tqBX9nx_0_bBD4kdKXI9vURwgy9q-fxWqzqbQ==",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqunE2DaHry2mweQ_k9-vs8ZKNHsmJpY0TlHrj1ZtVyC25Io3brhvg2l7GqTCPopzn4WfgRtrarTPFkA6tmBGLQ4eXCoJhZunniNX4tOWD_JkCwv6tBFK_0P-8CH8tkaLxn5HRzDV6tVBtjOmvNcaWmPe64KG3urXx_m00FBHuBdN85B3CHQ==",
+                "title": "arinco.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXCzZ8E0g7b9cVOI3ogQtVPmfar30dfEfM1Gis9SZEl8oR1J3RXosce64dW3zpd-uDej7-RvMemID5aOCCKmZKEvvupmxbrbe-fp2Vh0RG5Dvg5zIDWi7P1OMwZxI7oZw-VAV-vTncbMl8kF9FpVG-vNQIObnioDhOUax3KxhPRNDfVFvqNhL_",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK4hXXvia1xZT5yN4QMGgIslqCz_-4JCz_3aE8pwFcoYBYl9ppFcCc0jju9cTI3MwTuTZv1cz4pJtK86IjBoWl5hqHFI2UmDJ6f9I=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOVvbhDCRodHzZxdAI-60N7SLNipT-Td9daongU5f8MtkVnfw56fsdSwC1kAZxGspEW07DwDaI34ZpEpRfVzId0rruof3UaREvLtuVpCvTAcbk5PCSf6TjL7k3T3oDJRJkVt2QPyBaQp_Nx0-VGMo00KYSvVLISywfrI197aYugIc6PtlBTPKJwaJJZpShKt5jvymUa-cO6Q==",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpUiTFbz6GsMKHQ9kdHJdWyUXh4q-MOce33N4qBvq0e1k_GaTR-xy3IxeriKg6n58ar4H8dKoWuZQP37VWmFk4K5N15eYvqC9L2yvD1EPA-b8k",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4LM8AFm6DBLMTJz-wy6iMKOvMor8_7f6lK-jCHXaKkTcKwodhJ1xd2OchfgUp0ZT0EakgDoqauRdTiUeWK8_wEthLTw-Yw3RyTJNGzEjHu0i3V-XxGA==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPp5-bKgI17lwqCegj1s2rn2HfF2YBBQTNGZvC9Rzio47cPXwWklGw5l1UKBBR8QrkoJEsCtIZgl4ZWbE5PWJTu6u12vGxvmCVUuaCn0oPpb7FaTHUyoFdnrGg7EFqWus=",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExp4HF6Gv-iojE5bblso7WB2yF476JrWdiqDx6-tmZ5PXl6DsYse0S389H30jWs882Y2YFc8vqTj8wTYE6liXdDCtTFU6tbcz8v-2e5XxywpmGGlk3JErN69jc-O378RtuItJjOybp8WcjRyUR1BG-pexHkf6f32qWL60jJASbDg==",
+                "title": "eagle360.consulting"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJekfLWTmJfuxFS1iLqKzcY4vTz_DHaAQzya9MMp5n_2hsHALkz-DFWnt5nqw3OhuoGB6E2SP_CO25QEU5SQPrCI6Uxt8l18Edg6esCuNU_Q9HssWGMoDWLfG8M-gxxCullYxx76dr4nvMUAI1GGMCpozsQE2uhzxAB9hAYBKBbHsTDtOqnm0nsTNN98jy",
+                "title": "a1t.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1lLJz4_i5S4fxibQOeSPXlhy1Nqr0lGKwKHUKKIG2yK5c20s7AfRO6hTuW0RNKj8iYpumqjkoAxmS4Uy5UEwolRKxRsh_at0SdipqMUHURxKt48LBD4-H9n8lwUzbdh0SsOoVgBGRIbQ=",
+                "title": "iotai.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1lLJz4_i5S4fxibQOeSPXlhy1Nqr0lGKwKHUKKIG2yK5c20s7AfRO6hTuW0RNKj8iYpumqjkoAxmS4Uy5UEwolRKxRsh_at0SdipqMUHURxKt48LBD4-H9n8lwUzbdh0SsOoVgBGRIbQ=",
+                "title": "iotai.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOmMbpMZKNgNft2hBx_kaKZeymqcnA1nxT186M9f16t7X391yyUVdD9v3XiAE5qJ31GKircjQJw6rBq9pd8cCSkG0YaOgVhpIWiYpyhUgLlCqIUyA2LFDwV-coBG8zLKdhr_U3ng==",
+                "title": "synenza.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgpSQRHiLNP6RisJFncDj2wdZ5A-mFir_m_Oh4cEnekU0UcOoAK3gtz0WEziL5YMSJzCGlcFBLJIhJN2YhxIWYja5I-VfAMLKEPUplrduCu9hbZ9s-wpMkAEpHUFf-aXHHvlsTkmHPZpyfctDfMONnbhs0sTAkzUEIk06XDuHppvb8ficTwXtlJw==",
+                "title": "agentyis.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 284,
+                "endIndex": 465,
+                "text": "These consultancies bring deep technical capabilities across both low-code (Copilot Studio, Power Platform) and pro-code (Azure OpenAI, Azure AI Foundry, Semantic Kernel) ecosystems"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 470,
+                "endIndex": 512,
+                "text": "**Arinco** *(Sydney CBD - 24 Campbell St)*"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 517,
+                "endIndex": 564,
+                "text": "**Core Focus:** Cloud, Data, and AI engineering"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 566,
+                "endIndex": 679,
+                "text": "They offer dedicated offerings like the **Copilot Studio Agent Builder Accelerator** and hands-on **Agentathons**"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 685,
+                "endIndex": 881,
+                "text": "**Mid-Market Fit:** Ideal for businesses that want to move beyond generic chat to build autonomous, multi-step agents that interact with enterprise databases and line-of-business software via APIs"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 883,
+                "endIndex": 956,
+                "text": "They bridge low-code Copilot Studio tools with robust Azure AI governance"
+              },
+              "groundingChunkIndices": [
+                6,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 960,
+                "endIndex": 1001,
+                "text": "**Engage Squared** *(Sydney & Melbourne)*"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1006,
+                "endIndex": 1078,
+                "text": "**Core Focus:** Recognized as a Microsoft Copilot Specialisation partner"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1080,
+                "endIndex": 1171,
+                "text": "They focus on Copilot Studio agent builds, workflow automation, and organizational adoption"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1283,
+                "endIndex": 1447,
+                "text": "Their **Secure Agentic Foundations** accelerator helps mid-market IT leaders manage data oversharing (via Microsoft Purview/Entra ID) before deploying custom agents"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1451,
+                "endIndex": 1501,
+                "text": "**Barhead Solutions** *(Sydney CBD - 123 Pitt St)*"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1506,
+                "endIndex": 1593,
+                "text": "**Core Focus:** Power Platform (Power Apps, Power Automate, Dataverse) and Dynamics 365"
+              },
+              "groundingChunkIndices": [
+                11,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1599,
+                "endIndex": 1841,
+                "text": "**Mid-Market Fit:** If your mid-market automation relies heavily on CRM/ERP data (e.g., Dynamics 365, Salesforce, Dataverse), Barhead excels at embedding Copilot Studio agents directly into transactional workflows and automated approval loops"
+              },
+              "groundingChunkIndices": [
+                11,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2040,
+                "endIndex": 2074,
+                "text": "**Frontrow Technology** *(Sydney)*"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2079,
+                "endIndex": 2238,
+                "text": "**Core Focus:** Microsoft Copilot readiness, deployment, and custom Copilot Studio agent builds specifically for Sydney mid-market and lower enterprise clients"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2291,
+                "endIndex": 2478,
+                "text": "They run fixed-scope assessments to remediate identity and SharePoint permission risks first, then build purpose-driven Copilot Studio agents grounded in company-specific operational data"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2482,
+                "endIndex": 2516,
+                "text": "**Eagle360 Consulting** *(Sydney)*"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2521,
+                "endIndex": 2606,
+                "text": "**Core Focus:** Microsoft Power Platform and Dynamics 365 Business Central automation"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2612,
+                "endIndex": 2700,
+                "text": "**Mid-Market Fit:** Specifically tailored to Australian mid-market operational workflows"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2702,
+                "endIndex": 2878,
+                "text": "They specialize in building Copilot Studio agents that read/write into ERPs, process supplier invoices via AI Builder, and automate quote-to-cash sequences using Power Automate"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2882,
+                "endIndex": 2923,
+                "text": "**IOTAI** *(North Sydney - 99 Walker St)*"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2928,
+                "endIndex": 3031,
+                "text": "**Core Focus:** Custom Copilot Studio agents and workflow automation for SMBs and mid-market businesses"
+              },
+              "groundingChunkIndices": [
+                16,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3037,
+                "endIndex": 3129,
+                "text": "**Mid-Market Fit:** Offers fast, fixed-fee deployment models (typically live in 2–4 weeks)"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3131,
+                "endIndex": 3306,
+                "text": "They specialise in connecting Copilot agents not just to Microsoft 365, but also common Australian accounting and operations platforms like Xero and MYOB via custom connectors"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3310,
+                "endIndex": 3332,
+                "text": "**Synenza** *(Sydney)*"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3337,
+                "endIndex": 3434,
+                "text": "**Core Focus:** Copilot Studio agents, Power Platform integration, and Azure AI Foundry solutions"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3440,
+                "endIndex": 3621,
+                "text": "**Mid-Market Fit:** Focused on turning repetitive manual tasks (IT triage, HR policy discovery, invoice reconciliation) into automated agent flows using Power Automate and Dataverse"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3842,
+                "endIndex": 3984,
+                "text": "If your internal access controls are loose, deploying an agent can accidentally expose confidential executive or payroll data to general staff"
+              },
+              "groundingChunkIndices": [
+                12,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3986,
+                "endIndex": 4073,
+                "text": "A good partner will audit permissions and configure Microsoft Purview before deployment"
+              },
+              "groundingChunkIndices": [
+                12,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4122,
+                "endIndex": 4263,
+                "text": "If your workflows only involve SharePoint, Teams, and standard Microsoft 365 apps, standard **Copilot Studio + Power Automate** is sufficient"
+              },
+              "groundingChunkIndices": [
+                16,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4270,
+                "endIndex": 4467,
+                "text": "If you need the agent to query legacy SQL databases, proprietary APIs, or perform complex logic, ensure the consultant has engineering skills in **Azure AI Foundry, REST APIs, and Semantic Kernel**"
+              },
+              "groundingChunkIndices": [
+                17,
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4514,
+                "endIndex": 4639,
+                "text": "Microsoft Copilot Studio requires message/capacity credits, which are separate from standard Microsoft 365 Copilot user seats"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft AI partner Sydney Copilot Studio Power Platform mid market",
+            "\"Arinco\" \"Copilot Studio\" OR \"AI agents\"",
+            "Microsoft Copilot Studio consultants Sydney mid market AI automation",
+            "AI workflow automation consultants Sydney Copilot Studio",
+            "\"Barhead\" \"Copilot Studio\" Sydney",
+            "\"Engage Squared\" \"Copilot Studio\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 750,
+      "candidatesTokenCount": 1321,
+      "totalTokenCount": 3786,
+      "cachedContentTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 750
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 259
+        }
+      ],
+      "thoughtsTokenCount": 1715,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "hsXiapWDCuzr694P_8qgsAc"
+  }
+}

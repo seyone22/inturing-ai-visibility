@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Newcastle specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:43.972Z",
+  "cost": 0.006136,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 502,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005536,
+      "datetime": "2026-10-29 04:10:38 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Newcastle, NSW**, the strongest local matches are:\n\n- **Newcastle AI** — Newcastle-based consultancy focused on custom AI agents, workflow automation, system integrations, RAG knowledge systems, and practical AI strategy. It appears particularly suited to mid-market businesses wanting bespoke agents beyond basic chatbots.[7]\n- **Dynamic Business Technologies** — Offers business-led AI consulting across Microsoft Copilot, AI agents, workflow automation, generative AI, and business-systems integration. Its approach starts with identifying the operational problem before selecting Copilot, automation, or an agent.[4]\n- **Flowtivity** — Provides Newcastle AI consulting, custom AI agents, and intelligent workflow automation, with an emphasis on practical implementation for sectors including mining, healthcare, education, and manufacturing.[5]\n\nFor **Microsoft Copilot Studio specifically**, the clearest specialist is:\n\n- **Marra** — Based at Newcastle Helix, it explicitly delivers Copilot Studio agent development, Microsoft 365 Copilot enablement, Power Platform integrations, workflow automation, readiness assessments, governance, and deployment across internal and customer-facing use cases.[1][2]\n\n### Best-fit shortlist\n\n| Consultant | Newcastle presence | Copilot Studio | AI agents | Workflow automation | Best fit |\n|---|---:|---:|---:|---:|---|\n| **Marra** | Newcastle upon Tyne, UK | Strong | Strong | Strong | Microsoft-focused organisations needing governed Copilot agents[1][2] |\n| **Newcastle AI** | Newcastle, NSW | Not explicitly stated | Strong | Strong | Australian mid-market firms seeking bespoke autonomous agents and integrations[7] |\n| **Dynamic Business Technologies** | Newcastle service presence indicated | Explicitly listed | Explicitly listed | Explicitly listed | Businesses wanting a practical, problem-first automation assessment[4] |\n| **Flowtivity** | Newcastle, NSW | Not explicitly stated | Strong | Strong | Local SMEs and mid-market operators seeking hands-on AI automation[5] |\n\nIf “Newcastle” means **Newcastle, NSW**, start with **Newcastle AI** and **Dynamic Business Technologies**; if it means **Newcastle upon Tyne**, **Marra** is the most directly aligned Copilot Studio specialist. The search results do not establish that every provider specifically serves mid-market companies, so confirm team size, Microsoft certifications, relevant case studies, security approach, and ongoing support during qualification.",
+              "annotations": [
+                {
+                  "title": "Our Solutions",
+                  "url": "https://marra.co.uk/our-ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Agent Development | Marra",
+                  "url": "https://marra.co.uk/our-ai-solutions/microsoft-copilot-agent-development/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Consulting — Synenza",
+                  "url": "https://www.synenza.com.au/services/copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Business Solutions Newcastle",
+                  "url": "https://dbtechnologies.com.au/services/ai-business-solutions",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Newcastle | Business Automation & AI Agents",
+                  "url": "https://flowtivity.ai/ai-consultant/newcastle/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agent Solutions | Training and Consulting for Copilot Studio",
+                  "url": "https://pragmaticworks.com/copilot-studio",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Newcastle AI - Custom AI Agent Development & Automation",
+                  "url": "https://newcastle.ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Studio Consulting Services",
+                  "url": "https://www.hso.com/artificial-intelligence/microsoft/copilot/studio/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot Studio Consulting Australia | Evocate",
+                  "url": "https://www.evocate.com.au/ai-implementation/copilot-studio/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Innovation with AI and Agents | Microsoft",
+                  "url": "https://www.ncs.co/en-au/services/partner-solutions/microsoft-solutions/innovation-with-ai-and-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

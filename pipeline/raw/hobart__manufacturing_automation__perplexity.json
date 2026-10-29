@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:06.780Z",
+  "cost": 0.006399,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 43,
+      "output_tokens": 756,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005799,
+      "datetime": "2026-10-29 04:11:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Hobart manufacturer that wants to **retain its ERP**, start with consultants that can demonstrate ERP integration, manufacturing workflows, and shop-floor data capture—not just generic Power Apps development.\n\n## Best-fit firms to speak to\n\n- **Inturing** — strongest apparent fit for your requirements. It specifically positions Power Platform and Azure as an integration layer across existing ERP, MES and PLM systems, without replacing them. Its stated use cases include automated quote/order entry, validation against product and pricing data, shop-floor job-progress apps, quality inspections, non-conformance capture and offline mobile operation.[3]\n\n- **Trace Consultants** — worth considering for the operational-design and supply-chain side of the project. Its team includes experience in operations, supply chain, food processing, manufacturing-related environments and mechatronics, alongside Microsoft Power Platform automation.[9]\n\n- **Power Platform Experts** — a suitable specialist for designing and developing Power Apps, Power Automate workflows, Power BI reporting and integrations with existing systems. Confirm their specific manufacturing and shop-floor references before appointing them.[6]\n\n- **Newpath** — useful if you need Power Platform governance, custom applications and integration across multiple systems. Its stated services cover Power Apps, Power Automate, Power BI and interoperability with existing applications.[8]\n\n- **Alphavima** — offers Hobart-focused Power Platform, Fabric and data-integration services, including apps for inspections, approvals, inventory and data collection, plus pipelines connecting ERP, databases, files and APIs.[1][4] Validate its local delivery capacity and manufacturing references.\n\n- **Eagle360 Consulting** — consider this if your ERP is **Microsoft Dynamics 365 Business Central or MYOB Acumatica**. It works with Australian manufacturers and describes Power Apps, Power Automate, EDI, warehouse and e-commerce integrations.[5]\n\n- **Alithya** — a larger-scale option if you need substantial Dynamics, Azure or manufacturing transformation capability. Its manufacturing offerings include production orders, quality, maintenance, asset management and a Smart Order Entry solution, but it may be more relevant if you use—or may eventually move toward—Dynamics 365.[10]\n\n## Recommended shortlist\n\nInvite these three to an initial discovery workshop:\n\n1. **Inturing** — for the target architecture and end-to-end manufacturing automation.\n2. **Trace Consultants** — for process mapping, supply-chain design and operational adoption.\n3. **Power Platform Experts** or **Newpath** — for implementation, governance and app/automation delivery.\n\nInclude **Eagle360** instead if your ERP is Business Central or MYOB Acumatica.\n\n## What to ask each consultant\n\n- Can you integrate with our current ERP through APIs, webhooks, database views, EDI or existing middleware without modifying its core?\n- Show two comparable manufacturing references involving order entry and shop-floor capture.\n- Can operators use the app offline, with queued synchronisation when connectivity returns?\n- How will you handle duplicate orders, failed integrations, retries, audit trails and exception queues?\n- Can the solution capture production progress, downtime, quality checks, non-conformances and maintenance data?\n- What stays in the ERP, and what belongs in Dataverse, Power Apps, Power Automate or Power BI?\n- How will licensing, environments, security roles, support and change control be governed?\n- Can you deliver a small pilot—such as order intake plus one production line—before scaling?\n\nThe strongest first proof of value would combine **automated order capture and validation**, a **tablet-based production/quality app**, and a **Power BI operational dashboard**, while leaving the ERP as the system of record.[2][3]",
+              "annotations": [
+                {
+                  "title": "Reliable onelake consulting for Hobart, Tasmania Enterprises",
+                  "url": "https://alphavima.com/data-engineering/onelake-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services | Low-Code Solutions",
+                  "url": "https://multiqos.com/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "microsoft fabric consulting-in-Hobart, Tasmania - Alphavima ...",
+                  "url": "https://alphavima.com/data-engineering/microsoft-fabric-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Company in Australia - Concetto Labs",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consultants | Power Platform Developers",
+                  "url": "https://www.newpathweb.com.au/digital-services/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Technology",
+                  "url": "https://www.traceconsultants.com.au/technology",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Your go-to partner for Microsoft Dynamics 365 consulting",
+                  "url": "https://www.alithya.com/en/technologies/microsoft/dynamics-365",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

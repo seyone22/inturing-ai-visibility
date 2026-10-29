@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Newcastle for operational reporting and data warehousing?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:28.290Z",
+  "cost": 0.006132,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 503,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005532,
+      "datetime": "2026-10-29 04:10:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Newcastle, NSW**, the strongest apparent fits are **On Report** and **Agile Insights**, with **Microsoft Marketplace partners** such as Tridant and Data-Driven worth considering for a formal Fabric implementation. The search results do not establish a definitive local ranking, so these are best treated as a shortlist rather than an objective “top” list.\n\n- **On Report** — Australian data and analytics consultancy offering Power BI dashboards, reporting automation, data engineering, and Microsoft Fabric data platforms. Its services appear well aligned with operational reporting and integrating systems such as Xero, Salesforce, SQL Server, Dynamics 365, and APIs.[2]\n- **Agile Insights** — Microsoft specialist partner with reported experience across 150+ Fabric engagements, governed Power BI platforms, operational-reporting accelerators, and data warehousing. It is headquartered in Sydney but delivers across NSW, making it a credible option for Newcastle organisations.[5]\n- **Tridant** — Listed in Microsoft Marketplace with packaged services for a four-week Microsoft Fabric implementation and Power BI-to-Fabric migration. This may suit organisations seeking a structured, fixed-scope engagement.[7]\n- **Data-Driven** — Listed in Microsoft Marketplace for Microsoft Fabric implementation services, making it another candidate for lakehouse, warehouse, and reporting work.[7]\n- **PerData** — Listed in Microsoft Marketplace for Power BI consulting and training; potentially suitable for reporting development, enablement, or a smaller initial engagement.[7]\n- **Intelegain Technologies** — Offers end-to-end Fabric consulting covering OneLake, lakehouse and warehouse implementation, Fabric Data Factory pipelines, governance, and Power BI semantic models. Confirm Australian delivery coverage before shortlisting.[3]\n\nFor a Newcastle-based operational-reporting project, the preferred shortlist would be **On Report** for Australian delivery and reporting automation, **Agile Insights** for deeper Microsoft credentials and larger Fabric programmes, and **Tridant or Data-Driven** for packaged implementation work.\n\nWhen comparing proposals, ask each consultant to demonstrate:\n\n- A dimensional warehouse or Fabric medallion architecture.\n- Incremental ingestion, data-quality controls, and refresh monitoring.\n- Power BI semantic models with certified measures, row-level security, and reusable operational KPIs.\n- Integration with your actual systems, such as ERP, CRM, payroll, field service, or spreadsheets.\n- A migration and support plan, including documentation, governance, licensing, and internal training.",
+              "annotations": [
+                {
+                  "title": "azure databricks consulting-in-Newcastle upon Tyne",
+                  "url": "https://alphavima.com/data-engineering/azure-databricks-consulting-in-newcastle-upon-tyne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Data Analytics Consulting Companies in 2026 | Numlytics",
+                  "url": "https://numlytics.com/blog/top-data-analytics-consulting-companies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Numlytics: Data Analytics Consulting Services | Power BI ...",
+                  "url": "https://numlytics.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "cloud solutions, AI apps, and agents - Microsoft Marketplace",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services?OCID=AID681541_aff_7593_1243925&page=9&product=power-bi&country=AU",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Femi Akinola-amao | LinkedIn",
+                  "url": "https://www.linkedin.com/in/femiakinolaamaodataengineer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "John Gichuhi | LinkedIn",
+                  "url": "https://www.linkedin.com/in/john-gichuhi-1424921b",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "marketplace.microsoft.com › en-in › productPower BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-in/product/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

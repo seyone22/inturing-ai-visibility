@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Hobart specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:53.226Z",
+  "cost": 0.006,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 365,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.0054,
+      "datetime": "2026-10-29 04:11:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches for a Hobart mid-market business are:\n\n- **Frontrow Technology** — A Microsoft partner serving Hobart and Tasmania, with Copilot readiness, deployment, adoption, and custom Copilot Studio agents grounded in business data. It specifically describes a 10–14-week rollout approach for mid-market organisations and uses senior Microsoft-certified consultants.[1]\n- **Ential** — Offers Hobart-focused Microsoft Copilot consulting, including custom Copilot Studio agents, SharePoint and policy-based knowledge assistants, approval automation, system integrations, governance, and practical user adoption.[2]\n- **Synenza** — Specialises in Copilot Studio agents, Dynamics 365 agents, Azure AI, Power Automate, Dataverse, and workflow-connected business automation. It appears well suited to organisations wanting production-grade agents rather than basic Copilot training.[3]\n- **158 Lab** — A Hobart-based consultancy offering AI-readiness assessments, practical workshops, custom workflow builds, and fractional AI leadership. It is a good candidate for businesses wanting hands-on automation and ongoing direction, although the available listing does not specifically confirm Copilot Studio expertise.[4]\n- **TECHOM Systems** — Provides Microsoft 365 Copilot readiness, governance, training, and custom Power Automate workflows for small-to-medium and expanding Australian businesses in the Hobart region. It is more of a broader Microsoft/cloud services provider than a specialist AI-agent consultancy.[5]\n\n**Best shortlist:** Frontrow Technology for a structured Microsoft rollout, Ential for locally tailored Copilot adoption and agents, and Synenza for deeper Copilot Studio, Azure, and Power Platform automation. Verify delivery location, Microsoft certifications, relevant case studies, security approach, and whether they build and maintain agents in production before selecting a provider.",
+              "annotations": [
+                {
+                  "title": "Copilot Specialists in Hobart · Ential",
+                  "url": "https://www.ential.com/copilot-specialist-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Consulting — Synenza",
+                  "url": "https://www.synenza.com.au/services/copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI agents & development consultants in Australia",
+                  "url": "https://findaiconsultants.com.au/services/development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Hypergen: Services, Team Size & Profile (2026)",
+                  "url": "https://www.aiautomationdb.com/ai-automation-agencies/hypergen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Downlands 7320",
+                  "url": "https://techomsystems.com.au/locations/tas/downlands/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Binalong Bay 7216",
+                  "url": "https://techomsystems.com.au/locations/tas/binalong-bay/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Eggs And Bacon Bay 7112",
+                  "url": "https://techomsystems.com.au/locations/tas/eggs-and-bacon-bay/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Consultant Hobart - Frontrow Technology",
+                  "url": "https://frontrowtech.com.au/copilot-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI strategy consultants in Australia",
+                  "url": "https://aussieaiconsultants.com/ai-strategy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft 365 AI & Automation Experts in Cooee | TECHOM Systems",
+                  "url": "https://techomsystems.com.au/locations/tas/cooee/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

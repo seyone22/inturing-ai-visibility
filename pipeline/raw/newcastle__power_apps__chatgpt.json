@@ -1,0 +1,626 @@
+{
+  "slug": "newcastle",
+  "pk": "power_apps",
+  "plat": "chatgpt",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_apps__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:44.834Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Newcastle%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hints=search",
+      "datetime": "2026-10-29 04:10:39 +00:00",
+      "markdown": "For Newcastle, NSW, and the Hunter Region, I’d shortlist consultancies based on how well they can build **operational apps for warehouse, shop-floor and field workers**—not simply how much Microsoft 365 or Power BI consulting they offer.\n\nThe strongest fit is a team that can combine Microsoft Power Apps, Dataverse, Power Automate and integration with your existing ERP or inventory systems. The aim is to replace paper forms, spreadsheets and manual handoffs with reliable, mobile-friendly workflows.\n\n## My shortlist\n\n![Power BI Training Australia | Self-Service BI Courses](https://images.openai.com/static-rsc-4/yFl7mRorf9gQGeutTzu4-SYDpnETD-Pa5A3eRTgagupr1td_5OR1wmmZOQ_8xo6Il9VmVYbJLF-a7hB59PRGZss-3qlq4SUelubshJJrFs6m5cH2qxN8TxyaTPtXuCzQKhA6AOPuNVn8p3G1_ydByvG6lUXKYtkIbB_NOmaY3xF3Oa51aPZQ3QCyOVRnexPK?purpose=fullsize)\n\n## 1\\. Report Simple\n\n(Strong Power Apps fit)\n\nReport Simple explicitly markets Power Apps consulting for Newcastle, including custom canvas and model-driven apps, industrial workflows, process automation and integration with SQL, SharePoint and Dynamics 365. Its published offer is closely aligned with replacing spreadsheet-based operational processes. [www.reportsimple.com.au](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle?utm_source=chatgpt.com)\n\n**Best for\\:** custom operational forms, field-to-office data capture, inspections and workflow digitisation.\n\n[Website — Power Apps Consulting Newcastle](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle)\n\n---\n\n![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)\n\n## 2\\. Team10\n\n(Best local operations focus)\n\nNewcastle-based, with an explicit focus on wholesalers, distributors, manufacturers and trade businesses across the Hunter. Team10 builds custom internal apps, integrates Microsoft 365 and business systems, and offers on-site support. Its public positioning is particularly relevant to operational process improvement, although I would verify its depth of Dataverse-specific delivery. [team10.com.au](https://team10.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** a local partner who can visit your site, map workflows and connect systems.\n\n[Website — Team10](https://team10.com.au/)\n\n---\n\n![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)\n\n## 3\\. Inturing\n\n(Best stated operational-app specialisation)\n\nInturing explicitly describes building operational business apps for shop floors, warehouses and field teams using Power Apps, Dataverse and Power Automate. It also focuses on integration with ERP, MES, PLM and finance systems. It identifies itself as a Microsoft Solutions Partner, though its delivery team is based in Sydney and serves clients across Australia and New Zealand. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Best for\\:** a manufacturing or distribution operation needing structured data, workflow controls and integration with core systems.\n\n[Website — Inturing](https://inturing.com.au/solutions)\n\n---\n\n![CloudHiro — FinOps Mastery. Azure-Native. Built for Every Cloud.](https://images.openai.com/static-rsc-4/NB-KBxezd83j-fE4xH8WwGEJKmr7yqijpOrlUWomZ2ASQHW3zWFwBjC4MXBPdGchXRz7tK6QkL0bROE6Eufz8xBGlQavuC1C_5KBf6Jq4RG86h9Pw9MMsZ06vgyYLoOs2p0fdh6y1b5rPr_qI6R2yAXnEJ18uUUiDUmzl6MCHnd5AXremCsGfjO9r2yLRNqk?purpose=fullsize)\n\n## 4\\. Cloudhunter\n\nCloudhunter serves Newcastle, the Central Coast and Hunter Valley, with a Microsoft-focused offering spanning Dynamics 365, Power Platform, Azure and SharePoint. It is worth considering if your operational app needs to fit into a wider Microsoft business-systems environment. Its public information is less explicit about warehouse- or shop-floor-specific Power Apps projects. [cloudhunter.com.au](https://cloudhunter.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** Microsoft ecosystem integration, particularly where Dynamics 365 and Azure are already involved.\n\n[Website — Cloudhunter](https://cloudhunter.com.au/)\n\n---\n\n![SSW Logo Guidelines](https://images.openai.com/static-rsc-4/gPBWSU33eyDMDW5_i9Gl1xMTAzTy7oK6dYHZhCEHSnyhAMTUb2viBbfjTZeokdoaRHcQ0oP28tEifEoVdpDbV4iym6v4U2MqCxWJxiJNmtXCyqIpsnIEDq3oJzjx2BowHGnq8ziQeHpCNHJpEXNtDRxO_0MBzdzzJznL6zxuiKuCLZlREh0Jmk8FijQlXeLh?purpose=fullsize)\n\n## 5\\. SSW Newcastle\n\nSSW has a Newcastle office at 432 Hunter Street and a strong Microsoft-oriented software engineering background. It is a useful candidate if your requirements go beyond standard low-code apps and involve custom integrations, complex application logic or a broader software architecture. Confirm the proposed team’s hands-on Dataverse experience before shortlisting. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ0SvNDd4Vc2sRo6TTabCULts&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** technically complex solutions where low-code development may need to be combined with custom software.\n\n[Website — SSW](https://www.ssw.com.au/)\n\n## Who I would contact first\n\n| Your priority | First choice | Alternative |\n|--------|--------|--------|\n| Local Newcastle/Hunter presence and site visits | Team10 | Cloudhunter |\n| Explicit Newcastle Power Apps development | Report Simple | Inturing |\n| Warehouse/shop-floor apps with Dataverse and ERP integration | Inturing | Report Simple |\n| Complex custom engineering and integrations | SSW Newcastle | Cloudhunter |\n\n\nThis is a **fit-based shortlist, not an independently verified ranking**\\. The published information I found does not establish which provider has the strongest track record specifically in warehouse execution, manufacturing shop-floor systems or field-service deployments.\n\n## What to ask before selecting a consultant\n\nFor your use case, I would ask each provider to demonstrate a relevant implementation and answer these five questions\\:\n\n1. **Dataverse architecture\\:** Can you design proper tables, relationships, role-based security and audit history rather than building everything around SharePoint lists?\n2. **Frontline usability\\:** Can the app run well on rugged tablets and phones, including barcode scanning, and offline capture where required?\n3. **Operational workflows\\:** Have you delivered goods receiving, stock movements, production checks, maintenance work orders, inspections or field-service reporting?\n4. **Integration\\:** Can you connect the app to our ERP, inventory, finance or manufacturing systems without creating duplicate records?\n5. **Ownership and support\\:** Will the solution live in our Microsoft tenant, with documented flows, deployment practices, licensing costs and a clear support arrangement?\n\nFor a warehouse or shop-floor solution, I would prioritise a working demonstration using one of your actual processes over a generic Power Apps portfolio.\n\n## My recommendation\n\nStart with **Report Simple and Inturing** for the technical fit, and **Team10** if having a Newcastle-based partner who can work directly with your operations team is particularly important.\n\nTo narrow this to the best two or three providers, I can help compare their fit for your specific operational requirements.\n\n[Compare Dataverse and ERP integration expertise](f) [Find relevant case studies and client references](f)",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/",
+          "domain": "team10.com.au",
+          "title": "Team10 — AI Automation & Business Technology | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle",
+          "domain": "www.reportsimple.com.au",
+          "title": "Power Apps Consulting Newcastle | Custom App Solutions Australia",
+          "description": null,
+          "breadcrumb": "www.reportsimple.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/solutions",
+          "domain": "inturing.com.au",
+          "title": "Power Platform Solutions | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://cloudhunter.com.au/",
+          "domain": "cloudhunter.com.au",
+          "title": "Cloudhunter – Microsoft Cloud Experts",
+          "description": null,
+          "breadcrumb": "cloudhunter.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.futureability.com/power-platform",
+          "domain": "www.futureability.com",
+          "title": "Power Platform Consultants Australia | FutureAbility",
+          "description": null,
+          "breadcrumb": "www.futureability.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://codesource.com.au/bespoke-software-development/microsoft-power-platform-and-power-apps-consulting-sydney/",
+          "domain": "codesource.com.au",
+          "title": "Microsoft Power Platform & Power Apps Consulting | codeSource",
+          "description": null,
+          "breadcrumb": "codesource.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://icatalyst.com.au/services",
+          "domain": "icatalyst.com.au",
+          "title": "Services",
+          "description": null,
+          "breadcrumb": "icatalyst.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/power-platform/",
+          "domain": "techram.com.au",
+          "title": "Power Apps & Power Automate Consultants, Sydney | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-northern-rivers-nsw",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Northern Rivers, NSW",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Sydney",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-central-coast-nsw",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Central Coast NSW",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps Consulting Newcastle",
+          "snippet": null,
+          "domain": "www.reportsimple.com.au",
+          "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Custom App Solutions Australia",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Power Apps Consulting Newcastle",
+          "snippet": null,
+          "domain": "www.reportsimple.com.au",
+          "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Power Apps Consulting Newcastle](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Team10 — AI Automation & Business Technology",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Newcastle NSW",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Team10",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Team10](https://team10.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Solutions",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/solutions",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Inturing](https://inturing.com.au/solutions)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Cloudhunter",
+          "snippet": null,
+          "domain": "cloudhunter.com.au",
+          "url": "https://cloudhunter.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Cloud Experts",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Cloudhunter",
+          "snippet": null,
+          "domain": "cloudhunter.com.au",
+          "url": "https://cloudhunter.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Cloudhunter](https://cloudhunter.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SSW Newcastle - Enterprise Software Development",
+          "snippet": "432 Hunter St, Newcastle NSW 2300, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ0SvNDd4Vc2sRo6TTabCULts&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — SSW",
+          "snippet": null,
+          "domain": "www.ssw.com.au",
+          "url": "https://www.ssw.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — SSW](https://www.ssw.com.au/)"
+        }
+      ],
+      "fan_out_queries": [
+        "leading Microsoft Power Apps Dataverse consultants Newcastle NSW Australia custom operational apps warehouse shop floor field teams"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian data and Power Apps consultancy",
+          "category": "organization",
+          "markdown": "Report Simple",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle operational technology and automation consultancy",
+          "category": "company",
+          "markdown": "Team10",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft cloud and business applications consultancy",
+          "category": "company",
+          "markdown": "Cloudhunter",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "SSW Newcastle",
+          "category": "local_business",
+          "markdown": "SSW Newcastle",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For Newcastle, NSW, and the Hunter Region, I’d shortlist consultancies based on how well they can build **operational apps for warehouse, shop-floor and field workers**—not simply how much Microsoft 365 or Power BI consulting they offer.\n\nThe strongest fit is a team that can combine Microsoft Power Apps, Dataverse, Power Automate and integration with your existing ERP or inventory systems. The aim is to replace paper forms, spreadsheets and manual handoffs with reliable, mobile-friendly workflows.\n\n## My shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Power BI Training Australia | Self-Service BI Courses](https://images.openai.com/static-rsc-4/yFl7mRorf9gQGeutTzu4-SYDpnETD-Pa5A3eRTgagupr1td_5OR1wmmZOQ_8xo6Il9VmVYbJLF-a7hB59PRGZss-3qlq4SUelubshJJrFs6m5cH2qxN8TxyaTPtXuCzQKhA6AOPuNVn8p3G1_ydByvG6lUXKYtkIbB_NOmaY3xF3Oa51aPZQ3QCyOVRnexPK?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.reportsimple.com.au/consulting/power-bi-training-australia",
+              "alt": "Power BI Training Australia | Self-Service BI Courses",
+              "image_url": "https://images.openai.com/static-rsc-4/yFl7mRorf9gQGeutTzu4-SYDpnETD-Pa5A3eRTgagupr1td_5OR1wmmZOQ_8xo6Il9VmVYbJLF-a7hB59PRGZss-3qlq4SUelubshJJrFs6m5cH2qxN8TxyaTPtXuCzQKhA6AOPuNVn8p3G1_ydByvG6lUXKYtkIbB_NOmaY3xF3Oa51aPZQ3QCyOVRnexPK?purpose=fullsize",
+              "markdown": "![Power BI Training Australia | Self-Service BI Courses](https://images.openai.com/static-rsc-4/yFl7mRorf9gQGeutTzu4-SYDpnETD-Pa5A3eRTgagupr1td_5OR1wmmZOQ_8xo6Il9VmVYbJLF-a7hB59PRGZss-3qlq4SUelubshJJrFs6m5cH2qxN8TxyaTPtXuCzQKhA6AOPuNVn8p3G1_ydByvG6lUXKYtkIbB_NOmaY3xF3Oa51aPZQ3QCyOVRnexPK?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Report Simple\n\n(Strong Power Apps fit)\n\nReport Simple explicitly markets Power Apps consulting for Newcastle, including custom canvas and model-driven apps, industrial workflows, process automation and integration with SQL, SharePoint and Dynamics 365. Its published offer is closely aligned with replacing spreadsheet-based operational processes. [www.reportsimple.com.au](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle?utm_source=chatgpt.com)\n\n**Best for\\:** custom operational forms, field-to-office data capture, inspections and workflow digitisation.\n\n[Website — Power Apps Consulting Newcastle](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps Consulting Newcastle",
+              "snippet": null,
+              "domain": "www.reportsimple.com.au",
+              "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Custom App Solutions Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Power Apps Consulting Newcastle",
+              "snippet": null,
+              "domain": "www.reportsimple.com.au",
+              "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Power Apps Consulting Newcastle](https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian data and Power Apps consultancy",
+              "category": "organization",
+              "markdown": "Report Simple",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.t10.digital/",
+              "alt": "T10",
+              "image_url": "https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize",
+              "markdown": "![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Team10\n\n(Best local operations focus)\n\nNewcastle-based, with an explicit focus on wholesalers, distributors, manufacturers and trade businesses across the Hunter. Team10 builds custom internal apps, integrates Microsoft 365 and business systems, and offers on-site support. Its public positioning is particularly relevant to operational process improvement, although I would verify its depth of Dataverse-specific delivery. [team10.com.au](https://team10.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** a local partner who can visit your site, map workflows and connect systems.\n\n[Website — Team10](https://team10.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Team10 — AI Automation & Business Technology",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Newcastle NSW",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Team10",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Team10](https://team10.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle operational technology and automation consultancy",
+              "category": "company",
+              "markdown": "Team10",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+              "alt": "Microsoft Power Platform Consulting | Professional Advantage Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Inturing\n\n(Best stated operational-app specialisation)\n\nInturing explicitly describes building operational business apps for shop floors, warehouses and field teams using Power Apps, Dataverse and Power Automate. It also focuses on integration with ERP, MES, PLM and finance systems. It identifies itself as a Microsoft Solutions Partner, though its delivery team is based in Sydney and serves clients across Australia and New Zealand. [inturing.com.au](https://inturing.com.au/solutions?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Best for\\:** a manufacturing or distribution operation needing structured data, workflow controls and integration with core systems.\n\n[Website — Inturing](https://inturing.com.au/solutions)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Solutions",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/solutions",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Inturing](https://inturing.com.au/solutions)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![CloudHiro — FinOps Mastery. Azure-Native. Built for Every Cloud.](https://images.openai.com/static-rsc-4/NB-KBxezd83j-fE4xH8WwGEJKmr7yqijpOrlUWomZ2ASQHW3zWFwBjC4MXBPdGchXRz7tK6QkL0bROE6Eufz8xBGlQavuC1C_5KBf6Jq4RG86h9Pw9MMsZ06vgyYLoOs2p0fdh6y1b5rPr_qI6R2yAXnEJ18uUUiDUmzl6MCHnd5AXremCsGfjO9r2yLRNqk?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://cloudhiro.com/",
+              "alt": "CloudHiro — FinOps Mastery. Azure-Native. Built for Every Cloud.",
+              "image_url": "https://images.openai.com/static-rsc-4/NB-KBxezd83j-fE4xH8WwGEJKmr7yqijpOrlUWomZ2ASQHW3zWFwBjC4MXBPdGchXRz7tK6QkL0bROE6Eufz8xBGlQavuC1C_5KBf6Jq4RG86h9Pw9MMsZ06vgyYLoOs2p0fdh6y1b5rPr_qI6R2yAXnEJ18uUUiDUmzl6MCHnd5AXremCsGfjO9r2yLRNqk?purpose=fullsize",
+              "markdown": "![CloudHiro — FinOps Mastery. Azure-Native. Built for Every Cloud.](https://images.openai.com/static-rsc-4/NB-KBxezd83j-fE4xH8WwGEJKmr7yqijpOrlUWomZ2ASQHW3zWFwBjC4MXBPdGchXRz7tK6QkL0bROE6Eufz8xBGlQavuC1C_5KBf6Jq4RG86h9Pw9MMsZ06vgyYLoOs2p0fdh6y1b5rPr_qI6R2yAXnEJ18uUUiDUmzl6MCHnd5AXremCsGfjO9r2yLRNqk?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Cloudhunter\n\nCloudhunter serves Newcastle, the Central Coast and Hunter Valley, with a Microsoft-focused offering spanning Dynamics 365, Power Platform, Azure and SharePoint. It is worth considering if your operational app needs to fit into a wider Microsoft business-systems environment. Its public information is less explicit about warehouse- or shop-floor-specific Power Apps projects. [cloudhunter.com.au](https://cloudhunter.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** Microsoft ecosystem integration, particularly where Dynamics 365 and Azure are already involved.\n\n[Website — Cloudhunter](https://cloudhunter.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Cloudhunter",
+              "snippet": null,
+              "domain": "cloudhunter.com.au",
+              "url": "https://cloudhunter.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Cloud Experts",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Cloudhunter",
+              "snippet": null,
+              "domain": "cloudhunter.com.au",
+              "url": "https://cloudhunter.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Cloudhunter](https://cloudhunter.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft cloud and business applications consultancy",
+              "category": "company",
+              "markdown": "Cloudhunter",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![SSW Logo Guidelines](https://images.openai.com/static-rsc-4/gPBWSU33eyDMDW5_i9Gl1xMTAzTy7oK6dYHZhCEHSnyhAMTUb2viBbfjTZeokdoaRHcQ0oP28tEifEoVdpDbV4iym6v4U2MqCxWJxiJNmtXCyqIpsnIEDq3oJzjx2BowHGnq8ziQeHpCNHJpEXNtDRxO_0MBzdzzJznL6zxuiKuCLZlREh0Jmk8FijQlXeLh?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.ssw.com.au/logo/ssw",
+              "alt": "SSW Logo Guidelines",
+              "image_url": "https://images.openai.com/static-rsc-4/gPBWSU33eyDMDW5_i9Gl1xMTAzTy7oK6dYHZhCEHSnyhAMTUb2viBbfjTZeokdoaRHcQ0oP28tEifEoVdpDbV4iym6v4U2MqCxWJxiJNmtXCyqIpsnIEDq3oJzjx2BowHGnq8ziQeHpCNHJpEXNtDRxO_0MBzdzzJznL6zxuiKuCLZlREh0Jmk8FijQlXeLh?purpose=fullsize",
+              "markdown": "![SSW Logo Guidelines](https://images.openai.com/static-rsc-4/gPBWSU33eyDMDW5_i9Gl1xMTAzTy7oK6dYHZhCEHSnyhAMTUb2viBbfjTZeokdoaRHcQ0oP28tEifEoVdpDbV4iym6v4U2MqCxWJxiJNmtXCyqIpsnIEDq3oJzjx2BowHGnq8ziQeHpCNHJpEXNtDRxO_0MBzdzzJznL6zxuiKuCLZlREh0Jmk8FijQlXeLh?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. SSW Newcastle\n\nSSW has a Newcastle office at 432 Hunter Street and a strong Microsoft-oriented software engineering background. It is a useful candidate if your requirements go beyond standard low-code apps and involve custom integrations, complex application logic or a broader software architecture. Confirm the proposed team’s hands-on Dataverse experience before shortlisting. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ0SvNDd4Vc2sRo6TTabCULts&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** technically complex solutions where low-code development may need to be combined with custom software.\n\n[Website — SSW](https://www.ssw.com.au/)\n\n## Who I would contact first\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "SSW Newcastle - Enterprise Software Development",
+              "snippet": "432 Hunter St, Newcastle NSW 2300, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ0SvNDd4Vc2sRo6TTabCULts&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — SSW",
+              "snippet": null,
+              "domain": "www.ssw.com.au",
+              "url": "https://www.ssw.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — SSW](https://www.ssw.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "SSW Newcastle",
+              "category": "local_business",
+              "markdown": "SSW Newcastle",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "text": null,
+          "markdown": "| Your priority | First choice | Alternative |\n|--------|--------|--------|\n| Local Newcastle/Hunter presence and site visits | Team10 | Cloudhunter |\n| Explicit Newcastle Power Apps development | Report Simple | Inturing |\n| Warehouse/shop-floor apps with Dataverse and ERP integration | Inturing | Report Simple |\n| Complex custom engineering and integrations | SSW Newcastle | Cloudhunter |\n\n",
+          "table": {
+            "table_header": [
+              "Your priority",
+              "First choice",
+              "Alternative"
+            ],
+            "table_content": [
+              [
+                "Local Newcastle/Hunter presence and site visits",
+                "Team10",
+                "Cloudhunter"
+              ],
+              [
+                "Explicit Newcastle Power Apps development",
+                "Report Simple",
+                "Inturing"
+              ],
+              [
+                "Warehouse/shop-floor apps with Dataverse and ERP integration",
+                "Inturing",
+                "Report Simple"
+              ],
+              [
+                "Complex custom engineering and integrations",
+                "SSW Newcastle",
+                "Cloudhunter"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\nThis is a **fit-based shortlist, not an independently verified ranking**\\. The published information I found does not establish which provider has the strongest track record specifically in warehouse execution, manufacturing shop-floor systems or field-service deployments.\n\n## What to ask before selecting a consultant\n\nFor your use case, I would ask each provider to demonstrate a relevant implementation and answer these five questions\\:\n\n1. **Dataverse architecture\\:** Can you design proper tables, relationships, role-based security and audit history rather than building everything around SharePoint lists?\n2. **Frontline usability\\:** Can the app run well on rugged tablets and phones, including barcode scanning, and offline capture where required?\n3. **Operational workflows\\:** Have you delivered goods receiving, stock movements, production checks, maintenance work orders, inspections or field-service reporting?\n4. **Integration\\:** Can you connect the app to our ERP, inventory, finance or manufacturing systems without creating duplicate records?\n5. **Ownership and support\\:** Will the solution live in our Microsoft tenant, with documented flows, deployment practices, licensing costs and a clear support arrangement?\n\nFor a warehouse or shop-floor solution, I would prioritise a working demonstration using one of your actual processes over a generic Power Apps portfolio.\n\n## My recommendation\n\nStart with **Report Simple and Inturing** for the technical fit, and **Team10** if having a Newcastle-based partner who can work directly with your operations team is particularly important.\n\nTo narrow this to the best two or three providers, I can help compare their fit for your specific operational requirements.\n\n[Compare Dataverse and ERP integration expertise](f) [Find relevant case studies and client references](f)",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

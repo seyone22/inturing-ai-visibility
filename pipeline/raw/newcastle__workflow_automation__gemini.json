@@ -1,0 +1,383 @@
+{
+  "slug": "newcastle",
+  "pk": "workflow_automation",
+  "plat": "gemini",
+  "text": "Which consultancies in Newcastle are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__workflow_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:14.599Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Depending on whether you mean **Newcastle upon Tyne (UK)** or **Newcastle, New South Wales (Australia)**, several consultancies specialize in business process automation and Microsoft Power Automate implementation:\n\n---\n\n### **1. Newcastle upon Tyne (UK)**\n\nNewcastle and the wider North East region have a strong cluster of Microsoft partners and workflow automation specialists:\n\n*   **JUST XRM**  \n    * **Profile:** A specialist consultancy based in Newcastle upon Tyne led by a Microsoft FastTrack Recognized Solution Architect (who also founded the North East D365 & Power Platform User Group).\n    * **Best for:** Enterprise-grade architecture, deep integrations between Power Automate and Dynamics 365/Dataverse, multi-stage approval systems, and robust governance/Application Lifecycle Management (ALM).\n*   **Waterstons** (Offices across the North East / Newcastle & Durham)  \n    * **Profile:** One of the most established technology and business consulting firms in the North East.\n    * **Best for:** High-level business process mapping, strategic hyper-automation, and scaling Power Automate into intelligent AI agent workflows (via Copilot Studio) with strict security and data governance.\n*   **Marra** (Newcastle Helix)  \n    * **Profile:** Based in the Newcastle Helix tech cluster, focusing specifically on rapid digital transformation and custom Power Platform development.\n    * **Best for:** Medium-sized businesses looking to digitize manual tasks, build end-to-end cloud flows, or implement Robotic Process Automation (RPA/Desktop flows).\n*   **SR1 Development**  \n    * **Profile:** Established in 2011 in Newcastle, specializing in SharePoint, Microsoft 365, and Power Platform development.\n    * **Best for:** Businesses whose day-to-day work lives inside Microsoft 365. They excel at digitizing departmental paper trails (PO approvals, leave management, onboarding, supplier tracking, and automated document generation).\n*   **Geordie Consulting**  \n    * **Profile:** A boutique Newcastle-based Power Platform partner.\n    * **Best for:** Projects where workflow automation goes hand-in-hand with analytics, automated reporting, and Power BI dashboards.\n*   **INO Cloud Consultants** (Collingwood Street)  \n    * **Profile:** Cloud and business solutions consultancy focusing on Microsoft cloud tools.\n    * **Best for:** Connecting Power Automate to Dynamics 365, multi-channel Teams/email notifications, and AI chatbots.\n\n---\n\n### **2. Newcastle, NSW (Australia)**\n\nIf your business is located in the Hunter/Newcastle region of Australia:\n\n*   **Inlight IT** (Maryville, Newcastle)  \n    * A local technology consultancy providing Power Platform design, environment configuration, governance policies, and automated workflows across Microsoft 365 and Dataverse.\n*   **First Focus** (Newcastle branch)  \n    * A national managed service provider and systems integrator with a local office, experienced in business process automation, RPA, and legacy system integration with Power Automate.\n*   **Office Experts Group** (Hunter & Newcastle services)  \n    * Specialists in custom Microsoft 365 solutions, workflow design, and replacing fragmented Excel/paper forms with Power Automate and Power Apps.\n\n---\n\n### **How to Choose the Right Partner**\n\nWhen shortlisting consultancies for a Power Automate project, consider asking:\n\n1. **Process Discovery vs. Pure Development:** Do they map and simplify the process *before* building, or do they simply automate an already inefficient manual process?\n2. **Environment Governance & ALM:** Will flows be created under named individual user accounts (a major risk if that person leaves) or deployed properly using service principals, solutions, and environment pipelines?\n3. **Cloud vs. Desktop (RPA):** If you need to interface with legacy on-premise systems without APIs, make sure they have specific experience with **Power Automate Desktop** and unattended RPA.\n4. **Handoff and Training:** Ensure the engagement includes run-books, error-handling documentation, and internal team upskilling so you can maintain common flows without paying ongoing retainer fees for basic changes.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Newcastle%22+%22Power+Automate%22+consultancy+OR+partner+OR+%22workflow+automation%22&client=app-vertex-grounding&safesearch=active\">&quot;Newcastle&quot; &quot;Power Automate&quot; consultancy OR partner OR &quot;workflow automation&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Waterstons%22+%22Power+Automate%22+OR+%22workflow+automation%22&client=app-vertex-grounding&safesearch=active\">&quot;Waterstons&quot; &quot;Power Automate&quot; OR &quot;workflow automation&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+partner+%22Newcastle+upon+Tyne%22+%22Power+Automate%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">Microsoft partner &quot;Newcastle upon Tyne&quot; &quot;Power Automate&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Automate+consultancy+Newcastle+upon+Tyne&client=app-vertex-grounding&safesearch=active\">Microsoft Power Automate consultancy Newcastle upon Tyne</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Newcastle%22+NSW+%22Power+Automate%22+consultancy&client=app-vertex-grounding&safesearch=active\">&quot;Newcastle&quot; NSW &quot;Power Automate&quot; consultancy</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=workflow+automation+consultancy+Newcastle+NSW+Microsoft+Power+Automate&client=app-vertex-grounding&safesearch=active\">workflow automation consultancy Newcastle NSW Microsoft Power Automate</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbGk0yU4mQJdeq_S-3eYijjE06prwbJ9Fl7RYlQXo7pUFcLW8xBaqnoQJNYEzcRmPK91ot5N5N9CV0pr24uLm1zTaefcui_Ce27SGa8d2WJa2r",
+                "title": "justxrm.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnkTZ6rY98cEdjdeli9niWWBqQVWqWRwSCJYLoooM8Mstg30DpIWYSNXvCRighywyCwqlq82t6xU3FTVyA0ej_BTOo_hGqwLocu01-zSCWcIFp7xthIU14EGiBVWQyZkHy3mdypoTSqILx7_Z2NWOs5o30U96pdr5fhw==",
+                "title": "hammerheadtech.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyVl7uPCoaSiZbCSZ9qTV2ENbZTqPCZnNWLwAfLUbcSUNLmKCB42YPBjMlOG2CHRKZaHmBgaSz0ck3OL0oBp1WnlMr4_Utgfcd4_fLUNNaiJe5yJkj5mjBDiake-EQhdCFP08nRjMhAEBvqvjm",
+                "title": "freshworks.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFie43-spfgbVpcP6L88TT5E3G5Fd7zNW8k9Z4sOrZx7-bnAvb7B0hXI_CDhlGP8LI9TKA95oE6n-Rbdv2YdnMaZDs8jo_-0zUJFSr9x_ysSEDi-aY0JP7R3Nk8Lg4MNGdxDT2Jcd0HUuYVnsE8bxvingPylqbz0tMTjJD3Tov9BYTyR1_ztyozktjLkyVxaZ8WtUBZjUGjn0gN0zFJA==",
+                "title": "waterstons.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKpdxGAfNuWBQGHPj4SeIfnDrm-hb35JomZ2ZItvGMv-KSd262-djLfYaX5MLzgvNA7McjPaI-ogj_BjScikp8TKhMzStvBA4FrtKKSXeyY0oHybY86SVnNeOg6FZgwIXRnRJ1wyIBT5OywSvit4W_gmGNtMFjD7K85mPQQmlY9ZJz3gDFqb2oaRbj2csb5qynqkJdBAF9btaANns=",
+                "title": "alarmrisk.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBudR0fiLeZ0txVWZYr2FPD_B6czFhebAYOGzDG9Y9LZTfGSHUrdE8tuFuRdob8tR1yAvR_PYdCkt-UmkKZu-BSWN8QWevNADCSofL1xKyBYGhGDh-ciD8Gcom4EhoPLQEsMUHd-iCnzANRjkUuvLqng==",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy3D8usjJ6EBOMk_c7z8nV6XqABzAIBP6EpZNKL_upQ7SeAY0qs9v2ClJ7uUgukWeYYHkJIJ3NB-aH528YL-bLluUG_52jR95BbF-XD9aRimd-SJ5Xnt4ejsjGpL2o_HM82U0=",
+                "title": "sr1development.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHz6pA4TaZ4n00kPQREt7-JfteSSqpwHceDi_eEZUkbNc0d00XxUgwwmk4XnYoQwoO_4dS0-5m9EyqLYxbEwNbUc5mQPkGHoEqrATTht9VD9xckfWaGq5fR10DaolPYQ==",
+                "title": "geordieconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQI1SEaHlC_iOQMmTv7cU2bfcUG6w05Z5EjsP2W3sVFN6TsJl-jvW6Nd8u67EQmzWMuMY_QU-9PDFbjp2McPZfszPEbyU0h8GQ40fMS88Padzu_UaZsL9yovi98agYw==",
+                "title": "geordieconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhHksCS1dl4zDCWAc9fRmhUFYJlKDkuSGHaPN0p_CN5FHdU0MTmXSTOL49KtqDAaH4E1NZFvv5Ii2nnGXjimXdt79WciG1e4MZaCAlUh28IpMfCVv4Ym39NA-7faR822cZh0r_xw==",
+                "title": "inocloudgroup.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFP6Xibu5KzwTpMzxoGESrL1Xq45N8AMcVRmkLKe4SRaCSP2rMuZLtDzOpOwXD7O9LSPW31BqFzf_zX12POwIyxGCi6SE4L2rTJ6tjMFU0vJSDeNkk0TEPMngXArmBJIk=",
+                "title": "inlightit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErW-5l953a_xG1rZb8t51VS8NPkTQ5P7JgR4BEXsWz9zkLV3MsAUu1FfpEN4MZYXLAVmyI2wlTKA5UapQbgOHD4DuGYubT6VVJcqNWoSL4PwT3bw8tSNRwY6_YS_M0Fp2MbVvI8gIyyg==",
+                "title": "firstfocus.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQY5aODsOLBBzn3BOMTHDeAGWzevcBSwyX5_L4nYQ_VDI-p9UDN6_OVjTqCRhxSaFstSzG9JJZfDvYPqMPuDLBjUcSUJ7-FZStteez6d7a6vFKBoK2ZHbmAWx7U2ecjadZwoot8CirN6AHhwUKYGhsiekNdBjVerLDZ3Kyn10=",
+                "title": "officeexperts.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCf4iGq1QJZpzJSKfkFJJB5gm3cOuUEeSAT2dIa15eImwAlZmiSGZiUndNwlE34R290V9NR6B9Zd2XWHzaVSDmTD0l9o3LfgUwOQ_I6g8tF8b6Tzn3uEANlX_kT-yvEgM9aslbqnFT93ZnBdi3ZDUDAGy9",
+                "title": "officeexperts.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIlTSDBVp8-i7GVZ6_SqLNcxoO4t7s-nl-QEAMp9IOjkSkHjmNJRuTbBVPaRtmaxlzJX2WM1BvdNbYj-G3x316j62nRKMGz-g9MCs0C1jMmb8c_jSX5iO3dW7awXtsD1rlbu8H0zdjtaA=",
+                "title": "netmonkeys.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmIB9WcO281oHMaklZseLlHJrpxSvZ4yc8OyksxYuKYkGtP77QAnA48cVl4J7RcFrYwVAd-1Yd8T10Q8sIEs5TNa2I4UVlkU6lyYSEkIoIm6rNLDptMMwNlEPRWwjJmz81vvtdhj0Z7d1fqjkAECO7Hxi7op8=",
+                "title": "humannexus.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJCRs5cq0Uj1nnz9Pi-HOjSFQcdPQDG7H3PXMrLAfQ-_Iwz24XPjUZ5EHN25QWrsek33JVhs2nJvQKD5RO9C9JMWboIKB50Aakv4-KxATvXsnHPZ329jQZWCTYgDRxWswR_qfkQ0bVHHGB9w==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeJcg8sqxkoQp2Zi8Atetd-lVgcAFyjo34NH6w3Rp3_6Zyy9e26joCKlxmDjZ70nkQSUIWxFnGaW9JzZFP8la0v_HSp-T69hH4-eNzyJvXUbI54eLio1OQB2pxTjqYwxS-nOxKQNDCgKeAz6RUJPY7Ug==",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGt5o1karnVwjwFPWBZtjtmSXeJKEKGK4o6ZubFtPoRw3tyoAWJWPXSyEbEphoNAPW2b4Zlu2JZQI0DXxse4-HJ7ZPaQNWqybnGkGptuviKrEpZhFpjHIFlBT6t5WWAhH-Y4_Btp1g7gRH5Gvn9TfguPAZGw0b",
+                "title": "riseuplabs.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 407,
+                "endIndex": 599,
+                "text": "**Profile:** A specialist consultancy based in Newcastle upon Tyne led by a Microsoft FastTrack Recognized Solution Architect (who also founded the North East D365 & Power Platform User Group)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 607,
+                "endIndex": 811,
+                "text": "**Best for:** Enterprise-grade architecture, deep integrations between Power Automate and Dynamics 365/Dataverse, multi-stage approval systems, and robust governance/Application Lifecycle Management (ALM)"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 893,
+                "endIndex": 992,
+                "text": "**Profile:** One of the most established technology and business consulting firms in the North East"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1000,
+                "endIndex": 1203,
+                "text": "**Best for:** High-level business process mapping, strategic hyper-automation, and scaling Power Automate into intelligent AI agent workflows (via Copilot Studio) with strict security and data governance"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1245,
+                "endIndex": 1392,
+                "text": "**Profile:** Based in the Newcastle Helix tech cluster, focusing specifically on rapid digital transformation and custom Power Platform development"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1400,
+                "endIndex": 1561,
+                "text": "**Best for:** Medium-sized businesses looking to digitize manual tasks, build end-to-end cloud flows, or implement Robotic Process Automation (RPA/Desktop flows)"
+              },
+              "groundingChunkIndices": [
+                5,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1595,
+                "endIndex": 1715,
+                "text": "**Profile:** Established in 2011 in Newcastle, specializing in SharePoint, Microsoft 365, and Power Platform development"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1798,
+                "endIndex": 1947,
+                "text": "They excel at digitizing departmental paper trails (PO approvals, leave management, onboarding, supplier tracking, and automated document generation)"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1984,
+                "endIndex": 2046,
+                "text": "**Profile:** A boutique Newcastle-based Power Platform partner"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2054,
+                "endIndex": 2181,
+                "text": "**Best for:** Projects where workflow automation goes hand-in-hand with analytics, automated reporting, and Power BI dashboards"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2242,
+                "endIndex": 2329,
+                "text": "**Profile:** Cloud and business solutions consultancy focusing on Microsoft cloud tools"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2337,
+                "endIndex": 2450,
+                "text": "**Best for:** Connecting Power Automate to Dynamics 365, multi-channel Teams/email notifications, and AI chatbots"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2621,
+                "endIndex": 2791,
+                "text": "A local technology consultancy providing Power Platform design, environment configuration, governance policies, and automated workflows across Microsoft 365 and Dataverse"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2840,
+                "endIndex": 3018,
+                "text": "A national managed service provider and systems integrator with a local office, experienced in business process automation, RPA, and legacy system integration with Power Automate"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3087,
+                "endIndex": 3228,
+                "text": "Specialists in custom Microsoft 365 solutions, workflow design, and replacing fragmented Excel/paper forms with Power Automate and Power Apps"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3384,
+                "endIndex": 3524,
+                "text": "Pure Development:** Do they map and simplify the process *before* building, or do they simply automate an already inefficient manual process"
+              },
+              "groundingChunkIndices": [
+                1,
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3529,
+                "endIndex": 3742,
+                "text": "**Environment Governance & ALM:** Will flows be created under named individual user accounts (a major risk if that person leaves) or deployed properly using service principals, solutions, and environment pipelines"
+              },
+              "groundingChunkIndices": [
+                1,
+                14,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3759,
+                "endIndex": 3936,
+                "text": "Desktop (RPA):** If you need to interface with legacy on-premise systems without APIs, make sure they have specific experience with **Power Automate Desktop** and unattended RPA"
+              },
+              "groundingChunkIndices": [
+                1,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3941,
+                "endIndex": 4155,
+                "text": "**Handoff and Training:** Ensure the engagement includes run-books, error-handling documentation, and internal team upskilling so you can maintain common flows without paying ongoing retainer fees for basic changes"
+              },
+              "groundingChunkIndices": [
+                1,
+                18,
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Newcastle\" \"Power Automate\" consultancy OR partner OR \"workflow automation\"",
+            "\"Waterstons\" \"Power Automate\" OR \"workflow automation\"",
+            "Microsoft partner \"Newcastle upon Tyne\" \"Power Automate\" OR \"Power Platform\"",
+            "Microsoft Power Automate consultancy Newcastle upon Tyne",
+            "\"Newcastle\" NSW \"Power Automate\" consultancy",
+            "workflow automation consultancy Newcastle NSW Microsoft Power Automate"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 431,
+      "candidatesTokenCount": 1087,
+      "totalTokenCount": 2625,
+      "cachedContentTokenCount": 216,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 431
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 216
+        }
+      ],
+      "thoughtsTokenCount": 1107,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "CMfiavWrEOnL694P-7_zuQU"
+  }
+}

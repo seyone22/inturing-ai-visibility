@@ -1,0 +1,140 @@
+{
+  "slug": "perth",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:46.845Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Perth%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:06:41 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "For a Perth-based manufacturer looking to bridge gaps in order processing, shop-floor data capture, and operations using the `Microsoft Power Platform` without ripping out your core ERP, several specialized local and national consulting groups with a strong Western Australian footprint are well-equipped to assist.\n\nHere are the key consultants and specialists you should consider speaking to:\n\n- **Office Experts Group (Power Platform Experts)** : A long-standing national Microsoft consulting partner with a dedicated local presence in Perth. They specialize in custom low-code application development via Power Apps, automated document and data workflows using Power Automate, and real-time operational visibility through Power BI. They excel at building integration layers that sit cleanly on top of legacy or existing back-end systems without requiring an ERP replacement.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)\n- **[Eversdale Technology](https://www.eversdaletech.com.au/)** : Operating in Perth since 1997, Eversdale specializes explicitly in Microsoft Dynamics 365, the Power Platform, and AI Copilot integrations. If your current ERP has any Microsoft ecosystem overlap (or robust APIs/Dataverse connectors), they are a strong local candidate for tying shop-floor data capture and customer/order workflows directly into your data architecture.[[1]](https://www.eversdaletech.com.au/)\n- **National Enterprise Partners with Perth Operations (Data#3, Telstra Purple, or Velrada)** : If your manufacturing scale requires heavy enterprise-grade system integration (connecting complex IoT shop-floor sensors, Azure industrial IoT, and heavy ERP middleware alongside Power Apps), tier-one Microsoft enterprise partners with strong WA teams can architect secure, scalable integration environments.\n\nTo help me narrow down which of these partners aligns best with your setup, could you tell me:\n\n- What **ERP system** are you currently running?\n- Is the primary goal for shop-floor data capture **tablet/mobile interfaces** for staff, or **automated machine/barcode data logging**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a Perth-based manufacturer looking to bridge gaps in order processing, shop-floor data capture, and operations using the Microsoft Power Platform without ripping out your core ERP, several specialized local and national consulting groups with a strong Western Australian footprint are well-equipped to assist.",
+              "markdown": "For a Perth-based manufacturer looking to bridge gaps in order processing, shop-floor data capture, and operations using the `Microsoft Power Platform` without ripping out your core ERP, several specialized local and national consulting groups with a strong Western Australian footprint are well-equipped to assist.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here are the key consultants and specialists you should consider speaking to:",
+              "markdown": "Here are the key consultants and specialists you should consider speaking to:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Office Experts Group (Power Platform Experts) : A long-standing national Microsoft consulting partner with a dedicated local presence in Perth. They specialize in custom low-code application development via Power Apps, automated document and data workflows using Power Automate, and real-time operational visibility through Power BI. They excel at building integration layers that sit cleanly on top of legacy or existing back-end systems without requiring an ERP replacement. Office Experts Group (Power Platform Experts) Eversdale Technology : Operating in Perth since 1997, Eversdale specializes explicitly in Microsoft Dynamics 365, the Power Platform, and AI Copilot integrations. If your current ERP has any Microsoft ecosystem overlap (or robust APIs/Dataverse connectors), they are a strong local candidate for tying shop-floor data capture and customer/order workflows directly into your data architecture. National Enterprise Partners with Perth Operations (Data#3, Telstra Purple, or Velrada) : If your manufacturing scale requires heavy enterprise-grade system integration (connecting complex IoT shop-floor sensors, Azure industrial IoT, and heavy ERP middleware alongside Power Apps), tier-one Microsoft enterprise partners with strong WA teams can architect secure, scalable integration environments.",
+              "markdown": "- **Office Experts Group (Power Platform Experts)** : A long-standing national Microsoft consulting partner with a dedicated local presence in Perth. They specialize in custom low-code application development via Power Apps, automated document and data workflows using Power Automate, and real-time operational visibility through Power BI. They excel at building integration layers that sit cleanly on top of legacy or existing back-end systems without requiring an ERP replacement.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)\n- **[Eversdale Technology](https://www.eversdaletech.com.au/)** : Operating in Perth since 1997, Eversdale specializes explicitly in Microsoft Dynamics 365, the Power Platform, and AI Copilot integrations. If your current ERP has any Microsoft ecosystem overlap (or robust APIs/Dataverse connectors), they are a strong local candidate for tying shop-floor data capture and customer/order workflows directly into your data architecture.[[1]](https://www.eversdaletech.com.au/)\n- **National Enterprise Partners with Perth Operations (Data#3, Telstra Purple, or Velrada)** : If your manufacturing scale requires heavy enterprise-grade system integration (connecting complex IoT shop-floor sensors, Azure industrial IoT, and heavy ERP middleware alongside Power Apps), tier-one Microsoft enterprise partners with strong WA teams can architect secure, scalable integration environments.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Eversdale Technology",
+                  "description": null,
+                  "url": "https://www.eversdaletech.com.au/",
+                  "domain": "www.eversdaletech.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "title": "Power Platform Consultants Perth",
+                  "text": "Perth Services: Microsoft Power Platform consulting, automation solutions, and custom application development."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.eversdaletech.com.au",
+                  "domain": "www.eversdaletech.com.au",
+                  "url": "https://www.eversdaletech.com.au/",
+                  "title": "Eversdale Technology Perth | Microsoft Dynamics 365 ...",
+                  "text": "Eversdale Technology is Perth's specialist Microsoft Dynamics 365 CRM, Power Platform, and AI Copilot partner. Custom business sol..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help me narrow down which of these partners aligns best with your setup, could you tell me:",
+              "markdown": "To help me narrow down which of these partners aligns best with your setup, could you tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What ERP system are you currently running? Is the primary goal for shop-floor data capture tablet/mobile interfaces for staff, or automated machine/barcode data logging ?",
+              "markdown": "- What **ERP system** are you currently running?\n- Is the primary goal for shop-floor data capture **tablet/mobile interfaces** for staff, or **automated machine/barcode data logging**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.eversdaletech.com.au",
+              "domain": "www.eversdaletech.com.au",
+              "url": "https://www.eversdaletech.com.au/",
+              "title": "Eversdale Technology Perth | Microsoft Dynamics 365 ...",
+              "text": "Eversdale Technology is Perth's specialist Microsoft Dynamics 365 CRM, Power Platform, and AI Copilot partner. Custom business solutions since 1997."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+              "title": "Power Platform Consultants Perth",
+              "text": "Perth Services: Microsoft Power Platform consulting, automation solutions, and custom application development."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "slug": "newcastle",
+  "pk": "erp_integration",
+  "plat": "chatgpt",
+  "text": "Which system integration specialists in Newcastle are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__erp_integration__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:43.968Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which system integration specialists in Newcastle are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20system%20integration%20specialists%20in%20Newcastle%20are%20best%20for%20connecting%20ERP%2C%20CRM%2C%20MYOB%20Acumatica%2C%20SAP%2C%20and%20Microsoft%20365%20systems%3F&hints=search",
+      "datetime": "2026-10-29 04:10:38 +00:00",
+      "markdown": "# Best systems integration specialists in Newcastle, NSW\n\nIf you need to connect ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I'd shortlist providers based on their ability to integrate the systems you already run — not just install or support individual software products.\n\nMy research suggests that **Team10, BitLogical, Bricoleur Technologies and Range Information Systems** are good starting points for Newcastle-area integration projects, while dedicated MYOB Acumatica and SAP specialists may be the better choice for complex ERP work. The important distinction is that no single provider in the research clearly demonstrates deep expertise across all five areas.\n\n## My top shortlist\n\n![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)\n\n## 1\\. Team10\n\n(Best overall starting point)\n\nTeam10 specifically markets integration across ERP, finance, CRM, databases and Microsoft's business ecosystem. Its services include REST APIs, webhooks, SharePoint, Teams, Outlook, Power BI and Azure, with a focus on Newcastle and the Hunter Region. [team10.com.au](https://team10.com.au/integrations.php?utm_source=chatgpt.com)[team10.com.au](https://team10.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting several business systems and automating workflows without replacing the entire technology stack.\n\n**Verify first\\:** Ask for direct MYOB Acumatica and SAP integration examples; its published integrations page highlights Harmoniq and Pronto rather than those two ERP platforms.\n\n[Website — Integrations](https://team10.com.au/integrations.php)\n\n---\n\n![Bitlogic - Crunchbase Company Profile & Funding](https://images.openai.com/static-rsc-4/lhoVPN7k4AIQVXq0lT-bPqMgKS09_vQ_iG0jM-q1r23rAA-6-6wu27thsrb3QZZ5zObNUMxMnucVLWyppZt1DleLvDohPh5F-lbxxdL-dq1hs6E6MgO10PgZ4BNOX9KvORxMhJLuagtSUtpI6bQuhyO2Etd6RnuWOs2n9gNEDx1GgoGC5F3Q9YrcUQIFPWfi?purpose=fullsize)\n\n## 2\\. BitLogical\n\nBest for custom integrations and API-driven automation\n\nBitLogical builds connections between CRM, accounting, job management and other business applications. It describes using APIs, webhooks, OAuth and workflow automation, with fixed-price project scoping and Newcastle-based delivery. [bitlogical.com.au](https://bitlogical.com.au/?utm_source=chatgpt.com)[bitlogical.com.au](https://bitlogical.com.au/services/system-integration/?utm_source=chatgpt.com)\n\n**Best for\\:** Custom data synchronisation, eliminating duplicate entry and connecting systems that lack a ready-made connector.\n\n**Verify first\\:** Whether it has implemented your exact MYOB Acumatica and SAP versions, including two-way synchronisation.\n\n[Website — System Integration](https://bitlogical.com.au/services/system-integration/)\n\n---\n\n![Salesforce Partner Brisbane - Bricoleur Technologies](https://images.openai.com/static-rsc-4/NF9ygh8UJljqZqQkEJMAokvAc7gKiGjnmfUo4EDsBmVDfda4nocWXhKFRrsybdPEiYuWPsjhlBxfbVkHNpCN_9bKgHWD-NmzYfD7cstgPjrJBv-AliD6xSgXpD-Id4UHCGiZrqVK4jJubSLeRwrW8clmGpTIr4SA5pAJgXocAp71XlBrAw-U50CnsWkR-b4q?purpose=fullsize)\n\n## 3\\. Bricoleur Technologies\n\nBest for Salesforce-led CRM integration\n\nBricoleur has a Newcastle-area presence in Charlestown and explicitly lists systems integration, ERP and inventory solutions, and financial integrations including MYOB AccountRight and MYOB Advanced. It also offers Salesforce implementation and migration services. [www.bricoleurtech.com](https://www.bricoleurtech.com/salesforce-partner-newcastle/?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting Salesforce CRM with finance, inventory and operational systems.\n\n**Verify first\\:** Current MYOB Acumatica capabilities and direct SAP integration experience, as well as support for Microsoft 365 workflows.\n\n[Website — Salesforce Partner Newcastle](https://www.bricoleurtech.com/salesforce-partner-newcastle/)\n\n---\n\n\n\n## 4\\. Range Information Systems\n\nBest for custom software and information workflows\n\nRange IS offers custom software, systems integration and workflow automation in the Newcastle and Hunter region. Its published materials mention connecting business applications and working with platforms such as Salesforce, Microsoft 365 and SAP. [rangeis.com.au](https://rangeis.com.au/about?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/Range+Information+Systems/@-32.9250815,151.6202544,17z/data=!3m1!4b1!4m6!3m5!1s0x6b733c1d00920011:0x3a3a91f802514ed2!8m2!3d-32.925086!4d151.6228293!16s%2Fg%2F11np3l70zs?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D&utm_source=chatgpt.com)\n\n**Best for\\:** Organisations needing bespoke connections, information management or automation around existing applications.\n\n**Verify first\\:** Whether the team has hands-on MYOB Acumatica integration experience and can cover your full ERP-to-CRM scope.\n\n[Website](https://rangeis.com.au/about)\n\n## Specialist options for MYOB Acumatica and SAP\n\nFor a project where ERP expertise is the biggest risk, I would also contact these providers, even if their teams are not based in Newcastle.\n\n![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)\n\n**Integrated Logic**\n\nFocuses on MYOB Acumatica and MYOB Exo, with specialist ERP programming, customisation, implementation and support. A strong candidate for the MYOB side of a larger integration project. [www.integratedlogic.com.au](https://www.integratedlogic.com.au/our-team?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJZQS0IRWlEmsRwZ1QmQPxek4&hl=en&utm_source=chatgpt.com)\n\n[Website](https://www.integratedlogic.com.au/our-team)\n\n---\n\n![Leverage Technologies – MYOB Partner Profile](https://images.openai.com/static-rsc-4/QLB5rT8hD45jqA3HBw6_i41EFd9CprHE7N7doIGBnAcRPV0DzPzjzr8XVY9rfg28am0sm9wpJQU-oRvthZxYsIJ7ENx-0SsEfMg6gXuxUshmZ1-Jmhxn9zhfjExo_NvYC-YhDI2VGG6bKAYBA-per19Lw-FFXJNGk9aDgWDuxMGJu8yq4JWVqjoIdnZzUZ0k?purpose=fullsize)\n\n**Leverage Technologies**\n\nParticularly relevant if you need expertise spanning both SAP and MYOB Acumatica. The company identifies itself as an SAP Gold Partner and MYOB Acumatica Platinum Partner, and offers ERP integration and ongoing support. [www.leveragetech.com.au](https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/?utm_source=chatgpt.com)[www.leveragetech.com.au](https://www.leveragetech.com.au/services/software-partner-and-reseller/?utm_source=chatgpt.com)\n\n**Best for\\:** Complex ERP-to-ERP integration or a programme requiring specialist knowledge of both platforms.\n\n[Website](https://www.leveragetech.com.au/)\n\n---\n\n![ERP Events, Workshops & User Groups | Cloud Factory](https://images.openai.com/static-rsc-4/2Bj3oM8O4VVJxj8CNy-XLlP-7BwiM97c_hvt2EXHS_gMM19P-QPaD77RLNclkc2CdgS_oEcUccNIZ6kxEmvPl0C78i_oRfeOjMF1ZU-6wzwuoJuE42QCvE0d4BMUlKAqOc9H3ZY2oIsjork2JvcUQxJjJZEKLUEcmJQ9sNXkLAWYgtVwHLsa-TbLjP0e3ChE?purpose=fullsize)\n\n**Cloud Factory**\n\nIts published portfolio includes MYOB Acumatica, SAP Business One, Microsoft Dynamics 365 and CRM integration. It may suit organisations looking to connect finance, operations and customer engagement. [www.myob.com](https://www.myob.com/au/implementation-partners/cloud-factory?utm_source=chatgpt.com)[www.cloudfactory.co](https://www.cloudfactory.co/dynamics-365-partnership?utm_source=chatgpt.com)\n\n**Best for\\:** Comparing integration architecture across ERP and Microsoft business applications.\n\n[Website](https://www.cloudfactory.co/)\n\n## How I'd choose between them\n\n| Your main requirement | My first call |\n|--------|--------|\n| Newcastle-based, multi-system workflow integration | Team10 |\n| Custom APIs and data synchronisation | BitLogical |\n| Salesforce CRM plus finance or ERP | Bricoleur Technologies |\n| MYOB Acumatica customisation and development | Integrated Logic |\n| SAP and MYOB Acumatica expertise together | Leverage Technologies |\n| ERP and Microsoft business applications | Cloud Factory |\n\n\nThese are fit-based recommendations from publicly described capabilities, not an independently verified ranking of project outcomes.\n\n## Questions to ask before appointing a provider\n\nWhichever firm you shortlist, ask them to demonstrate\\:\n\n- **Direct experience\\:** A completed project involving your actual ERP, CRM and SAP products, including their versions.\n- **Integration method\\:** Whether they use supported APIs, middleware, connectors or custom code, and why.\n- **Data reliability\\:** How they handle duplicate records, failed synchronisations, retries, audit logs and conflicting updates.\n- **Microsoft 365 scope\\:** Whether the work includes Teams, Outlook, SharePoint, Entra ID and Power BI, as applicable.\n- **Ownership and support\\:** Who owns the integration code, documentation and credentials, and who monitors failures after launch.\n\nI would ask for a small discovery and architecture phase before committing to a full implementation.\n\n## One question to narrow this down\n\n**Which ERP and CRM systems are you currently running?** For example, is SAP your main ERP and MYOB Acumatica a separate finance system, or are you choosing between these platforms?\n\nThat distinction could change which provider is the strongest match for your project.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/integrations.php",
+          "domain": "team10.com.au",
+          "title": "System Integrations — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/",
+          "domain": "team10.com.au",
+          "title": "Team10 — AI Automation & Business Technology | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/integrations.php",
+          "domain": "team10.com.au",
+          "title": "System Integrations — Team10 | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://team10.com.au/",
+          "domain": "team10.com.au",
+          "title": "Team10 — AI Automation & Business Technology | Newcastle NSW",
+          "description": null,
+          "breadcrumb": "team10.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.bricoleurtech.com/salesforce-partner-newcastle/",
+          "domain": "www.bricoleurtech.com",
+          "title": "Salesforce Partner Newcastle - Bricoleur Technologies",
+          "description": null,
+          "breadcrumb": "www.bricoleurtech.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bitlogical.com.au/",
+          "domain": "bitlogical.com.au",
+          "title": "Systems Integration & AI Automation | BitLogical Newcastle",
+          "description": null,
+          "breadcrumb": "bitlogical.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bitlogical.com.au/services/system-integration/",
+          "domain": "bitlogical.com.au",
+          "title": "Systems Integration & Data Sync | BitLogical Newcastle",
+          "description": null,
+          "breadcrumb": "bitlogical.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bitlogical.com.au/",
+          "domain": "bitlogical.com.au",
+          "title": "Systems Integration & AI Automation | BitLogical Newcastle",
+          "description": null,
+          "breadcrumb": "bitlogical.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.pinnacle-online.com/contact-us/newcastle",
+          "domain": "www.pinnacle-online.com",
+          "title": "Sage 200, Sage Intacct, Acumatica, Managed IT Services Newcastle",
+          "description": null,
+          "breadcrumb": "www.pinnacle-online.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://cloudhunter.com.au/",
+          "domain": "cloudhunter.com.au",
+          "title": "Cloudhunter – Microsoft Cloud Experts",
+          "description": null,
+          "breadcrumb": "cloudhunter.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.integratedlogic.com.au/our-team",
+          "domain": "www.integratedlogic.com.au",
+          "title": "Our Team | Integrated Logic",
+          "description": null,
+          "breadcrumb": "www.integratedlogic.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://nuvation.com.au/",
+          "domain": "nuvation.com.au",
+          "title": "Cloud Software Consultants in Newcastle, Australia - Nuvation",
+          "description": null,
+          "breadcrumb": "nuvation.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://rangeis.com.au/about",
+          "domain": "rangeis.com.au",
+          "title": "About Range Information Systems | Range IT",
+          "description": null,
+          "breadcrumb": "rangeis.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bilbyfusion.com.au/business-enablement-sydney-illawarra-newcastle/",
+          "domain": "bilbyfusion.com.au",
+          "title": "Business Enablement Sydney, Newcastle & Illawarra",
+          "description": null,
+          "breadcrumb": "bilbyfusion.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://locx.com.au/newcastle/system-development",
+          "domain": "locx.com.au",
+          "title": "Custom System Development Newcastle | CRM, ERP & Business Software",
+          "description": null,
+          "breadcrumb": "locx.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.leveragetech.com.au/wp-content/uploads/2025/11/Leverage-Tech-About-Us.pdf",
+          "domain": "www.leveragetech.com.au",
+          "title": "Leverage Tech - About Us",
+          "description": null,
+          "breadcrumb": "www.leveragetech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/",
+          "domain": "www.leveragetech.com.au",
+          "title": "MYOB Acumatica Integrations Solutions - Leverage Technologies",
+          "description": null,
+          "breadcrumb": "www.leveragetech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/",
+          "domain": "www.leveragetech.com.au",
+          "title": "ERP Software Reseller & Partner Australia | SAP, Sage & MYOB",
+          "description": null,
+          "breadcrumb": "www.leveragetech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://momentumsoftwaresolutions.com.au/wp-content/uploads/2025/10/MSS-MYOB-Acumatica-Capability-Statement.pdf",
+          "domain": "momentumsoftwaresolutions.com.au",
+          "title": "Who is Momentum",
+          "description": null,
+          "breadcrumb": "momentumsoftwaresolutions.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://istart.com.au/wp-content/uploads/2025/02/2025-ERP-Buyers-Guide_MYOB_Acumatica.pdf",
+          "domain": "istart.com.au",
+          "title": "iStart ERP Buyer’s Guide 2025-26",
+          "description": null,
+          "breadcrumb": "istart.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://23558368.fs1.hubspotusercontent-ap1.net/hubfs/23558368/_Enterprise%20Marketing%20Assets/ERP%20Buyers%20Guide%20by%20iStart/2025-ERP-Buyers-Guide.pdf",
+          "domain": "23558368.fs1.hubspotusercontent-ap1.net",
+          "title": "iStart ERP Buyer’s Guide 2025-26",
+          "description": null,
+          "breadcrumb": "23558368.fs1.hubspotusercontent-ap1.net"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.myob.com/au/implementation-partners/cloud-factory",
+          "domain": "www.myob.com",
+          "title": "Cloud Factory MYOB Partner Profile",
+          "description": null,
+          "breadcrumb": "www.myob.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.myob.com/au/implementation-partners/businesshub",
+          "domain": "www.myob.com",
+          "title": "BusinessHub MYOB Partner Profile",
+          "description": null,
+          "breadcrumb": "www.myob.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.myob.com/au/implementation-partners/stratus-group",
+          "domain": "www.myob.com",
+          "title": "Stratus Group | MYOB Partner",
+          "description": null,
+          "breadcrumb": "www.myob.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.myob.com/au/erp-software/products/myob-acumatica",
+          "domain": "www.myob.com",
+          "title": "MYOB Acumatica: A Complete Cloud-Based ERP Solution",
+          "description": null,
+          "breadcrumb": "www.myob.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.talent.com/view?id=639810733238452518",
+          "domain": "au.talent.com",
+          "title": "D365 BC Consultant [CONTRACT] – Dynamo Recruitment – Job Australia",
+          "description": null,
+          "breadcrumb": "au.talent.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.talent.com/view?id=617520867492697714",
+          "domain": "au.talent.com",
+          "title": "SAP BTP Integration Consultant – DyFlex Pty Ltd – Job Australia",
+          "description": null,
+          "breadcrumb": "au.talent.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/",
+          "domain": "eagle360.consulting",
+          "title": "Eagle360 Consulting – ERP and e-Commerce Experts | Home - v2",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.jora.com/Sap-jobs-in-Newcastle-District-Park-NSW",
+          "domain": "au.jora.com",
+          "title": "173 Sap jobs in Newcastle District Park NSW | Jora",
+          "description": null,
+          "breadcrumb": "au.jora.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.jobslooker.com/vacancies-integration-consultant-newcastle%2Cnsw",
+          "domain": "au.jobslooker.com",
+          "title": "integration consultant jobs in Newcastle, NSW | Jobslooker",
+          "description": null,
+          "breadcrumb": "au.jobslooker.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.cloudfactory.co/dynamics-365-partnership",
+          "domain": "www.cloudfactory.co",
+          "title": "Microsoft Dynamics 365 Partner | Cloud Factory Australia",
+          "description": null,
+          "breadcrumb": "www.cloudfactory.co"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.tonictechnologies.com.au/",
+          "domain": "www.tonictechnologies.com.au",
+          "title": "Tonic Technologies - MYOB Acumatica Partner",
+          "description": null,
+          "breadcrumb": "www.tonictechnologies.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://solutionspluspartnership.com.au/news/solutions-plus-announces-partnership-with-myob-to-deliver-acumatica-erp/",
+          "domain": "solutionspluspartnership.com.au",
+          "title": "Solutions+ Australia: Your Solution for Business Optimisation",
+          "description": null,
+          "breadcrumb": "solutionspluspartnership.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://officeproconsulting.com.au/services/system-integration-crm/",
+          "domain": "officeproconsulting.com.au",
+          "title": "System Integration and CRM Australia | OfficePro Consulting",
+          "description": null,
+          "breadcrumb": "officeproconsulting.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "System Integrations — Team10",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/integrations.php?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Newcastle NSW",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Team10 — AI Automation & Business Technology",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Newcastle NSW",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Integrations",
+          "snippet": null,
+          "domain": "team10.com.au",
+          "url": "https://team10.com.au/integrations.php",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Integrations](https://team10.com.au/integrations.php)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Systems Integration & AI Automation",
+          "snippet": null,
+          "domain": "bitlogical.com.au",
+          "url": "https://bitlogical.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "BitLogical Newcastle",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Systems Integration & Data Sync",
+          "snippet": null,
+          "domain": "bitlogical.com.au",
+          "url": "https://bitlogical.com.au/services/system-integration/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "BitLogical Newcastle",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — System Integration",
+          "snippet": null,
+          "domain": "bitlogical.com.au",
+          "url": "https://bitlogical.com.au/services/system-integration/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — System Integration](https://bitlogical.com.au/services/system-integration/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Salesforce Partner Newcastle",
+          "snippet": null,
+          "domain": "www.bricoleurtech.com",
+          "url": "https://www.bricoleurtech.com/salesforce-partner-newcastle/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Bricoleur Technologies",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website — Salesforce Partner Newcastle",
+          "snippet": null,
+          "domain": "www.bricoleurtech.com",
+          "url": "https://www.bricoleurtech.com/salesforce-partner-newcastle/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website — Salesforce Partner Newcastle](https://www.bricoleurtech.com/salesforce-partner-newcastle/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Range Information Systems",
+          "snippet": null,
+          "domain": "rangeis.com.au",
+          "url": "https://rangeis.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Range IT",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Range Information Systems",
+          "snippet": "Unit 4/17 Arnott St, Cardiff NSW 2285, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/Range+Information+Systems/@-32.9250815,151.6202544,17z/data=!3m1!4b1!4m6!3m5!1s0x6b733c1d00920011:0x3a3a91f802514ed2!8m2!3d-32.925086!4d151.6228293!16s%2Fg%2F11np3l70zs?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "rangeis.com.au",
+          "url": "https://rangeis.com.au/about",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://rangeis.com.au/about)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Our Team",
+          "snippet": null,
+          "domain": "www.integratedlogic.com.au",
+          "url": "https://www.integratedlogic.com.au/our-team?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Integrated Logic",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Integrated Logic",
+          "snippet": "Avaya House, level 9/123 Epping Rd, Macquarie Park NSW 2113, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJZQS0IRWlEmsRwZ1QmQPxek4&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.integratedlogic.com.au",
+          "url": "https://www.integratedlogic.com.au/our-team",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.integratedlogic.com.au/our-team)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "MYOB Acumatica Integrations Solutions",
+          "snippet": null,
+          "domain": "www.leveragetech.com.au",
+          "url": "https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Leverage Technologies",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ERP Software Reseller & Partner Australia",
+          "snippet": null,
+          "domain": "www.leveragetech.com.au",
+          "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "SAP, Sage & MYOB",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.leveragetech.com.au",
+          "url": "https://www.leveragetech.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.leveragetech.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Cloud Factory MYOB Partner Profile",
+          "snippet": null,
+          "domain": "www.myob.com",
+          "url": "https://www.myob.com/au/implementation-partners/cloud-factory?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "MYOB",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Dynamics 365 Partner",
+          "snippet": null,
+          "domain": "www.cloudfactory.co",
+          "url": "https://www.cloudfactory.co/dynamics-365-partnership?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Cloud Factory Australia",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.cloudfactory.co",
+          "url": "https://www.cloudfactory.co/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.cloudfactory.co/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Newcastle NSW systems integration specialists ERP CRM MYOB Acumatica SAP Microsoft 365"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle NSW systems integration and business automation",
+          "category": "company",
+          "markdown": "Team10",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle NSW systems integration and automation consultancy",
+          "category": "company",
+          "markdown": "BitLogical",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Salesforce CRM and business systems integration consultancy",
+          "category": "company",
+          "markdown": "Bricoleur Technologies",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Newcastle Hunter custom software and information systems consultancy",
+          "category": "company",
+          "markdown": "Range Information Systems",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian MYOB Acumatica and MYOB Exo specialist",
+          "category": "company",
+          "markdown": "Integrated Logic",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian ERP implementation and integration consultancy",
+          "category": "company",
+          "markdown": "Leverage Technologies",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian ERP and Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "Cloud Factory",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 17,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Best systems integration specialists in Newcastle, NSW\n\nIf you need to connect ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I'd shortlist providers based on their ability to integrate the systems you already run — not just install or support individual software products.\n\nMy research suggests that **Team10, BitLogical, Bricoleur Technologies and Range Information Systems** are good starting points for Newcastle-area integration projects, while dedicated MYOB Acumatica and SAP specialists may be the better choice for complex ERP work. The important distinction is that no single provider in the research clearly demonstrates deep expertise across all five areas.\n\n## My top shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.t10.digital/",
+              "alt": "T10",
+              "image_url": "https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize",
+              "markdown": "![T10](https://images.openai.com/static-rsc-4/Sy2CzXMV_gt1sPoc3_f7rAwAEoNWrbtqYXI1_bC6zHjnW3vN0oj2r9SB6dfKnb8vvJ3UJX9lcrLVdXXSJlNQ7cvEKyzqOIGg0e7BUI9oSiUhf0KWRpnVyQ4DNxRwr9HYeNUQ7n68QouomuQaQAbFxmAYbivxFkpPabw5itCesBiiLuj0ldA-fr2poYXYYDIP?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Team10\n\n(Best overall starting point)\n\nTeam10 specifically markets integration across ERP, finance, CRM, databases and Microsoft's business ecosystem. Its services include REST APIs, webhooks, SharePoint, Teams, Outlook, Power BI and Azure, with a focus on Newcastle and the Hunter Region. [team10.com.au](https://team10.com.au/integrations.php?utm_source=chatgpt.com)[team10.com.au](https://team10.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting several business systems and automating workflows without replacing the entire technology stack.\n\n**Verify first\\:** Ask for direct MYOB Acumatica and SAP integration examples; its published integrations page highlights Harmoniq and Pronto rather than those two ERP platforms.\n\n[Website — Integrations](https://team10.com.au/integrations.php)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "System Integrations — Team10",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/integrations.php?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Newcastle NSW",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Team10 — AI Automation & Business Technology",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Newcastle NSW",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Integrations",
+              "snippet": null,
+              "domain": "team10.com.au",
+              "url": "https://team10.com.au/integrations.php",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Integrations](https://team10.com.au/integrations.php)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle NSW systems integration and business automation",
+              "category": "company",
+              "markdown": "Team10",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Bitlogic - Crunchbase Company Profile & Funding](https://images.openai.com/static-rsc-4/lhoVPN7k4AIQVXq0lT-bPqMgKS09_vQ_iG0jM-q1r23rAA-6-6wu27thsrb3QZZ5zObNUMxMnucVLWyppZt1DleLvDohPh5F-lbxxdL-dq1hs6E6MgO10PgZ4BNOX9KvORxMhJLuagtSUtpI6bQuhyO2Etd6RnuWOs2n9gNEDx1GgoGC5F3Q9YrcUQIFPWfi?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.crunchbase.com/organization/bitlogic",
+              "alt": "Bitlogic - Crunchbase Company Profile & Funding",
+              "image_url": "https://images.openai.com/static-rsc-4/lhoVPN7k4AIQVXq0lT-bPqMgKS09_vQ_iG0jM-q1r23rAA-6-6wu27thsrb3QZZ5zObNUMxMnucVLWyppZt1DleLvDohPh5F-lbxxdL-dq1hs6E6MgO10PgZ4BNOX9KvORxMhJLuagtSUtpI6bQuhyO2Etd6RnuWOs2n9gNEDx1GgoGC5F3Q9YrcUQIFPWfi?purpose=fullsize",
+              "markdown": "![Bitlogic - Crunchbase Company Profile & Funding](https://images.openai.com/static-rsc-4/lhoVPN7k4AIQVXq0lT-bPqMgKS09_vQ_iG0jM-q1r23rAA-6-6wu27thsrb3QZZ5zObNUMxMnucVLWyppZt1DleLvDohPh5F-lbxxdL-dq1hs6E6MgO10PgZ4BNOX9KvORxMhJLuagtSUtpI6bQuhyO2Etd6RnuWOs2n9gNEDx1GgoGC5F3Q9YrcUQIFPWfi?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. BitLogical\n\nBest for custom integrations and API-driven automation\n\nBitLogical builds connections between CRM, accounting, job management and other business applications. It describes using APIs, webhooks, OAuth and workflow automation, with fixed-price project scoping and Newcastle-based delivery. [bitlogical.com.au](https://bitlogical.com.au/?utm_source=chatgpt.com)[bitlogical.com.au](https://bitlogical.com.au/services/system-integration/?utm_source=chatgpt.com)\n\n**Best for\\:** Custom data synchronisation, eliminating duplicate entry and connecting systems that lack a ready-made connector.\n\n**Verify first\\:** Whether it has implemented your exact MYOB Acumatica and SAP versions, including two-way synchronisation.\n\n[Website — System Integration](https://bitlogical.com.au/services/system-integration/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Systems Integration & AI Automation",
+              "snippet": null,
+              "domain": "bitlogical.com.au",
+              "url": "https://bitlogical.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "BitLogical Newcastle",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Systems Integration & Data Sync",
+              "snippet": null,
+              "domain": "bitlogical.com.au",
+              "url": "https://bitlogical.com.au/services/system-integration/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "BitLogical Newcastle",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — System Integration",
+              "snippet": null,
+              "domain": "bitlogical.com.au",
+              "url": "https://bitlogical.com.au/services/system-integration/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — System Integration](https://bitlogical.com.au/services/system-integration/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle NSW systems integration and automation consultancy",
+              "category": "company",
+              "markdown": "BitLogical",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Salesforce Partner Brisbane - Bricoleur Technologies](https://images.openai.com/static-rsc-4/NF9ygh8UJljqZqQkEJMAokvAc7gKiGjnmfUo4EDsBmVDfda4nocWXhKFRrsybdPEiYuWPsjhlBxfbVkHNpCN_9bKgHWD-NmzYfD7cstgPjrJBv-AliD6xSgXpD-Id4UHCGiZrqVK4jJubSLeRwrW8clmGpTIr4SA5pAJgXocAp71XlBrAw-U50CnsWkR-b4q?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.bricoleurtech.com/salesforce-partner-brisbane",
+              "alt": "Salesforce Partner Brisbane - Bricoleur Technologies",
+              "image_url": "https://images.openai.com/static-rsc-4/NF9ygh8UJljqZqQkEJMAokvAc7gKiGjnmfUo4EDsBmVDfda4nocWXhKFRrsybdPEiYuWPsjhlBxfbVkHNpCN_9bKgHWD-NmzYfD7cstgPjrJBv-AliD6xSgXpD-Id4UHCGiZrqVK4jJubSLeRwrW8clmGpTIr4SA5pAJgXocAp71XlBrAw-U50CnsWkR-b4q?purpose=fullsize",
+              "markdown": "![Salesforce Partner Brisbane - Bricoleur Technologies](https://images.openai.com/static-rsc-4/NF9ygh8UJljqZqQkEJMAokvAc7gKiGjnmfUo4EDsBmVDfda4nocWXhKFRrsybdPEiYuWPsjhlBxfbVkHNpCN_9bKgHWD-NmzYfD7cstgPjrJBv-AliD6xSgXpD-Id4UHCGiZrqVK4jJubSLeRwrW8clmGpTIr4SA5pAJgXocAp71XlBrAw-U50CnsWkR-b4q?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Bricoleur Technologies\n\nBest for Salesforce-led CRM integration\n\nBricoleur has a Newcastle-area presence in Charlestown and explicitly lists systems integration, ERP and inventory solutions, and financial integrations including MYOB AccountRight and MYOB Advanced. It also offers Salesforce implementation and migration services. [www.bricoleurtech.com](https://www.bricoleurtech.com/salesforce-partner-newcastle/?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting Salesforce CRM with finance, inventory and operational systems.\n\n**Verify first\\:** Current MYOB Acumatica capabilities and direct SAP integration experience, as well as support for Microsoft 365 workflows.\n\n[Website — Salesforce Partner Newcastle](https://www.bricoleurtech.com/salesforce-partner-newcastle/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Salesforce Partner Newcastle",
+              "snippet": null,
+              "domain": "www.bricoleurtech.com",
+              "url": "https://www.bricoleurtech.com/salesforce-partner-newcastle/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Bricoleur Technologies",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website — Salesforce Partner Newcastle",
+              "snippet": null,
+              "domain": "www.bricoleurtech.com",
+              "url": "https://www.bricoleurtech.com/salesforce-partner-newcastle/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website — Salesforce Partner Newcastle](https://www.bricoleurtech.com/salesforce-partner-newcastle/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Salesforce CRM and business systems integration consultancy",
+              "category": "company",
+              "markdown": "Bricoleur Technologies",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Range Information Systems\n\nBest for custom software and information workflows\n\nRange IS offers custom software, systems integration and workflow automation in the Newcastle and Hunter region. Its published materials mention connecting business applications and working with platforms such as Salesforce, Microsoft 365 and SAP. [rangeis.com.au](https://rangeis.com.au/about?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/Range+Information+Systems/@-32.9250815,151.6202544,17z/data=!3m1!4b1!4m6!3m5!1s0x6b733c1d00920011:0x3a3a91f802514ed2!8m2!3d-32.925086!4d151.6228293!16s%2Fg%2F11np3l70zs?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D&utm_source=chatgpt.com)\n\n**Best for\\:** Organisations needing bespoke connections, information management or automation around existing applications.\n\n**Verify first\\:** Whether the team has hands-on MYOB Acumatica integration experience and can cover your full ERP-to-CRM scope.\n\n[Website](https://rangeis.com.au/about)\n\n## Specialist options for MYOB Acumatica and SAP\n\nFor a project where ERP expertise is the biggest risk, I would also contact these providers, even if their teams are not based in Newcastle.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "About Range Information Systems",
+              "snippet": null,
+              "domain": "rangeis.com.au",
+              "url": "https://rangeis.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Range IT",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Range Information Systems",
+              "snippet": "Unit 4/17 Arnott St, Cardiff NSW 2285, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/Range+Information+Systems/@-32.9250815,151.6202544,17z/data=!3m1!4b1!4m6!3m5!1s0x6b733c1d00920011:0x3a3a91f802514ed2!8m2!3d-32.925086!4d151.6228293!16s%2Fg%2F11np3l70zs?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "rangeis.com.au",
+              "url": "https://rangeis.com.au/about",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://rangeis.com.au/about)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Newcastle Hunter custom software and information systems consultancy",
+              "category": "company",
+              "markdown": "Range Information Systems",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.tonictechnologies.com.au/tonic-talk/myob-acumatica-vs-myob-advanced-whats-the-difference",
+              "alt": "MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner",
+              "image_url": "https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize",
+              "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n**Integrated Logic**\n\nFocuses on MYOB Acumatica and MYOB Exo, with specialist ERP programming, customisation, implementation and support. A strong candidate for the MYOB side of a larger integration project. [www.integratedlogic.com.au](https://www.integratedlogic.com.au/our-team?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJZQS0IRWlEmsRwZ1QmQPxek4&hl=en&utm_source=chatgpt.com)\n\n[Website](https://www.integratedlogic.com.au/our-team)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Our Team",
+              "snippet": null,
+              "domain": "www.integratedlogic.com.au",
+              "url": "https://www.integratedlogic.com.au/our-team?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Integrated Logic",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Integrated Logic",
+              "snippet": "Avaya House, level 9/123 Epping Rd, Macquarie Park NSW 2113, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJZQS0IRWlEmsRwZ1QmQPxek4&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.integratedlogic.com.au",
+              "url": "https://www.integratedlogic.com.au/our-team",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.integratedlogic.com.au/our-team)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian MYOB Acumatica and MYOB Exo specialist",
+              "category": "company",
+              "markdown": "Integrated Logic",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Leverage Technologies – MYOB Partner Profile](https://images.openai.com/static-rsc-4/QLB5rT8hD45jqA3HBw6_i41EFd9CprHE7N7doIGBnAcRPV0DzPzjzr8XVY9rfg28am0sm9wpJQU-oRvthZxYsIJ7ENx-0SsEfMg6gXuxUshmZ1-Jmhxn9zhfjExo_NvYC-YhDI2VGG6bKAYBA-per19Lw-FFXJNGk9aDgWDuxMGJu8yq4JWVqjoIdnZzUZ0k?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.myob.com/au/implementation-partners/leverage-technologies",
+              "alt": "Leverage Technologies – MYOB Partner Profile",
+              "image_url": "https://images.openai.com/static-rsc-4/QLB5rT8hD45jqA3HBw6_i41EFd9CprHE7N7doIGBnAcRPV0DzPzjzr8XVY9rfg28am0sm9wpJQU-oRvthZxYsIJ7ENx-0SsEfMg6gXuxUshmZ1-Jmhxn9zhfjExo_NvYC-YhDI2VGG6bKAYBA-per19Lw-FFXJNGk9aDgWDuxMGJu8yq4JWVqjoIdnZzUZ0k?purpose=fullsize",
+              "markdown": "![Leverage Technologies – MYOB Partner Profile](https://images.openai.com/static-rsc-4/QLB5rT8hD45jqA3HBw6_i41EFd9CprHE7N7doIGBnAcRPV0DzPzjzr8XVY9rfg28am0sm9wpJQU-oRvthZxYsIJ7ENx-0SsEfMg6gXuxUshmZ1-Jmhxn9zhfjExo_NvYC-YhDI2VGG6bKAYBA-per19Lw-FFXJNGk9aDgWDuxMGJu8yq4JWVqjoIdnZzUZ0k?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n**Leverage Technologies**\n\nParticularly relevant if you need expertise spanning both SAP and MYOB Acumatica. The company identifies itself as an SAP Gold Partner and MYOB Acumatica Platinum Partner, and offers ERP integration and ongoing support. [www.leveragetech.com.au](https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/?utm_source=chatgpt.com)[www.leveragetech.com.au](https://www.leveragetech.com.au/services/software-partner-and-reseller/?utm_source=chatgpt.com)\n\n**Best for\\:** Complex ERP-to-ERP integration or a programme requiring specialist knowledge of both platforms.\n\n[Website](https://www.leveragetech.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "MYOB Acumatica Integrations Solutions",
+              "snippet": null,
+              "domain": "www.leveragetech.com.au",
+              "url": "https://www.leveragetech.com.au/products/myob-acumatica/myob-acumatica-complementary-solutions/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Leverage Technologies",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ERP Software Reseller & Partner Australia",
+              "snippet": null,
+              "domain": "www.leveragetech.com.au",
+              "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "SAP, Sage & MYOB",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.leveragetech.com.au",
+              "url": "https://www.leveragetech.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.leveragetech.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian ERP implementation and integration consultancy",
+              "category": "company",
+              "markdown": "Leverage Technologies",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "markdown": "![ERP Events, Workshops & User Groups | Cloud Factory](https://images.openai.com/static-rsc-4/2Bj3oM8O4VVJxj8CNy-XLlP-7BwiM97c_hvt2EXHS_gMM19P-QPaD77RLNclkc2CdgS_oEcUccNIZ6kxEmvPl0C78i_oRfeOjMF1ZU-6wzwuoJuE42QCvE0d4BMUlKAqOc9H3ZY2oIsjork2JvcUQxJjJZEKLUEcmJQ9sNXkLAWYgtVwHLsa-TbLjP0e3ChE?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.cloudfactory.co/events",
+              "alt": "ERP Events, Workshops & User Groups | Cloud Factory",
+              "image_url": "https://images.openai.com/static-rsc-4/2Bj3oM8O4VVJxj8CNy-XLlP-7BwiM97c_hvt2EXHS_gMM19P-QPaD77RLNclkc2CdgS_oEcUccNIZ6kxEmvPl0C78i_oRfeOjMF1ZU-6wzwuoJuE42QCvE0d4BMUlKAqOc9H3ZY2oIsjork2JvcUQxJjJZEKLUEcmJQ9sNXkLAWYgtVwHLsa-TbLjP0e3ChE?purpose=fullsize",
+              "markdown": "![ERP Events, Workshops & User Groups | Cloud Factory](https://images.openai.com/static-rsc-4/2Bj3oM8O4VVJxj8CNy-XLlP-7BwiM97c_hvt2EXHS_gMM19P-QPaD77RLNclkc2CdgS_oEcUccNIZ6kxEmvPl0C78i_oRfeOjMF1ZU-6wzwuoJuE42QCvE0d4BMUlKAqOc9H3ZY2oIsjork2JvcUQxJjJZEKLUEcmJQ9sNXkLAWYgtVwHLsa-TbLjP0e3ChE?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n\n**Cloud Factory**\n\nIts published portfolio includes MYOB Acumatica, SAP Business One, Microsoft Dynamics 365 and CRM integration. It may suit organisations looking to connect finance, operations and customer engagement. [www.myob.com](https://www.myob.com/au/implementation-partners/cloud-factory?utm_source=chatgpt.com)[www.cloudfactory.co](https://www.cloudfactory.co/dynamics-365-partnership?utm_source=chatgpt.com)\n\n**Best for\\:** Comparing integration architecture across ERP and Microsoft business applications.\n\n[Website](https://www.cloudfactory.co/)\n\n## How I'd choose between them\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Cloud Factory MYOB Partner Profile",
+              "snippet": null,
+              "domain": "www.myob.com",
+              "url": "https://www.myob.com/au/implementation-partners/cloud-factory?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "MYOB",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Dynamics 365 Partner",
+              "snippet": null,
+              "domain": "www.cloudfactory.co",
+              "url": "https://www.cloudfactory.co/dynamics-365-partnership?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Cloud Factory Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.cloudfactory.co",
+              "url": "https://www.cloudfactory.co/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.cloudfactory.co/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian ERP and Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "Cloud Factory",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 16,
+          "text": null,
+          "markdown": "| Your main requirement | My first call |\n|--------|--------|\n| Newcastle-based, multi-system workflow integration | Team10 |\n| Custom APIs and data synchronisation | BitLogical |\n| Salesforce CRM plus finance or ERP | Bricoleur Technologies |\n| MYOB Acumatica customisation and development | Integrated Logic |\n| SAP and MYOB Acumatica expertise together | Leverage Technologies |\n| ERP and Microsoft business applications | Cloud Factory |\n\n",
+          "table": {
+            "table_header": [
+              "Your main requirement",
+              "My first call"
+            ],
+            "table_content": [
+              [
+                "Newcastle-based, multi-system workflow integration",
+                "Team10"
+              ],
+              [
+                "Custom APIs and data synchronisation",
+                "BitLogical"
+              ],
+              [
+                "Salesforce CRM plus finance or ERP",
+                "Bricoleur Technologies"
+              ],
+              [
+                "MYOB Acumatica customisation and development",
+                "Integrated Logic"
+              ],
+              [
+                "SAP and MYOB Acumatica expertise together",
+                "Leverage Technologies"
+              ],
+              [
+                "ERP and Microsoft business applications",
+                "Cloud Factory"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\nThese are fit-based recommendations from publicly described capabilities, not an independently verified ranking of project outcomes.\n\n## Questions to ask before appointing a provider\n\nWhichever firm you shortlist, ask them to demonstrate\\:\n\n- **Direct experience\\:** A completed project involving your actual ERP, CRM and SAP products, including their versions.\n- **Integration method\\:** Whether they use supported APIs, middleware, connectors or custom code, and why.\n- **Data reliability\\:** How they handle duplicate records, failed synchronisations, retries, audit logs and conflicting updates.\n- **Microsoft 365 scope\\:** Whether the work includes Teams, Outlook, SharePoint, Entra ID and Power BI, as applicable.\n- **Ownership and support\\:** Who owns the integration code, documentation and credentials, and who monitors failures after launch.\n\nI would ask for a small discovery and architecture phase before committing to a full implementation.\n\n## One question to narrow this down\n\n**Which ERP and CRM systems are you currently running?** For example, is SAP your main ERP and MYOB Acumatica a separate finance system, or are you choosing between these platforms?\n\nThat distinction could change which provider is the strongest match for your project.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

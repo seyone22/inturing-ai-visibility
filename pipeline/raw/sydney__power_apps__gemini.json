@@ -1,0 +1,263 @@
+{
+  "slug": "sydney",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Sydney for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:36.372Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When choosing a Microsoft Power Apps and Dataverse consultant in Sydney for **operational business apps** (warehousing, manufacturing shop-floors, and field teams), you need partners who understand more than just citizen-developer forms. Operational apps require specialized architecture: **offline Dataverse sync**, **barcode/RFID hardware integration**, **shift-worker licensing optimization**, and **ERP/WMS integration**.\n\nThe leading consultancies in and around Sydney are divided into two main categories: operational/ERP specialists and enterprise Power Platform leaders.\n\n---\n\n### 1. Dedicated Operational & Mid-Market Specialists\n*These firms have specific experience tying Power Apps and Dataverse directly to physical inventory, field service, and shop-floor workflows.*\n\n* **Eagle360 Consulting** (Sydney & Melbourne)\n  * **Core Strength:** Direct focus on warehouse management, logistics, and field operations.\n  * **Operational Relevance:** They frequently build tailored Canvas Power Apps for pick/pack, proof of delivery, stocktakes, and mobile field inspections that sync back to ERPs (Dynamics 365 Business Central, MYOB Acumatica, or SQL databases).\n  * **Best For:** Mid-market businesses needing fast-turnaround, fixed-scope operational mobile apps with barcode scanning and rugged device support.\n\n* **MicroChannel** (Headquartered in Macquarie Park, Sydney)\n  * **Core Strength:** One of Australia’s largest Business Applications and ERP/WMS consultancies.\n  * **Operational Relevance:** They have deep domain expertise in physical operations (warehousing, inventory tracking, manufacturing scheduling) and build Dataverse/Power Apps front-ends to eliminate paper job sheets, clipboard checks, and double-entry into back-end systems.\n  * **Best For:** Companies where the shop-floor or warehouse app must integrate into core supply chain and inventory platforms.\n\n* **Professional Advantage** (North Sydney)\n  * **Core Strength:** Long-established Microsoft Gold / Solutions Partner with strong Dataverse, Power Platform, and ERP practices.\n  * **Operational Relevance:** Strong background in automating field service reporting, asset management, and quality control on manufacturing lines. They understand Dataverse data modeling for complex business logic.\n  * **Best For:** Organizations seeking a balance of structured corporate governance and custom field-application development.\n\n* **365 Mechanix / 1Dynamics** (Sydney-based Boutiques)\n  * **Core Strength:** Specialist Dynamics 365 and Power Platform consultancies.\n  * **Operational Relevance:** Highly technical teams that specialize in building tailored Canvas apps for technicians on the move, asset inspections, and job-dispatch workflows.\n  * **Best For:** Rapid agile builds, staff augmentation, or specific Field Service/Dataverse troubleshooting.\n\n---\n\n### 2. Enterprise Power Platform & Frontline Leaders\n*Best for large workforces, multi-site rollouts, and complex enterprise compliance.*\n\n* **Barhead Solutions** (Sydney CBD)\n  * **Core Strength:** Consistently recognized as one of Australia’s elite Microsoft Business Applications partners.\n  * **Operational Relevance:** Deep expertise in the Microsoft Power Platform ecosystem (Dataverse, Power Automate, Canvas/Model-Driven Apps). They specialize in replacing legacy forms and pen-and-paper tracking with hardened frontline apps for distributed workforces.\n  * **Best For:** Large-scale digital transformation initiatives requiring Center of Excellence (CoE) governance, strict security, and integration with enterprise Microsoft environments.\n\n* **Velrada** (Sydney office / National presence)\n  * **Core Strength:** Microsoft Partner of the Year alumni with heavy focus on asset-intensive and field-heavy industries (utilities, mining, facilities management, field services).\n  * **Operational Relevance:** Pioneers in disconnected/offline operational apps. When field workers or warehouse staff operate in dead zones (e.g., basements, rural sites, concrete warehouses), Velrada specializes in Dataverse offline profiles and asynchronous sync.\n  * **Best For:** Asset management, plant inspections, and safety/compliance apps in heavy industry.\n\n* **Engage Squared** (Sydney presence)\n  * **Core Strength:** Leading Microsoft partner specializing in employee experience and frontline worker enablement.\n  * **Operational Relevance:** Specializes in lightweight operational mobile tools (incident reporting, shift handovers, daily pre-start checks) delivered directly within mobile devices or Microsoft Teams.\n  * **Best For:** Shop-floor culture and operations apps where user adoption and simple UX are critical.\n\n---\n\n### Critical Technical Capabilities to Qualify with Candidates\n\nWhen briefing consultants for shop-floor or warehouse apps, ensure they demonstrate competency in the following areas:\n\n1. **Offline Dataverse Synchronization:**\n   * In warehouses and field operations, Wi-Fi drops constantly. The partner must know how to properly configure **native Power Apps Mobile offline profiles** on Dataverse tables, rather than relying on clunky manual caching (`SaveData`/`LoadData` collections).\n2. **Peripheral & Hardware Integration:**\n   * Ask how they handle industrial barcode scanning. Using a smartphone camera via standard Power Apps controls is often too slow for picking 500 items/day. The consultant should know how to configure intent-based scanning for rugged devices (e.g., Zebra, Honeywell, CipherLab) or keyboard-wedge inputs.\n3. **Licensing Architecture:**\n   * Power Apps licensing ($5/app/user or $20/user/month) can become prohibitive for a 200-person warehouse or field crew. A skilled partner will evaluate architectures like **Dataverse for Teams**, **Power Pages (external/authenticated access)**, or pooled operational kiosks to keep recurring licensing costs sensible.\n4. **Dataverse Virtual Tables & ERP Connectors:**\n   * Rather than duplicating heavy inventory or product catalogs directly into Dataverse storage (which is expensive), the consultant should know how to utilize **Virtual Tables** or custom Azure Logic App bridges to query your back-end ERP in real time.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Velrada%22+%22Power+Apps%22+field+Sydney&client=app-vertex-grounding&safesearch=active\">&quot;Velrada&quot; &quot;Power Apps&quot; field Sydney</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Eagle360%22+%22Power+Apps%22+warehouse+Sydney&client=app-vertex-grounding&safesearch=active\">&quot;Eagle360&quot; &quot;Power Apps&quot; warehouse Sydney</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+partner+Sydney+operational+field+service+warehouse&client=app-vertex-grounding&safesearch=active\">Power Platform partner Sydney operational field service warehouse</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Professional+Advantage%22+Power+Apps+warehouse+field+Sydney&client=app-vertex-grounding&safesearch=active\">&quot;Professional Advantage&quot; Power Apps warehouse field Sydney</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+Dataverse+consultants+Sydney+warehouse+field+shop+floor&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps Dataverse consultants Sydney warehouse field shop floor</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1mtVz2KZGKBGYMmOl_oH--A9s6ToM9oVaECSGGvMuvF9YbYSsBD00Zg09dTzrxu392pSGiFwaNMjo0KToud1JJtMdrl5tMu2318d5BXQyYGX1IYD1lywp0jnwbCEfM4c5gwL5KREqkZRCdo9jNxh7_WRc6aMbnrv5L19TiJVx",
+                "title": "eagle360.consulting"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoVH1ZCKnjAXMezrM12A_2461JH7edR44Rz211Re0IBTuKlWSaTyjpPhvwtKeok2CxQvfBx6oj-ZKXbvy0na2q7Sk2xWuAQa7tcjH9_GhK8doDlE8JvHwzo-7BXJ33SKZAkwwXMDSYoBl1uOkqkaZCbOpHVHfxJXmJqtzozqfJYG88L_YZ",
+                "title": "eagle360.consulting"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF8ZSFoEtHkaJgS7uGRV4T7qTJM2ae-WfQ44acwdKq1i3babEXOHJqFiS33-bSyKbr15MvBJqm1ifXXsIembI0fyhjqGtMsQoMXunRt0o6YCnrodDCWPwDbkIylm6JaagKZ8PF2XhaasRpPeL4-3Js0EMqGb4u31vBvNu-oeUyOKxp0VM5zUDipS80ORpQ7ls=",
+                "title": "eagle360.consulting"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdJv4-81_VKTOYx63WLSbNZMpcKgWom7Ed-Oo7-EAfz-d1KNzek5O7Ws-b0X662eD1E6Ltbn6JPBqS18gf7nEUFOpcRUp9J5KUdMybywc7WUTp3mdkh-IxeVyNBLi52GVUCWyrSWNyMY21rumZ6o6A4oeDoZd5xa3WKBTw0I4XKvtzBxrT0pkCODV5t_t7JkwuregoQVtEw==",
+                "title": "eagle360.consulting"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWDYejZmZf3iIWmlUmho70_g3sVL1kIV_aTZDSOgui82P8kmgjsUxs8OGuLMdLjariHXboBTMV_aticiEP-j89uByYAjs0JgGbyncJ4nhPoG2lkZt7B1HTF9ivgL2T1FJB81zx82dP46TUp4vGsic3Fd7vOkj2S-uphzsQkb0xYSTEC40uHjCSNS9kBlI=",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhLRn7qX4f3REZCGEjG8VSXPM73sVhAs72svqZgF3A6IGTDE0XcY3DqfeS_CFtsuMnj8Q9ohjhYZfFKqoYZzGqVB9EgnMYxefqDox5IaWap9g3YmqD61_MuDCob7F-L86XRvOrWVi4B5M2fF-xj0Odj3JsFWuLcGpCqm2lCiRA4LZEE_ZyflC5SPpb",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5j6JIZtfJBCg1UJNHla_r10vCuGK8R_myGHNnidhnhGyGFH4F_2THVggFWaO0k3RGk03Ofeof1APOHgX4vFIWk9GQZ_prxz45Zy1YBnNslYw-KoJWS3wyVZ2fnUsCRHC-1ci3-w=",
+                "title": "1dynamics.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl0Nb0YZv-VnJP6iE45H8jrz9R9GXB3OdlvnnPXhUVxlVPuZSsf0WtJiCHmAb-OlrkopZyShGMiqmplgajpX_d-p7ov6l5Yec5rrF_s4SK1og5Qn6Lt-pjA9HjWBFBkODg7-g=",
+                "title": "aeroleads.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkPnTaUjHseQJ9Str0_2o6SLKbfZntvFFN_qXK7116W8OA5x4SpGr851z-6Zb-00Fs-CXGPFiTeT3FJLg1LXvsAciD9QLA06By1EZwS15LETidtFkfy7pMmoBIj06M72D8FjK6galc7DajEtLB9UF3iiIcN96KXqMUk2tLUyMz8HtY-Hf1IpNEnfpysMbOg1baYXgr_4QoVNiARbTaTQGRvCq_9Mjcg2MK1FWQYphfjDqyCsDkyFOSpnpuY9J-K-Te91IY6qFVvNiYmRpLzEIf",
+                "title": "service.gov.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo7NK3DXcAp_w4ZJ43_NHKXciSIq3S0BeCa_MrS9Rwwc4aiuwuYzC8IVoKqcz5p47ShcJbjQO9dtQtn4lhCldld4esXPw9ay9eWkdkonCbYOSUc6Bh7_eymObpyNGEb_dDpN7MQ0kcs1hgmN5jXVlu-6iB4MXevTuAOuP4YipV8qHsgUloF7Bp9203OdbNAK-5EUU=",
+                "title": "datadaur.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 785,
+                "endIndex": 829,
+                "text": "**Eagle360 Consulting** (Sydney & Melbourne)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 834,
+                "endIndex": 922,
+                "text": "**Core Strength:** Direct focus on warehouse management, logistics, and field operations"
+              },
+              "groundingChunkIndices": [
+                0,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 928,
+                "endIndex": 1167,
+                "text": "**Operational Relevance:** They frequently build tailored Canvas Power Apps for pick/pack, proof of delivery, stocktakes, and mobile field inspections that sync back to ERPs (Dynamics 365 Business Central, MYOB Acumatica, or SQL databases)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1173,
+                "endIndex": 1317,
+                "text": "**Best For:** Mid-market businesses needing fast-turnaround, fixed-scope operational mobile apps with barcode scanning and rugged device support"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1891,
+                "endIndex": 1932,
+                "text": "**Professional Advantage** (North Sydney)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2414,
+                "endIndex": 2467,
+                "text": "**365 Mechanix / 1Dynamics** (Sydney-based Boutiques)"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2472,
+                "endIndex": 2547,
+                "text": "**Core Strength:** Specialist Dynamics 365 and Power Platform consultancies"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2553,
+                "endIndex": 2726,
+                "text": "**Operational Relevance:** Highly technical teams that specialize in building tailored Canvas apps for technicians on the move, asset inspections, and job-dispatch workflows"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2986,
+                "endIndex": 3020,
+                "text": "**Barhead Solutions** (Sydney CBD)"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3025,
+                "endIndex": 3138,
+                "text": "**Core Strength:** Consistently recognized as one of Australia’s elite Microsoft Business Applications partners"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3144,
+                "endIndex": 3281,
+                "text": "**Operational Relevance:** Deep expertise in the Microsoft Power Platform ecosystem (Dataverse, Power Automate, Canvas/Model-Driven Apps)"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3599,
+                "endIndex": 3646,
+                "text": "**Velrada** (Sydney office / National presence)"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5916,
+                "endIndex": 6164,
+                "text": "Rather than duplicating heavy inventory or product catalogs directly into Dataverse storage (which is expensive), the consultant should know how to utilize **Virtual Tables** or custom Azure Logic App bridges to query your back-end ERP in real time"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Velrada\" \"Power Apps\" field Sydney",
+            "\"Eagle360\" \"Power Apps\" warehouse Sydney",
+            "Power Platform partner Sydney operational field service warehouse",
+            "\"Professional Advantage\" Power Apps warehouse field Sydney",
+            "Microsoft Power Apps Dataverse consultants Sydney warehouse field shop floor"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 962,
+      "candidatesTokenCount": 1381,
+      "totalTokenCount": 4049,
+      "cachedContentTokenCount": 273,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 962
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 273
+        }
+      ],
+      "thoughtsTokenCount": 1706,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "Z8Xiap6wI6z6694Pj-rF6QU"
+  }
+}

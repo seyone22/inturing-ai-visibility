@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Hobart for operational reporting and data warehousing?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:38.704Z",
+  "cost": 0.006129,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 30,
+      "output_tokens": 499,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005529,
+      "datetime": "2026-10-29 04:11:33 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Hobart organisation needing **operational reporting and data warehousing**, the strongest candidates identified are:\n\n- **Agile Insights** — the best-fit specialist for a governed Power BI/Fabric implementation. It reports 150+ Fabric engagements, Microsoft Solutions Partner designations, advanced Azure analytics specialisations, and operational-reporting accelerators. It is headquartered in Sydney but delivers nationally, so confirm Hobart on-site availability.[1]\n- **On Report** — a strong option for a customised Power BI reporting layer plus a Microsoft Fabric data foundation. Its services cover data engineering, reporting automation, warehousing and connections to systems such as Xero, Salesforce, Azure SQL, SQL Server, Dynamics 365 and Snowflake.[2]\n- **Professional Advantage Australia** — suitable for larger or more structured Microsoft environments. It reports 10+ years of Power BI delivery, Fabric implementation experience since launch, Microsoft Solutions Partner status, and consultants certified in Fabric Analytics Engineering, Fabric Data Engineering and Power BI.[7]\n- **Tridant** — worth including in a formal shortlist because Microsoft Marketplace lists Australian Fabric FastTrack implementation and Power BI-to-Fabric migration offerings.[5]\n- **A capable local individual option: Sidharth Anil** — his documented Hobart experience includes Power BI, SQL, SAP HANA and SSIS reporting for TasNetworks, including workforce and capital-program analytics. The available profile indicates developing rather than extensive Fabric implementation experience, so he is better suited to analytics delivery or augmentation than leading an enterprise Fabric warehouse.[10]\n\n## Recommended shortlist\n\n1. **Agile Insights** — enterprise-grade Fabric architecture, governance and operational analytics.\n2. **On Report** — practical reporting, integration and data-platform delivery.\n3. **Professional Advantage** — certified Microsoft delivery team for a larger implementation.\n4. **Tridant** — Fabric implementation or migration package.\n5. **Sidharth Anil** — local Hobart reporting and data-analysis capability.\n\nBefore appointing a consultant, request evidence of **DP-600 and DP-700 capability**, Fabric lakehouse/warehouse examples, Power BI semantic-model design, incremental-refresh and row-level-security experience, and a reference involving operational—not only executive—reporting. Microsoft describes Fabric as combining reporting, data engineering, data warehousing, data integration and related analytics capabilities, so the engagement should cover the underlying data platform rather than dashboards alone.[6]",
+              "annotations": [
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric partners",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "cloud solutions, AI apps, and agents - Microsoft Marketplace",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services?OCID=AID681541_aff_7593_1243925&page=9&product=power-bi&country=AU",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric - Data Analytics",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting",
+                  "url": "https://www.pa.com.au/products/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "marketplace.microsoft.com › en-in › productPower BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-in/product/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best ESG Reporting Software in Australia | GRI Certified ESG Platform in Australia | ESG Software for Conglomerates in Australia | ESG Management Software in Australia | Top ESG Data Platform in Australia",
+                  "url": "https://www.4seertechnologies.com/au/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sidharth Anil | LinkedIn",
+                  "url": "https://www.linkedin.com/in/sidharthanil",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "sydney",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:15.746Z",
+  "cost": 0.059893,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9711,
+      "output_tokens": 1344,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.059293,
+      "datetime": "2026-10-29 04:03:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong consultants and firms in Sydney (and Australia-wide) that specialise in exactly what you need: automating order processing, shop-floor data capture, and operations **without replacing your existing ERP**. Here's a curated shortlist worth contacting:\n\n---\n\n## 🏭 Recommended Automation & Power Platform Consultants for Sydney Manufacturers\n\n---\n\n### 1. 🔷 [Power Platform Experts (Office Experts Group)](https://www.powerplatformexperts.com.au/power-platform-consultants-sydney)\n**Best for:** End-to-end Power Platform automation layered over your existing ERP\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their nationwide team has 25+ years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Sydney",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Sydney",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them well-suited to building automation layers on top of your current ERP rather than replacing it.\n\n- 📞 1300 102 810\n- 📧 consult@officeexperts.com.au\n\n---\n\n### 2. 🔷 [Havi Technology](https://theexpertroster.com/stack/power-platform)\n**Best for:** Manufacturers and wholesalers needing ERP + AI automation\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Havi Technology is a Sydney ERP consultancy that builds Odoo, Dynamics 365, and HubSpot systems for Australian manufacturers and wholesalers, with an AI automation line added recently.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants & Agencies: 13 Vetted Experts (2026) · The Expert Roster",
+                  "url": "https://theexpertroster.com/stack/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their manufacturing-specific focus makes them a particularly relevant conversation for shop-floor data capture and order processing.\n\n---\n\n### 3. 🔷 [Dynamic Aspect](https://www.dynamicaspect.com.au/power-platform)\n**Best for:** Microsoft ERP + Power Platform integration in Sydney\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dynamic Aspect helps businesses automate workflows, build custom apps, and visualise data with Microsoft Power Platform, delivering Power Automate, Power Apps, and Power BI solutions for Australian businesses.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in Microsoft ERP systems consulting, deployment, and support across Australia, including Sydney.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://www.dynamicaspect.com.au/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🔷 [Alphavima](https://alphavima.com/power-platform/process-automation-consulting-in-sydney-nsw/)\n**Best for:** Governance-led Power Platform rollouts with ERP connectivity\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a certified Microsoft Partner with Low Code Application Development specialisation, delivering process automation consulting projects for organisations of all sizes across Australia.",
+              "annotations": [
+                {
+                  "title": "Process Automation consulting in Sydney, NSW",
+                  "url": "https://alphavima.com/power-platform/process-automation-consulting-in-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build automated workflows using Power Automate to connect Office 365, Dynamics 365, SharePoint, and third-party tools into one connected process",
+              "annotations": [
+                {
+                  "title": "Power Platform Partners in Sydney, NSW",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-partners-in-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — ideal for bridging gaps in your existing ERP without replacing it. They also offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a Power Platform Center of Excellence (CoE) setup including DLP policies and environment management.",
+              "annotations": [
+                {
+                  "title": "Process Automation consulting in Sydney, NSW",
+                  "url": "https://alphavima.com/power-platform/process-automation-consulting-in-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🔷 [That Automation Agency](https://theexpertroster.com/stack/power-platform)\n**Best for:** SMB manufacturers needing fractional automation expertise\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "That Automation Agency is an Australia-based, Zapier-certified automation and fractional-COO agency serving SMBs across e-commerce, healthcare, and telecom.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants & Agencies: 13 Vetted Experts (2026) · The Expert Roster",
+                  "url": "https://theexpertroster.com/stack/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " If you're a smaller manufacturer wanting flexible, cost-effective automation support without a large consulting engagement, they're worth a conversation.\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you speak to these firms, make sure to ask:\n\n1. **\"Can you connect to our existing ERP via API or connector — without replacing it?\"** (e.g. SAP, MYOB, Epicor, Pronto, etc.)\n2. **\"Have you built shop-floor data capture apps using Power Apps?\"** (e.g. production counts, quality checks, machine downtime logging)\n3. **\"Can Power Automate handle our order processing workflows end-to-end?\"**\n4. **\"Do you offer post-implementation support and training for our floor staff?\"**\n5. **\"Are you a Microsoft Solutions Partner?\"** (ensures certified expertise)\n\n---\n\n## 🛠️ What the Right Stack Could Look Like for You\n\n| Need | Tool |\n|---|---|\n| Order processing automation | Power Automate + ERP connectors |\n| Shop-floor data capture | Power Apps (tablet/mobile forms) |\n| Operations dashboards | Power BI |\n| Supplier/customer portals | Power Pages |\n| Governance & security | Power Platform CoE Toolkit |\n\nWould you like help preparing a brief to send to these consultants, or more detail on any specific use case (e.g. shop-floor apps or ERP connectors)?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Sydney Australia",
+        "ERP integration automation consultants Sydney manufacturing 2024 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "slug": "adelaide",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Adelaide for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:16.322Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When building custom Microsoft Power Apps and Dataverse solutions for operational environments—such as warehouses, manufacturing shop floors, and field operations—the technical requirements differ significantly from standard office apps. Projects typically require **offline sync capability, hardware barcode/RFID scanning, rugged device compatibility, real-time inventory reconciliation, and integration into ERP/WMS systems**.\n\nThe leading consultancies with a strong presence in Adelaide capable of delivering these custom operational business applications include:\n\n---\n\n### 1. Tier-1 & Enterprise Microsoft Partners (with Adelaide Offices)\n\n* **Velrada (an Avanade Company)**\n  * **Location/Presence:** Adelaide office (Pirie Street).\n  * **Strengths:** Velrada is widely regarded as one of Australia’s premier Microsoft Business Applications partners, particularly for asset-intensive, mining, utilities, and field operations.\n  * **Operational Fit:** Velrada excels in complex mobile inspection routines, work-order execution, and offline-first mobile apps leveraging Dataverse and Dynamics 365 Field Service. They are best suited for mid-market to enterprise-scale field and industrial workforce deployments.\n\n* **Fusion5**\n  * **Location/Presence:** Dedicated Adelaide office and team.\n  * **Strengths:** A dominant Microsoft Solutions Partner across Australia and New Zealand, known for bridging Microsoft Dynamics 365 (Business Central and Supply Chain Management) with custom Power Platform workflows.\n  * **Operational Fit:** If your shop-floor or warehouse app needs to interface directly with inventory ledgers, purchase orders, or shop-floor production schedules in an ERP, Fusion5 has deep domain knowledge in warehousing, discrete manufacturing, and supply chain logic.\n\n* **Data#3**\n  * **Location/Presence:** Established Adelaide operations and large local consulting bench.\n  * **Strengths:** One of Australia’s largest Microsoft Business Applications partners, offering robust governance (Power Platform Center of Excellence), security, and scalable cloud architectures.\n  * **Operational Fit:** Best for larger organizations requiring governed Dataverse solutions with stringent data residency, role-based access control, and integration with Azure IoT or legacy backend systems.\n\n* **Chamonix IT Consulting**\n  * **Location/Presence:** Headquartered in Adelaide.\n  * **Strengths:** A prominent local digital consultancy deeply embedded in the South Australian government, infrastructure, and enterprise sectors.\n  * **Operational Fit:** Chamonix provides agile delivery for custom application development across the Microsoft stack. They are ideal if you want a local team to conduct on-site workshops, review physical workflows on the floor, and co-design tailored Canvas and Model-driven apps.\n\n---\n\n### 2. Mid-Market & Boutique Specialists\n\nIf you require rapid development, lower project overhead, or targeted fixed-price delivery, several specialist consultancies operate locally or serve Adelaide businesses:\n\n* **Power Platform Experts / Office Experts Group (Adelaide Branch)**\n  * **Focus:** Rapid turnaround of Canvas apps for tablet/phone form factors, mobile checklists, and offline data capture for sites with patchy connectivity.\n  * **Fit:** Practical, process-driven digitization replacing paper/clipboard audits, daily production run logs, and handover sheets.\n\n* **Eagle360 Consulting**\n  * **Focus:** Mid-market operational Power Apps and Dataverse engineering connected directly to Microsoft Dynamics 365 Business Central.\n  * **Fit:** Warehouse cycle-counts, dispatch checklists, and manufacturing tracking where off-the-shelf ERP screens are too cumbersome for warehouse workers on handhelds.\n\n---\n\n### Key Questions to Ask When Vetting an Adelaide Partner\n\nWhen interviewing consultants for warehouse, shop-floor, or field use-cases, ask them to demonstrate competence in these specific areas:\n\n1. **Offline Sync & Caching Architecture:** \n   * *Question:* \"How will you architect Dataverse offline profiles to handle spotty Wi-Fi in the warehouse dead zones or remote field areas without data-collision issues?\"\n2. **Hardware & Barcode Integration:**\n   * *Question:* \"Does the Canvas app rely on native device camera scanning, or can it hook directly into dedicated rugged scanner hardware (e.g., Zebra DataWedge / Honeywell SDKs) for high-speed continuous scanning?\"\n3. **Delegation & Dataverse Querying Limits:**\n   * *Question:* \"How do you design Dataverse tables and Power Fx formulas to avoid the 2,000-record delegation limit when looking up historical stock or asset records?\"\n4. **Licensing Optimization:**\n   * *Question:* \"Are we using Dataverse with standard Power Apps per-app or per-user licenses, and how will floor workers sharing shared/kiosk terminals be licensed cost-effectively?\"",
+              "thoughtSignature": "EuEfCt4fAWkUfROhBlI0LfzZJ1n0aTVFOjzRT++nYv03a772hlg4Q0ZIrxDH67k7C4vOTWmUGhPOv74xrgCdIIBnZk2KvkPRoG9zWHzv+o27Zix8Ch+vfWICGbbOqiQ0S541tD+yVeFRj7ysjufCTCECxuN2zbtzoz4VGHGrZosHktTUR+YDz151UhkF9vc7U2Me5bZfs07EgMCOhmreT77UOElrkDKJN1UiNw1GUOBxZaA7rB2KtO+tozIqp6JIubgzeKBqDxa9picRYzASirlQNUtyHKAAgUhhLf3jfHgCdE34Ys+UAoLWX+4JSt67wzdyqLL0V5tC2BTDnPT8/7rC+VW2LM4bg6WjWkGoqzs0RdkzBLkfTy69KsdTuPckGNRuebf6r78Wu2XuHZnuywv76tU4yBoCX5b/mTD1s3S6HwKd0mK1BZ6rYXAW0K0ijTR/1T+qwVbpzgtTKDNyinPciwGl/BwQeY7uSIszk0GsGuujIfp2NAfONOzV4OXYBMthlJYWcv9mKI/CI+wp21y6hxIX4DdmtQH5+tH7SWkcdkiJBkrr3eVO3IvSlmkroOGd/gguzxziO2KkgrRmCHD0soxMv3TU+G41UPF5xFtJFZH/FzcUGVrFqy9lJK6CzbzrTEQJJET+Igom3TpKhbBG33f88ZJIWzB+g62wexrHqsyXpScdhutXUVaUyTZxj74dR2iKjYRIy37RRJE5ac7FtWMPYAhHEqrOhaU6RY11K/DyGtBUsMf9l3GOR8FZbaL2KIAIW9uHAySa1AX13jb26uWmYQHuPv+TCKZciMRfdOTFnVCH45ktGB0UujmYOV+8GtbEf/jgLgKDvPzur6yCYgzBPZxQVghLn5qzdZlzWjLUsRldpAxKeDLTYPydvaGxbzFyn5r58SPUGYv42u10CTGQD/V4Dy0IRQ5gHYY5JBBgOf8sukikr79nB//NEd8qFEk4ujYjVEgWh8A2sYiocRBy2CYqYnPU7KsDmD/c5cwsxPmgUC3QFmsk18Ce93Xd2ilymd6Rp7wotjLtCpiYYbJsTD2IybgBBqmyiFiBRS7m1wvXc/ToLvbfJxruKAhAAGKPVLtherW+fEnvjcGblVofSIvMzKX7L8//dI4caPFdFBlURZDjYghK2rvLjF6h+eeozfYOS6ocebI7aW91pXr9HilxL46O/npIgQDj3N0aFMU+J5hD2NCz5EiljOKkxtvcbkSEl831xqbaGtAEwm2i2/232WoiSgvx8S5lon1keYL138tUYfqBPrAXWT+LafjaEjwWhrE+EunoE5iKXb6ndtrul6Y8C/l2q1IHPKItSiiUTOiHtBaS4eFA57QWHt1VufqLGD2kDlLxf75Qfmbxn8mwiZRzrcvuGze4BuIzEa91jw5+c4YHmOJvYtngszQZuDQLi+WERR0uS0LpSFFjxmEX50Y5/mZfcFYeWWBPlPCOIjQ4qdfUlm0YoIX5scxdpleCGM5waLF3MnNN2Wx1untAKNkB3CYEiX/FjR9KObuB+upFee/sVabs5lstlJFImbzOdjutOvsUQizRHGdEEKMEGYRziNq6d6HcFL+IqEBq6AQDLpfD/t9HwTjd0Hrakfip0/CyhWB0Zmsafp8NFTWZarKH/qtEMROnnb6YxrbxOnYdGVTDvBIY8dzKGg91F/KI94DJr1khUix4kFDvYfFuRkVcrYN6qge03OuaBFY8JQ+GZWWCEqyRj+xRHenN5cg0S1zrfkLV/byy9K/81B/mhgDifMPjLv6p8LmgjvGJZ2JHTyEIsnxncj75EyCY2odbaQM6ExyF5IYG0C+EpQbxC0LeDW2YWspQpfRYhcvc4h44y9XE8yPUYp8hGZ6G4g5EW5pAL5dSf66EZXBVya5DQFKzMbE6MdthceLlfW6Li9dBZ4Yhy1jcV8XMgsmpvfNHx/3tYu3FiLkx1gkPTQ6++YGiPdzKddR4wGr0YOm5KYjB7aELocd0wWo9UZlheqq09CTcNyfdeqA57wnW5kMmiuF3VA/dZYDhYDpOyw7fIyEihbQVFfkmilA2MO4irRdyCwoipWpyujlDLeQA7kbqQUh39wZLlq2JEB+5oFsPJp94ltdz5dOuW7hcDNq0uwD/M7x0PYTpyaYplVxh6yUB1rXHnDqkb6dau+TumHsUardxWsX1TUY6dIHyRBhRLEHbojsXwzhWKOopQ/AQm2zrz3SvLOLQqnyNQMGSh4rMhdoLnSBSBnmQsYU4f9/u11irH5NihSFSlvrZOgg4jBT/NZ6hY3UnaFIctMVuGpVNm7VXnUw22/fpfhIe5oz/ni+y9QZT1awxHT8lBlBzcISnS+72X1lJfrn0k7HObNjzV+jPBgbfCvo39ORzALqOQlvjIB3WMSB6FKiWfvkubAom3XU/zHnrZa1EqgwMIsbe7Y4o4Upx9nMkoJnTBNSDoj07zX8IRg5szyVDEPgKcFja4G3VKZPe1/e0PyfTDz9jTKmFxx1hi+L5Yenzp/Pwugmqo9F+mTrNkBT+sHw7IcCZm9phv4TQp8tRB8FzgN1GFq1OViBmjf6MXyhboYtoWLHI+2ZZQFkNJRaVINlHh/PbtFkye1QbteYGom3NFI6MpxEtcwaIQIpYg3Cp6cfujGhgRbPIeIGxRrzZjRenXCPtlUyvBLVUz1kkeWZL22U1ehFDKnUdLbgoXdeUa7/jk1gyCKDBxUHqixqYpS5BI1y09YpLZKtAjsESsN60eSjSlWfCYU+y2Fn0ixqlGBLbgicC2t7zu088rBIwsuX8793EscSkdsl9egHYoRvOTkJfuvx28YfMl5WqtBtvGWZcQ/JFtcbAE9sXBeSd4u8JFk5IeycElFwMh6vC0mj/lo36KG2aOPfMpVieR4fL7otHktDICqZ6Il9Ur2pRn4ET3rB6Ofg1rIAtOJanVNBkB0mhAa4G1eQKdzHwiv0GkQ9EmAAfSbr4j7/R/HX5TDm0BtL6u4VUB+FbWWJr5LQSZpWszDCZQGMT38q51+7unSmlyYJ0fV3x/5feOjbFTC+0wKkfsnk8IrGC/rZAOEPb7E31tV69rO/cb4CCT5KlmpKbEalr9QYoWorDGdNGSjxjPyWiBokYMy6P7uIWL9x4Rjx0Br+ozV+4/Qe7YleN9/grrsCcwSGtNPqbUlXgk4qDoyMvQsF5oClGjHMrn35XFp8tBsp8k3nfFByiYP6Vdz8OXnHve0gWSJ4cFecyzF8LIATh1KGFhGdOBXzfAodmyHT0Ja/JxOQZ8rhuYK5KojUShUzKsJZBoheqDnGDCBMZAp2cVSaUvMC/ecdDl2Ue7HjNM3Dsqyi048FlW+iX015JFxNbfnnTCxvdKVEBluqHjn4/7A1DuN8yDx8AJVC7zSyYYbhrlWSr2iNE+tzvWAB/r+0HlTupBo7Z54vwCrGM7fqE4pAcJQf53R7WFrEKAgPwwfv3bjDjw58nCz7+OJLPipLtdYGtrU5k3+32H/eS7wAbQiJz3U0xCGiOset69UpZdnxo4fD0jKJMA3grdIQIhRMyJwUTC/BGts+IBCpdH55y84Qs4UZNlrO+JYBMyl+7UeqUFrPQCpGh6FKGSB4aYvdRS8zi36GDtN9QzsAuTaS+RUMQyZvOS9DPoNcFQ3tI4k72PRTmYIo0ggdEuSHSeDOj/bOw5S1KFm+PtWBTsfIOEX2u6T535Jj8yrpjjI+P3U2ocfWdHsWSxsBxyQf55FU70jxxY64BE/FCx8WoCk9AM7bX84q/kpZnDTXn1vt5+ZUkr18Ox2daGcKs6SasSwxYarDwF1vWeeBBQ5Zx8U+JbG/ObR49ZppAyTTWCgIrwpxpni2DWAeqZP+frI7XQ5KcNwbbFFXrzprKVSDKhy7ljFuSAJNoHbLacu2Snt9XGrujDRAke1CMMqEPYJ9LMxOFiEw90onHaZBvv7C1CDaygeUWRDxd2JdHiewk1xmgDamGt/MGg48vju+Uqgwb/ORjqGSbwubhenJM8mmwGqaSC2QGtTUU1Ks9yJPzPgiZWkyzibHsjN+J1GAvQ3EVPxV3CtP/+CaUeU5xdSjO36HIrFSFq+291XvYF5sXXYj3cg4sgFc+DBx+ptClEiY95ZJKlRTNUQsFiQI6EIOIbKvqhlvkHX4OwfsapcTe5rFZ6yoAx7T/gPmgMjSvT4+TkYEOgFokYZ6BwHfHFCMrMta/bOmyvuOc/Dg49mRmX37j/o7bH7Mex5Y9Tzg4ItzQZdltld07FMmQnBz0dGsAg5CrK61uaA02UD3likwaU5zzHX6ceDw33z3wVuNFJrKnA1vFCox1Xi0B248T3qbM4C22qHYTPPPR7kULndLV0ydyQTHgqP10RJKapo7Wn+qD1HwP6HmUTVKKJjYGUXjaSI5eSVGHDK35TJx5cLxNdBf/ehp2PYb7zCiLtcoxop/+OshNdwp6902V6nwEasehna3TEuUF6lydwPFs2uIZfDy67BAXnESpAZ9h8Kb7ja1QxVwA15QYHFIZ8OKolV44/PSiYzeCVl/d3mTFBupRMtV1B1E7U7Nd0pjlFdlIV7Dxt08WLtqsnkwCfSWhe4RONuK2keij8FxMVPqr+YqlGDZff/knlr7jt4yAHLi45BW+00cCgQP5bZVePLm22ODZ2XpEEhXWFQLg+P00pfDrXoyyHyaeiPjctaupKuY3VM9Bs6YGASrx0cAayrTUHNmGyUb8f6/XqfF0BlIRfWBWFP+JUeiJtyzs168j8zvsiZdDaSItk+7zXBVoBH8LuTM54GvTV37vw/spy6sWXWMGicjXOACHxri/YEgdXXZXoAahB9k3vCKZQJEyX2DV6vs5CC5usxy6PInLcQDsl+jaELArAhD2XeghvB+Kvi04qwB7UqvyixDaDXLWel+uKDGpDo0HbC0aCG+NJOmvHgk6tyXuIJ7Onk813860U9j88pUaNS9zD07AmtvhY5TqVjMfEACCwEsYdRQRkSKjc01IEJzeiTMKHyB6qor2mB0IuM6BGblaz+xfGrNGtwPKjEcfu87tcfscSn+XrzY9zKKeCK9W3tLKJx+gzvhZ/3//04A+2/keyBGJc+2CYbyIgjSQfdU7fXtCfgYVhQn+TkPPTawm9xmYXTxPhWGp+8z+a1tiiATpzLLOJ4tIz0geEalEMdD15Ye4BNwcQEvGHSP5uoiK0zGqWHawzCszXmz+2zRmUMYPfAuiH7iXa7XARrHQoqUo0VABYcSchZrR4VpDLsH3g26duKc98YlzrSdxMw7Lyg5NEGGZcA9qdD7mqsxi1lFdHRdkgv5U6shQAQRJEnCBoNlC2ZhUN2ZEJzEz6zOcCPh6pHRtswJUqLdlMRdkQjTsj+ARH8DOg9Dy8bBrqUE1kd/H4M4dFWRLq28oG2gS/RCo7SEhlwcraEFoWSuFUyFZo1HbJLLfMSahJGeT"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Fusion5%22+Adelaide+Power+Apps+Dataverse&client=app-vertex-grounding&safesearch=active\">&quot;Fusion5&quot; Adelaide Power Apps Dataverse</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultants+Adelaide+warehouse+field+shop+floor&client=app-vertex-grounding&safesearch=active\">Power Platform consultants Adelaide warehouse field shop floor</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Partner+Power+Platform+Dataverse+Adelaide&client=app-vertex-grounding&safesearch=active\">Microsoft Partner Power Platform Dataverse Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Adelaide+Power+Apps+operational&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Adelaide Power Apps operational</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Avanade%22+OR+%22Velrada%22+Adelaide+Power+Apps+field+warehouse&client=app-vertex-grounding&safesearch=active\">&quot;Avanade&quot; OR &quot;Velrada&quot; Adelaide Power Apps field warehouse</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+consultancy+Adelaide&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps consultancy Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Chamonix%22+Adelaide+%22Power+Platform%22+OR+%22Power+Apps%22&client=app-vertex-grounding&safesearch=active\">&quot;Chamonix&quot; Adelaide &quot;Power Platform&quot; OR &quot;Power Apps&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWliJ26RQNvLuMnFz6YkFR-iDkWHs4Q1WbCGZwLbN4KeP8FZOU-AfL1H3MEuXWYHM1S2INbiK0jl7u02PsbWDtn-oc3yTVMy9kmf4lYhCMXaGEQACyb3myf8dT8dSCDuk=",
+                "title": "d365consultant.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-R1rIeJdDk--9ODoG23RoALVeOfVRiTooXBLs3zjtBp6ovZ6_Hx70VlqjSflG7RaXvNxJCaOB1fyMM2Z5gBTYi0oRYHbos66zXXoPbJNNNFtFvcrYdco8KCboVE8oqPJGQ0vSkZkD9CFETuuD5e2oTieadZ96pRXICA==",
+                "title": "mydatainsightspvtltd.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk6wYi4Qk5MoL63GSSd1eVMDFO116TdKkFNjQQvw8v8Lq4rkMfnG1HlcWXaWFkt9rj6J9gMSvQWgmKAG5TRl3P7CSQkz4HnfzgVLZ1i-tQuDJV_DGVKuM_ej55DlQ__h-oE0YsuztA72ZfARNdktWAE9Tt4OZuVV1yE8lUuQr0bKn0tFSgm_kYpnpllIscEQ_hSYRZp6v5dqhuSdzZ-1cxBT4niTJcyjofyi6bzTVlEN4E-FWNNFBmxBfQtaDwhUXWhyXfYqpX6VhaalCD0rpd",
+                "title": "service.gov.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrc2hvGG5fPg60z-DIZzJr1bFacMAxix7Fu1CNTv7TomlM3cQK5e5dzjehbsSRnNGpUNzjm-vPFKUZx0PgsI8ljVn0MCh6J83yaHEO4OZlgG5xsaJz8ynhpv-VVLy0VECBL9pBk2olmd1CtHoywZsBzoQuyTI0eLIDUD0PmVT8ZyM_GyjX",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ7W3M1bQgUJfZTrZk9cDvaEqim5IlyvjxnETRmjfe-d4NfWY9cvbuokiiE9OdtIXQ814qg03iP_lZe1X2rlRP4unvK8vQf027xoZfL_Xu9twk549gAxVP1YxxypGvZyihAB_-9Q==",
+                "title": "avanade.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4S_HEg9vUUqsZTyWE1vhsoO5Qrqa-vWY5sOEJgpx7CjcjvxDKs_1_E6XinfZ2nrBfvrIAmrI8qw3V98qWmJDRUzWxuJZm6HsZLZOOh5zSqNBkXBy0jjr7Suyl4eZ9d2LnJV02Xeyjq0oJOcI6",
+                "title": "fusion5.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL4ROxQ9-aM1Bur70QZe4tAB247MdkZJTyJOXYMETQz-VFCKYfB8qUk_IRB1rUW6Cjqh2Zt7a5223NDY-mK-4t1_Rsm9KE6tRDXs2kYfbklVCCCSuCFZJUy-8A2c7BwX8iIkPZlX8AWe9RI1ii43AGinkyY8Wo3ozeDG0=",
+                "title": "fusion5.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRNGhDdIEcTR22tGVzfyxhyLnhe_VnqbUGB7vecrpYrS-D3PatsdjLyBivcRaagUS65kooKRbyrsjGLp4fTgAHdprumsv6oH1FYAeG45nBJzNElwWuWYX0ngoGhTGTz6WYbqas23wx0yQvTnkRmQ9Ug6Dlm_kTClurZEYBp0L0ML4FdyEpwSOa5g==",
+                "title": "listcorp.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUjMgkiS0pc38EJNrWDt5B8AIsRFDDXgxlx3z9PwHcqOA0cgsNPM4bspDbu8HxsC4mDAUJcwtbZcRAyz70FjVPw-p0DoKkSlvlzdumZHyxUmIFaCYuYGlL9jVF50xFOWwZ305-JLNGzSzw2bucPXFQjx6KRZObRBVzOR-aQCYY",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvEFTwaEe4uT3R_QkG_mU0NeSyxWShjmzD0bb8W7wYI4zC4oQsfQBWSycYYRZ9aN3OVeKLWC171a493TiYQ5I6G0oobMdUGQ6LTWUHfnHZzsVQ5nz1sF-zwmUhm8QubWClhZx0xcb5wHmLDQfBcYeCTNjxQdicjuVWqH_BkP4=",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET02BKNJObNEaqCI05dKxngO3We8oiI3EcoB0ODEz5l2LIArZX9J-KHWsZGKZ7PSXv5idehpGgsPuLeTarqN0s8P0hfIYaMysWKcsZYyI2CBIZ5RfkcsnUIM604anlszEUsaeTN14ZkD70_4bSYvk6FIkl6UA-sA--u9bIziD0QTZpqok7Bvu27swHRHJLjS-de_pzwojtB6Un3cN5",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mt9ZtP-93katt8UFQN3ytWJI2n7ybnqlnfp9VdNfNUEMz_nECkz-Lj-dIXTSbbfZEPb3gMu8YtZNSlVXEMM9vRtEsCs10dsPGQ6D6It-CqCRwRNNSDWATiE4S9tp5dS3WiaWbEC9v2jbWEIhrvU0TtaDezCpUYQ4gPPRySJr-6gf1CqoHpNIbxCITE0s23Wj",
+                "title": "dpc.sa.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2d11G-ogxMZFIZn7kJasd78nzPIeZPm0B2lGghbhmKBQBUtH9FUp8Xl128YbfO2ETWr_eAXVMxg6AbSi34EBOttKTCp7C9qAn8wZZmHRR5XZb8KLWzN67RPyBsGCPXMFIdHfrhPlxqTa3SqNKVqLMCcYM0Wb6Ye-vcXJ419R4oi3ZCaKDKaKNIOTleX2yEVFSSAOVrgFMcFMAya6YLZbKGM1rUYtpVpkWrnnqnVWvYG0KTcGPS0Q=",
+                "title": "sahealth.sa.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7z5PFRot_5h1v5Lv9GfAruFWvCG6zN0UnLlBYBJE0DeUDpqkZoF2SuAmhzoLoKPhOvgUSfj7LZDl5qlmjOsyC6inKLdkLP3zJf862t2JZyaiolwJPUtngYERzglqF23E15GyR6BdrhrrIydbbr3XyymM_Ld0=",
+                "title": "officeexperts.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExYD3as9hioi2z0mFqLSna3XIbMMNyW5n4l0hIvDdmlOU3wgdPetU_rNqzBxhID3jsxGHDF1lKReYp4Wd7lUhkYVaelrg2MU1nt3vkO6uQ5BD-K1rCnOumD2j_DYsF1-FIMJaI2kkMihw=",
+                "title": "eagle360.consulting"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 242,
+                "endIndex": 431,
+                "text": "Projects typically require **offline sync capability, hardware barcode/RFID scanning, rugged device compatibility, real-time inventory reconciliation, and integration into ERP/WMS systems**"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 689,
+                "endIndex": 742,
+                "text": "**Location/Presence:** Adelaide office (Pirie Street)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 748,
+                "endIndex": 937,
+                "text": "**Strengths:** Velrada is widely regarded as one of Australia’s premier Microsoft Business Applications partners, particularly for asset-intensive, mining, utilities, and field operations"
+              },
+              "groundingChunkIndices": [
+                3,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 943,
+                "endIndex": 1121,
+                "text": "**Operational Fit:** Velrada excels in complex mobile inspection routines, work-order execution, and offline-first mobile apps leveraging Dataverse and Dynamics 365 Field Service"
+              },
+              "groundingChunkIndices": [
+                4,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1123,
+                "endIndex": 1221,
+                "text": "They are best suited for mid-market to enterprise-scale field and industrial workforce deployments"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1242,
+                "endIndex": 1299,
+                "text": "**Location/Presence:** Dedicated Adelaide office and team"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1305,
+                "endIndex": 1518,
+                "text": "**Strengths:** A dominant Microsoft Solutions Partner across Australia and New Zealand, known for bridging Microsoft Dynamics 365 (Business Central and Supply Chain Management) with custom Power Platform workflows"
+              },
+              "groundingChunkIndices": [
+                3,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1524,
+                "endIndex": 1792,
+                "text": "**Operational Fit:** If your shop-floor or warehouse app needs to interface directly with inventory ledgers, purchase orders, or shop-floor production schedules in an ERP, Fusion5 has deep domain knowledge in warehousing, discrete manufacturing, and supply chain logic"
+              },
+              "groundingChunkIndices": [
+                3,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1812,
+                "endIndex": 1899,
+                "text": "**Location/Presence:** Established Adelaide operations and large local consulting bench"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1905,
+                "endIndex": 2099,
+                "text": "**Strengths:** One of Australia’s largest Microsoft Business Applications partners, offering robust governance (Power Platform Center of Excellence), security, and scalable cloud architectures"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2105,
+                "endIndex": 2309,
+                "text": "**Operational Fit:** Best for larger organizations requiring governed Dataverse solutions with stringent data residency, role-based access control, and integration with Azure IoT or legacy backend systems"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2345,
+                "endIndex": 2393,
+                "text": "**Location/Presence:** Headquartered in Adelaide"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2399,
+                "endIndex": 2542,
+                "text": "**Strengths:** A prominent local digital consultancy deeply embedded in the South Australian government, infrastructure, and enterprise sectors"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2548,
+                "endIndex": 2663,
+                "text": "**Operational Fit:** Chamonix provides agile delivery for custom application development across the Microsoft stack"
+              },
+              "groundingChunkIndices": [
+                10,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2665,
+                "endIndex": 2826,
+                "text": "They are ideal if you want a local team to conduct on-site workshops, review physical workflows on the floor, and co-design tailored Canvas and Model-driven apps"
+              },
+              "groundingChunkIndices": [
+                8,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3122,
+                "endIndex": 3274,
+                "text": "**Focus:** Rapid turnaround of Canvas apps for tablet/phone form factors, mobile checklists, and offline data capture for sites with patchy connectivity"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3280,
+                "endIndex": 3408,
+                "text": "**Fit:** Practical, process-driven digitization replacing paper/clipboard audits, daily production run logs, and handover sheets"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3441,
+                "endIndex": 3573,
+                "text": "**Focus:** Mid-market operational Power Apps and Dataverse engineering connected directly to Microsoft Dynamics 365 Business Central"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3579,
+                "endIndex": 3745,
+                "text": "**Fit:** Warehouse cycle-counts, dispatch checklists, and manufacturing tracking where off-the-shelf ERP screens are too cumbersome for warehouse workers on handhelds"
+              },
+              "groundingChunkIndices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Fusion5\" Adelaide Power Apps Dataverse",
+            "Power Platform consultants Adelaide warehouse field shop floor",
+            "Microsoft Partner Power Platform Dataverse Adelaide",
+            "\"Data#3\" Adelaide Power Apps operational",
+            "\"Avanade\" OR \"Velrada\" Adelaide Power Apps field warehouse",
+            "Microsoft Power Apps consultancy Adelaide",
+            "\"Chamonix\" Adelaide \"Power Platform\" OR \"Power Apps\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 541,
+      "candidatesTokenCount": 1186,
+      "totalTokenCount": 3082,
+      "cachedContentTokenCount": 283,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 541
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 283
+        }
+      ],
+      "thoughtsTokenCount": 1355,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "jMbiapCWJ4yy694Pkb3XiQg"
+  }
+}

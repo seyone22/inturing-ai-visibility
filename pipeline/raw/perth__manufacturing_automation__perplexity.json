@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:27.646Z",
+  "cost": 0.006255,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 613,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005655,
+      "datetime": "2026-10-29 04:06:22 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Perth manufacturer wanting to **keep its ERP** while automating order handling, shop-floor capture, and operations, shortlist these consultants:\n\n- **Cohesis** — strongest manufacturing-oriented option. It is Perth-based, works with mid-market manufacturers, and offers Power Apps, API integration, Power BI, AI automation, and ERP/MRP advisory. Its focus on connecting systems rather than forcing a replacement makes it a good first conversation.[9]\n- **Ultron Developments** — a Perth/WA-focused Microsoft 365 and Power Platform specialist for Power Apps, Power Automate, Dataverse, Power BI, approvals, data capture, and integrations. It appears well suited to a staged pilot and practical workflow automation.[1][2]\n- **Alphavima Technologies** — a Microsoft Partner with Power Platform specialisation, offering Power Apps for inspections and inventory, Power Automate integrations with existing ERP and line-of-business systems, offline-capable apps, and production KPI reporting.[3][8]\n- **Sunrise Technologies** — worth considering if order processing and shop-floor work require deeper manufacturing, MES, IoT, supply-chain, or Dynamics integration. Its Perth presence and manufacturing capabilities include shop-floor automation, MES integration, sensor telemetry, dealer/retailer order processing, and Power Platform.[6]\n- **Avenue Group Australia** — Perth-based strategy-led Power Platform consultancy offering automation engineering, workflow automation, data synchronisation, and system integration. Consider it for a broader operations-transformation engagement.[4]\n- **Adark Cloud** — suitable for a smaller or tightly scoped engagement involving Power Automate, document processing, multi-system orchestration, Power Apps, and operational dashboards.[5]\n- **Monarch360** — an additional enterprise-oriented option for Power Apps, Power Automate, Power BI, and custom business applications, particularly if governance and large-organisation delivery experience are important.[7]\n\n## Recommended shortlist\n\nStart with **Cohesis, Ultron, and Alphavima** for initial discovery. Add **Sunrise Technologies** if the project includes machine data, MES, IoT, production scheduling, or complex supply-chain integration.\n\nAsk each firm to demonstrate:\n\n- ERP integration through APIs, standard connectors, middleware, or controlled RPA—not duplicated master data.\n- An operator-friendly Power App for barcode/QR scanning, job progress, quantities, downtime, quality checks, and offline use where needed.\n- Automated order intake, validation, acknowledgements, exception handling, and ERP updates.\n- Dataverse/security architecture, environment strategy, audit trails, and support ownership.\n- A phased pilot with measurable outcomes, such as order-processing time, data-entry errors, production-reporting latency, and operator adoption.\n\nThe strongest fit is likely a **Power Platform layer around the existing ERP**, with the ERP remaining the system of record and Power Apps, Power Automate, APIs, and Power BI handling workflow, capture, integration, and visibility.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultant Perth | Ultron Developments",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consultant Perth | Microsoft 365 Workflows",
+                  "url": "https://ultrondevelopments.com.au/power-automate-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Process Automation consulting in Perth, WA | Alphavima",
+                  "url": "https://alphavima.com/power-platform/process-automation-consulting-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Perth | BI, Automate & Apps",
+                  "url": "https://www.adarkcloud.com.au/services/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Certified Microsoft Partner for Business Applications in Australia",
+                  "url": "https://www.sunrisetechs.com/microsoft-partner-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Services Perth — Monarch360",
+                  "url": "https://www.monarch360.com.au/microsoft-power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Partner in Perth, WA - Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-platform-partner-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home",
+                  "url": "https://www.cohesis.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Development-in-Perth, WA",
+                  "url": "https://alphavima.com/power-platform/power-platform-development-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

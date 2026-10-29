@@ -1,0 +1,433 @@
+{
+  "slug": "newcastle",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:49.380Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Because **Newcastle** commonly refers to either **Newcastle upon Tyne (United Kingdom)** or **Newcastle, New South Wales (Australia)**—both of which have major industrial, manufacturing, and logistics hubs—the leading Microsoft Power Apps and Dataverse consultancies are broken down by region below.\n\n---\n\n### 1. Newcastle upon Tyne, UK (North East England)\n\nThe North East has a dense manufacturing, engineering, and logistics base, served by several Microsoft Solutions Partners specializing in Power Platform and Dataverse:\n\n*   **TSG (Technology Services Group)**  \n    *   **Location:** Headquartered in Newcastle upon Tyne (Quorum Park).  \n    *   **Specialty:** One of the UK’s premier Microsoft Solutions Partners for Business Applications. They specialize in architecting **Dataverse-backed Model-driven and Canvas apps** that integrate with Dynamics 365 Business Central and legacy ERP systems.  \n    *   **Operational Fit:** Well-suited for mid-market and enterprise implementations requiring field-service automation, inventory dispatch, and complex role-based access control.\n*   **Waterstons**  \n    *   **Location:** Durham / Newcastle region.  \n    *   **Specialty:** A business and technology consultancy with an explicit focus on **manufacturing, transport, and engineering operations**. They are renowned for avoiding \"cookie-cutter\" apps, focusing instead on robust data governance, Center of Excellence (CoE) frameworks, and integrating Dataverse with on-premises equipment or ERP databases.  \n    *   **Operational Fit:** Excellent for shop-floor tracking, quality assurance (QA) checklists, and factory-floor digital workflows.\n*   **Marra**  \n    *   **Location:** Newcastle Helix, Newcastle upon Tyne.  \n    *   **Specialty:** A dedicated low-code and digital transformation agency focused on Microsoft Power Platform (Power Apps, Power Pages, Dataverse, Power Automate).  \n    *   **Operational Fit:** Rapid deployment of bespoke mobile and tablet apps for inventory logging, request approvals, and field data capture.\n*   **INO Cloud Group**  \n    *   **Location:** Collingwood Street, Newcastle upon Tyne.  \n    *   **Specialty:** Focuses heavily on Microsoft Dynamics 365 Field Service, CRM, and custom Power Platform development.  \n    *   **Operational Fit:** Building companion field-worker applications that feed into back-office job scheduling and asset tracking.\n*   **Version 1**  \n    *   **Location:** Major delivery center in Newcastle upon Tyne.  \n    *   **Specialty:** Large-scale enterprise systems integrator with specialized Power Platform architects.  \n    *   **Operational Fit:** Best suited for high-volume logistics operations, utility field teams, and supply chains that require scalable Azure integrations and complex Dataverse data layers.\n\n---\n\n### 2. Newcastle, New South Wales (Hunter Region, Australia)\n\nThe Hunter Valley region’s mining, heavy transport, and manufacturing sectors rely heavily on frontline digital apps:\n\n*   **WorkflowIQ**  \n    *   **Location:** Newcastle, NSW.  \n    *   **Specialty:** Specializes directly in using the Microsoft 365 ecosystem and Power Platform (Power Apps, Power Automate) to eliminate paper processes and manual registers.  \n    *   **Operational Fit:** Highly experienced in operational field tools, including **pre-start checklists, asset test-and-tag apps, incident reporting, and HSEQ/ISO compliance registers** for field and workshop teams.\n*   **Forsythes Technology**  \n    *   **Location:** Newcastle, NSW.  \n    *   **Specialty:** One of the oldest and most established IT and digital transformation providers in the Hunter region.  \n    *   **Operational Fit:** Offers end-to-end Microsoft 365 and cloud architecture, frequently partnering with local industrial teams to replace legacy spreadsheets with connected operational tools.\n*   **Datacom (Newcastle Practice / Hunter Delivery)**  \n    *   **Location:** Newcastle, NSW.  \n    *   **Specialty:** Major Microsoft partner with local consultants specializing in Dynamics 365 Supply Chain Management (F&O), Dataverse dual-write, and Power Apps extensions.  \n    *   **Operational Fit:** Heavy industrial workflows, large warehouse management systems, and complex supply chain integrations.\n\n---\n\n### Key Capabilities to Demand from a Partner for Frontline/Operational Apps\n\nWhen vetting a partner for warehouse, shop-floor, or field use cases, ensure they have proven experience with:\n1. **Dataverse Offline Profiles:** Essential for field technicians or warehouse staff working in dead zones or steel-framed facilities with poor Wi-Fi/cellular connectivity.\n2. **Hardware/Peripheral Integration:** Native barcode/QR scanning, NFC scanning, Bluetooth scale/caliper readings, and high-resolution photo capture with timestamps and GPS tagging.\n3. **Canvas vs. Model-Driven Architecture:** Creating simplified, ruggedized **Canvas Apps** with large tap targets for gloved shop-floor workers, paired with structured **Model-Driven Apps** on Dataverse for dispatchers and warehouse managers.\n4. **Licensing Optimization:** Knowledge of Power Apps *Per App* vs. *Per User* licensing, or leveraging Dataverse capacity efficiently to avoid unexpected monthly licensing surges.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+consultants+Newcastle+upon+Tyne&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps consultants Newcastle upon Tyne</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Apps%22+Dataverse+consultancy+%22Newcastle%22+NSW&client=app-vertex-grounding&safesearch=active\">&quot;Power Apps&quot; Dataverse consultancy &quot;Newcastle&quot; NSW</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22TSG%22+%22Power+Apps%22+%22Newcastle%22+OR+%22Dataverse%22&client=app-vertex-grounding&safesearch=active\">&quot;TSG&quot; &quot;Power Apps&quot; &quot;Newcastle&quot; OR &quot;Dataverse&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Waterstons%22+%22Power+Apps%22+OR+%22Power+Platform%22+manufacturing&client=app-vertex-grounding&safesearch=active\">&quot;Waterstons&quot; &quot;Power Apps&quot; OR &quot;Power Platform&quot; manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Apps%22+Dataverse+consultancy+%22Newcastle%22+UK&client=app-vertex-grounding&safesearch=active\">&quot;Power Apps&quot; Dataverse consultancy &quot;Newcastle&quot; UK</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Apps%22+%22Newcastle+upon+Tyne%22+manufacturing+OR+warehouse+OR+operational+OR+%22field+service%22&client=app-vertex-grounding&safesearch=active\">&quot;Power Apps&quot; &quot;Newcastle upon Tyne&quot; manufacturing OR warehouse OR operational OR &quot;field service&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Newcastle%22+%22Power+Apps%22+partner+North+East+manufacturing&client=app-vertex-grounding&safesearch=active\">&quot;Newcastle&quot; &quot;Power Apps&quot; partner North East manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+consultants+Newcastle+NSW&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps consultants Newcastle NSW</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22WorkflowIQ%22+Newcastle+Power+Apps&client=app-vertex-grounding&safesearch=active\">&quot;WorkflowIQ&quot; Newcastle Power Apps</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO-MTVxYMOdSC9munx4ZsdQQ1ieE242LF2VZB1eEcbTFKqG_-nsdN__VYJv-0Og2kj8TOyg3ww8ULUHMGx61hhns4hKl7bIByDRlC1jPQ5EOyt-_IpUuAUrUvG4MEBKrbclSP3ft9DO9Jm0fWQNJaBtxpImHHJSM1tV4y0qUHGhA-Tr6BXTHGfeVNl3qg=",
+                "title": "tsg.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrs5XUO4RyxOu0hdwVNTif_vchQzw3LsXXs2M_nJHlK29WrmEfhH_Ix9x5OXWcYC1fBD2pHxyRWuJWsUYIYrhuU0V2voCvEn9-LfTN254ODqraDb_ti2kZ7kgIB_Z-u5X-wI24EUUH0fL2LAq7JKA-wsJW8LJZGxUUA==",
+                "title": "tsg.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExoLIAKftpcPomxUivqhO3UkpQjBZOFOfrlviuNhfWLUVm1FA5EJAKZMZto0XmtTOf8ZBAVeA9cnKaggkCeWyIQTniAk17JkuTC7zTlEHN8mrD-CWV9_X-FIhth--dHeRZU9p4eESoTXhbLHcsSHa-gIue0vIjWHw=",
+                "title": "tsg.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGD6CJ2U1uJnPU47GNyZdH1BIfB3sZVTFglyaZd51IWJj8H7HHjbmrMAMCt2yZxUH4Ki7GjPE7GSdEUnv0hvCbJSounUf1rkGsRMzj0M50eeofeMvb9vJ0dASVNM-ChBvHwZxRwFBAGK4HO5Qk7FPLbX7k_Rgh3tdhREWxaV0_",
+                "title": "housing-technology.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ROLMyClaKKkXDOZcZAcaARd--V4WIlKWuG5ZkRhl4SWWRkRctMBq5MGd5ij5sbCMUTefdtNJq5IEy6DMorqmHf_Eay8-o0XJsT5LbToglkGThlG1CrJv2GhT9Q-AAop5a4E0QmeOv_YBwRHJ6hYjXg_nqs_IThRXDGA=",
+                "title": "totaljobs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoxPNRPNYwzNXeOQJzuehnaL84RJA4XS1ZhHnsZRgHJoXkEy3sIKynfBVUh7o26dGJLQZZmvCKQcZkT5KA9I4Wr9lypvxqPEsqXfnI2uwk5Inus2j_0kkSoyewiipae6J9EQ530ZI2gnG41_kBtY_SO2S-4HR4baN0",
+                "title": "indeed.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYV3d63vaieaf3893QId9nu9kLKOx3pS35d0U6FN2Wt0wVUbW4ZkPXnIV5FAnFMVU92qny4JhXcw1VU8X9mSVKKVxs-tz19iURUxDFjV_BN7zv5VxTb4dIe1HSX2itQv92t4zYKIXmDyZB1FTUGoxRmp0t_vIDao8EVB7rycwGZKMXTTY7n5q0v7rX_gpff9GcoVT6lsFb6ICxXElwH3zYs49O3FdWjCGzlwYA1lDUc3tUg0zINVC5iVjazP8=",
+                "title": "jobleads.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL-U77autXg-w1ZtovO9hLPcaUDrK5f62nRvGThh3Cu42hy-20pc-8P-KSac65VnJOuC8vyB0G9ZjH6E3GF1dMHco5LB_5rXbcryntjwSFt5vZ11aZOq6_LyVb_yAjBMvFCaDBxbyCgzABJS-9YZAb_TngPHCJ2oMY0_hSQ0M=",
+                "title": "emn.org.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZQpNgPDZGnkSqxFFudlbCSyuMDgBmjNaSLaQ1l9qZ64vzB4BEul612GY4cwrBs8Sg381FEHx6g7igPK_ftHvBkZzMId2Xaapx-KlaOdwkFbrRuf6u6jACKcT86Q1XAI6dH64OYpif5CSl557L1-wYSXaIYKgUoQKMi7Auz7QxaBZEsqRoTpkti2E1Z49Yuigog3ItjDnpFOAfNUCPqsc=",
+                "title": "waterstons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETmwezzPOS8V0zdRC0vpQfvGf1omX0HW-5w7W9U5bDLNd81cipnqDE3gXIWt6kp1QnFA0rWogmFT8qSyqfVJ9T7Gog4v_DreaqsfRVOeK5gMAvDO45ZD1U91OFh9KoHnI4-lT8m3Y0Ib24PV4=",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMapmNHxwscPVM8fIuLLI7fGVomvsdENfZfr_rdao1ZSDY7JNG42n6X4uh4Uq1FvIyHALX129etiX_nGR54XBHfaYm3fS3z9EhtCk7u-JvxVBVa6QGRQR10xnMFFBARM9Oy8Y98f9XAoIra1YMTw==",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsQ08fEJDdQSm8wl15BvllCQZHck6M12CsUsyg_nlZL5DJA7nUU4yl8DY3oNL8ahnHNgOVd8flWtVbYZb_LcR_7TMIjXB9V9d7o1WL8jhnn4a8nbS_9QfYapyMLkd8MYc=",
+                "title": "inocloudgroup.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmMtloWFGx_MjzBbjjMZM8dG5p8QacywhLP9ctmgwowkG-GqcxvUpahs-2uD3Ub0UNzOte85BFBW7QcT4hkviCi__GGZJsdUize3PAIFx85byEz0q8ila2-88E1ZbaGTem",
+                "title": "inocloudgroup.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeBQM7cJawWAL-HwbzgmezWKivs_1Np52r2-YpzdBRWl5tv7Hpk-3twTNC0jLsqbn3Ti_D63vSQMTIFY6zg61Cf0rT6j48SI_HGr1uoZcSY7cdrQKpDAOIbcMMXIwExNHNwG3SNyfcwWSrrbujCtLwNeaA4doo_9Ub95vOBCbs7g73BhR09vQur4gvyYvMAhUEtz6oZfWmjbEcMB7rqw==",
+                "title": "wearedevelopers.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiig4HfgEyBTuOC3VL8-LLssSL9vmzJ3J4DlWW7p0uKmsFURh94gLJglVN96iyQ6n6ON9rmBhjJNDn3pAwQKwZbwTEerGG_8qb8F1ggsYF-MGUQ5djrMpiJQqvA5X0nJFyPdg5UbHuKjDburW_fCYjgwNxs-mKVNU6JiBOfPHELKj3y72MGbQXi5easJRnKg3H09JRhg==",
+                "title": "studysmarter.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyIvPOUJK7h5LVCp0C3RE6AqAuTEbWeSXW6wK-5My_HfYZLsAqTpV8vvj_7Aiqbyudl8RAUnPePASl41KnAXn8MoEJW_ZcfLpOhKe7DNixdXw3CRWGQ4sumtb7ZrZecJdlqBYjmdVOSVYwyMecOSGCtpqEQcAQDUfC",
+                "title": "certbetter.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAd-RYw6gtv_K5QzLVvPXcPMnyrCXBGgyhMUh9tWJFEW08eccRn0Iw4cZHdU097xSgIu1j9eDX5z-pwCZMYu7bEMhJDmmIGPDMoAEab3ls00OUQsku",
+                "title": "prospeo.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-EcRkuFhE1-Ss5Xw00mRDM-QOzPab9OAcxG5__aIQs8CwPq1Ta9ArECnd5e63x7WAqm_pXHaev5JS4TZPtgfwbGSQWb_J6F266EZXkSyMR97Vp1qzI9Dq89sxyXV1ShG2",
+                "title": "youtube.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDT-QUHiP03KBmtqpiHdFWJNoWTqwvJgg3GPS8seKNMQxq7aSMmb0GnKYmKcGwMCPPcOr5XmcuCf4dHx6eCztnxRVv0Cs4hSI8Ni862N_xhfp5QKzBjZO3QGrvVbqjrceg7cn8BeX3X6oPOc6VBOwF8H58Z5RB4ol1YRjZQbIkwowhy-7n34bhlg-qXNs=",
+                "title": "bespoke.tech"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_gNUni7WfeMuxSKwsZgJyiSqkvokfMH8eLSZs7jqMQ8TSTvrAJTnEmCkb-X6JV_XlodYmj34hwcTJ61ElgsZ7eBokmT_PUQnrlV7JFcQ-tXLh3Fg4AQCt_ZrtOrcYQt5FE3E0wJE=",
+                "title": "talent.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 582,
+                "endIndex": 646,
+                "text": "**Location:** Headquartered in Newcastle upon Tyne (Quorum Park)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 658,
+                "endIndex": 753,
+                "text": "**Specialty:** One of the UK’s premier Microsoft Solutions Partners for Business Applications"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 755,
+                "endIndex": 909,
+                "text": "They specialize in architecting **Dataverse-backed Model-driven and Canvas apps** that integrate with Dynamics 365 Business Central and legacy ERP systems"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1124,
+                "endIndex": 1163,
+                "text": "**Location:** Durham / Newcastle region"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1175,
+                "endIndex": 1310,
+                "text": "**Specialty:** A business and technology consultancy with an explicit focus on **manufacturing, transport, and engineering operations**"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1312,
+                "endIndex": 1517,
+                "text": "They are renowned for avoiding \"cookie-cutter\" apps, focusing instead on robust data governance, Center of Excellence (CoE) frameworks, and integrating Dataverse with on-premises equipment or ERP databases"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1681,
+                "endIndex": 1731,
+                "text": "**Location:** Newcastle Helix, Newcastle upon Tyne"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1743,
+                "endIndex": 1901,
+                "text": "**Specialty:** A dedicated low-code and digital transformation agency focused on Microsoft Power Platform (Power Apps, Power Pages, Dataverse, Power Automate)"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1913,
+                "endIndex": 2049,
+                "text": "**Operational Fit:** Rapid deployment of bespoke mobile and tablet apps for inventory logging, request approvals, and field data capture"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2085,
+                "endIndex": 2138,
+                "text": "**Location:** Collingwood Street, Newcastle upon Tyne"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2150,
+                "endIndex": 2264,
+                "text": "**Specialty:** Focuses heavily on Microsoft Dynamics 365 Field Service, CRM, and custom Power Platform development"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2276,
+                "endIndex": 2402,
+                "text": "**Operational Fit:** Building companion field-worker applications that feed into back-office job scheduling and asset tracking"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2432,
+                "endIndex": 2490,
+                "text": "**Location:** Major delivery center in Newcastle upon Tyne"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2502,
+                "endIndex": 2601,
+                "text": "**Specialty:** Large-scale enterprise systems integrator with specialized Power Platform architects"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2613,
+                "endIndex": 2797,
+                "text": "**Operational Fit:** Best suited for high-volume logistics operations, utility field teams, and supply chains that require scalable Azure integrations and complex Dataverse data layers"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3017,
+                "endIndex": 3045,
+                "text": "**Location:** Newcastle, NSW"
+              },
+              "groundingChunkIndices": [
+                15,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3057,
+                "endIndex": 3227,
+                "text": "**Specialty:** Specializes directly in using the Microsoft 365 ecosystem and Power Platform (Power Apps, Power Automate) to eliminate paper processes and manual registers"
+              },
+              "groundingChunkIndices": [
+                15,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3239,
+                "endIndex": 3450,
+                "text": "**Operational Fit:** Highly experienced in operational field tools, including **pre-start checklists, asset test-and-tag apps, incident reporting, and HSEQ/ISO compliance registers** for field and workshop teams"
+              },
+              "groundingChunkIndices": [
+                15,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3491,
+                "endIndex": 3519,
+                "text": "**Location:** Newcastle, NSW"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3531,
+                "endIndex": 3645,
+                "text": "**Specialty:** One of the oldest and most established IT and digital transformation providers in the Hunter region"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3914,
+                "endIndex": 3942,
+                "text": "**Location:** Newcastle, NSW"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3954,
+                "endIndex": 4123,
+                "text": "**Specialty:** Major Microsoft partner with local consultants specializing in Dynamics 365 Supply Chain Management (F&O), Dataverse dual-write, and Power Apps extensions"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4135,
+                "endIndex": 4257,
+                "text": "**Operational Fit:** Heavy industrial workflows, large warehouse management systems, and complex supply chain integrations"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Power Apps consultants Newcastle upon Tyne",
+            "\"Power Apps\" Dataverse consultancy \"Newcastle\" NSW",
+            "\"TSG\" \"Power Apps\" \"Newcastle\" OR \"Dataverse\"",
+            "\"Waterstons\" \"Power Apps\" OR \"Power Platform\" manufacturing",
+            "\"Power Apps\" Dataverse consultancy \"Newcastle\" UK",
+            "\"Power Apps\" \"Newcastle upon Tyne\" manufacturing OR warehouse OR operational OR \"field service\"",
+            "\"Newcastle\" \"Power Apps\" partner North East manufacturing",
+            "Microsoft Power Apps consultants Newcastle NSW",
+            "\"WorkflowIQ\" Newcastle Power Apps"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 746,
+      "candidatesTokenCount": 1350,
+      "totalTokenCount": 3680,
+      "cachedContentTokenCount": 460,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 746
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 460
+        }
+      ],
+      "thoughtsTokenCount": 1584,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "HcfiatjjF-_M694P5uurkAU"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Newcastle are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:17.218Z",
+  "cost": 0.006071,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 436,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005471,
+      "datetime": "2026-10-29 04:10:12 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Newcastle business, the strongest shortlist is **Cloud Factory**, **Leverage Technologies**, **OneKloudX**, and **Symsafe**. None of the search results proves that all four have Newcastle offices, so confirm local availability, onsite support, and relevant references before appointing one.\n\n- **Cloud Factory — best overall ERP integration fit.** It works with **MYOB Acumatica, SAP Business One, and Microsoft Dynamics 365**, and designs integrations between ERP, CRM, e-commerce, warehouse, EDI, reporting, and analytics systems. This is the clearest match for a multi-system integration project.[1]\n- **Leverage Technologies — best for SAP/MYOB/CRM consulting.** It integrates CRM and ERP data and has expertise across **SAP, MYOB, Sage, and CRM platforms**, with Australia-wide service capability.[2]\n- **OneKloudX — best for API and middleware-led integration.** It specifically supports **MYOB Acumatica** integrations with CRM, e-commerce, payroll, banking, and warehouse systems, and also lists **SAP** and Microsoft platforms among supported ERPs.[3]\n- **Symsafe — best where Microsoft 365 is central.** Its integration work includes connecting business systems to **Microsoft 365** using APIs, Power Automate, and custom middleware; it also has Microsoft-certified and ERP specialists.[4]\n- **Bright Labs — best for custom digital/API integration.** It connects SAP, MYOB, CRM platforms such as Salesforce and HubSpot, websites, mobile apps, and legacy systems, making it suitable where standard connectors are insufficient.[5]\n\n**Recommended selection approach:** ask each provider to demonstrate a proposed architecture for ERP–CRM–MYOB Acumatica–SAP–Microsoft 365, identify the system of record for customers/products/finance, explain their integration platform and monitoring approach, and provide two comparable Australian references. For a single lead provider, **Cloud Factory** is the best initial contact; add **Symsafe** if Microsoft 365 and Power Automate are especially important.",
+              "annotations": [
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CRM ERP Solutions and Software for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/crm/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica Cloud ERP | NZ Implementation Partner - PMS",
+                  "url": "https://pms.co.nz/acumatica",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.zeabyte.co.nz › integrationsSystem & ERP Integrations — We Connect Anything | Zeabyte NZ",
+                  "url": "https://www.zeabyte.co.nz/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.brightlabs.com.au › services › crm-erp-integrationCRM & ERP integration | Bright Labs",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Custom Development & Integration",
+                  "url": "https://symsafe.com.au/services/dev-integration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Partners | Weka Online",
+                  "url": "https://www.wekaonline.com/partners/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Crossfire & Endeavour: MYOB & Dynamics NAV Integration",
+                  "url": "https://crossfireintegration.com/resources/partners/endeavour-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica Distribution ERP Australia - Cloud Factory",
+                  "url": "https://www.cloudfactory.co/solutions/erp/myob-acumatica/distribution",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

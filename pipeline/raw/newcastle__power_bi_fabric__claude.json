@@ -1,0 +1,225 @@
+{
+  "slug": "newcastle",
+  "pk": "power_bi_fabric",
+  "plat": "claude",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Newcastle for operational reporting and data warehousing?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_bi_fabric__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:56.203Z",
+  "cost": 0.061594,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10908,
+      "output_tokens": 1218,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060994,
+      "datetime": "2026-10-29 04:10:51 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results, I was able to identify some relevant consultancies — including one that specifically specialises in Power BI and Microsoft Fabric in the UK. Here's what I found:\n\n---\n\n## 🏆 Top Microsoft Power BI & Microsoft Fabric Analytics Consultants (Newcastle & UK-Based)\n\n### 1. 🥇 **Databert** *(UK-Based, Remote-Friendly — Highly Relevant for Newcastle)*\n**Website:** [databert.co.uk](https://databert.co.uk)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Databert is a data analytics and reporting consultancy specialising in Microsoft Power BI and Microsoft Fabric, building data models, pipelines, and dashboards built to be trusted.",
+              "annotations": [
+                {
+                  "title": "Databert · Power BI & Microsoft Fabric Consultancy",
+                  "url": "https://databert.co.uk/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build Power BI and Microsoft Fabric reporting that people trust enough to actually make decisions with, and operate as an independent consultancy with remote-friendly engagements",
+              "annotations": [
+                {
+                  "title": "Databert · Power BI & Microsoft Fabric Consultancy",
+                  "url": "https://databert.co.uk/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them well-suited for Newcastle-based clients.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Power BI consulting & development (models, measures, and dashboards) as well as data warehousing & pipelines — reliable pipelines that move and shape data so your models don't have to.",
+              "annotations": [
+                {
+                  "title": "Databert · Power BI & Microsoft Fabric Consultancy",
+                  "url": "https://databert.co.uk/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Databert · Power BI & Microsoft Fabric Consultancy",
+                  "url": "https://databert.co.uk/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🥈 **Exist BI** *(Global, with UK Cabinet Office & Newcastle United as References)*\n**Website:** [existbi.com](https://www.existbi.com)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in modern cloud data warehouse architecture, dimensional modelling, lakehouse design, performance optimisation, and enterprise-grade governance frameworks.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Services",
+                  "url": "https://www.existbi.com/technology/microsoft-data-management-cloud-consulting-services/microsoft-fabric-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their reference projects include notable clients such as **Newcastle United**, Sony, Disney, the UK Cabinet Office, and the US Air Force",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Services",
+                  "url": "https://www.existbi.com/technology/microsoft-data-management-cloud-consulting-services/microsoft-fabric-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — demonstrating strong credibility in the region.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft Fabric services cover the full lifecycle, including data ingestion, integration and transformation, data engineering pipelines, lakehouse and warehouse builds, real-time analytics enablement, and integration with Power BI for enterprise reporting and self-service analytics.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Services",
+                  "url": "https://www.existbi.com/technology/microsoft-data-management-cloud-consulting-services/microsoft-fabric-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🥉 **The Virtual Forge** *(UK-Based)*\n**Website:** [thevirtualforge.com](https://www.thevirtualforge.com)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Fabric is Microsoft's latest innovation, and The Virtual Forge works with this all-in-one, tightly integrated analytics platform that encompasses ETL pipelines, data warehousing, AI capabilities, and visualisation via Power BI in a single scalable package.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power BI Consulting Services",
+                  "url": "https://www.thevirtualforge.com/services/ai-and-data/power-bi-consulting-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their experienced business intelligence consultants provide expert assistance in planning analytics consulting, integration, implementation, dashboard design, QA, and training — including data warehousing as a core offering.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power BI Consulting Services",
+                  "url": "https://www.thevirtualforge.com/services/ai-and-data/power-bi-consulting-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Kanerika** *(Global, Microsoft Featured Partner)*\n**Website:** [kanerika.com](https://kanerika.com)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Microsoft MVPs and Fabric Superusers lead their team, and they are a Microsoft Fabric Featured Partner and a Microsoft Solutions Partner for Data and AI with the Analytics specialisation.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Services",
+                  "url": "https://kanerika.com/technology/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft Fabric consultants have built Lakehouse architectures, migrated Informatica and SSIS workloads, configured OneLake governance, and delivered Power BI reporting at enterprise scale.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Services",
+                  "url": "https://kanerika.com/technology/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Consultant in Newcastle:\n\n| Factor | What to Look For |\n|---|---|\n| **Certifications** | Microsoft PL-300 (Power BI) & DP-600 (Fabric Analytics Engineer) |\n| **Local Presence** | Remote-friendly or Newcastle/North East office |\n| **Specialisations** | Operational reporting, data warehousing, ETL pipelines |\n| **References** | UK-based client case studies |\n| **Partnership Tier** | Microsoft Solutions Partner status |\n\n> **Recommendation:** For Newcastle specifically, **Databert** is the most directly relevant as a UK-based, remote-friendly specialist in Power BI and Microsoft Fabric. **Exist BI** is also worth contacting given their proven work with Newcastle United and the UK Cabinet Office. I'd recommend reaching out to both for an initial consultation to assess fit for your operational reporting and data warehousing needs.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power BI Fabric analytics consultants Newcastle operational reporting data warehousing",
+        "top Power BI Microsoft Fabric consultants Newcastle UK"
+      ]
+    }
+  ]
+}

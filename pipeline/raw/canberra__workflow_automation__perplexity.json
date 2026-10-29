@@ -1,0 +1,106 @@
+{
+  "slug": "canberra",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Canberra are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:46.435Z",
+  "cost": 0.006187,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 562,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005587,
+      "datetime": "2026-10-29 04:08:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Canberra organisations seeking **business workflow automation and Microsoft Power Automate implementation**, the strongest shortlist is:\n\n- **Cosmic Tech — best for government and enterprise.** Canberra-focused, with experience across Dynamics 365, Power Platform, Power Automate, Microsoft 365, external APIs, governance and secure business applications.[5]\n- **OfficePro Consulting — best for practical Microsoft 365 process automation.** Offers Power Apps, Power Automate, role-based access, integrations, custom connectors, error handling, monitoring and governance suited to regulated ACT environments.[1]\n- **Power Platform Experts — best for a broad Power Platform implementation.** Provides Microsoft-certified consultants for Power Automate, Power Apps, Power BI and Power Pages, including workflow optimisation, implementation, support and training.[3]\n- **A1 Technologies — best for structured discovery-to-delivery projects.** Its approach covers assessment, planning, workflow design, implementation and integrations ranging from simple automations to complex multi-stage processes.[4]\n- **Report Simple — best for Power Apps-led workflow modernisation.** Strong fit where automation involves bespoke apps, SharePoint, SQL, third-party APIs, Power Automate and Power BI, with emphasis on governance and scalability.[6]\n- **Evocate — best for complex automation and RPA.** Supports Power Automate cloud and desktop flows, process discovery, document processing, legacy-system integration, governance, training and managed services.[7][8]\n- **Ultron Developments — best for a full Microsoft solution delivered remotely.** Covers Power Apps, Power Automate, Dataverse, Power BI, SharePoint, Microsoft 365, integrations and ongoing support; it is based in Perth but serves organisations nationally.[2]\n\n### Recommended choice by situation\n\n| Requirement | Best starting points |\n|---|---|\n| Federal government, security and governance | Cosmic Tech, OfficePro Consulting |\n| Approval flows, forms, notifications and Microsoft 365 | OfficePro Consulting, A1 Technologies |\n| Power Apps plus Power Automate implementation | Power Platform Experts, Report Simple, Ultron |\n| Desktop automation, RPA or legacy systems | Evocate |\n| End-to-end Power Platform architecture | Ultron, Cosmic Tech |\n| Local Canberra delivery | Cosmic Tech, OfficePro Consulting, Power Platform Experts |\n\nBefore selecting a provider, ask for examples involving your specific systems—such as SharePoint, Teams, Dynamics 365, SQL, SAP, Salesforce or government platforms—and require a written scope covering licensing, environment strategy, security roles, deployment/ALM, monitoring, documentation, training and post-launch support. Claims such as “best” are largely marketing-based, so reference checks and a short paid discovery workshop are more reliable than rankings.",
+              "annotations": [
+                {
+                  "title": "Business Process Automation Canberra | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/service-area/canberra/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting Australia | Ultron",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Canberra",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Automate Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Solutions",
+                  "url": "https://www.cosmictech.com.au/solutions",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting Canberra | Report Simple Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "RPA - Robotic Process Automation Australia - Evocate",
+                  "url": "https://www.evocate.com.au/cloud-consulting/rpa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consulting Australia - Evocate",
+                  "url": "https://www.evocate.com.au/cloud-consulting/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best AI Business Automation Companies in Canberra (2026)",
+                  "url": "https://www.cipherprojects.com/guides/australia/canberra/best-ai-business-automation-companies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Development Company in Canberra, Australia",
+                  "url": "https://www.ascenwork.com/microsoft-software/powerapps-application-services-and-development-company-in-canberra-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Hobart? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:50.294Z",
+  "cost": 0.00625,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 617,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00565,
+      "datetime": "2026-10-29 04:10:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest **Hobart-based shortlist** is currently **FutureAbility** and **The Quill Consultancy**. For larger or more complex projects, consider national Microsoft specialists that can deliver remotely in Tasmania, particularly **SSW**, **The Missing Link**, and **Professional Advantage**.\n\n- **FutureAbility Pty Ltd — best local specialist**\n  - Hobart-based Microsoft Power Platform and Copilot Studio consultancy.\n  - Focuses on Power Apps, automated workflows and AI agents built inside the client’s Microsoft tenant.\n  - Appears particularly suitable for mid-market organisations wanting a local partner and modern automation capability.[3]\n\n- **The Quill Consultancy — best small local option to investigate**\n  - Hobart-headquartered consultancy listed among Australian Power Platform developers.\n  - Its smaller reported size may suit organisations seeking direct senior-consultant access rather than a large delivery team.\n  - Public evidence of its specific Power Platform project history is limited, so request case studies and Microsoft credentials before appointing it.[4]\n\n- **SSW — best for deep Microsoft engineering expertise**\n  - Has delivered Microsoft solutions for more than 1,000 clients across 15 countries.\n  - Its team includes Microsoft-certified consultants, MVPs and a Microsoft Regional Director.\n  - A strong choice for complex Power Apps, Power Automate, Power BI, Dataverse or Dynamics 365 work, although it is not Hobart-based.[2]\n\n- **The Missing Link — best for end-to-end implementation and support**\n  - Delivers Power Apps, Power Automate and Power BI through a structured discovery, design and build process.\n  - Can integrate solutions with APIs, third-party applications and Dataverse.\n  - Its 180-plus local experts and Microsoft Solutions Partner status make it better suited to larger implementations, governance and ongoing support than a very small consultancy.[1]\n\n- **Professional Advantage — best for Microsoft ecosystem integration**\n  - Provides Power Platform consulting alongside Dynamics 365, Teams, SharePoint and Power BI.\n  - Identifies as a Microsoft Solutions Partner for Modern Work and a Tier 1 Cloud Solution Provider.\n  - Worth considering where Power Platform is part of a broader Microsoft licensing, cloud or business-applications programme.[10]\n\n## Recommended choice\n\n- Choose **FutureAbility** first if local Hobart presence, Power Apps, workflow automation or Copilot Studio are the priorities.\n- Shortlist **SSW** or **The Missing Link** for a large, highly integrated or technically demanding programme.\n- Choose **Professional Advantage** when licensing, Microsoft 365, Dynamics 365 and Power Platform need to be managed together.\n- Treat **The Quill Consultancy** as a promising local alternative, but validate its delivery track record directly.\n\nBefore selecting a partner, ask for two comparable references, named Power Platform certifications or specialisations, a proposed governance model for environments and Dataverse, and a fixed discovery phase. Microsoft also recommends using its partner directory/AppSource and filtering by capabilities, specialisations and solution designations.[7]",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting | The Missing Link",
+                  "url": "https://www.themissinglink.com.au/power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Service Directory",
+                  "url": "https://www.tasict.com.au/service-directory/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform developers based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-developers/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://agerbi.com.au/microsoft-power-platform-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/power-platform-consulting-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-code partners",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.codertrove.com/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Partners | Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-bi/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting - Professional Advantage",
+                  "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

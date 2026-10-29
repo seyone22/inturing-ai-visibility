@@ -1,0 +1,782 @@
+{
+  "slug": "brisbane",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:35.226Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Brisbane%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:05:29 +00:00",
+      "markdown": "For a Brisbane manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d shortlist consultants who combine Microsoft Power Platform skills with real operational and systems-integration experience.\n\nThe key is to connect your existing ERP to Power Automate workflows, Power Apps for factory-floor data capture, and Power BI for operational visibility — while keeping the ERP as the system of record.\n\n## My recommended shortlist\n\n![AI Strategy to Deployed Solutions — For ASX Companies & Australian SMBs | InTune AI](https://images.openai.com/static-rsc-4/Lci14plltiqlDMOpEAORdWkkUfyJDx1il-Wj1A3klVKIkrxsCwq_EDGtN25tntimOoeJLJrEXENN3ZbeZUe5D-oCbvV_fhdDdmPPOnpoQzYRqexaTH7U9wUfbsPTB266-Lljl9mGfcEcXK7Q9_svsDTsJfEDroSicwKLv3gXUrknCTl4zRgtHGZ7lXGXJFJb?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing focuses on manufacturing and operations automation using Power Platform, with explicit support for existing ERP, MES and PLM systems. Its scope includes order processing, document extraction, shop-floor apps, approvals and reporting. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)\n\n**Why speak to them\\:** They have a published manufacturing case study involving automated order-to-invoice processing across Acumatica, SAP Ariba and SharePoint, with a reported reduction of more than 90% in processing time. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)[www.awlabs.com.au](https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate a similar integration with our specific ERP, including error handling and human approval for exceptions?\n\n---\n\n![AI Builder + Power Automate: identity information management](https://images.openai.com/static-rsc-4/wmFIxTOt0sIMnXVAPyKcxg9uc373E9ZIvaQlv2pLdEvQQEm4QGRYy7M7N-mbCBBFxSB365-Y-_HViRsqYmuGSIvWdKr_4jTinKaA18Vp3T-LyNioNV1_IeP38pFmrHmZlB8jiw3v5F8HGr4R4Np0KspnUP94KCWLCyA6WOTFJ2YW6d5MClUSslpCTccWMoX4?purpose=fullsize)\n\n## 2\\. Secure Minded\n\nWebsite: [secureminded.au](https://secureminded.au/)\n\nA Brisbane-based consultancy offering Power Automate, Power Apps, AI integration, business-process improvement and Power BI. Its published examples include custom applications for stock visibility and automation for a logistics operator. [secureminded.au](https://secureminded.au/?utm_source=chatgpt.com)[www.secureminded.au](https://www.secureminded.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A local team to consider if you want practical workflow improvements, better stock visibility and dashboards without embarking on a major transformation program.\n\n**Ask them\\:** What manufacturing projects have you delivered involving production-job tracking, quality records or machine-side data capture?\n\n---\n\n![Strategix - Verosoft Partner — Verosoft](https://images.openai.com/static-rsc-4/cpMLffNMjd7JvV_3POZ6DHgMvw4mDefTgsYwvgSP7IQ5PJiG2ysEhxT5K-Cng9HHgYzR6ssPFgtzES-qw9_Y2aeqIGVdZinNGVGzbRtFx8pdXdNvvVl6sUo4ubh6Uei8knBQA2Iv-EY8i94fDk3sJXhr7VtuPNsJ1bCKMiSw6ll3Kx3b0eIgc1aClPfcnlU4?purpose=fullsize)\n\n## 3\\. Strategik\n\nWebsite: [strategik.com.au](https://www.strategik.com.au/)\n\nA Brisbane consultancy focused on Power Platform applications, Power BI, ERP data and operational reporting. It positions its services around filling gaps in existing systems rather than forcing another platform into the business. [www.strategik.com.au](https://www.strategik.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** Particularly relevant if your ERP is adequate but your team relies on spreadsheets, manual reports and disconnected operational information.\n\n**Ask them\\:** Can you build transactional apps and write validated production data back into our ERP, or is your focus primarily analytics and reporting?\n\n---\n\n![SYC | South Australia](https://images.openai.com/static-rsc-4/hzoE3YaUaWJmZ6SU8S7mcYhxj6_ujxumOhHAwrSocm6QReJO5FDkJzz4fTm57JQUOYb6Ml5DOKf5_PbUKyoiwqoKlRfoDTqRkw0s_xavDyZSWozKvnR0h2juE2ZxmqVF_QG13LkamQp5O_pHDZ50g89Ni5kq0_EUaYcilxuT-YOEDoiIfrKntfhaZspXmaJN?purpose=fullsize)\n\n## 4\\. Supply Foundry\n\nWebsite: [supplyfoundry.com.au](https://supplyfoundry.com.au/)\n\nA Brisbane-based operations and software business working across production floors, warehouses, inventory, workflow automation, APIs and systems integration. Its emphasis is on how work actually moves through an operation. [supplyfoundry.com.au](https://supplyfoundry.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A useful alternative if the biggest problem is operational execution — barcode scanning, warehouse movements, production visibility and connecting systems — rather than Power Platform alone.\n\n**Ask them\\:** Can you deliver this using Power Apps and Power Automate where appropriate, and integrate directly with our current ERP?\n\n---\n\n![Oracle NetSuite SuiteCommerce vs SuiteCommerce Advanced: AwaLabs Comparison](https://images.openai.com/static-rsc-4/xIV_sWP5nqInODlNzas-KULvdUNpHh3De35-RD0Z9jg6B8EhEj9XWW_g0aKIMjdPmY1JhP_ZsljHwpTRhkg1Px8IBouBULC37c_6-2BKnm4DkQ_fe3MNkAupGw-8CklMop8iysOEvQQk-fd16PrJh9DnPAJwy5Bsweqa16ZWSSX5R0IIu9Odnfq3kGXbK_g9?purpose=fullsize)\n\n## 5\\. AWLabs\n\nWebsite: [awlabs.com.au/industries/manufacturing](https://www.awlabs.com.au/industries/manufacturing)\n\nAWLabs specifically addresses manufacturing integration, APIs, workflow automation, document processing, traceability and shop-floor data. It describes integration approaches for ERPs including SAP Business One, MYOB Acumatica, NetSuite and Dynamics 365 Business Central. [www.awlabs.com.au](https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A strong candidate to evaluate if your existing ERP is older, has limited connectivity, or requires custom API and data engineering work.\n\n**Ask them\\:** Can you provide a reference architecture for our ERP version, including how production transactions will be validated and reconciled?\n\n## How I would prioritise them\n\n| Consultant | Best reason to engage |\n|--------|--------|\n| **Inturing** | End-to-end order automation and manufacturing workflows |\n| **Secure Minded** | Brisbane-based Power Platform delivery and practical automation |\n| **Strategik** | ERP data, dashboards and business applications |\n| **Supply Foundry** | Factory-floor, warehouse and operational process integration |\n| **AWLabs** | Complex ERP integration, custom software and data capture |\n\n\nThese are fit-based recommendations from their published capabilities, not a ranking based on independently verified delivery quality. Confirm relevant references, availability and integration experience before selecting a supplier.\n\n## What I would ask each consultant to scope\n\nI would avoid a broad digital-transformation engagement initially. Ask each firm to propose a phased project with your existing ERP retained as the system of record.\n\n**Phase 1 — Order-processing automation**\n\nCapture purchase orders from email and PDF, extract order lines, validate customers, products and pricing, flag exceptions, and create orders in the ERP.\n\n---\n\n**Phase 2 — Shop-floor data capture**\n\nTablet or scanner-based reporting for job starts and finishes, quantities produced, scrap, downtime, quality checks and traceability, linked to ERP production orders.\n\n---\n\n**Phase 3 — Operational visibility**\n\nPower BI dashboards for work in progress, schedule adherence, production output, inventory exceptions and order status.\n\nRequire the proposal to cover ERP integration method, licensing, security, audit trails, error recovery, ownership of the solution and ongoing support. If production data needs to come directly from PLCs or machine controllers, also ask about OT/industrial integration expertise; Power Apps alone is not a substitute for machine-control or MES infrastructure.\n\n## Three questions that will narrow the shortlist\n\nI can make a more specific recommendation if you share these details.\n\n1\\. Which ERP are you running?\n\nSAP Business One\n\nMYOB Acumatica\n\nPronto Xi\n\nMicrosoft Dynamics\n\nOther / legacy ERP\n\nCustom-built ERP\n\n---\n\n2\\. Roughly how large is the business?\n\nUnder 50 employees\n\n50–250 employees\n\n250+ employees\n\n---\n\n3\\. Where is the biggest immediate bottleneck?\n\nBoth order processing and shop-floor capture\n\nOrder processing\n\nShop-floor data capture\n\nProduction scheduling and visibility\n\nCurrent shop-floor data collection (optional)\n\nPaper forms or manual entry\n\nSpreadsheets\n\nBarcode scanners\n\nMachine or PLC data\n\nExisting MES\n\n[Refine my shortlist]\n\nMy starting point would be to speak to **Inturing, Secure Minded and AWLabs** first: they offer three complementary angles — manufacturing-focused Power Platform automation, local operational workflow delivery, and deeper ERP integration engineering. Your ERP product and version will determine which is the strongest fit.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/manufacturing",
+          "domain": "inturing.com.au",
+          "title": "Manufacturing Process Automation | Inturing",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.strategik.com.au/",
+          "domain": "www.strategik.com.au",
+          "title": "Microsoft Power Platform, Brisbane | Strategik",
+          "description": null,
+          "breadcrumb": "www.strategik.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.strategik.com.au/",
+          "domain": "www.strategik.com.au",
+          "title": "Microsoft Power Platform, Brisbane | Strategik",
+          "description": null,
+          "breadcrumb": "www.strategik.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://secureminded.au/",
+          "domain": "secureminded.au",
+          "title": "AI & Power Platform consulting, Brisbane | Secure Minded",
+          "description": null,
+          "breadcrumb": "secureminded.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://secureminded.au/",
+          "domain": "secureminded.au",
+          "title": "AI & Power Platform consulting, Brisbane | Secure Minded",
+          "description": null,
+          "breadcrumb": "secureminded.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.blitzy.com.au/about-us/",
+          "domain": "www.blitzy.com.au",
+          "title": "About Blitzy - Senior D365/Power Platform Specialists",
+          "description": null,
+          "breadcrumb": "www.blitzy.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.blitzy.com.au/about-us/",
+          "domain": "www.blitzy.com.au",
+          "title": "About Blitzy - Senior D365/Power Platform Specialists",
+          "description": null,
+          "breadcrumb": "www.blitzy.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.hcsol.com.au/",
+          "domain": "www.hcsol.com.au",
+          "title": "Home | HCSol Microsoft Consulting and Automations",
+          "description": null,
+          "breadcrumb": "www.hcsol.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://workforcedirectory.com.au/vendor/365-architechs/",
+          "domain": "workforcedirectory.com.au",
+          "title": "365 Architechs | Microsoft Business Applications Brisbane",
+          "description": null,
+          "breadcrumb": "workforcedirectory.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.secureminded.au/",
+          "domain": "www.secureminded.au",
+          "title": "Power Platform & AI Consulting for Australian Businesses | Secure Minded",
+          "description": null,
+          "breadcrumb": "www.secureminded.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.secureminded.au/",
+          "domain": "www.secureminded.au",
+          "title": "Power Platform & AI Consulting for Australian Businesses | Secure Minded",
+          "description": null,
+          "breadcrumb": "www.secureminded.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.fenderit.com.au/",
+          "domain": "www.fenderit.com.au",
+          "title": "Business Central Consultant Australia | Fender IT",
+          "description": null,
+          "breadcrumb": "www.fenderit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.fenderit.com.au/",
+          "domain": "www.fenderit.com.au",
+          "title": "Business Central Consultant Australia | Fender IT",
+          "description": null,
+          "breadcrumb": "www.fenderit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://clouddownunder.com.au/",
+          "domain": "clouddownunder.com.au",
+          "title": "Microsoft Consulting Services | Certified Microsoft Solution Partner",
+          "description": null,
+          "breadcrumb": "clouddownunder.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://clouddownunder.com.au/",
+          "domain": "clouddownunder.com.au",
+          "title": "Microsoft Consulting Services | Certified Microsoft Solution Partner",
+          "description": null,
+          "breadcrumb": "clouddownunder.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://supplyfoundry.com.au/",
+          "domain": "supplyfoundry.com.au",
+          "title": "Supply Foundry | Operations consulting and business software",
+          "description": null,
+          "breadcrumb": "supplyfoundry.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://supplyfoundry.com.au/",
+          "domain": "supplyfoundry.com.au",
+          "title": "Supply Foundry | Operations consulting and business software",
+          "description": null,
+          "breadcrumb": "supplyfoundry.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powertechconsulting.com.au/wp-content/uploads/2025/04/Microsoft-Power-Platform-Developer.pdf",
+          "domain": "www.powertechconsulting.com.au",
+          "title": "Power Platform Developer",
+          "description": null,
+          "breadcrumb": "www.powertechconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powertechconsulting.com.au/wp-content/uploads/2025/04/Microsoft-Power-Platform-Developer.pdf",
+          "domain": "www.powertechconsulting.com.au",
+          "title": "Power Platform Developer",
+          "description": null,
+          "breadcrumb": "www.powertechconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://istart.com.au/wp-content/uploads/2025/02/2025-ERP-Buyers-Guide_Microsoft-Supply-Chain.pdf",
+          "domain": "istart.com.au",
+          "title": "iStart ERP Buyer’s Guide 2025-26",
+          "description": null,
+          "breadcrumb": "istart.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Brisbane",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.awlabs.com.au/industries/manufacturing",
+          "domain": "www.awlabs.com.au",
+          "title": "Manufacturing Software & ERP Integration Australia | AWLabs",
+          "description": null,
+          "breadcrumb": "www.awlabs.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Manufacturing Process Automation",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/manufacturing?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Inturing",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Manufacturing Software & ERP Integration Australia",
+          "snippet": null,
+          "domain": "www.awlabs.com.au",
+          "url": "https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "AWLabs",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "secureminded.au",
+          "snippet": null,
+          "domain": "secureminded.au",
+          "url": "https://secureminded.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[secureminded.au](https://secureminded.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI & Power Platform consulting, Brisbane",
+          "snippet": null,
+          "domain": "secureminded.au",
+          "url": "https://secureminded.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Secure Minded",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform & AI Consulting for Australian Businesses",
+          "snippet": null,
+          "domain": "www.secureminded.au",
+          "url": "https://www.secureminded.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Secure Minded",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "strategik.com.au",
+          "snippet": null,
+          "domain": "www.strategik.com.au",
+          "url": "https://www.strategik.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[strategik.com.au](https://www.strategik.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Platform, Brisbane",
+          "snippet": null,
+          "domain": "www.strategik.com.au",
+          "url": "https://www.strategik.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Strategik",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "supplyfoundry.com.au",
+          "snippet": null,
+          "domain": "supplyfoundry.com.au",
+          "url": "https://supplyfoundry.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[supplyfoundry.com.au](https://supplyfoundry.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Supply Foundry",
+          "snippet": null,
+          "domain": "supplyfoundry.com.au",
+          "url": "https://supplyfoundry.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Operations consulting and business software",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "awlabs.com.au/industries/manufacturing",
+          "snippet": null,
+          "domain": "www.awlabs.com.au",
+          "url": "https://www.awlabs.com.au/industries/manufacturing",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[awlabs.com.au/industries/manufacturing](https://www.awlabs.com.au/industries/manufacturing)"
+        }
+      ],
+      "fan_out_queries": [
+        "Brisbane Australia Microsoft Power Platform consulting manufacturing automation order processing shop floor data capture ERP integration consultants",
+        "Microsoft Power Platform consultants",
+        " manufacturing automation consultants",
+        " business process automation",
+        " shop floor data capture integration"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Power Platform and manufacturing automation consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane Power Platform and AI consultancy",
+          "category": "company",
+          "markdown": "Secure Minded",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane Microsoft data analytics and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Strategik",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane operations software and integration consultancy",
+          "category": "company",
+          "markdown": "Supply Foundry",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian software engineering and ERP integration consultancy",
+          "category": "company",
+          "markdown": "AWLabs",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Brisbane manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d shortlist consultants who combine Microsoft Power Platform skills with real operational and systems-integration experience.\n\nThe key is to connect your existing ERP to Power Automate workflows, Power Apps for factory-floor data capture, and Power BI for operational visibility — while keeping the ERP as the system of record.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![AI Strategy to Deployed Solutions — For ASX Companies & Australian SMBs | InTune AI](https://images.openai.com/static-rsc-4/Lci14plltiqlDMOpEAORdWkkUfyJDx1il-Wj1A3klVKIkrxsCwq_EDGtN25tntimOoeJLJrEXENN3ZbeZUe5D-oCbvV_fhdDdmPPOnpoQzYRqexaTH7U9wUfbsPTB266-Lljl9mGfcEcXK7Q9_svsDTsJfEDroSicwKLv3gXUrknCTl4zRgtHGZ7lXGXJFJb?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.intuneai.com.au/",
+              "alt": "AI Strategy to Deployed Solutions — For ASX Companies & Australian SMBs | InTune AI",
+              "image_url": "https://images.openai.com/static-rsc-4/Lci14plltiqlDMOpEAORdWkkUfyJDx1il-Wj1A3klVKIkrxsCwq_EDGtN25tntimOoeJLJrEXENN3ZbeZUe5D-oCbvV_fhdDdmPPOnpoQzYRqexaTH7U9wUfbsPTB266-Lljl9mGfcEcXK7Q9_svsDTsJfEDroSicwKLv3gXUrknCTl4zRgtHGZ7lXGXJFJb?purpose=fullsize",
+              "markdown": "![AI Strategy to Deployed Solutions — For ASX Companies & Australian SMBs | InTune AI](https://images.openai.com/static-rsc-4/Lci14plltiqlDMOpEAORdWkkUfyJDx1il-Wj1A3klVKIkrxsCwq_EDGtN25tntimOoeJLJrEXENN3ZbeZUe5D-oCbvV_fhdDdmPPOnpoQzYRqexaTH7U9wUfbsPTB266-Lljl9mGfcEcXK7Q9_svsDTsJfEDroSicwKLv3gXUrknCTl4zRgtHGZ7lXGXJFJb?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing focuses on manufacturing and operations automation using Power Platform, with explicit support for existing ERP, MES and PLM systems. Its scope includes order processing, document extraction, shop-floor apps, approvals and reporting. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)\n\n**Why speak to them\\:** They have a published manufacturing case study involving automated order-to-invoice processing across Acumatica, SAP Ariba and SharePoint, with a reported reduction of more than 90% in processing time. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/manufacturing?utm_source=chatgpt.com)[www.awlabs.com.au](https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate a similar integration with our specific ERP, including error handling and human approval for exceptions?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Manufacturing Process Automation",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/manufacturing?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Inturing",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Manufacturing Software & ERP Integration Australia",
+              "snippet": null,
+              "domain": "www.awlabs.com.au",
+              "url": "https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "AWLabs",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Power Platform and manufacturing automation consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![AI Builder + Power Automate: identity information management](https://images.openai.com/static-rsc-4/wmFIxTOt0sIMnXVAPyKcxg9uc373E9ZIvaQlv2pLdEvQQEm4QGRYy7M7N-mbCBBFxSB365-Y-_HViRsqYmuGSIvWdKr_4jTinKaA18Vp3T-LyNioNV1_IeP38pFmrHmZlB8jiw3v5F8HGr4R4Np0KspnUP94KCWLCyA6WOTFJ2YW6d5MClUSslpCTccWMoX4?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.anainesurrutia.com/post/ai-builder-power-automate-identity-information-management",
+              "alt": "AI Builder + Power Automate: identity information management",
+              "image_url": "https://images.openai.com/static-rsc-4/wmFIxTOt0sIMnXVAPyKcxg9uc373E9ZIvaQlv2pLdEvQQEm4QGRYy7M7N-mbCBBFxSB365-Y-_HViRsqYmuGSIvWdKr_4jTinKaA18Vp3T-LyNioNV1_IeP38pFmrHmZlB8jiw3v5F8HGr4R4Np0KspnUP94KCWLCyA6WOTFJ2YW6d5MClUSslpCTccWMoX4?purpose=fullsize",
+              "markdown": "![AI Builder + Power Automate: identity information management](https://images.openai.com/static-rsc-4/wmFIxTOt0sIMnXVAPyKcxg9uc373E9ZIvaQlv2pLdEvQQEm4QGRYy7M7N-mbCBBFxSB365-Y-_HViRsqYmuGSIvWdKr_4jTinKaA18Vp3T-LyNioNV1_IeP38pFmrHmZlB8jiw3v5F8HGr4R4Np0KspnUP94KCWLCyA6WOTFJ2YW6d5MClUSslpCTccWMoX4?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Secure Minded\n\nWebsite: [secureminded.au](https://secureminded.au/)\n\nA Brisbane-based consultancy offering Power Automate, Power Apps, AI integration, business-process improvement and Power BI. Its published examples include custom applications for stock visibility and automation for a logistics operator. [secureminded.au](https://secureminded.au/?utm_source=chatgpt.com)[www.secureminded.au](https://www.secureminded.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A local team to consider if you want practical workflow improvements, better stock visibility and dashboards without embarking on a major transformation program.\n\n**Ask them\\:** What manufacturing projects have you delivered involving production-job tracking, quality records or machine-side data capture?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "secureminded.au",
+              "snippet": null,
+              "domain": "secureminded.au",
+              "url": "https://secureminded.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[secureminded.au](https://secureminded.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "AI & Power Platform consulting, Brisbane",
+              "snippet": null,
+              "domain": "secureminded.au",
+              "url": "https://secureminded.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Secure Minded",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform & AI Consulting for Australian Businesses",
+              "snippet": null,
+              "domain": "www.secureminded.au",
+              "url": "https://www.secureminded.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Secure Minded",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane Power Platform and AI consultancy",
+              "category": "company",
+              "markdown": "Secure Minded",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Strategix - Verosoft Partner — Verosoft](https://images.openai.com/static-rsc-4/cpMLffNMjd7JvV_3POZ6DHgMvw4mDefTgsYwvgSP7IQ5PJiG2ysEhxT5K-Cng9HHgYzR6ssPFgtzES-qw9_Y2aeqIGVdZinNGVGzbRtFx8pdXdNvvVl6sUo4ubh6Uei8knBQA2Iv-EY8i94fDk3sJXhr7VtuPNsJ1bCKMiSw6ll3Kx3b0eIgc1aClPfcnlU4?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.verosoftdesign.com/partners/strategix",
+              "alt": "Strategix - Verosoft Partner — Verosoft",
+              "image_url": "https://images.openai.com/static-rsc-4/cpMLffNMjd7JvV_3POZ6DHgMvw4mDefTgsYwvgSP7IQ5PJiG2ysEhxT5K-Cng9HHgYzR6ssPFgtzES-qw9_Y2aeqIGVdZinNGVGzbRtFx8pdXdNvvVl6sUo4ubh6Uei8knBQA2Iv-EY8i94fDk3sJXhr7VtuPNsJ1bCKMiSw6ll3Kx3b0eIgc1aClPfcnlU4?purpose=fullsize",
+              "markdown": "![Strategix - Verosoft Partner — Verosoft](https://images.openai.com/static-rsc-4/cpMLffNMjd7JvV_3POZ6DHgMvw4mDefTgsYwvgSP7IQ5PJiG2ysEhxT5K-Cng9HHgYzR6ssPFgtzES-qw9_Y2aeqIGVdZinNGVGzbRtFx8pdXdNvvVl6sUo4ubh6Uei8knBQA2Iv-EY8i94fDk3sJXhr7VtuPNsJ1bCKMiSw6ll3Kx3b0eIgc1aClPfcnlU4?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Strategik\n\nWebsite: [strategik.com.au](https://www.strategik.com.au/)\n\nA Brisbane consultancy focused on Power Platform applications, Power BI, ERP data and operational reporting. It positions its services around filling gaps in existing systems rather than forcing another platform into the business. [www.strategik.com.au](https://www.strategik.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** Particularly relevant if your ERP is adequate but your team relies on spreadsheets, manual reports and disconnected operational information.\n\n**Ask them\\:** Can you build transactional apps and write validated production data back into our ERP, or is your focus primarily analytics and reporting?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "strategik.com.au",
+              "snippet": null,
+              "domain": "www.strategik.com.au",
+              "url": "https://www.strategik.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[strategik.com.au](https://www.strategik.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Platform, Brisbane",
+              "snippet": null,
+              "domain": "www.strategik.com.au",
+              "url": "https://www.strategik.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Strategik",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane Microsoft data analytics and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Strategik",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![SYC | South Australia](https://images.openai.com/static-rsc-4/hzoE3YaUaWJmZ6SU8S7mcYhxj6_ujxumOhHAwrSocm6QReJO5FDkJzz4fTm57JQUOYb6Ml5DOKf5_PbUKyoiwqoKlRfoDTqRkw0s_xavDyZSWozKvnR0h2juE2ZxmqVF_QG13LkamQp5O_pHDZ50g89Ni5kq0_EUaYcilxuT-YOEDoiIfrKntfhaZspXmaJN?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.syc.net.au/south-australia",
+              "alt": "SYC | South Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/hzoE3YaUaWJmZ6SU8S7mcYhxj6_ujxumOhHAwrSocm6QReJO5FDkJzz4fTm57JQUOYb6Ml5DOKf5_PbUKyoiwqoKlRfoDTqRkw0s_xavDyZSWozKvnR0h2juE2ZxmqVF_QG13LkamQp5O_pHDZ50g89Ni5kq0_EUaYcilxuT-YOEDoiIfrKntfhaZspXmaJN?purpose=fullsize",
+              "markdown": "![SYC | South Australia](https://images.openai.com/static-rsc-4/hzoE3YaUaWJmZ6SU8S7mcYhxj6_ujxumOhHAwrSocm6QReJO5FDkJzz4fTm57JQUOYb6Ml5DOKf5_PbUKyoiwqoKlRfoDTqRkw0s_xavDyZSWozKvnR0h2juE2ZxmqVF_QG13LkamQp5O_pHDZ50g89Ni5kq0_EUaYcilxuT-YOEDoiIfrKntfhaZspXmaJN?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Supply Foundry\n\nWebsite: [supplyfoundry.com.au](https://supplyfoundry.com.au/)\n\nA Brisbane-based operations and software business working across production floors, warehouses, inventory, workflow automation, APIs and systems integration. Its emphasis is on how work actually moves through an operation. [supplyfoundry.com.au](https://supplyfoundry.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A useful alternative if the biggest problem is operational execution — barcode scanning, warehouse movements, production visibility and connecting systems — rather than Power Platform alone.\n\n**Ask them\\:** Can you deliver this using Power Apps and Power Automate where appropriate, and integrate directly with our current ERP?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "supplyfoundry.com.au",
+              "snippet": null,
+              "domain": "supplyfoundry.com.au",
+              "url": "https://supplyfoundry.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[supplyfoundry.com.au](https://supplyfoundry.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Supply Foundry",
+              "snippet": null,
+              "domain": "supplyfoundry.com.au",
+              "url": "https://supplyfoundry.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Operations consulting and business software",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane operations software and integration consultancy",
+              "category": "company",
+              "markdown": "Supply Foundry",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Oracle NetSuite SuiteCommerce vs SuiteCommerce Advanced: AwaLabs Comparison](https://images.openai.com/static-rsc-4/xIV_sWP5nqInODlNzas-KULvdUNpHh3De35-RD0Z9jg6B8EhEj9XWW_g0aKIMjdPmY1JhP_ZsljHwpTRhkg1Px8IBouBULC37c_6-2BKnm4DkQ_fe3MNkAupGw-8CklMop8iysOEvQQk-fd16PrJh9DnPAJwy5Bsweqa16ZWSSX5R0IIu9Odnfq3kGXbK_g9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.awalabs.com/knowledge-center/suitecommerce-vs-advanced",
+              "alt": "Oracle NetSuite SuiteCommerce vs SuiteCommerce Advanced: AwaLabs Comparison",
+              "image_url": "https://images.openai.com/static-rsc-4/xIV_sWP5nqInODlNzas-KULvdUNpHh3De35-RD0Z9jg6B8EhEj9XWW_g0aKIMjdPmY1JhP_ZsljHwpTRhkg1Px8IBouBULC37c_6-2BKnm4DkQ_fe3MNkAupGw-8CklMop8iysOEvQQk-fd16PrJh9DnPAJwy5Bsweqa16ZWSSX5R0IIu9Odnfq3kGXbK_g9?purpose=fullsize",
+              "markdown": "![Oracle NetSuite SuiteCommerce vs SuiteCommerce Advanced: AwaLabs Comparison](https://images.openai.com/static-rsc-4/xIV_sWP5nqInODlNzas-KULvdUNpHh3De35-RD0Z9jg6B8EhEj9XWW_g0aKIMjdPmY1JhP_ZsljHwpTRhkg1Px8IBouBULC37c_6-2BKnm4DkQ_fe3MNkAupGw-8CklMop8iysOEvQQk-fd16PrJh9DnPAJwy5Bsweqa16ZWSSX5R0IIu9Odnfq3kGXbK_g9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. AWLabs\n\nWebsite: [awlabs.com.au/industries/manufacturing](https://www.awlabs.com.au/industries/manufacturing)\n\nAWLabs specifically addresses manufacturing integration, APIs, workflow automation, document processing, traceability and shop-floor data. It describes integration approaches for ERPs including SAP Business One, MYOB Acumatica, NetSuite and Dynamics 365 Business Central. [www.awlabs.com.au](https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A strong candidate to evaluate if your existing ERP is older, has limited connectivity, or requires custom API and data engineering work.\n\n**Ask them\\:** Can you provide a reference architecture for our ERP version, including how production transactions will be validated and reconciled?\n\n## How I would prioritise them\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "awlabs.com.au/industries/manufacturing",
+              "snippet": null,
+              "domain": "www.awlabs.com.au",
+              "url": "https://www.awlabs.com.au/industries/manufacturing",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[awlabs.com.au/industries/manufacturing](https://www.awlabs.com.au/industries/manufacturing)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Manufacturing Software & ERP Integration Australia",
+              "snippet": null,
+              "domain": "www.awlabs.com.au",
+              "url": "https://www.awlabs.com.au/industries/manufacturing?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "AWLabs",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian software engineering and ERP integration consultancy",
+              "category": "company",
+              "markdown": "AWLabs",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "text": null,
+          "markdown": "| Consultant | Best reason to engage |\n|--------|--------|\n| **Inturing** | End-to-end order automation and manufacturing workflows |\n| **Secure Minded** | Brisbane-based Power Platform delivery and practical automation |\n| **Strategik** | ERP data, dashboards and business applications |\n| **Supply Foundry** | Factory-floor, warehouse and operational process integration |\n| **AWLabs** | Complex ERP integration, custom software and data capture |\n\n",
+          "table": {
+            "table_header": [
+              "Consultant",
+              "Best reason to engage"
+            ],
+            "table_content": [
+              [
+                "**Inturing**",
+                "End-to-end order automation and manufacturing workflows"
+              ],
+              [
+                "**Secure Minded**",
+                "Brisbane-based Power Platform delivery and practical automation"
+              ],
+              [
+                "**Strategik**",
+                "ERP data, dashboards and business applications"
+              ],
+              [
+                "**Supply Foundry**",
+                "Factory-floor, warehouse and operational process integration"
+              ],
+              [
+                "**AWLabs**",
+                "Complex ERP integration, custom software and data capture"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\nThese are fit-based recommendations from their published capabilities, not a ranking based on independently verified delivery quality. Confirm relevant references, availability and integration experience before selecting a supplier.\n\n## What I would ask each consultant to scope\n\nI would avoid a broad digital-transformation engagement initially. Ask each firm to propose a phased project with your existing ERP retained as the system of record.\n\n**Phase 1 — Order-processing automation**\n\nCapture purchase orders from email and PDF, extract order lines, validate customers, products and pricing, flag exceptions, and create orders in the ERP.\n\n---\n\n**Phase 2 — Shop-floor data capture**\n\nTablet or scanner-based reporting for job starts and finishes, quantities produced, scrap, downtime, quality checks and traceability, linked to ERP production orders.\n\n---\n\n**Phase 3 — Operational visibility**\n\nPower BI dashboards for work in progress, schedule adherence, production output, inventory exceptions and order status.\n\nRequire the proposal to cover ERP integration method, licensing, security, audit trails, error recovery, ownership of the solution and ongoing support. If production data needs to come directly from PLCs or machine controllers, also ask about OT/industrial integration expertise; Power Apps alone is not a substitute for machine-control or MES infrastructure.\n\n## Three questions that will narrow the shortlist\n\nI can make a more specific recommendation if you share these details.\n\n1\\. Which ERP are you running?\n\nSAP Business One\n\nMYOB Acumatica\n\nPronto Xi\n\nMicrosoft Dynamics\n\nOther / legacy ERP\n\nCustom-built ERP\n\n---\n\n2\\. Roughly how large is the business?\n\nUnder 50 employees\n\n50–250 employees\n\n250+ employees\n\n---\n\n3\\. Where is the biggest immediate bottleneck?\n\nBoth order processing and shop-floor capture\n\nOrder processing\n\nShop-floor data capture\n\nProduction scheduling and visibility\n\nCurrent shop-floor data collection (optional)\n\nPaper forms or manual entry\n\nSpreadsheets\n\nBarcode scanners\n\nMachine or PLC data\n\nExisting MES\n\n[Refine my shortlist]\n\nMy starting point would be to speak to **Inturing, Secure Minded and AWLabs** first: they offer three complementary angles — manufacturing-focused Power Platform automation, local operational workflow delivery, and deeper ERP integration engineering. Your ERP product and version will determine which is the strongest fit.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "slug": "newcastle",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Newcastle for operational reporting and data warehousing?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:54.566Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Because \"Newcastle\" frequently refers to either **Newcastle upon Tyne (UK)** or **Newcastle, New South Wales (Australia)**, the leading Microsoft Power BI and Microsoft Fabric consultancies specializing in data warehousing and operational reporting are broken down by region below.\n\n---\n\n### 1. Newcastle upon Tyne, UK (North East England)\n\nIf you are based in the UK, Newcastle has developed a strong data and tech hub around areas like Newcastle Helix and Hoults Yard. The top local consultancies include:\n\n*   **Seriös Group** *(Hoults Yard, Newcastle upon Tyne)*  \n    * **Focus:** Enterprise data platform engineering, data warehousing, and advanced analytics.\n    * **Fabric & Power BI Capabilities:** One of the most prominent data-first consultancies based directly in Newcastle. They specialize in guiding companies through migrations to **Microsoft Fabric**, building Lakehouse/Warehouse architectures, setting up automated ETL via Data Factory, and designing high-performing Power BI semantic layers.\n*   **Marra** *(Newcastle Helix, Newcastle upon Tyne)*  \n    * **Focus:** Microsoft Power Platform and operational business intelligence.\n    * **Fabric & Power BI Capabilities:** Headquartered at the Newcastle Helix tech cluster, Marra focuses on turning fragmented operational data (ERP, CRM, Dynamics 365) into interactive dashboards. They emphasize operational reporting automation and business process optimization.\n*   **Geordie Consulting** *(Newcastle upon Tyne)*  \n    * **Focus:** Microsoft Power BI, Power Platform, and business analytics.\n    * **Fabric & Power BI Capabilities:** A boutique, regionally dedicated Microsoft Partner that focuses on data modeling, DAX performance tuning, report development, and user upskilling for mid-market businesses.\n*   **EchoBI** *(North East / Newcastle & Northumberland)*  \n    * **Focus:** Practical operational reporting and data integration.\n    * **Fabric & Power BI Capabilities:** EchoBI specializes in bridging the gap between raw back-office systems (finance, inventory, ERPs) and executive dashboards. They build the underlying data pipelines and warehousing models to ensure operational reporting is stable and trusted.\n*   **DHS IT Solutions** *(Newcastle upon Tyne)*  \n    * **Focus:** Cloud infrastructure, data modernization, and enterprise architecture.\n    * **Fabric & Power BI Capabilities:** Architects modern data estates leveraging Microsoft Fabric, Azure Synapse, and Power BI to unify siloed data environments.\n*   **National UK Microsoft Solutions Partners (with strong North East delivery):**  \n    * **Advancing Analytics** & **BCN Group:** If you require enterprise-tier migration support (e.g., migrating legacy SQL Server data warehouses to Fabric OneLake / Direct Lake mode), these UK-wide Microsoft Solutions Partners have dedicated data and AI practices operating across the North East.\n\n---\n\n### 2. Newcastle, New South Wales (Hunter Region, Australia)\n\nIf you are located in the Hunter/Newcastle region of Australia, top consultants with local presence or direct regional delivery include:\n\n*   **SSW (Newcastle Office)**  \n    * **Focus:** Enterprise software architecture, Azure data warehousing, and Microsoft ecosystem solutions.\n    * **Fabric & Power BI Capabilities:** SSW has an established physical presence in Newcastle. As an accredited Microsoft Solutions Partner, they design enterprise-grade data warehouses, Medallion architecture (Bronze/Silver/Gold in OneLake), and end-to-end Power BI operational dashboards.\n*   **Evocate** *(Newcastle / Hunter Valley)*  \n    * **Focus:** Modern workplace and Microsoft Cloud data solutions.\n    * **Fabric & Power BI Capabilities:** They provide consulting services focused on Microsoft Fabric readiness, Power BI governance, and cross-platform operational analytics tailored to regional mid-market companies.\n*   **Breadcrumb Digital & Lanter Technologies** *(Servicing NSW / Newcastle Region)*  \n    * **Focus:** Dedicated Microsoft Fabric implementation, data governance, and analytics strategy.\n    * **Fabric & Power BI Capabilities:** Certified Fabric partners who specialize in architecting OneLake data structures, Direct Lake modeling, and multi-source operational reporting for healthcare, logistics, and infrastructure clients across New South Wales.\n\n---\n\n### Key Capabilities to Look For\n\nWhen evaluating these consultants for **operational reporting** and **data warehousing**, confirm they provide:\n1. **Microsoft Fabric Capacity & Cost Governance:** Expertise in Fabric sizing (F-SKUs) to avoid runaway compute bills while running scheduled warehouse pipelines.\n2. **Direct Lake & Semantic Modeling:** Experience implementing Direct Lake mode over Delta tables to deliver real-time operational reporting without traditional Power BI import refresh delays.\n3. **Medallion Architecture Design:** Building Bronze (raw), Silver (cleansed), and Gold (modeled star-schema) layers within Fabric Lakehouses/Warehouses to ensure data consistency across departments.\n4. **Data Governance & Row-Level Security (RLS):** Aligning access control across Microsoft Purview and Power BI workspaces so staff only see operations-relevant data.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Fabric+consulting+Newcastle+Australia&client=app-vertex-grounding&safesearch=active\">Microsoft Fabric consulting Newcastle Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Partner+data+analytics+Newcastle+UK&client=app-vertex-grounding&safesearch=active\">Microsoft Partner data analytics Newcastle UK</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+BI+analytics+consultants+Newcastle+upon+Tyne&client=app-vertex-grounding&safesearch=active\">Power BI analytics consultants Newcastle upon Tyne</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Newcastle+upon+Tyne%22+Microsoft+Fabric+Power+BI+data+warehouse+consultancy&client=app-vertex-grounding&safesearch=active\">&quot;Newcastle upon Tyne&quot; Microsoft Fabric Power BI data warehouse consultancy</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+BI+Microsoft+Fabric+consultants+Newcastle+data+warehousing&client=app-vertex-grounding&safesearch=active\">Microsoft Power BI Microsoft Fabric consultants Newcastle data warehousing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Newcastle%22+NSW+%22Power+BI%22+%22Microsoft+Fabric%22+consultant+data&client=app-vertex-grounding&safesearch=active\">&quot;Newcastle&quot; NSW &quot;Power BI&quot; &quot;Microsoft Fabric&quot; consultant data</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMaNaNf9z8QOtVzvKMZIg6QTGRHSUKFG8uboDP3Kf-adUPA1oplasr1RVNzoqOG4bJkbk3SC7JOpNb5GkYnF0m7TW2EnqsehDBCoWipb9FghhhGKo-mkk5XT8jxShQgbnytRA2DNchjh8dAw==",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELwM_PT5wC6-oDu3AV3-RxwjA3FOpgC5YmZThVpD5Z-EBmFSyGzwy-S6Z8Lv8pn295tJkX6tTYbugBezgK5_ukeMAlHMBoKCOoaVDffYXfI3RYqeQyG3jzDYxUwb5uGhWSpk9my9gk4MZoIv9x-MEurh4MIEQtAG6x",
+                "title": "seriosgroup.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3cKSYeLvuw4-m2Y4hdr5RDgwiOa2578006FR8OonlDgMzCOSH7_F3-XjlfoGrIAz9DoCHg8u0cX3axwzwCtDb7BPMl8KDniToNVMZBU6dd7Ze8ZZpg1f-eC-0mmtPP6-gaWditJhO0QUnOd52",
+                "title": "builtin.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANdeentpKUjjvLMnDtLnWqOHq-dC34AcgocCpsmkAw6cNGYmjSnhKcf5FS6G7dt05cp0tx5tNk3K_OVQHWrQopF0iFZB88wt-H0d4xSangPXNxYpc6tFjGiDMYdv7PktFmHsSGRycH9eqlreXB0Eho9NpS58MSlhLzKrWJI6YIJVNhoT9SNe_RR_8yt8=",
+                "title": "totaljobs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZlgQx_eaaZxD62nPVC5P52JH0N7RvVRCzBHWEbMqMup1gaWo4tXEAkuheLrjMviypMwtGTyB4uIZkEZz_nwlOk2h6eJ2serJ1xqypbbvRK8m4XEPLZw==",
+                "title": "geordieconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5y8Uh8COb-H-8a2SNJUBalzj27B6UgwOf_N9OCfp2kw2bNt-ASSAyhVinmWINYPGxTa3HJHBHgxrG3LQ70rsc8k252NMtKnoeudH7QwFLJcC26h19SmgBX2V5lIB4jg==",
+                "title": "geordieconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIHNZQUz_fZpjx6OCMdjQE_E7NwVDH90lJvea4oouGuZ7eBGQTDnqBNY7a-oKRp6fn1_RlA4UAeEI5_-9aifsYiU1Q_vbZmmdrvaRVdLtHqEQY",
+                "title": "echobi.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1K4mI3X0ukuGqvmjiDGWNJRfNI3mHLJLEmNbI1_P7TCV98Byb7OuYZvKhETFiDwN9vS5T1gUO-b7Tqy1W3qdUM8Zkglgz8lHm8nY3Ad3M0stUUdsmncde0aMY2_Cy3vcLdx-Q-PZoEufP_EQAJ9psTvHwagHXsIFnbFMCrcCFg4SJPpwinRbSvqgHsQ6KpaiPsFYWR-rqpRVTDArwIieHzj0MNDm4tf2D6KZjahIgVBXe",
+                "title": "dhsitsolutions.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErm7D8o94Gg6UOqaEDUmtBCOgEopyPI2_AGXp7ba0oETUfKz5Uee7tDNq65J0DyDF_y0apuR1bsgDyBaxGW9NU1_rtuB16whwFDnmUl2IuRlCsepwOiF7CDsrz-5bA_b07jUP15nDTQm3zxe0=",
+                "title": "advancinganalytics.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFgBLuQjOvJiSGLy7Glk2Hry-gqx88SktoSEwhcCbDTVFw72k9m7uerng9gsLPZJ22nCbXT_Idq-SnqTC59Om_yfjmkSUaSjxybQt9VujyLkuZ3HZRh1CcjVKQgcYP7X2e1WxuF3GENIMazA==",
+                "title": "bcn.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3gUobBnVG9c4SVPiYsvHje5oCfC0LR4cJkSCnjzFIaOMlPOAw-Qg90VyI39iFOaG1NiZOMTTwhrpOVdm3ZRK04pWUp-o2qDAaSAoWKdAX5Tz4x2DRzugf8Lyo39PLxJrzcsHS",
+                "title": "ssw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHABRvaNt0Zvond6pSa0Z05ujZsyMYhnVRxadZNWggUxMO3svFOa62HztpMgKJQpqPf_mhFuzQFsPHCsnZygdpYxUX09_Fr0ec_wWUefLLa2EvhGEsyvdMElxazeaBUntgRmQk0ev_yeQ==",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-nYmtEVK6ki6CktIkYYw2XW33Wewh6nwtM7J2yVfJ9lw8EtTCvX_wjOddLE-2iYUCQnMZdQ6zQ3C5aCEZm4aDSwZRO8_MnD8mv1kI8aOh2lm8m2q5Q1-2w==",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD4i1hsYSVe8Uh5UM6yc9kJlqr7AFDemkcionJPL00yFKz5nN3gV9CbSxhnTlYqRbG7k9_1sKCDthAFlJnF14g8e-NPiwABAhEnsy4dd_1lMoS_DqGLwh0c0wRKkcMVF-Yp6gQe4EVAaelBTuOF-u7Vg==",
+                "title": "lanter.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_58ZhU9ylRMhxwoD8I3t2zQU4K3ZVHHKn6K00DVHxojB0MwOU4Jvd-vd7JxwIWlNM3NqlF8H7hxEOPUVajU3Kd3paJJKxogQAfkgh1hDtXBDuXOZLG2P1421jVrigiYA3hZvESnSWEQ==",
+                "title": "breadcrumbdigital.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZI3byNBXa0A6NG3DLeqVEmSn68yGDsiLJRtT7twXldrJGZO-RPA_K0dVFyM-JNkosgU6RNtUPJj8pVlKBA9aqDdgTktWc_jbdqkIlymM8lExIgCdClM47Ueva1_bYdq1ROA-xqVQgonrUx49ZTwFlE8NsgeyxKQVPzXlnWcS85FXv6yeew9HxWM1fb8wzTOCmhdAAr4Bj",
+                "title": "onex.group"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXl7u3OyWidzRFwiOSpHnGzHPbEHVeplvN4dEYMmfiDwcg1ZZEoKk9Orat0sdpLRcTRVrGgsCQlFRsTsXMIVyr5M8EZX8umdfrloJhEQj1PTIlbmDcAXRNPF6DZyhZ-geu",
+                "title": "youtube.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrCt2fFanMu4wVzNYy-xhdDtuZAxYZb1iBIHmd9AJI9Zt6plHRVlIxI9b_S89eG_QKXXP5J21UZU7850cuF6jmWf3FV6ucS7ZgFxk7MKwgrCgvOIHNojTvuln4HI3zH2pDe94fWq7xY3VrB8o529Y=",
+                "title": "builtin.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMeUlDiZkz6vCS5X6kuWK8whMZU3Wl3A9oTvmDcr0a--GO015iAsRVNtHNyqtoi_QbnbfqjBSGI4o_7vD_FV3m7LReMWeVBiqJ4Gco198VzfPBpWbT0mU6_MKFIa8-dc4PbPLzPwBOWx5v5PXK0GytPfffxogdruW2rn2uCA==",
+                "title": "instrovate.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4jKHmCIjitnumSRrSBzW-4xBGARMuFY25r_N3omKBteQ8NJn267g42P8qi94HfBkpyZENxt4wggkF8uTsvzYy1URhOaLMVK37MHee8-IbvfjmDHaw1XuxHJP7KM7OCzC8rbriPjrWy57Rcx-s7fBGm2xqYAVvfu0lLEGe3B3qumlz0I-vUcZ6M6TI8XIlxmBXuXJ7W3Fdh-85DeeKP_UfTAwKfgFSXJllObtXddbyizFW-CGgBkviYxMrnE5LrMw=",
+                "title": "theknowledgeacademy.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 341,
+                "endIndex": 469,
+                "text": "If you are based in the UK, Newcastle has developed a strong data and tech hub around areas like Newcastle Helix and Hoults Yard"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 576,
+                "endIndex": 665,
+                "text": "**Focus:** Enterprise data platform engineering, data warehousing, and advanced analytics"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 673,
+                "endIndex": 787,
+                "text": "**Fabric & Power BI Capabilities:** One of the most prominent data-first consultancies based directly in Newcastle"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 789,
+                "endIndex": 1011,
+                "text": "They specialize in guiding companies through migrations to **Microsoft Fabric**, building Lakehouse/Warehouse architectures, setting up automated ETL via Data Factory, and designing high-performing Power BI semantic layers"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1076,
+                "endIndex": 1149,
+                "text": "**Focus:** Microsoft Power Platform and operational business intelligence"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1157,
+                "endIndex": 1349,
+                "text": "**Fabric & Power BI Capabilities:** Headquartered at the Newcastle Helix tech cluster, Marra focuses on turning fragmented operational data (ERP, CRM, Dynamics 365) into interactive dashboards"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1351,
+                "endIndex": 1432,
+                "text": "They emphasize operational reporting automation and business process optimization"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1493,
+                "endIndex": 1562,
+                "text": "**Focus:** Microsoft Power BI, Power Platform, and business analytics"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1570,
+                "endIndex": 1777,
+                "text": "**Fabric & Power BI Capabilities:** A boutique, regionally dedicated Microsoft Partner that focuses on data modeling, DAX performance tuning, report development, and user upskilling for mid-market businesses"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1846,
+                "endIndex": 1909,
+                "text": "**Focus:** Practical operational reporting and data integration"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1917,
+                "endIndex": 2075,
+                "text": "**Fabric & Power BI Capabilities:** EchoBI specializes in bridging the gap between raw back-office systems (finance, inventory, ERPs) and executive dashboards"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2077,
+                "endIndex": 2194,
+                "text": "They build the underlying data pipelines and warehousing models to ensure operational reporting is stable and trusted"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2253,
+                "endIndex": 2333,
+                "text": "**Focus:** Cloud infrastructure, data modernization, and enterprise architecture"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2341,
+                "endIndex": 2498,
+                "text": "**Fabric & Power BI Capabilities:** Architects modern data estates leveraging Microsoft Fabric, Azure Synapse, and Power BI to unify siloed data environments"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2592,
+                "endIndex": 2883,
+                "text": "**Advancing Analytics** & **BCN Group:** If you require enterprise-tier migration support (e.g., migrating legacy SQL Server data warehouses to Fabric OneLake / Direct Lake mode), these UK-wide Microsoft Solutions Partners have dedicated data and AI practices operating across the North East"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3130,
+                "endIndex": 3232,
+                "text": "**Focus:** Enterprise software architecture, Azure data warehousing, and Microsoft ecosystem solutions"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3240,
+                "endIndex": 3329,
+                "text": "**Fabric & Power BI Capabilities:** SSW has an established physical presence in Newcastle"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3331,
+                "endIndex": 3525,
+                "text": "As an accredited Microsoft Solutions Partner, they design enterprise-grade data warehouses, Medallion architecture (Bronze/Silver/Gold in OneLake), and end-to-end Power BI operational dashboards"
+              },
+              "groundingChunkIndices": [
+                11,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3581,
+                "endIndex": 3643,
+                "text": "**Focus:** Modern workplace and Microsoft Cloud data solutions"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3651,
+                "endIndex": 3862,
+                "text": "**Fabric & Power BI Capabilities:** They provide consulting services focused on Microsoft Fabric readiness, Power BI governance, and cross-platform operational analytics tailored to regional mid-market companies"
+              },
+              "groundingChunkIndices": [
+                13,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3958,
+                "endIndex": 4051,
+                "text": "**Focus:** Dedicated Microsoft Fabric implementation, data governance, and analytics strategy"
+              },
+              "groundingChunkIndices": [
+                14,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4059,
+                "endIndex": 4314,
+                "text": "**Fabric & Power BI Capabilities:** Certified Fabric partners who specialize in architecting OneLake data structures, Direct Lake modeling, and multi-source operational reporting for healthcare, logistics, and infrastructure clients across New South Wales"
+              },
+              "groundingChunkIndices": [
+                14,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4471,
+                "endIndex": 4630,
+                "text": "**Microsoft Fabric Capacity & Cost Governance:** Expertise in Fabric sizing (F-SKUs) to avoid runaway compute bills while running scheduled warehouse pipelines"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4635,
+                "endIndex": 4824,
+                "text": "**Direct Lake & Semantic Modeling:** Experience implementing Direct Lake mode over Delta tables to deliver real-time operational reporting without traditional Power BI import refresh delays"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4829,
+                "endIndex": 5025,
+                "text": "**Medallion Architecture Design:** Building Bronze (raw), Silver (cleansed), and Gold (modeled star-schema) layers within Fabric Lakehouses/Warehouses to ensure data consistency across departments"
+              },
+              "groundingChunkIndices": [
+                11,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5030,
+                "endIndex": 5193,
+                "text": "**Data Governance & Row-Level Security (RLS):** Aligning access control across Microsoft Purview and Power BI workspaces so staff only see operations-relevant data"
+              },
+              "groundingChunkIndices": [
+                18,
+                19,
+                12
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Fabric consulting Newcastle Australia",
+            "Microsoft Partner data analytics Newcastle UK",
+            "Power BI analytics consultants Newcastle upon Tyne",
+            "\"Newcastle upon Tyne\" Microsoft Fabric Power BI data warehouse consultancy",
+            "Microsoft Power BI Microsoft Fabric consultants Newcastle data warehousing",
+            "\"Newcastle\" NSW \"Power BI\" \"Microsoft Fabric\" consultant data"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 356,
+      "candidatesTokenCount": 1282,
+      "totalTokenCount": 2550,
+      "cachedContentTokenCount": 121,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 356
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 121
+        }
+      ],
+      "thoughtsTokenCount": 912,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "L8fiaqepNPDv694PkNPFkQg"
+  }
+}

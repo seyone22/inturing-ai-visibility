@@ -1,0 +1,181 @@
+{
+  "slug": "canberra",
+  "pk": "workflow_automation",
+  "plat": "aimode",
+  "text": "Which consultancies in Canberra are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__workflow_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:52.985Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which consultancies in Canberra are best for business workflow automation and Microsoft Power Automate implementation?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000142,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20consultancies%20in%20Canberra%20are%20best%20for%20business%20workflow%20automation%20and%20Microsoft%20Power%20Automate%20implementation%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCSGQXLBpTRZrEWBWaadu6gAF",
+      "datetime": "2026-10-29 04:08:47 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for top-tier consultancies in Canberra for **business workflow automation** and **Microsoft Power Automate** implementation, `several key local and national partners` stand out for their deep expertise in the Microsoft Power Platform ecosystem.\n\nTop options operating in the Canberra region include:\n\n- **Power Platform Experts Canberra** : Specialise heavily in end-to-end Microsoft Power Platform delivery, focusing directly on business process optimisation, custom low-code apps, and robust **Power Automate** workflow implementations. You can review their service footprint on the [Power Platform Consultants Canberra](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra) site.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n- **Nexacu (Canberra Services)** : Well known for training and practical low-code consulting, helping organisations transition away from legacy spreadsheets, manual sign-offs, and paper forms into integrated Power Apps and automated Power Automate processes. Explore their approach via [Nexacu Power Apps & Automate Consulting](https://nexacu.com.au/consulting/power-apps-automate/).[[1]](https://nexacu.com.au/consulting/power-apps-automate/)\n- **Bremmar Consulting** : Highly active in the ACT region, offering specialised Microsoft Power Automate solutions tailored particularly to operational efficiency, compliance tracking, and administrative streamlining. Learn more through [Bremmar Microsoft Power Automate Canberra](https://bremmar.com.au/microsoft-power-automate-canberra/).[[1]](https://bremmar.com.au/microsoft-power-automate-canberra/)\n- **Elevate Performance Group** : Provides operational transformation and backend administrative optimization, identifying bottlenecks where workflow automation tools can be seamlessly deployed. Details can be found at Elevate Performance Group.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaa1lqRnphSGd6GAo)\n\nTo help narrow down the best fit, could you share:\n\n- Are you looking for a **small-to-medium business solution** or an **enterprise/government-scale** deployment?\n- Do you also need integration with other systems (like **SharePoint, Dynamics 365, or Salesforce**)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for top-tier consultancies in Canberra for business workflow automation and Microsoft Power Automate implementation, several key local and national partners stand out for their deep expertise in the Microsoft Power Platform ecosystem.",
+              "markdown": "When looking for top-tier consultancies in Canberra for **business workflow automation** and **Microsoft Power Automate** implementation, `several key local and national partners` stand out for their deep expertise in the Microsoft Power Platform ecosystem.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top options operating in the Canberra region include:",
+              "markdown": "Top options operating in the Canberra region include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Power Platform Experts Canberra : Specialise heavily in end-to-end Microsoft Power Platform delivery, focusing directly on business process optimisation, custom low-code apps, and robust Power Automate workflow implementations. You can review their service footprint on the Power Platform Consultants Canberra site. Power Platform Experts Canberra Nexacu (Canberra Services) : Well known for training and practical low-code consulting, helping organisations transition away from legacy spreadsheets, manual sign-offs, and paper forms into integrated Power Apps and automated Power Automate processes. Explore their approach via Nexacu Power Apps & Automate Consulting. Nexacu (Canberra Services) Nexacu (Canberra Services) Bremmar Consulting : Highly active in the ACT region, offering specialised Microsoft Power Automate solutions tailored particularly to operational efficiency, compliance tracking, and administrative streamlining. Learn more through Bremmar Microsoft Power Automate Canberra. Bremmar Consulting Elevate Performance Group : Provides operational transformation and backend administrative optimization, identifying bottlenecks where workflow automation tools can be seamlessly deployed. Details can be found at Elevate Performance Group. Elevate Performance Group Elevate Performance Group Elevate Performance Group",
+              "markdown": "- **Power Platform Experts Canberra** : Specialise heavily in end-to-end Microsoft Power Platform delivery, focusing directly on business process optimisation, custom low-code apps, and robust **Power Automate** workflow implementations. You can review their service footprint on the [Power Platform Consultants Canberra](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra) site.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n- **Nexacu (Canberra Services)** : Well known for training and practical low-code consulting, helping organisations transition away from legacy spreadsheets, manual sign-offs, and paper forms into integrated Power Apps and automated Power Automate processes. Explore their approach via [Nexacu Power Apps & Automate Consulting](https://nexacu.com.au/consulting/power-apps-automate/).[[1]](https://nexacu.com.au/consulting/power-apps-automate/)\n- **Bremmar Consulting** : Highly active in the ACT region, offering specialised Microsoft Power Automate solutions tailored particularly to operational efficiency, compliance tracking, and administrative streamlining. Learn more through [Bremmar Microsoft Power Automate Canberra](https://bremmar.com.au/microsoft-power-automate-canberra/).[[1]](https://bremmar.com.au/microsoft-power-automate-canberra/)\n- **Elevate Performance Group** : Provides operational transformation and backend administrative optimization, identifying bottlenecks where workflow automation tools can be seamlessly deployed. Details can be found at Elevate Performance Group.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaa1lqRnphSGd6GAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Consultants Canberra",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "domain": "www.powerplatformexperts.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Nexacu Power Apps & Automate Consulting",
+                  "description": null,
+                  "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+                  "domain": "nexacu.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Bremmar Microsoft Power Automate Canberra",
+                  "description": null,
+                  "url": "https://bremmar.com.au/microsoft-power-automate-canberra/",
+                  "domain": "bremmar.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "title": "Power Platform Consultants Canberra",
+                  "text": "Power Platform Experts Canberra specialise in business automation solutions and custom application development."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Nexacu",
+                  "domain": "nexacu.com.au",
+                  "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+                  "title": "Power Apps & Automate Consulting",
+                  "text": "Nexacu helps organisations use Microsoft Power Apps and Power Automate to build practical, mobile-friendly solutions that reduce m..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bremmar",
+                  "domain": "bremmar.com.au",
+                  "url": "https://bremmar.com.au/microsoft-power-automate-canberra/",
+                  "title": "Microsoft Power Automate Canberra - Bremmar Consulting",
+                  "text": "At Bremmar, our Microsoft Power Automate approach has revolutionised the Not For Profit, Aged Care and Disability Care industries ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhaa1lqRnphSGd6GAo",
+                  "title": "Elevate Performance Group",
+                  "text": "14 Wormald St, Symonston ACT 2609 · Elevate Performance Group is dedicated to empowering businesses and their owners to achieve mo..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down the best fit, could you share:",
+              "markdown": "To help narrow down the best fit, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking for a small-to-medium business solution or an enterprise/government-scale deployment? Do you also need integration with other systems (like SharePoint, Dynamics 365, or Salesforce )?",
+              "markdown": "- Are you looking for a **small-to-medium business solution** or an **enterprise/government-scale** deployment?\n- Do you also need integration with other systems (like **SharePoint, Dynamics 365, or Salesforce**)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+              "title": "Power Platform Consultants Canberra",
+              "text": "Power Platform Experts Canberra specialise in business automation solutions and custom application development."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Bremmar",
+              "domain": "bremmar.com.au",
+              "url": "https://bremmar.com.au/microsoft-power-automate-canberra/",
+              "title": "Microsoft Power Automate Canberra - Bremmar Consulting",
+              "text": "At Bremmar, our Microsoft Power Automate approach has revolutionised the Not For Profit, Aged Care and Disability Care industries in Canberra."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Nexacu",
+              "domain": "nexacu.com.au",
+              "url": "https://nexacu.com.au/consulting/power-apps-automate/",
+              "title": "Power Apps & Automate Consulting",
+              "text": "Nexacu helps organisations use Microsoft Power Apps and Power Automate to build practical, mobile-friendly solutions that reduce manual work, improve visibility..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

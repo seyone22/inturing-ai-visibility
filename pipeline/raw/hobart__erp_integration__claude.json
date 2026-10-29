@@ -1,0 +1,182 @@
+{
+  "slug": "hobart",
+  "pk": "erp_integration",
+  "plat": "claude",
+  "text": "Which system integration specialists in Hobart are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__erp_integration__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:49.346Z",
+  "cost": 0.06193,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11110,
+      "output_tokens": 1200,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.06133,
+      "datetime": "2026-10-29 04:11:44 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Based on my search results, I was able to find one Hobart-based specialist, along with some broader context about what to look for in system integration partners for ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365. Here's what I found:\n\n---\n\n## 🖥️ System Integration Specialists in Hobart (& Tasmania)\n\n### 1. **TECHOM Systems** *(Hobart, TAS — Locally Based)*\nThis is the standout **Hobart-based** option found in search results. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As an accredited Microsoft Solutions Partner, TECHOM Systems offers enterprise-grade Microsoft 365 readiness, data governance, and employee adoption services engineered for Hobart organisations, safeguarding sensitive company IP with Microsoft Purview DLP and automated sensitivity labels.",
+              "annotations": [
+                {
+                  "title": "M365 Copilot Rollout for Professional Services & Technology in Hobart",
+                  "url": "https://techomsystems.com.au/locations/tas/hobart/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nCritically for your needs, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they integrate Copilot with third-party line-of-business platforms including Salesforce, HubSpot, Dynamics 365, Jira, SAP, and custom SQL databases — enabling Hobart workforces to query enterprise data across multiple systems using natural language queries directly within Microsoft 365.",
+              "annotations": [
+                {
+                  "title": "M365 Copilot Rollout for Professional Services & Technology in Hobart",
+                  "url": "https://techomsystems.com.au/locations/tas/hobart/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🌐 Reputable National/Global Partners Serving Australian Businesses\n\nIf you need broader ERP/CRM integration expertise (including MYOB Acumatica and SAP), the following firms are well-regarded and can work with Hobart-based businesses remotely or on-site:\n\n### 2. **Satva Solutions**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer Acumatica Integration Services, Dynamics 365 Business Central Integration, SAP Integration Services, NetSuite, Sage, and Odoo integration services.",
+              "annotations": [
+                {
+                  "title": "Custom System Integration Services for Modern Enterprises",
+                  "url": "https://satvasolutions.com/system-integration-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them one of the few providers explicitly listing **MYOB Acumatica** as a supported platform.\n\n### 3. **Tech Implement** *(Microsoft Solutions Partner)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Microsoft Solutions Partner, Tech Implement delivers integration services to help companies connect Dynamics 365 applications with ERP, CRM, and third-party systems, removing data silos and automating workflows so every department works from the same real-time information.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics 365 Integration Services & Solutions",
+                  "url": "https://techimplement.com/dynamics-365-integration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They hold ISO 9001 and ISO 27001 certification and have built Dynamics 365 ERP and CRM integrations across manufacturing, healthcare, real estate, construction, retail, and finance.",
+              "annotations": [
+                {
+                  "title": "Microsoft Dynamics 365 Integration Services & Solutions",
+                  "url": "https://techimplement.com/dynamics-365-integration/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 4. **Space-O Technologies**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have successfully delivered 300+ software development projects with deep expertise connecting ERP platforms to CRM, e-commerce, HRMS, and financial systems, working across SAP, Oracle, Microsoft Dynamics, NetSuite, and custom ERP systems.",
+              "annotations": [
+                {
+                  "title": "ERP Integration Services",
+                  "url": "https://www.spaceotechnologies.com/erp-integration-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📋 Key Things to Look For in a Hobart Integration Specialist\n\nWhen evaluating any provider for connecting **ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365**, consider the following:\n\n| Criteria | Why It Matters |\n|---|---|\n| **Microsoft Partner Status** | Ensures certified expertise in Microsoft 365 & Dynamics |\n| **Acumatica/MYOB Experience** | Not all integrators support this platform specifically |\n| **SAP Connector Capability** | ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SAP integration should connect SAP S/4HANA, ECC, or Business One with existing systems via SAP-certified connectors or custom middleware",
+              "annotations": [
+                {
+                  "title": "Enterprise Software Integration Services",
+                  "url": "https://www.instanceit.com/software-development-services/enterprise-software-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " |\n| **API & Middleware Expertise** | ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "API-based integration connects systems using APIs, allowing real-time and secure data exchange between applications without manual intervention",
+              "annotations": [
+                {
+                  "title": "Custom System Integration Services for Modern Enterprises",
+                  "url": "https://satvasolutions.com/system-integration-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " |\n| **Security Certifications** | Look for ISO 27001 for data protection |\n\n---\n\n## 💡 Recommendation\n\nFor **Hobart-based, in-person support**, **TECHOM Systems** is your best local starting point — especially for Microsoft 365 and SAP integration. For **MYOB Acumatica-specific** integration needs, you may need to engage a specialist like **Satva Solutions** or contact **MYOB's official Acumatica partner network** in Tasmania directly.\n\nWould you like help narrowing down your specific integration requirements or drafting questions to ask these providers?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "system integration specialists Hobart ERP CRM SAP Microsoft 365",
+        "MYOB Acumatica integration specialists Hobart Tasmania"
+      ]
+    }
+  ]
+}

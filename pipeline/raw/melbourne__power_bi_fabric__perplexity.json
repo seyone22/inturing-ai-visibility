@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Melbourne for operational reporting and data warehousing?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:22.517Z",
+  "cost": 0.006324,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 695,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005724,
+      "datetime": "2026-10-29 04:04:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **operational reporting and data warehousing in Melbourne**, the strongest shortlist is:\n\n- **Agile Insights** — Best suited to large, governed Microsoft environments. It reports 150+ Fabric engagements, Microsoft Solutions Partner designations, advanced Azure specialisations, and experience delivering operational reporting for organisations including Transport for NSW, Westpac and the Reserve Bank of Australia.[9]\n- **GrowthBI** — A strong mid-market option covering the full data lifecycle: strategy, data engineering, governance, migrations, Power BI, and integrations across systems such as Salesforce, HubSpot and Xero. It is based in Melbourne and focuses on building a trusted source of truth.[2]\n- **Fresche Solutions** — Suitable for Fabric modernisation, legacy-platform migration, data integration, warehousing and Power BI optimisation. Fresche states that it has delivered more than 100 Fabric projects and serves clients from its Melbourne office.[1]\n- **Report Simple** — A good fit for organisations needing practical Power BI delivery alongside Fabric data warehousing. Its services include OneLake architecture, legacy migration, Direct Lake optimisation, data modelling, reporting automation and governance, with delivery available in Melbourne.[4]\n- **Eagle360 Consulting** — Particularly relevant if operational data is held in **Dynamics 365 or Business Central**. It designs data models, Power BI dashboards, forecasts and Fabric solutions, with a Melbourne team.[3]\n- **Team 400** — Worth considering for Power BI-focused reporting, embedded analytics, data modelling and Copilot. It has Melbourne-based consultants and describes its team as Microsoft MVP-led.[10]\n- **AGER BI** — A specialist Microsoft Fabric, Power BI and Azure data consultancy covering data engineering, integration, warehousing, modelling and implementation. It is Perth-based but works across Australia, so it may suit organisations comfortable with a national delivery model.[2]\n\n### Best match by requirement\n\n| Requirement | Shortlist |\n|---|---|\n| Enterprise-scale Fabric and governance | Agile Insights, Fresche |\n| Melbourne-based mid-market data transformation | GrowthBI, Team 400 |\n| Operational reporting from Dynamics 365 or Business Central | Eagle360 |\n| Fabric warehouse, OneLake or Synapse migration | Report Simple, Fresche, AGER BI |\n| SAP-based operational reporting and warehousing | Zentrix / Chris Nelson |\n| Individual senior consultant rather than a large firm | Zach Emre Tasli, Usama Atique |\n\nFor specialist individual expertise, **Chris Nelson/Zentrix** is notable for SAP-to-Power BI and Microsoft data-warehouse delivery using SQL Server, SSIS, SSAS, SSRS and Power BI.[8] **Zach Emre Tasli** offers hands-on SQL, Power BI, DAX, Power Query, Fabric and operational dashboard delivery in Melbourne.[7] **Usama Atique** focuses on enterprise reporting, semantic modelling, KPI frameworks, data integration and data warehouses, with Melbourne-based experience.[6]\n\nFor this specific brief, the first three firms to invite to a discovery workshop would be **Agile Insights**, **GrowthBI** and **Report Simple**. Ask each to demonstrate how they would implement: a dimensional warehouse or Fabric lakehouse, governed semantic models, incremental refresh, row-level security, operational KPI definitions, source-system reconciliation and support for near-real-time reporting.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consultant in Melbourne",
+                  "url": "https://freschesolutions.com/microsoft-fabric-consultant-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10+ Big Data Developers in Australia for Hire 2025 | Goodtal",
+                  "url": "https://www.goodtal.com/companies/big-data/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Dynamics 365 business intelligence & Power BI consulting",
+                  "url": "https://eagle360.consulting/dynamics-365-business-intelligence-power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting Australia | Report Simple",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric - Data Analytics",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Usama Atique | LinkedIn",
+                  "url": "https://www.linkedin.com/in/usamaatique",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Zach Emre Tasli | LinkedIn",
+                  "url": "https://www.linkedin.com/in/emretasli",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Chris Nelson | LinkedIn",
+                  "url": "https://www.linkedin.com/in/chris-nelson-0041aa7a",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Consultants. Data Visualisation & Analytics Experts.",
+                  "url": "https://team400.ai/power-bi-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "slug": "canberra",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Canberra? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:07.722Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Because Canberra is dominated by the Australian Public Service (APS), defence, and regulated sectors, selecting a Microsoft Power Platform partner requires looking beyond generic app-building skills. The best partners in this market combine deep technical capability (Power Apps, Power Automate, Dataverse, Copilot Studio) with **security clearances (AGSVA Baseline/NV1/NV2), IRAP/ISM compliance, and established BuyICT procurement panel standing**.\n\nThe leading and most reputable Microsoft Power Platform consulting partners servicing Canberra include:\n\n---\n\n### 1. Atturra (incorporating Veritec)\n* **Profile:** ASX-listed sovereign IT services firm with Canberra roots. Veritec was historically one of Canberra’s foremost homegrown Microsoft Gold Partners for federal agencies before being integrated into Atturra.\n* **Why them:** \n  * **Deep APS Footprint:** Extensive track record delivering Power Platform and Dynamics 365 projects across departments like Health, Agriculture, and the AEC.\n  * **Cleared Local Workforce:** A significant contingent of Canberra-based, security-cleared consultants familiar with government digital delivery standards.\n  * **Full-Lifecycle Modernisation:** Strong at turning legacy forms, spreadsheets, and obsolete Lotus Notes/SharePoint workflows into secure, Dataverse-backed applications.\n\n### 2. Barhead Solutions (an Akkodis Company)\n* **Profile:** A specialist pure-play Microsoft Business Applications consulting partner and multi-time Microsoft Partner of the Year winner.\n* **Why them:**\n  * **Core Power Platform Specialisation:** Unlike broad IT consultancies, Barhead lives and breathes Dynamics 365, Power Platform, and Microsoft AI.\n  * **Innovation & Copilot:** Pioneers in integrating generative AI (Copilot Studio) into existing Power Automate and Power Apps environments.\n  * **Gov & Enterprise Focus:** Skilled at architecting enterprise-grade low-code solutions, application lifecycle management (ALM), and Center of Excellence (CoE) rollouts.\n\n### 3. Avanade Australia\n* **Profile:** The global joint venture between Accenture and Microsoft, operating dedicated public-sector and enterprise practices in Canberra.\n* **Why them:**\n  * **Scale and Complexity:** The top choice for mega-scale transformations where Power Platform forms the front end of complex SAP, Azure, or legacy core system migrations.\n  * **Security and Governance:** Proven capability delivering solutions that meet stringent ASD ISM and IRAP requirements for higher-classification government environments.\n  * **Direct Access to Microsoft Engineering:** Due to their unique relationship with Microsoft, they have first-line access to upcoming product roadmaps and enterprise support.\n\n### 4. Engage Squared\n* **Profile:** Highly regarded Microsoft Modern Work and low-code specialist, frequently winning Microsoft Partner of the Year awards in Australia.\n* **Why them:**\n  * **People-Centric Process Automation:** Exceptionally strong at user adoption, modern workplace integration, and citizen development governance.\n  * **Center of Excellence (CoE):** If an organisation suffers from uncontrolled \"app sprawl\" or wants to empower business teams safely, Engage Squared specializes in establishing Power Platform governance frameworks and DLP (Data Loss Prevention) policies.\n  * **Canberra Delivery:** Experienced in supporting public sector agencies with employee experience apps, HR onboarding workflows, and ministerial correspondence tracking.\n\n### 5. Datacom / Data#3\n* **Profile:** Two of Australia’s largest, tier-one Microsoft Solutions Partners with expansive offices and entrenched government standing in the ACT.\n* **Why them:**\n  * **Procurement Convenience:** Both are long-standing providers across all major Federal and ACT Government buying panels (BuyICT/Digital Marketplace).\n  * **End-to-End Capabilities:** Beyond building an application, they provide tenant administration, licensing optimization (critical given Power Apps licensing nuances), and managed 24/7 support.\n  * **Reliability:** Suited for departments seeking a stable, proven systems integrator to oversee Power Platform operations under an existing managed services contract.\n\n### 6. The Factor (Boutique Public-Sector Specialist)\n* **Profile:** A Canberra-headquartered boutique consultancy focused on Microsoft Business Applications and AI enablement for public sector and enterprise clients.\n* **Why them:**\n  * **Agile and Hands-On:** Being local and boutique, you get direct access to senior practitioners without the overhead of the \"Big 4\" or global system integrators.\n  * **Public Sector Native:** Tailored specifically for federal and state government compliance, App-Ops, and legacy application modernisation on Dataverse and Power Pages.\n\n---\n\n### How to Choose Among Them\n\n| Need | Recommended Direction |\n| :--- | :--- |\n| **Large-scale, high-risk agency modernisation** | **Avanade** or **Atturra** |\n| **Pure Power Apps, Dataverse, & Copilot engineering** | **Barhead Solutions** |\n| **Governance, low-code sprawl cleanup, & adoption** | **Engage Squared** |\n| **Boutique, agile Canberra delivery** | **The Factor** |\n| **Turnkey procurement under existing agency MS agreements** | **Datacom** or **Data#3** |\n\n*Tip:* When issuing an RFQ via the Digital Marketplace, explicitly request proof of the partner's **ALM (Application Lifecycle Management) processes**, **Data Loss Prevention (DLP) strategy**, and the **AGSVA clearance level** of the specific consultants allocated to the build.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead%22+Canberra+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;Barhead&quot; Canberra Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultants+Canberra&client=app-vertex-grounding&safesearch=active\">Power Platform consultants Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partner+Canberra&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partner Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Veritec%22+%22Power+Platform%22+Canberra&client=app-vertex-grounding&safesearch=active\">&quot;Veritec&quot; &quot;Power Platform&quot; Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Engage+Squared%22+%22Canberra%22+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;Engage Squared&quot; &quot;Canberra&quot; Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+Microsoft+consulting+partners+Canberra+Australia&client=app-vertex-grounding&safesearch=active\">top Microsoft consulting partners Canberra Australia</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBcV3DDg_MKc8WN95fmaErO_rc01rPmOgjfF2iWZ3jrST79uSh9iE3YYtptbUvBRHpVjYLy65EGjuZkuPbvTEryvj4XDfpvaNl075LwqIl2YXo-s4KostjyBt_UWpwUIipabaQ",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_47tI5kk_GKvsEcoP1n63DVmBN8jRocqUCvt6ABcCkCgenUn2sjT59s-UWp1XVRCw9WGMnn_rgMKlF_X8CsVutzBGUP_A4MLBpKo030fQ2vVgDAnPen216CnZGXc6luh34o7PvY3gGST_zvgtiI5LBaLbwkzUixSqnfJYsj83sMBDG7UuBnk_ajF_F6SxhG767WVdLg8jnSn7A==",
+                "title": "arnnet.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpt2afq4RLnsoOqWmbH4PxHyW0njtnaMVBJzO5koNXBbwzkyATxuWwUT_Zn7TzcJJLpwqJDmFo2yQwfagB_bwOIq4VTysJsj55bkUBOgaXotGA8_WZ-eisIFexOj_MZgH3FbQ-2rh5yu4GE78iagkzDjsOo7eY0RuD5IlRRdh9HqlYMFTI6iFXY1heq5GaP0Gev6NhpJmCzkTFlT70awDsXdZWKWdvca19vmMek_US3Cmwi_m0XR3NNNlGUoaBHc-6XURaCAdNjXmD-tIlq7vUH4vTuk1qCrl7",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4kKKndtXCa3blUThnX_9ZUGn7MnybVv620k66TESqp-EalXX6DrPL2ByQ_gbuhZ_9yUNBPwSOA8tEnIZh5WfdW4jD0UfdTU9sD-cdDN9nm0pfH4NKyFTGVeijTGQzunQhtelLiYpWj8UmI249Cfng9ud-ZyNxqcgt9yKXVL1X-qZIdq5i9en5_hAsIgHE8GZ-2QW0ZIxY6A==",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm9vGRXzj7lMKIQjQZ-pPTXcBaL327NUdWxtX3B42efIY6_wy1UlKLTtWj07y3Sgq-2e8LUxN1Jrsz8W2ro2wgdD7SP2GuSA7K6dBov3OfzRlYoPa1yS8AKAvjfWgnGfu6Ll7d6Vz_XK8sTN93NVjal1G6RRGmlzoNLovf8iCYih_NNSi8gLZVBvfdq5YVOoq8dcMxP_kLA0LN91FDKm0=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkkFYv87yy3hkLVy4USYFfZ0FFP7egs74anW-LJQohRs1IXLJfyUKrMfFkWHCZa9YStwSEyl4vePCkh1xVqpG-5epZ2AUv7FJaz4HqWRAtiNxX1wIQawxiQZ5-Wez8LOTdJtDvx7IexYqbpArP5R2vL0A=",
+                "title": "webrange.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE48jzESZJTq1UK2jJM6U033TXNoWKGEy4oDVMoS4lNQfSgADKAz8M7bki9nVjjHlcYhSXazXt6T1eY9H75a3AHos_BTrwYdpK3s5soXS96OoIRNgC-NPHR0J84Vwxfj6p-f7SqMYjNmfUtajYkIfe0K31i8_M=",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBu1Ww1sapWq6oeEvdyRKXv8SnN3EdzstPZAX8kRce0celhHYW2m7QhNwUYX_aM3OV-HViZpOAUE4aoFw6EI4YhcuS7cSXoUzuuY_oq2Q1KtO9FNPpPCUIAtEMBwzLnCnEeLvoAhRqQrEZMMS6ZZ-r8WiRfc1a71mUU6Cu_L_ywS8=",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7mQ5ORLRtUAMPzZhT8SWUwhFxxhLflbVHGGWQJ0nq_nFZMI0losAFQHOOEaiAqImol6-qXKmLByjkBFRBMdaFI-vrheaXwzyz2Vm4lmvlt0bByHzRhitM1FkNWo4Bef0i0Tk_YSLynV7NL3YzH3VeHsextfrqxLNurFnhzofZ1Xs7s1DdPSjQHWnze_3eCXWJ8gEAjos=",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ7AcjIRZzJfKqJc6U8BghbbgSLAkoo2QRWZ351Vz8-MsGMs6q1_c8vw7huwP24G4e1vDNOpU00psGD2UvuI8XmV8T1N2M5Oil9HVxZM567nclb--MNV3k9w3UQm0dPMxkmzlOLQOd96MJ4DFxZDLusNLZ",
+                "title": "eiirtrend.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbFnrVLWvo8fpBouC7kNX6W1EKgmNUbaJc3XCOJgGQw-sS54tLh_qtP2wjdRFbd0-nBBYLL5kxLlc9noo1VOywr9qgwKXtLFDAMBdxDgIJ9q4W45iaWXt-e-WQnKTz",
+                "title": "prometix.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWiwM7l7XTHuHGTSF3_p9-18rH40H8jp3FX5VESGx1Vz7GDAlLHiBPiJtWDFeWgDDrObwRvPeHoQgippsw7WaORD-gnY-D6EuFJ4mDbgoNzzHquWEYMFXrjDalSsgl",
+                "title": "fmkcp.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_fMh2Y3Tf87I18ZFBH1mjpPNJDsrKgWc9btGUJOtLorfZxFkhNN6k_UacdSuSfU77wijQRUkmSydm65G3GPI7FR33GjRlDxQU_7siN-m3NEaXTW8maYBdT0IopHVJ3IJ8yjcG7Btku-F_kdMp3HUYQOoAp3Rx9LOOeSXB8m1rKkfvRvfi46CD-hYEX1LugoK37K-aQh0puFCg9JsJg5Yi4pM=",
+                "title": "scdadvisory.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzkVwJhmB4wPQwXbbfGSvy5yGcGmT8wfmlpX-WRB2CJJa4wt34tgflWvBxcQM034-DQgoO5ie8pxY6Pv8LnMtxkHvb5TKlxnvOt_0yCds3iTCsDLu26gSzj7wDc6QkUglesOloZaRaY18iZuYGRgnVpR3PE499pom6DHRpGqrn2Uom9ImkuUTxFJfx1TDEddYHtq0n3_QspTbMLsBXZKfGP5trYPj-qQUM8VJ8b4T9IAmlOut1vZ6rPJc=",
+                "title": "hubspotusercontent-na1.net"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEoLv16Z_Qwtd79kfgnuxxHUT1LdnNmxvTWtWmvrkKkdvRofwfCgmrpw5BnRtGBdkWvsNn6jvKhJ1pnpNHMLmcqDa4YYnCUGJnqbcoN6JxQs3naI6NgRimhuLQmw1YeQ==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsIHoCrwOAKT7fgG6L7CAU4kc-x36UBNZdNgDy7VliNdomdNpgpf1wmPrxjDdq487rvDAfMmsrkjRfnmNU4IjOfT4Gk65QcSAs_SbNV4TnPSqWPQA-J-JcpWhzovhJyBweroOegKsJRsX2JuJECQWpPF60FjmhkI8gpgHfUX8xbbswARhoSoLUlKM_GYa4ATRXhOIVanIgFOKFv4-O5Rpr",
+                "title": "virtualgraffiti.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLyy4SeuQ-3ty57WVLwNwUyBFpZn0RjDEZ1w2Ig7kGYVgq4Vj9HPxSjqEs3_xFmXGZ_v91TaqUCdQbc2eFqqq-x5DLEjmal8Yu4hDLTqf",
+                "title": "thefactor.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67XC9UNg0XkyxpAb6EeMNrHcfoRmCSp8T490TvgsHSr9JmXl0-J8XOPJnLCyIQ4WmXpJPf3IGqrbrEUeZgff17JoLHsJNEsQ4FhuB8_Lk3gys1cVQdqTgyyqhsAaXUXnRL__Ap-V6j8yY3f5HzjPff-NHGfKutCcrlaWCZJKtWxZLom6CjSaXpY-UiepoPd3IIbMRCFgFJ06otx1mWaOOD8-1K_SQ0w==",
+                "title": "reddit.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 200,
+                "endIndex": 448,
+                "text": "The best partners in this market combine deep technical capability (Power Apps, Power Automate, Dataverse, Copilot Studio) with **security clearances (AGSVA Baseline/NV1/NV2), IRAP/ISM compliance, and established BuyICT procurement panel standing**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 602,
+                "endIndex": 672,
+                "text": "**Profile:** ASX-listed sovereign IT services firm with Canberra roots"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 674,
+                "endIndex": 819,
+                "text": "Veritec was historically one of Canberra’s foremost homegrown Microsoft Gold Partners for federal agencies before being integrated into Atturra"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 842,
+                "endIndex": 997,
+                "text": "**Deep APS Footprint:** Extensive track record delivering Power Platform and Dynamics 365 projects across departments like Health, Agriculture, and the AEC"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1162,
+                "endIndex": 1330,
+                "text": "**Full-Lifecycle Modernisation:** Strong at turning legacy forms, spreadsheets, and obsolete Lotus Notes/SharePoint workflows into secure, Dataverse-backed applications"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1381,
+                "endIndex": 1519,
+                "text": "**Profile:** A specialist pure-play Microsoft Business Applications consulting partner and multi-time Microsoft Partner of the Year winner"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1541,
+                "endIndex": 1685,
+                "text": "**Core Power Platform Specialisation:** Unlike broad IT consultancies, Barhead lives and breathes Dynamics 365, Power Platform, and Microsoft AI"
+              },
+              "groundingChunkIndices": [
+                7,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1691,
+                "endIndex": 1828,
+                "text": "**Innovation & Copilot:** Pioneers in integrating generative AI (Copilot Studio) into existing Power Automate and Power Apps environments"
+              },
+              "groundingChunkIndices": [
+                5,
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2032,
+                "endIndex": 2173,
+                "text": "**Profile:** The global joint venture between Accenture and Microsoft, operating dedicated public-sector and enterprise practices in Canberra"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2195,
+                "endIndex": 2363,
+                "text": "**Scale and Complexity:** The top choice for mega-scale transformations where Power Platform forms the front end of complex SAP, Azure, or legacy core system migrations"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2741,
+                "endIndex": 2885,
+                "text": "**Profile:** Highly regarded Microsoft Modern Work and low-code specialist, frequently winning Microsoft Partner of the Year awards in Australia"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3055,
+                "endIndex": 3307,
+                "text": "**Center of Excellence (CoE):** If an organisation suffers from uncontrolled \"app sprawl\" or wants to empower business teams safely, Engage Squared specializes in establishing Power Platform governance frameworks and DLP (Data Loss Prevention) policies"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3313,
+                "endIndex": 3480,
+                "text": "**Canberra Delivery:** Experienced in supporting public sector agencies with employee experience apps, HR onboarding workflows, and ministerial correspondence tracking"
+              },
+              "groundingChunkIndices": [
+                0,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3509,
+                "endIndex": 3658,
+                "text": "**Profile:** Two of Australia’s largest, tier-one Microsoft Solutions Partners with expansive offices and entrenched government standing in the ACT"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3680,
+                "endIndex": 3828,
+                "text": "**Procurement Convenience:** Both are long-standing providers across all major Federal and ACT Government buying panels (BuyICT/Digital Marketplace)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4254,
+                "endIndex": 4414,
+                "text": "**Profile:** A Canberra-headquartered boutique consultancy focused on Microsoft Business Applications and AI enablement for public sector and enterprise clients"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4436,
+                "endIndex": 4596,
+                "text": "**Agile and Hands-On:** Being local and boutique, you get direct access to senior practitioners without the overhead of the \"Big 4\" or global system integrators"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4602,
+                "endIndex": 4769,
+                "text": "**Public Sector Native:** Tailored specifically for federal and state government compliance, App-Ops, and legacy application modernisation on Dataverse and Power Pages"
+              },
+              "groundingChunkIndices": [
+                5,
+                16
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Barhead\" Canberra Power Platform",
+            "Power Platform consultants Canberra",
+            "Microsoft Power Platform partner Canberra",
+            "\"Veritec\" \"Power Platform\" Canberra",
+            "\"Engage Squared\" \"Canberra\" Power Platform",
+            "top Microsoft consulting partners Canberra Australia"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 850,
+      "candidatesTokenCount": 1342,
+      "totalTokenCount": 3793,
+      "cachedContentTokenCount": 293,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 850
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 293
+        }
+      ],
+      "thoughtsTokenCount": 1601,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "vsbiaqW5IbHs694PkKfHoQc"
+  }
+}

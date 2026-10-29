@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:58.102Z",
+  "cost": 0.006038,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 396,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005438,
+      "datetime": "2026-10-29 04:09:53 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Newcastle manufacturer wanting to **keep its ERP**, the strongest initial shortlist is:\n\n- **Inturing** — the closest apparent fit. It focuses specifically on manufacturing and describes an operational layer using Power Platform and Azure over existing ERP, MES and PLM systems. Its scope directly includes automated quote/order processing, ERP integration, shop-floor apps, quality checks, inspections and offline operation.[1]\n- **Bridgeall** — a manufacturing-focused Microsoft Solutions Partner offering Power Apps for shop-floor data capture, Power Automate for maintenance and inventory triggers, ERP/production integration, dashboards and ongoing support—without requiring an ERP replacement.[6]\n- **Abel Software** — particularly worth considering if your ERP is **Abel ERP**. It supports order capture, supplier invoice automation, Power BI reporting, and connections to factory-floor devices, scanners, labelling systems, weighing equipment and manufacturing execution systems.[9]\n- **Microsoft’s partner directory** — use this to validate additional Australian providers, filtering for Power Automate capabilities, manufacturing experience and Microsoft specialisations.[7]\n\n## Recommended approach\n\nSpeak first with **Inturing and Bridgeall** for a manufacturing-specific discovery conversation. Ask each to demonstrate how they would:\n\n1. Capture orders from email, portals or documents and validate them against ERP master data.\n2. Write approved orders back to the ERP while keeping it as the system of record.\n3. Build tablet-based shop-floor apps for job progress, inspections, downtime, quality and non-conformance.\n4. Handle unreliable factory Wi-Fi, duplicate submissions, failed integrations and audit trails.\n5. Deliver production dashboards, alerts and approvals without creating a parallel ERP.\n\nInclude **Abel Software** if your ERP is Abel, and use Microsoft’s directory to find a local Australian partner if Newcastle proximity, onsite commissioning or support is essential. The key selection criterion should be proven ERP integration and manufacturing delivery—not simply general Power Apps development experience.",
+              "annotations": [
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform for Manufacturing UK | Microsoft Consultancy for Manufacturers",
+                  "url": "https://www.powerplatformms.co.uk/industry-solutions/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Low-Code Solutions | Marra",
+                  "url": "https://marra.co.uk/our-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consultants",
+                  "url": "https://www.hybrit.co.uk/power-automate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting Services",
+                  "url": "https://innowise.com/technologies/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform for Manufacturing services",
+                  "url": "https://www.bridgeall.com/industries/manufacturing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Intelligent automation partners - Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-automate/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Solutions",
+                  "url": "https://www.sutherlandglobal.com/capabilities/enterprise-applications/microsoft-practice",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integration and Automation | Implementation & Services",
+                  "url": "https://www.abelsoftware.com/implementing-abel/integration-and-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Process Improvement with Microsoft - Microsoft Solution Partner",
+                  "url": "https://www.bridgeall.com/industries/manufacturing/page/2/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

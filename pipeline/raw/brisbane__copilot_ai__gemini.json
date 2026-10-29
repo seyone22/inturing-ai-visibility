@@ -1,0 +1,506 @@
+{
+  "slug": "brisbane",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Brisbane specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:44.408Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Several Brisbane-based and Brisbane-present consultancies specialise in **Microsoft Copilot Studio**, **AI agent development**, and **practical workflow automation** (typically through the Microsoft Power Platform and Azure AI stack). \n\nBecause mid-market businesses usually need practical ROI and governance—rather than bloated advisory decks or purely speculative pilots—the landscape divides into two main categories: **local boutique AI/automation specialists** and **established Tier-1 Microsoft Solutions Partners**.\n\n---\n\n### 1. Dedicated AI & Automation Boutiques (Brisbane-Headquartered)\n\nThese firms are generally the best fit for agile mid-market projects where you need hands-on practitioners who build inside your tenant without massive overhead:\n\n* **Frontrow Technology** (Queen St, Brisbane)  \n  * **Focus:** Senior Microsoft AI advisory and engineering led by Microsoft MVPs.  \n  * **Strengths:** They cut straight past generic chatbot pilots to build functional, production-ready AI agents using **Microsoft Copilot Studio** and **Azure AI Foundry**. They are well suited for mid-market leaders who want architecture, tenant governance, and custom agent logic done correctly from day one.\n* **Corporate Agents** (Brisbane HQ)  \n  * **Focus:** AI workflow automation and closing the \"pilot-to-production\" gap.  \n  * **Strengths:** Specifically targets mid-to-large businesses looking to automate complex, multi-step workflows. They specialize in building agents that read unstructured inputs (invoices, forms, messy customer emails) and execute actions across ERPs, CRMs, and Microsoft cloud environments.\n* **Connected Platforms** (Brisbane)  \n  * **Focus:** Practical Microsoft 365 automation for mid-market and SME clients.  \n  * **Strengths:** Excellent for businesses starting from scratch with workflow modernization. They focus on practical use cases: combining Power Automate, Microsoft 365 Copilot, and custom approval flows to remove repetitive admin before scaling up complexity.\n* **C9 (C9 Pty Ltd)** (Brisbane presence)  \n  * **Focus:** Low-code conversational AI and custom Copilot Studio extensions.  \n  * **Strengths:** Purpose-built Copilot Studio developers who build intelligent assistants connecting Microsoft 365 apps with external APIs and legacy business databases.\n\n---\n\n### 2. Tier-1 Microsoft Solutions Partners (Strong Mid-Market Practices)\n\nIf your mid-market business requires end-to-end support—including Microsoft licensing optimization, complex ERP (Business Central/Finance) integration, and formal change management:\n\n* **Barhead Solutions** (Queen St, Brisbane Office)  \n  * **Focus:** Power Platform, Dynamics 365, and Copilot Studio specialist.  \n  * **Strengths:** Widely recognized as one of Australia’s top Power Platform partners. They have been early movers in generative AI, routinely delivering **Copilot Studio custom agents** tied into CRM and operational backends. They offer quickstarts specifically designed for mid-market operational automation.\n* **Data#3** (HQ in Brisbane / Toowong)  \n  * **Focus:** National Microsoft powerhouse headquartered locally in Brisbane.  \n  * **Strengths:** While they handle the ASX top 100, their commercial/mid-market team handles large volumes of Microsoft Copilot readiness, security assessments, and Power Automate workflow designs. Best if you need large-scale licensing advisory coupled with Azure OpenAI / Copilot Studio services.\n* **Rapid Circle** (Brisbane Office)  \n  * **Focus:** Cloud, Modern Work, and Copilot AI Centre of Excellence.  \n  * **Strengths:** Built their Brisbane practice through the acquisitions of local stars *Adopt & Embrace* (user adoption/change experts) and *Insync Technology*. They excel at ensuring that automated agents built in Copilot Studio are actually adopted by operational staff, paired with rigorous data security frameworks.\n* **Professional Advantage** (Brisbane/QLD team)  \n  * **Focus:** Mid-market business applications and Power Platform automation.  \n  * **Strengths:** Dedicated Copilot Studio consulting packages aimed at automating structured tasks (finance matching, client intake triage, internal knowledge search) within Microsoft 365 and Dynamics.\n\n---\n\n### Suggested Selection Criteria for the Mid-Market\n\nWhen speaking with these providers, verify that they focus on **autonomous agents and automated flows**, not just Microsoft 365 Copilot license setup:\n\n1. **Copilot Studio vs. Standard Copilot:** Ensure they build *autonomous agent flows* inside **Copilot Studio** (using triggers, event-driven architecture, and custom connectors) rather than just teaching staff how to write prompts in Word/Teams.\n2. **Data & Security Boundary:** They should demonstrate how your internal business data stays within your Australian tenant boundary (Entra ID, RBAC, Data Loss Prevention policies).\n3. **Power Automate / API Handshake:** A practical agent should read data *and* take action (e.g., updating a record in Business Central, Xero, or Salesforce via Power Automate plugins). Ask them for a demonstration of a multi-step agent flow they’ve shipped.",
+              "thoughtSignature": "EukbCuYbAWkUfRPw3tH1qHMHr0jQzkjw3iWvZKRkH2FTK012tkaK/6v+6CBKNai1byYzSbDSFZRPy9brCluJvPEP31eMWKVh/gU6C1RkunRd8cFnAmVwxBDDnrcD+4kVt1g9HG/0LYww2pk03n45Oy3/slj+mqp01hOVBfPxR2zwTWNAtkRB0CvDkPqmOLQcTxcdE4EvogI/1eCfhWlb3baohuSQsdVGoa6UVC0RmzxhU/aGBP4s5oH2WPHnnsJE/EnHq1tyTSrmvdzC/ZndjCke4QnIvBloJFwhWYgbDiqMCfnTQ72nBusTqG2FCoaolL7X44sO8qtnizpApMtTFFrh4vMqi8qHjc2SxsquMF2Qba+5phEd1I3UVU9vISSkOeo84VR5Lw0SvXUI+1Xge2tAL3GsM95tzJloHyuxsvpYKAXW0jcDNFyP/Dlbf24Mt9hfLMgb1/guFY/Yu/40P3RXJpMc3iqz5VLVduIT3sPKH1IkVp5X9gCRizUY9i1pcg1PMJ+enE6BooBqwqnBE/ZKM7dD7jn8Bug63P5WYSQhvw33WYjWUSpz9BMYotr5yMWH3EkCdw+a0o1GRG+zOL5TSxadCzC6OD24cTiBO3fb4oDstQ/8+zSfU8hAUrd9FamxHDO05gOokJVDUibO6p+BMOLm07VALFQBxlQGPXs2CVsP+1MZl3FkRipB9mLQTHFRYaNq/LACEM35prKGeErFcIfMRg1NULrG9KMikXcOVGlHlqJUoYowLCv3J+vkAMS15VE+nzr2cty5NzyJJyufKBpgx/2pPvZOF28wijyW6418wZRejYsUhjjWoaleunE7BuJ0wiBg4U+mJXbivenVwsP7Q5MuD2tw4F3T6o8Dc3aMa5alCpN5wG/YyTTV6NungHzK19QO5oixJ5r3ejERGEOFzgdabsnJnHys89rx1hCFCbErbSoW1BU0StTEf47eRsccrKbCmsEv4ucOcTMT1HQB8ITD3eb1oufwFADH64TeGnqRgCjfsX+3nwGdzIvfbBzrcaeQedHMsVHyjDGICRE6rgkgwn9qcfiCGoObNBFn1qsLw0qsE60rirpCj2cDHOQFYsCRn38BuJBkVuQpbFTNis/iRmfav3rm3sBt+RAWEqfxyzG9xNrOYyLBHuX33w3skL/E9pIg8sc1jKXPFgEPQ1ywbGyBKuTVd00VW7MgH59w/Ep34uaOctIYOBubl6sFfxHuKCUw+e3j67qHGd0KpjpoXMNv/TURvJPkczR6qNTuLPl2op/evhPf/kPcXTkfkFLleDs/ZaAUHOggBSQZjyTfgb/+tjlM8Echy+Z6ZIsxTfdW0ob4tFwrrVkJRWBJEn9XGMqgXBXFDQN659iIDevXSO5bVq0hLj8K4dFYwTHktP45X6ELWow5su5SMbajt55dPgmb89ZFO8aapjuAP0BosXlzPkTPJuNC7SPJ4LTHrdeLQlGNVc8AEmM7Q0CRQ7SWnfZYtxgNNiKn/W6xBHS3SxvcI5tWxvIJlOpiXBvP97iHBUUVIt3DjJQXUKAo5PLO/QJh6ftlwKbdEBUlYIXj5LJA5ombHxPRf+klQrYSkpNUs5+A9s8aeDv2XEJ8n7gnfLuuDYJiijvJ5BLrYdmzJVizPDeXCGv7I9fmsQu6a/Kf2FIxa1IwjLjIlI6xlM4AmUSRgR8945E9gLynlscj1cPEVWtJgLkpL9R0OP3XaTZZcQKhHpEs/PxmwtXLGUSYa9QbdGrwuFOL+G81t/FFJwq8snxd9TWWHJ75OD6fKBWD/zZhBqobqR+IGmG9DNvVyJtmqJp3i7WZnAEQu4yyka9wAG5cmikS8ChWU02sgyAoRPyCCNVsDlxeEd2xQWoS8o7WSKduuYCWG5f2f6bflrgvwArYN6zSh2UpnKDJYSuD7AmnuCh4vs2tc3WYp53bHAdJqBHX7Bo+HM5nvKPfkTflirUM/9s6tG6577NASGIHW+/JqUwC8nOaOlHErNOBCLOcf/mRERVBHTCqn60U5ZbmTwaYWVU7jjcRUlSFd40AjkxlmMqyUHRCqOfZ54VQGMsbHvMCDd8zbAmcGKJOjFXhtP3CXNz3njVBhNojoFydGg0DyYDQp8pz4WOX6nT/E7AdGJz1ucpA4ib4pi3TMc/minBzMRjTxeFcvocOI+8CpgKtq6XlXZf1jjsSJgHLGZWB6B225eY8DkB5DRG0itUZcvkG9Zv3bqfxcYSJiTg3YINikseBqiZ5NDzPeeTuRSf6R5vSv08YVNyHx0ozs4z3+QcENKF7Tyc7zzQZWHIlv2DBQ5BhgGHkmlDkbEalXThxDvlJr7iS4l3f2YRzypjhxqTGYpW2H8CVB09WYMRgfS1KTIYo3fldgr2/+nEO7pUerON8+5Q0xrngAV4pmWjQjtxD9r98H40f2cO1JjiJUBOa38aA8o7QXumQq37UL0J2sLEQuTxV/lBxLcjrKKWWMN3CxZ+sO1FJh+S6av6gwLgGCUGKCzkxRkONkCgjtz58+xb2mMb3lUh32M7EbUqlomU3WmL8vkNcD+tOtWuBPz4B4aX97o9NckX/kIntgwh4dh0+ZHrDsU3w02q0za8fuqfQavFiGEI9AvIWqr9cHHh2hrQ5XibYBDqkGhnW/k7Z0/R/tOpHm9V3kJhVg32hNW96LWnk2zJDVIL40g5b4OS4O96GLs3Bw6K1ATnNQmfHg8ZanhErFAEemq0/XeUFus5RdK14P20F5vVVE05U3H14HH+VlRYRxyGlMwGXbo5NlUJJTastW9I0pF2OEJY/xS7mAYtMvgNNUErjYE7pjCGbSx4PNwj41fdOeXobuxzapaGuHXBNx4qkG4EsqaUnZgWhQrSmJ7E+KaB5HR8Stjdeefkoz3PrTpSw4Z5I1W/18iTymun0t+bHzODyqvmsk3Q3ZKqVOVD1lAqhEZShBDRDHMKB1mvD2VcG5vdBTxpjoynNuV72YzJ4U0IWrd5yy+1pRJz53r/PVuBhllXj67u9sXPW6g+zgN95laXWYR+oNxYdFXXLLNQY/jD1iuZLLrU4eqiQrDDz6ecpln/ZKlPHh37buu5DZBMzVhiGikTQpOeRcDswRNoQ4Qli5xEj0iBk1JlZUji5cyXVzGq7qrICgZ8f1zwVX5QPOeRtQtq4ghkQQC4a37WjTXoFtOuFhjo7oULPuYjoz+wyT85wEIpuH7WwLWwCAqUcZNqVJWeg23FZudUZvapyM23aI60PsVFfr+LGhNEm1RP78qQG+qJTQZkpMnlfxn8FOooCLFMrAhC9aA1JbCtfsqSr9adhq82lobwq2Ij7iw0hdfkKSGXppUDDADUVJ/lJ2aTxqhd4TmLORd5pGRcVMDTIw8PrbCn7VaKi2tnJp05yZVCm2jnRzz7xjJ1kIsG9bKoS5g/p6HoEgyS7cRNyZ1tdftVX4v21E8CD+itW1za65X7pSu3J1PkIvV4nFNa0bBKkDRcYjy3Bg2fdovRupZiJg6+fhnhPC3aPodfEwsG3gqb+SPzdWPf9cdbEu9UHfLlxD7t89yb2dnqFyPZg3AYs/FmJloRiHi8b/0q+jd62ncUoD5T6Icw91JVf8nKZrjliFzQo8Wiu474zIOPC9vZfyiG0VXY/nG8V64jcGri5HpstIVVPJ3xsVTQc3mx5yhW0pdQLznfD249zZQ/yUvXkIbEVQP/VF0ApzGs1C7g2qFvBv5jESmqpjlhQkcPZp9wxfJnEf5zv+4T1qEmv5/YwuR3PVqXBm0ReRG994sPSgsFhImLerHEcNxKrZdWDrbkh3z9PYdDhkTXy2QYg6bBU+abzEjFYP9NOvfQ9sUU2aIcHcKGgEvn8pop0t2WpA8K+Trv3AXVm/RYuLvgniaW6d7GNP/ttiw64nWoGMwUxA4wpoy95eBPI8r9/Xa0xikDGxlNFZvuq1/R0T3Dp0XHTZo9RxMuu3SB3M8ZxUPFBQ6+TUdtyuUAZbhHz73ks/fhcaseYz8fQMAJViXZH39E4O2P26J2KAJ2zDB107HNQiIL9IjNf336QBQ1PHF+a8WChSqtjoU425UjJCPCNW9c68893mxyjSJOPpipamuiBRxxbWy3XxouXSb/GTTAyoVT61/dPAUeQ8T6Xqfo4AffnVUqmN93FnGjQVLCJ1qSrIIAK27ogEqaY28Agzwj9LrIK3I5HsCAYLed5dqpJZnET5SEChez3tq3wTzKWO189d3+k6/uzcVLcYUPMQADQYb+aYaIWj6kW+ZRmK0w1qnbSBkSNLgbbYyCKPTmPlV+sAvpwlOq8fMyKeKjSB3iPB80oR/4ZbZ+QRzoEXHKmC2QItOtXxHxPR/MMRu6fbnAhgO6yAefUhqGI59UcqWZgiG4WudFpE2FZqmiXljLjtGHHtZGk60FQl1r9nZBumOIrEBJZpTKvKJAY5uBGZ86/tsmk8R2Au/tRCn0Kv+O4XwHeCLdQdBemVSv0x5OenfOqk2wRiUQaNW1bVRk1iorOLKlPHnZXz0K4GjLeCCH5w4YNZ6bAAPLnrrwjL/5MVub3ReZHCenpRefaxCZpMYXrdLaU7+mazrQ2UYLAbJL6GbTys7RwPPQ6bFG0MYP6abUr5e4iOXqillAmjjwA7SS6dWeG3+mQwwWn9vOd2TUwreMzBQnbWwCQAi2sn3jD0eNidHmHqnq904EmDzs0DmwVCjiK/x66nSOM583eyI6FvVdVlcH4KBt/f2Mr4y+RSGsLugeE7fAMct82QJRbRi5vaFR7QYv0"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Adopt+%26+Embrace%22+%22Copilot%22+Brisbane&client=app-vertex-grounding&safesearch=active\">&quot;Adopt &amp; Embrace&quot; &quot;Copilot&quot; Brisbane</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=mid+market+AI+workflow+automation+Brisbane+Microsoft+partner&client=app-vertex-grounding&safesearch=active\">mid market AI workflow automation Brisbane Microsoft partner</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+consultants+Brisbane&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio consultants Brisbane</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+automation+consultancy+Brisbane+Copilot+Studio+Power+Platform&client=app-vertex-grounding&safesearch=active\">AI automation consultancy Brisbane Copilot Studio Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead+Solutions%22+%22Copilot+Studio%22+Brisbane&client=app-vertex-grounding&safesearch=active\">&quot;Barhead Solutions&quot; &quot;Copilot Studio&quot; Brisbane</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLgCS2RX8J6eB1ovQRLgT9qUIHFlXK07PCB8msXfFq9p1Fxic90xvhcFb4Cti91Yf75aIjdx4c8KtAOs4W0GHQjdiW8OCttDmby9x8KkrU-CaIwLkYi1OEFgcYFjQ3moVN-k1efQ==",
+                "title": "synenza.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc7TQ1-60VB0y3OKY6WA9RTGWdCbKKFfhQ4U3IPNy5mhFVYYY2-DRovUK9FCdppPcLppUwCzSL5H0OcPxnLOIMcEXzbsb5yqrD3Usob-ezC1p1o0umWtsvNGTNxyoqsmc3LGYrwZNuvxUUgRDCQa4ZWXwQzdjH-NPda2Eki7tlesLQoBWuV562JEL_uv4ar9mRgSb_PX4A88laipE=",
+                "title": "c9.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQswoWnkarzBdTe97iYTVGDwhH7ZAtUHv3zFFMsXtB7WSEa20qeLtefQ3fBtyy4WHSsfZ_SGAoc48BayxXwTLvr5rbpV4nBOlNto4bfEK59XI-ONXxMYJ1Bq531FjfoKjQNtCH4Hhb1hD4ix9xGqkmF6ZIdeoehOZGUXX1wG061QhSzmUMSU2wVpbz8NIenfi4qC8QIopjfEcUFGMk38PC0b6gjcKFw==",
+                "title": "reddit.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Jb2yHIOaqV8NAw2vysevCc4FZKAGnQdzXROcm5wB6ZTRHtnBSj6xxQIkAS2sEFlw4jNbJivKhxnrLij8jmnd7wSOmptB-n1_3yhOoSXv6nfj9pqNQ2KUI5o6nCOxtEfpJaIy3Lyyy_a20JImH9XPOdZKZas=",
+                "title": "corporateagents.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm8EhqCT08ZVCl1vZAgGW6BMwtfayxx7n36SzCjPFQED1RwmX0iIHIzB0Q8OlgPNWHkjQeVb37fSU1ADLJH4_eQSUPQqsnBqJDvTROrEYcoNrzpceLSW_5T-cmN85TvIArgRmxCbwbjA==",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErMJUb39LHRvuNvo_wZWvJCQNRHdvnPlBzmjtiyknAPQN-DRluEpdmLZ9ARnc2PNzOp2xE441In9bAbfsmlG3plpY9PdD6ulKT4H-DaCOClhA6JrYYeJgIQSgQw6s6sdqo2oPYblHWiX4yMd_7WF0T9-0ab3XqUXo=",
+                "title": "connectedplatforms.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8t2Sb_ru5XHncmcClcGsPuFOzqGJwmgcMBnF5VOm0OndjPJ1N42N7hxa0TLpc2-r_JEwwQDIB7btij3tbIxC8tM0iQQwkos6PaKp5MZQWxR9",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8t2Sb_ru5XHncmcClcGsPuFOzqGJwmgcMBnF5VOm0OndjPJ1N42N7hxa0TLpc2-r_JEwwQDIB7btij3tbIxC8tM0iQQwkos6PaKp5MZQWxR9",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5TV7KtBPZGnZr5AKQcLOV9drKkin8ykSHlWfej9lrbgKn3eii9ONC09kjfAQz_QJwBDOTgoR9AX-Jw0rg22T4Oe1OsVmVYpvsrzt4i8FeTlX6FTI7Rf_saggAok6u2b2sgx5z05Lq-xSUCGkazwAlbyc76tNJzKVDXrtwNnEsAHubeW7FJkulWFoZ7AdpsjVVUGGBFOg8NaKAQqfUvVHctn0o9ICRoMy2Hty-rLdoBvlSbto=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMbfkf69ekB68G6A1Sr7evp4BHc2BrqeHW9RdwJxE4HPslWhYK5bYQMK_HE5Ur6dF7M7jmKjI4gxOTqKcYqYpO4K13QH0IM81NRA==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMbfkf69ekB68G6A1Sr7evp4BHc2BrqeHW9RdwJxE4HPslWhYK5bYQMK_HE5Ur6dF7M7jmKjI4gxOTqKcYqYpO4K13QH0IM81NRA==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluTOmkiL5gEf6Tftrc01riT-b_H-SAVN_H9qK9IGRvgcHAFMAmFLoW3Z1TAJLVPsL6V-15IRLhJhtw-LPn57mV_GSYb-ncC58aI_XwafmtGw6xIqBsn41SJW23EBF81VLt43uYPu0k0rbvjo7lR-zd1_axGfSvjoIaV_zTeK_PNJs6-3bOYKxLDQPGzXyYIkP",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbnDdF-j2kH2HeKLLe4l-KamAFnyoCL36sGJYHhrhNxULJrwQ2BFvKAMhwNeraTYwDmDlNYwxk4JHc35zuCMuNbb7kkpD-hqboB4mJjrysWKyhN8L4zGbweo0XeZX5ui3b1SWg8HXeO2CksTCfNvRW82uVADIhJ-l1ljTwNhGyw0OYWNmyHJq2N4a6nkteI2Wdki-8FEKxpTpN83Q=",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMHQ4ivPKTBfxH1b2RDbSOk9S2_KM7UO58BMa6fhWpYCeIGNZKyp1VRZxGwc7IqGGWGjV5zbHTPBr_G0ElJwwRZ-agJiGDIJDH-0P_FB7KE2I0c2dbUCri2wLzmrcajY1G43XTiLC8xy0SEeA4uazK8BfYtvqdD-afFZwHDGZZHfL5d_elIg==",
+                "title": "moxie-insights.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluTOmkiL5gEf6Tftrc01riT-b_H-SAVN_H9qK9IGRvgcHAFMAmFLoW3Z1TAJLVPsL6V-15IRLhJhtw-LPn57mV_GSYb-ncC58aI_XwafmtGw6xIqBsn41SJW23EBF81VLt43uYPu0k0rbvjo7lR-zd1_axGfSvjoIaV_zTeK_PNJs6-3bOYKxLDQPGzXyYIkP",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU351BEmDCGY-SHytJzgvXvM2vHmNy4ag00OklosSyr_LX1HOvrRm3hseaBVBm1m-VEmzwn3dsEobUdSuFM2VGZhzJa9YspENDfLgnwooB5F5366k77D0yuJjKh0doQphLoAuecatX0Mwa5rEbhpL6Q8yeGQGrWpc-IIisg3u0HfRzOlT3QfI=",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ZKtHNimQ-p1LR7shwItthK-Bdu9CBp-eoCEaWviRrecMYTzLq6CvHLg1eH28j6gMh4bw_3DoC5gGc_L4ieO6hDnJVvrINmXhktYhP0dAjBCCE0HdS9ogC9HGUfJWUmwsmIJ7k_d71YE=",
+                "title": "iotai.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0-QJdDi1TDqF2F6qiGhBBB7FByapStmIwOLE7R8QdpRG_3ySXqnFW9xXXSRgMbSsSWo2GO72eUpDSKjWkfWQwT1L0PjMkugmIfdllqweBQ1VbEBJe3PM-fCKn3iGcdkysSQsMQVkoh2yk5h_jCF-rKGnoDkrJ",
+                "title": "ailabaustralia.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrR2Ua2uPZODKFzBlDd2l-G-mwcjBhxHCrpQhOknqymf_w99b66NqIsszxAc_m6OM9LQ9iM-6eJ7vfH-Z2_3W36p2bLpY_0PVVeCzHsQD0lINYRRyvPUooaYTx-k3pcICPsQQr1VjwwFLa",
+                "title": "techbrain.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 233,
+                "text": "Several Brisbane-based and Brisbane-present consultancies specialise in **Microsoft Copilot Studio**, **AI agent development**, and **practical workflow automation** (typically through the Microsoft Power Platform and Azure AI stack)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 767,
+                "endIndex": 811,
+                "text": "**Frontrow Technology** (Queen St, Brisbane)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 818,
+                "endIndex": 895,
+                "text": "**Focus:** Senior Microsoft AI advisory and engineering led by Microsoft MVPs"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 903,
+                "endIndex": 1071,
+                "text": "**Strengths:** They cut straight past generic chatbot pilots to build functional, production-ready AI agents using **Microsoft Copilot Studio** and **Azure AI Foundry**"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1073,
+                "endIndex": 1209,
+                "text": "They are well suited for mid-market leaders who want architecture, tenant governance, and custom agent logic done correctly from day one"
+              },
+              "groundingChunkIndices": [
+                2,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1213,
+                "endIndex": 1247,
+                "text": "**Corporate Agents** (Brisbane HQ)"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1254,
+                "endIndex": 1329,
+                "text": "**Focus:** AI workflow automation and closing the \"pilot-to-production\" gap"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1337,
+                "endIndex": 1446,
+                "text": "**Strengths:** Specifically targets mid-to-large businesses looking to automate complex, multi-step workflows"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1448,
+                "endIndex": 1625,
+                "text": "They specialize in building agents that read unstructured inputs (invoices, forms, messy customer emails) and execute actions across ERPs, CRMs, and Microsoft cloud environments"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1629,
+                "endIndex": 1663,
+                "text": "**Connected Platforms** (Brisbane)"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1670,
+                "endIndex": 1746,
+                "text": "**Focus:** Practical Microsoft 365 automation for mid-market and SME clients"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1754,
+                "endIndex": 1843,
+                "text": "**Strengths:** Excellent for businesses starting from scratch with workflow modernization"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1845,
+                "endIndex": 2010,
+                "text": "They focus on practical use cases: combining Power Automate, Microsoft 365 Copilot, and custom approval flows to remove repetitive admin before scaling up complexity"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2014,
+                "endIndex": 2053,
+                "text": "**C9 (C9 Pty Ltd)** (Brisbane presence)"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2060,
+                "endIndex": 2134,
+                "text": "**Focus:** Low-code conversational AI and custom Copilot Studio extensions"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2142,
+                "endIndex": 2308,
+                "text": "**Strengths:** Purpose-built Copilot Studio developers who build intelligent assistants connecting Microsoft 365 apps with external APIs and legacy business databases"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2577,
+                "endIndex": 2626,
+                "text": "**Barhead Solutions** (Queen St, Brisbane Office)"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2633,
+                "endIndex": 2703,
+                "text": "**Focus:** Power Platform, Dynamics 365, and Copilot Studio specialist"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2711,
+                "endIndex": 2795,
+                "text": "**Strengths:** Widely recognized as one of Australia’s top Power Platform partners"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2797,
+                "endIndex": 2935,
+                "text": "They have been early movers in generative AI, routinely delivering **Copilot Studio custom agents** tied into CRM and operational backends"
+              },
+              "groundingChunkIndices": [
+                2,
+                7,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2937,
+                "endIndex": 3019,
+                "text": "They offer quickstarts specifically designed for mid-market operational automation"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3448,
+                "endIndex": 3482,
+                "text": "**Rapid Circle** (Brisbane Office)"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3489,
+                "endIndex": 3555,
+                "text": "**Focus:** Cloud, Modern Work, and Copilot AI Centre of Excellence"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3563,
+                "endIndex": 3720,
+                "text": "**Strengths:** Built their Brisbane practice through the acquisitions of local stars *Adopt & Embrace* (user adoption/change experts) and *Insync Technology*"
+              },
+              "groundingChunkIndices": [
+                13,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3722,
+                "endIndex": 3879,
+                "text": "They excel at ensuring that automated agents built in Copilot Studio are actually adopted by operational staff, paired with rigorous data security frameworks"
+              },
+              "groundingChunkIndices": [
+                11,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3883,
+                "endIndex": 3929,
+                "text": "**Professional Advantage** (Brisbane/QLD team)"
+              },
+              "groundingChunkIndices": [
+                15,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3936,
+                "endIndex": 4009,
+                "text": "**Focus:** Mid-market business applications and Power Platform automation"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4017,
+                "endIndex": 4215,
+                "text": "**Strengths:** Dedicated Copilot Studio consulting packages aimed at automating structured tasks (finance matching, client intake triage, internal knowledge search) within Microsoft 365 and Dynamics"
+              },
+              "groundingChunkIndices": [
+                15,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4452,
+                "endIndex": 4674,
+                "text": "Standard Copilot:** Ensure they build *autonomous agent flows* inside **Copilot Studio** (using triggers, event-driven architecture, and custom connectors) rather than just teaching staff how to write prompts in Word/Teams"
+              },
+              "groundingChunkIndices": [
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4679,
+                "endIndex": 4857,
+                "text": "**Data & Security Boundary:** They should demonstrate how your internal business data stays within your Australian tenant boundary (Entra ID, RBAC, Data Loss Prevention policies)"
+              },
+              "groundingChunkIndices": [
+                2,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4862,
+                "endIndex": 5044,
+                "text": "**Power Automate / API Handshake:** A practical agent should read data *and* take action (e.g., updating a record in Business Central, Xero, or Salesforce via Power Automate plugins)"
+              },
+              "groundingChunkIndices": [
+                16,
+                18,
+                3
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Adopt & Embrace\" \"Copilot\" Brisbane",
+            "mid market AI workflow automation Brisbane Microsoft partner",
+            "Microsoft Copilot Studio consultants Brisbane",
+            "AI automation consultancy Brisbane Copilot Studio Power Platform",
+            "\"Barhead Solutions\" \"Copilot Studio\" Brisbane"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 817,
+      "candidatesTokenCount": 1405,
+      "totalTokenCount": 3738,
+      "cachedContentTokenCount": 317,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 817
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 317
+        }
+      ],
+      "thoughtsTokenCount": 1516,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "I8biaoygB6P2694Pws3_8Ak"
+  }
+}

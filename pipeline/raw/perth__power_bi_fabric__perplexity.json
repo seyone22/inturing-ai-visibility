@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:01.064Z",
+  "cost": 0.00627,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 641,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00567,
+      "datetime": "2026-10-29 04:06:56 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Perth-based delivery, the strongest apparent shortlist is **AGER BI, SolveBI, On Report, and Report Simple**. For a larger national partner willing to deliver in Perth, also consider **Professional Advantage** and **Agile Insights**.\n\n| Consultant | Best fit | Relevant evidence |\n|---|---|---|\n| **AGER BI** | Enterprise data warehousing, Fabric architecture, Azure integration, and senior-led delivery | Perth-headquartered; covers Fabric OneLake, Lakehouse, Data Warehouse, Data Factory, Power BI, governance, data engineering, and migration.[2] |\n| **SolveBI** | Operational dashboards, mining and industrial reporting, and end-to-end Power BI/Fabric implementation | Perth-focused consultancy offering operational monitoring boards, KPI reporting, dimensional warehouses, ETL, Power BI, and Fabric Lakehouse/Data Warehouse implementations.[1] |\n| **On Report** | Practical operational reporting and connecting many business systems | Offers Perth services spanning Power BI dashboards, reporting automation, data engineering, and Microsoft Fabric platforms, with connectors for systems such as Xero, Salesforce, SQL Server, Dynamics 365, and Dataverse.[5] |\n| **Report Simple** | Modern Fabric migrations, OneLake, Direct Lake, and Power BI optimisation | Provides Australia-wide delivery including Perth, with Fabric architecture, legacy-stack migration, OneLake, Power BI optimisation, and warehouse-style historical data solutions.[3] |\n| **Professional Advantage** | Larger Microsoft partner, governance, implementation frameworks, and enterprise support | Microsoft Solutions Partner with more than 10 years of Power BI delivery experience and Fabric implementation capability, including certified Fabric and Power BI consultants.[7] |\n| **Agile Insights** | Complex enterprise analytics and operational reporting at scale | Reports more than 150 Fabric engagements, fully Microsoft-certified consultants, operational-reporting accelerators, and Microsoft advanced specialisations; headquartered in Sydney but delivers nationally.[8] |\n\n## Recommended shortlist\n\n- **Choose AGER BI** if the priority is a Perth-based, senior-led Fabric and data-warehouse program.\n- **Choose SolveBI** if operational reporting—particularly mining, field operations, finance, supply chain, or workforce dashboards—is central.\n- **Choose On Report** for a comparatively pragmatic reporting and integration engagement.\n- **Choose Professional Advantage or Agile Insights** when you need a larger national delivery team, formal Microsoft-partner credentials, or complex enterprise governance.\n\nBefore appointing one, ask each firm to demonstrate:\n\n- A dimensional model or Fabric warehouse they have delivered.\n- How they handle incremental refresh, slowly changing dimensions, data quality, and reconciliation.\n- Their preferred Fabric architecture: Lakehouse, Warehouse, or both.\n- Power BI semantic-model design, row-level security, deployment pipelines, and governance.\n- Examples of operational reporting with agreed KPI definitions and near-real-time requirements.\n- Named consultants, Microsoft certifications, Perth availability, fixed-price discovery, and post-go-live support.\n\nThe ranking above reflects publicly described Perth presence, Microsoft Fabric/Power BI capability, and alignment with operational reporting and warehousing—not an independent assessment of project outcomes or pricing.",
+              "annotations": [
+                {
+                  "title": "SolveBI - Certified Power BI & Fabric Consultants, Perth",
+                  "url": "https://solvebi.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting & Data Integration Experts",
+                  "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting Australia | Report Simple",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10+ Big Data Developers in Australia for Hire 2025 | Goodtal",
+                  "url": "https://www.goodtal.com/companies/big-data/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best ESG Reporting Software in Australia | GRI Certified ESG Platform in Australia | ESG Software for Conglomerates in Australia | ESG Management Software in Australia | Top ESG Data Platform in Australia",
+                  "url": "https://www.4seertechnologies.com/au/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting",
+                  "url": "https://www.pa.com.au/products/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/data-analytics-and-bi-consulting-companies/australia/perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

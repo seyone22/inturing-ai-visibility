@@ -1,0 +1,157 @@
+{
+  "slug": "newcastle",
+  "pk": "power_apps",
+  "plat": "aimode",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_apps__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:16.246Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000255,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Newcastle%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXXq9Y5oFHNrEUA_MxZofQEF",
+      "datetime": "2026-10-29 04:10:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for local expertise in Newcastle, NSW, for Microsoft Power Apps, Dataverse, and operational business integrations (such as warehouse scanning, shop-floor tracking, or field mobility), specialized local practices and broader `national Microsoft partners` service the region.\n\nHere are the key options to consider for local consulting support:\n\n- [WorkflowIQ](https://workflowiq.com.au/power-platform/) is a Newcastle-based consultancy specializing in the Microsoft 365 Power Platform. They focus on custom business process automation, Power Apps development, Power Automate workflows, and Power BI reporting to streamline operations.[[1]](https://workflowiq.com.au/power-platform/)\n- **National & Regional Power Platform Partners** (such as [Power Platform Experts](https://www.powerplatformexperts.com.au/locations) ) frequently service the Hunter and Newcastle regions, offering hybrid or on-site architecture, Dataverse modelling, and complex enterprise integrations tailored to industrial, field, and warehouse environments.[[1]](https://www.powerplatformexperts.com.au/locations)\n- **Larger Enterprise Microsoft Partners (Sydney/Newcastle corridor)** : Many organizations in Newcastle turn to tier-one or tier-two Australian Microsoft AI & Cloud partners based out of Sydney who regularly dispatch engineers to the Hunter Valley and Newcastle for manufacturing, logistics, and heavy industrial shop-floor implementations.\n\nIf you'd like, let me know:\n\n- Whether you prefer a **hyper-local Newcastle boutique firm** or a **larger national Microsoft Gold/Solutions partner** \n- Specific requirements like **barcode scanning hardware integration**, **offline field capabilities** , or **ERP connectivity (e.g., Dynamics, SAP, or MYOB)** \n\nI can help narrow down the best fit for your operational scope.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for local expertise in Newcastle, NSW, for Microsoft Power Apps, Dataverse, and operational business integrations (such as warehouse scanning, shop-floor tracking, or field mobility), specialized local practices and broader national Microsoft partners service the region.",
+              "markdown": "When looking for local expertise in Newcastle, NSW, for Microsoft Power Apps, Dataverse, and operational business integrations (such as warehouse scanning, shop-floor tracking, or field mobility), specialized local practices and broader `national Microsoft partners` service the region.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here are the key options to consider for local consulting support:",
+              "markdown": "Here are the key options to consider for local consulting support:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "WorkflowIQ is a Newcastle-based consultancy specializing in the Microsoft 365 Power Platform. They focus on custom business process automation, Power Apps development, Power Automate workflows, and Power BI reporting to streamline operations. National & Regional Power Platform Partners (such as Power Platform Experts ) frequently service the Hunter and Newcastle regions, offering hybrid or on-site architecture, Dataverse modelling, and complex enterprise integrations tailored to industrial, field, and warehouse environments. Larger Enterprise Microsoft Partners (Sydney/Newcastle corridor) : Many organizations in Newcastle turn to tier-one or tier-two Australian Microsoft AI & Cloud partners based out of Sydney who regularly dispatch engineers to the Hunter Valley and Newcastle for manufacturing, logistics, and heavy industrial shop-floor implementations.",
+              "markdown": "- [WorkflowIQ](https://workflowiq.com.au/power-platform/) is a Newcastle-based consultancy specializing in the Microsoft 365 Power Platform. They focus on custom business process automation, Power Apps development, Power Automate workflows, and Power BI reporting to streamline operations.[[1]](https://workflowiq.com.au/power-platform/)\n- **National & Regional Power Platform Partners** (such as [Power Platform Experts](https://www.powerplatformexperts.com.au/locations) ) frequently service the Hunter and Newcastle regions, offering hybrid or on-site architecture, Dataverse modelling, and complex enterprise integrations tailored to industrial, field, and warehouse environments.[[1]](https://www.powerplatformexperts.com.au/locations)\n- **Larger Enterprise Microsoft Partners (Sydney/Newcastle corridor)** : Many organizations in Newcastle turn to tier-one or tier-two Australian Microsoft AI & Cloud partners based out of Sydney who regularly dispatch engineers to the Hunter Valley and Newcastle for manufacturing, logistics, and heavy industrial shop-floor implementations.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "WorkflowIQ",
+                  "description": null,
+                  "url": "https://workflowiq.com.au/power-platform/",
+                  "domain": "workflowiq.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Experts",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "domain": "www.powerplatformexperts.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "workflowiq.com.au",
+                  "domain": "workflowiq.com.au",
+                  "url": "https://workflowiq.com.au/power-platform/",
+                  "title": "Advanced Power Platform Solutions Newcastle - WorkflowIQ",
+                  "text": "WorkflowIQ Newcastle deliver expert Microsoft 365 Power Platform solutions including Power Automate, Power Apps, and Power BI to b..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+                  "text": "Serving the Northern Rivers region of NSW, our team implements efficient Microsoft Power Platform solutions for organisations acro..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whether you prefer a hyper-local Newcastle boutique firm or a larger national Microsoft Gold/Solutions partner Specific requirements like barcode scanning hardware integration, offline field capabilities, or ERP connectivity (e.g., Dynamics, SAP, or MYOB)",
+              "markdown": "- Whether you prefer a **hyper-local Newcastle boutique firm** or a **larger national Microsoft Gold/Solutions partner** \n- Specific requirements like **barcode scanning hardware integration**, **offline field capabilities** , or **ERP connectivity (e.g., Dynamics, SAP, or MYOB)**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help narrow down the best fit for your operational scope.",
+              "markdown": "I can help narrow down the best fit for your operational scope.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "workflowiq.com.au",
+              "domain": "workflowiq.com.au",
+              "url": "https://workflowiq.com.au/power-platform/",
+              "title": "Advanced Power Platform Solutions Newcastle - WorkflowIQ",
+              "text": "WorkflowIQ Newcastle deliver expert Microsoft 365 Power Platform solutions including Power Automate, Power Apps, and Power BI to boost your business efficiency."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/locations",
+              "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+              "text": "Serving the Northern Rivers region of NSW, our team implements efficient Microsoft Power Platform solutions for organisations across various industries."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

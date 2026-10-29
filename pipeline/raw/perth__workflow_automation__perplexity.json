@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Perth are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:22.000Z",
+  "cost": 0.006197,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 572,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005597,
+      "datetime": "2026-10-29 04:06:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Perth organisations, the strongest shortlist is:\n\n| Consultancy | Best fit | Why consider it |\n|---|---|---|\n| **Ultron Developments** | Dedicated Power Platform implementation | Perth-based Microsoft consultancy focused on Power Apps, Power Automate, Dataverse, SharePoint, Power BI and governance. It covers workflow design, approvals, integrations, testing, documentation and ongoing support.[1][2] |\n| **CG TECH** | Microsoft 365 automation plus AI | Works with Perth businesses and public-sector teams on Power Platform, Microsoft 365, Copilot and AI agents. Its Perth examples include a SharePoint–Power Automate integration for a regulated electricity-transmission operator.[3] |\n| **Interfuze** | Governance, enablement and larger Microsoft projects | Perth-based consultancy offering Power Platform and Azure development, implementation support, business analysis and project management. It also reports delivering Power Platform governance and training for a WA government department.[4] |\n| **Austin Technology** | Automation bundled with managed IT and cybersecurity | Perth engineering team providing Power Automate workflows across Outlook, Teams, SharePoint and business applications, alongside Microsoft 365, security and managed IT services.[5] |\n| **Alphavima Technologies** | Structured, fixed-scope Power Platform delivery | Offers Power Apps, Power Automate, Power BI and Power Pages, with a stated process covering discovery, design, build, deployment, training and post-launch support.[6] |\n| **VibeZero** | Smaller, practical SMB automation projects | Perth-based consultancy focused on Microsoft 365 automation, Power Automate, integrations and AI, with an emphasis on measurable time savings and handover.[7] |\n\n**Best overall starting points:**  \n- Choose **Ultron** for a specialist, end-to-end Power Automate or Power Platform implementation.  \n- Choose **Interfuze** where governance, organisational enablement or public-sector experience is important.  \n- Choose **CG TECH** if the project combines workflow automation with Copilot, AI agents or document-heavy processes.  \n- Choose **Austin Technology** if you want automation delivered by the same provider as IT, cybersecurity and Microsoft 365 support.\n\nWhen comparing proposals, ask each consultancy to demonstrate:\n\n- Experience with your systems, such as SharePoint, Teams, Dynamics, Xero, SAP or bespoke applications.\n- How it handles environment strategy, permissions, data loss prevention and the Power Platform Centre of Excellence.\n- Error handling, retries, monitoring, audit trails and support after go-live.\n- Whether licensing costs, connector costs and RPA requirements are included.\n- A working pilot with measurable outcomes, such as hours saved, reduced errors or faster approvals.\n- Documentation and internal training so your team is not dependent on the consultant.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia | Ultron",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consultant Perth | Microsoft 365 Workflows",
+                  "url": "https://ultrondevelopments.com.au/power-automate-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate Consulting Australia | Cloud & RPA Flows | Ultron",
+                  "url": "https://ultrondevelopments.com.au/power-automate-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Working With Cg Tech In...",
+                  "url": "https://cgtech.com.au/locations/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Ultron Developments | Australian Microsoft Consulting",
+                  "url": "https://ultrondevelopments.com.au/about-us",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Process Automation consulting in Perth, WA | Alphavima",
+                  "url": "https://alphavima.com/power-platform/process-automation-consulting-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI & Automation Consultant",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Interfuze | Perth IT Consultancy",
+                  "url": "https://www.interfuze.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consulting Perth for Australian SMBs | VibeZero",
+                  "url": "https://www.vibe0.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Partner in Perth, WA - Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-platform-partner-in-perth-wa/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

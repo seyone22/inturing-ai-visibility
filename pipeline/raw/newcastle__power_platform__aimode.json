@@ -1,0 +1,165 @@
+{
+  "slug": "newcastle",
+  "pk": "power_platform",
+  "plat": "aimode",
+  "text": "Who are the best Microsoft Power Platform consultants in Newcastle? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_platform__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:49.697Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best Microsoft Power Platform consultants in Newcastle? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000255,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20Microsoft%20Power%20Platform%20consultants%20in%20Newcastle%3F%20Give%20me%20a%20shortlist%20of%20reputable%20Power%20Platform%20consulting%20partners%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXXq9Y5oFHNrEUA_MxZofQEF",
+      "datetime": "2026-10-29 04:09:44 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "While many major Microsoft enterprise partners operate out of Sydney and service the Hunter region remotely, there are `dedicated local specialists and regional experts` providing hands-on Microsoft Power Platform consulting (Power Apps, Power Automate, Power BI, and Power Pages) in and around Newcastle.\n\nHere is a curated shortlist of reputable consulting options servicing the Newcastle area:\n\n- **WorkflowIQ** \n\t- **Overview:** A specialized consultancy providing targeted WorkflowIQ Microsoft Power Platform Solutions tailored to regional New South Wales businesses.\n\t- **Why them:** They focus squarely on streamlining operational efficiency through custom low-code/no-code apps via Power Apps, automated task flows via Power Automate, and advanced analytics dashboards using Power BI. They are a great fit if you want a local team that understands regional workflow bottlenecks.\n- **Bespoke Technology** \n\t- **Overview:** Based locally in Mayfield West, [Bespoke Technology](https://bespoke.tech/) is an established Managed IT and Microsoft Consulting Partner.\n\t- **Why them:** If your Power Platform requirements need to tie deeply into broader enterprise infrastructure, security compliance, cloud migration, or managed IT support, Bespoke provides an integrated local team. They excel at tailor-made solutions for small-to-medium businesses in the Hunter.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM1ptUTVNRFZuGAo)\n- **Power Platform Experts (Office Experts Group)** \n\t- **Overview:** A nationwide specialized consultancy with regional NSW coverage (including the Hunter and Central Coast) detailed on [Power Platform Experts Locations](https://www.powerplatformexperts.com.au/locations).\n\t- **Why them:** Backed by decades of combined data and Microsoft ecosystem experience (covering Power Platform as well as legacy database migration like MS Access to Power Apps), they offer structured, scalable end-to-end development, mentoring, and support with flexible on-site or remote delivery models.[[1]](https://www.powerplatformexperts.com.au/locations)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo)\n\nTo help narrow down which of these consultants fits best, could you let me know:\n\n- What **specific projects** or tools you are looking to build (e.g., Power Apps data capture, Power Automate approvals, Power BI reporting)?\n- Do you prefer a **local Newcastle-based team** for on-site workshops, or are you comfortable with a **hybrid/remote** specialist?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "While many major Microsoft enterprise partners operate out of Sydney and service the Hunter region remotely, there are dedicated local specialists and regional experts providing hands-on Microsoft Power Platform consulting (Power Apps, Power Automate, Power BI, and Power Pages) in and around Newcastle.",
+              "markdown": "While many major Microsoft enterprise partners operate out of Sydney and service the Hunter region remotely, there are `dedicated local specialists and regional experts` providing hands-on Microsoft Power Platform consulting (Power Apps, Power Automate, Power BI, and Power Pages) in and around Newcastle.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here is a curated shortlist of reputable consulting options servicing the Newcastle area:",
+              "markdown": "Here is a curated shortlist of reputable consulting options servicing the Newcastle area:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "WorkflowIQ Overview: A specialized consultancy providing targeted WorkflowIQ Microsoft Power Platform Solutions tailored to regional New South Wales businesses. WorkflowIQ Microsoft Power Platform Solutions Why them: They focus squarely on streamlining operational efficiency through custom low-code/no-code apps via Power Apps, automated task flows via Power Automate, and advanced analytics dashboards using Power BI. They are a great fit if you want a local team that understands regional workflow bottlenecks. Bespoke Technology Overview: Based locally in Mayfield West, Bespoke Technology is an established Managed IT and Microsoft Consulting Partner. Why them: If your Power Platform requirements need to tie deeply into broader enterprise infrastructure, security compliance, cloud migration, or managed IT support, Bespoke provides an integrated local team. They excel at tailor-made solutions for small-to-medium businesses in the Hunter. If your Power Platform requirements need to tie deeply into broader enterprise infrastructure, security compliance, cloud migration, or managed IT support, Bespoke provides an integrated local team. They excel at tailor-made solutions for small-to-medium businesses in the Hunter Power Platform Experts (Office Experts Group) Overview: A nationwide specialized consultancy with regional NSW coverage (including the Hunter and Central Coast) detailed on Power Platform Experts Locations. Why them: Backed by decades of combined data and Microsoft ecosystem experience (covering Power Platform as well as legacy database migration like MS Access to Power Apps), they offer structured, scalable end-to-end development, mentoring, and support with flexible on-site or remote delivery models.",
+              "markdown": "- **WorkflowIQ** \n\t- **Overview:** A specialized consultancy providing targeted WorkflowIQ Microsoft Power Platform Solutions tailored to regional New South Wales businesses.\n\t- **Why them:** They focus squarely on streamlining operational efficiency through custom low-code/no-code apps via Power Apps, automated task flows via Power Automate, and advanced analytics dashboards using Power BI. They are a great fit if you want a local team that understands regional workflow bottlenecks.\n- **Bespoke Technology** \n\t- **Overview:** Based locally in Mayfield West, [Bespoke Technology](https://bespoke.tech/) is an established Managed IT and Microsoft Consulting Partner.\n\t- **Why them:** If your Power Platform requirements need to tie deeply into broader enterprise infrastructure, security compliance, cloud migration, or managed IT support, Bespoke provides an integrated local team. They excel at tailor-made solutions for small-to-medium businesses in the Hunter.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM1ptUTVNRFZuGAo)\n- **Power Platform Experts (Office Experts Group)** \n\t- **Overview:** A nationwide specialized consultancy with regional NSW coverage (including the Hunter and Central Coast) detailed on [Power Platform Experts Locations](https://www.powerplatformexperts.com.au/locations).\n\t- **Why them:** Backed by decades of combined data and Microsoft ecosystem experience (covering Power Platform as well as legacy database migration like MS Access to Power Apps), they offer structured, scalable end-to-end development, mentoring, and support with flexible on-site or remote delivery models.[[1]](https://www.powerplatformexperts.com.au/locations)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Bespoke Technology",
+                  "description": null,
+                  "url": "https://bespoke.tech/",
+                  "domain": "bespoke.tech"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Experts Locations",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "domain": "www.powerplatformexperts.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM1ptUTVNRFZuGAo",
+                  "title": "Bespoke Technology",
+                  "text": "11/11 McIntosh Dr, Mayfield West NSW 2304 · Bespoke Technology is a Managed IT Services, IT Support, Microsoft Consulting Partner ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+                  "text": "Office Experts Group provides Microsoft Power Platform, Excel, Word, Access, and Office consulting, automation, and business intel..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo",
+                  "title": "Power Platform Experts",
+                  "text": "Backed by over 20 years of industry experience, our Power Platform consultants specialise in harnessing the transformative capabil..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these consultants fits best, could you let me know:",
+              "markdown": "To help narrow down which of these consultants fits best, could you let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What specific projects or tools you are looking to build (e.g., Power Apps data capture, Power Automate approvals, Power BI reporting)? Do you prefer a local Newcastle-based team for on-site workshops, or are you comfortable with a hybrid/remote specialist?",
+              "markdown": "- What **specific projects** or tools you are looking to build (e.g., Power Apps data capture, Power Automate approvals, Power BI reporting)?\n- Do you prefer a **local Newcastle-based team** for on-site workshops, or are you comfortable with a **hybrid/remote** specialist?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/locations",
+              "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+              "text": "Office Experts Group provides Microsoft Power Platform, Excel, Word, Access, and Office consulting, automation, and business intelligence solutions across Australi..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdJM1ptUTVNRFZuGAo",
+              "title": "Bespoke Technology",
+              "text": "11/11 McIntosh Dr, Mayfield West NSW 2304 · Bespoke Technology is a Managed IT Services, IT Support, Microsoft Consulting Partner & IT Services company in Mayfield West NSW"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhNd2RtdDRPSEZrGAo",
+              "title": "Power Platform Experts",
+              "text": "Backed by over 20 years of industry experience, our Power Platform consultants specialise in harnessing the transformative capabilities of Microsoft’s Power Platform to help your business boost productivity and reduce operational costs. We offer end-to-end services in Power Apps, Power Automate, Power BI and Power Pages, ranging from automating repetitive tasks to creating custom applications that integrate seamlessly with your existing systems. Power Platform Experts is based in Australia and offers both remote and onsite service options nationwide, combining technical expertise with practical business insights to provides expert guidance and tailored solutions to help you navigate and succeed in the modern digital landscape."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

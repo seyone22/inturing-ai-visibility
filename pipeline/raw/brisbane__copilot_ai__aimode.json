@@ -1,0 +1,157 @@
+{
+  "slug": "brisbane",
+  "pk": "copilot_ai",
+  "plat": "aimode",
+  "text": "Which AI automation consultants in Brisbane specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__copilot_ai__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:07.270Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Brisbane specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20AI%20automation%20consultants%20in%20Brisbane%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-29 04:06:01 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "In the Brisbane market, `several specialised technology consultancies` focus on the Microsoft AI and Power Platform stack (including Microsoft Copilot Studio, custom AI agents, and Power Automate workflow integration) tailored for mid-market organisations.\n\nProminent local specialists include:\n\n- **Frontrow Technology** — Operating from Queen Street in the Brisbane CBD, this consultancy is led by a Microsoft MVP and focuses heavily on mid-market AI strategy, custom Copilot Studio agents, Azure AI Foundry workloads, and the underlying data governance scaffolding. While centered on the Microsoft ecosystem, they also adopt a multi-model approach where alternative tools (like Claude) fit specific workflows. You can evaluate their advisory services via the [Frontrow AI Consultant Brisbane](https://frontrowtech.com.au/ai-consultant-brisbane) page.[[1]](https://frontrowtech.com.au/ai-consultant-brisbane)\n- **Itopia** — A Brisbane-based managed service and secure automation provider that explicitly focuses on practical AI rollouts using Microsoft 365 Copilot, Copilot Studio agents, and Power Automate. Their mid-market approach prioritises data security foundations—such as cleaning up Microsoft 365 file permissions, establishing sensitivity labels, and setting up Data Loss Prevention (DLP) guardrails—before deploying custom AI workflow automation. More details can be found on the [Itopia Secure AI & Automation](https://itopia.com.au/what-we-do/ai-automation/) portal.[[1]](https://itopia.com.au/what-we-do/ai-automation/)\n\nIf you'd like to narrow this down, please let me know:\n\n- What is your **current Microsoft licensing tier** (e.g., M365 Business Premium, E3, or E5)?\n- Are you looking for **readiness and security governance** , or ready-to-build **custom customer/internal agents** right away?\n\nI can help outline a **targeted scoping checklist** for your next steps.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In the Brisbane market, several specialised technology consultancies focus on the Microsoft AI and Power Platform stack (including Microsoft Copilot Studio, custom AI agents, and Power Automate workflow integration) tailored for mid-market organisations.",
+              "markdown": "In the Brisbane market, `several specialised technology consultancies` focus on the Microsoft AI and Power Platform stack (including Microsoft Copilot Studio, custom AI agents, and Power Automate workflow integration) tailored for mid-market organisations.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Prominent local specialists include:",
+              "markdown": "Prominent local specialists include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Frontrow Technology — Operating from Queen Street in the Brisbane CBD, this consultancy is led by a Microsoft MVP and focuses heavily on mid-market AI strategy, custom Copilot Studio agents, Azure AI Foundry workloads, and the underlying data governance scaffolding. While centered on the Microsoft ecosystem, they also adopt a multi-model approach where alternative tools (like Claude) fit specific workflows. You can evaluate their advisory services via the Frontrow AI Consultant Brisbane page. Frontrow Technology Itopia — A Brisbane-based managed service and secure automation provider that explicitly focuses on practical AI rollouts using Microsoft 365 Copilot, Copilot Studio agents, and Power Automate. Their mid-market approach prioritises data security foundations—such as cleaning up Microsoft 365 file permissions, establishing sensitivity labels, and setting up Data Loss Prevention (DLP) guardrails—before deploying custom AI workflow automation. More details can be found on the Itopia Secure AI & Automation portal. Itopia Itopia",
+              "markdown": "- **Frontrow Technology** — Operating from Queen Street in the Brisbane CBD, this consultancy is led by a Microsoft MVP and focuses heavily on mid-market AI strategy, custom Copilot Studio agents, Azure AI Foundry workloads, and the underlying data governance scaffolding. While centered on the Microsoft ecosystem, they also adopt a multi-model approach where alternative tools (like Claude) fit specific workflows. You can evaluate their advisory services via the [Frontrow AI Consultant Brisbane](https://frontrowtech.com.au/ai-consultant-brisbane) page.[[1]](https://frontrowtech.com.au/ai-consultant-brisbane)\n- **Itopia** — A Brisbane-based managed service and secure automation provider that explicitly focuses on practical AI rollouts using Microsoft 365 Copilot, Copilot Studio agents, and Power Automate. Their mid-market approach prioritises data security foundations—such as cleaning up Microsoft 365 file permissions, establishing sensitivity labels, and setting up Data Loss Prevention (DLP) guardrails—before deploying custom AI workflow automation. More details can be found on the [Itopia Secure AI & Automation](https://itopia.com.au/what-we-do/ai-automation/) portal.[[1]](https://itopia.com.au/what-we-do/ai-automation/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Frontrow AI Consultant Brisbane",
+                  "description": null,
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "domain": "frontrowtech.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Itopia Secure AI & Automation",
+                  "description": null,
+                  "url": "https://itopia.com.au/what-we-do/ai-automation/",
+                  "domain": "itopia.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "frontrowtech.com.au",
+                  "domain": "frontrowtech.com.au",
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "title": "AI Consultant Brisbane — AI advisory, Copilot & agents | Frontrow",
+                  "text": "Frontrow Technology runs AI consulting and advisory services for Brisbane mid-market businesses from Queen Street in the CBD. AI s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "itopia.com.au",
+                  "domain": "itopia.com.au",
+                  "url": "https://itopia.com.au/what-we-do/ai-automation/",
+                  "title": "Secure AI & Automation (Microsoft Copilot) Brisbane | Itopia",
+                  "text": "We help you put Microsoft 365 Copilot, Copilot Studio agents and Power Automate to work, safely. We design AI around how your busi..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What is your current Microsoft licensing tier (e.g., M365 Business Premium, E3, or E5)? Are you looking for readiness and security governance, or ready-to-build custom customer/internal agents right away?",
+              "markdown": "- What is your **current Microsoft licensing tier** (e.g., M365 Business Premium, E3, or E5)?\n- Are you looking for **readiness and security governance** , or ready-to-build **custom customer/internal agents** right away?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help outline a targeted scoping checklist for your next steps.",
+              "markdown": "I can help outline a **targeted scoping checklist** for your next steps.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "itopia.com.au",
+              "domain": "itopia.com.au",
+              "url": "https://itopia.com.au/what-we-do/ai-automation/",
+              "title": "Secure AI & Automation (Microsoft Copilot) Brisbane | Itopia",
+              "text": "We help you put Microsoft 365 Copilot, Copilot Studio agents and Power Automate to work, safely. We design AI around how your business actually runs"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "frontrowtech.com.au",
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+              "title": "AI Consultant Brisbane — AI advisory, Copilot & agents | Frontrow",
+              "text": "Frontrow Technology runs AI consulting and advisory services for Brisbane mid-market businesses from Queen Street in the CBD. AI strategy and roadmaps, Copilot rol..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

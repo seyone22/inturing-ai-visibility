@@ -1,0 +1,396 @@
+{
+  "slug": "hobart",
+  "pk": "workflow_automation",
+  "plat": "gemini",
+  "text": "Which consultancies in Hobart are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__workflow_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:20.819Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When looking for consultancies in Hobart to assist with business workflow automation and Microsoft Power Automate implementation, the market features a mix of **established Tasmanian-headquartered IT consultancies** and **national Microsoft Solutions Partners** with dedicated local offices:\n\n---\n\n### 1. Top Tasmanian & Hobart-Headquartered Consultancies\n\n* **Intuit Technologies**\n  * **Overview:** One of Tasmania’s largest and most prominent IT service providers and consultancies, with long-standing offices in Hobart and Launceston. \n  * **Power Automate / Workflow Fit:** Intuit has a dedicated Microsoft Cloud & Business Applications practice. They assist organisations with Dynamics 365, Microsoft 365, and the Microsoft Power Platform (Power Automate, Power Apps, Dataverse). They are particularly well-suited for mid-market to enterprise-level process automation, approval workflows, and systems integration.\n* **ISW (Information Symbiosis Worldwide)**\n  * **Overview:** Founded and headquartered in Hobart, ISW has operated for over 25 years as a technology consultancy and custom software provider.\n  * **Power Automate / Workflow Fit:** ISW specializes in modern workplace solutions and digital transformation. They build workflow automations and internal apps connecting SharePoint, Microsoft Teams, and the wider Power Platform. They are an ideal choice if your automation involves document management, legacy software modernization, or custom web integration.\n* **Element Digital / Tempus Innovative Solutions**\n  * **Overview:** Local Hobart-based consulting firms geared toward SMEs, non-profits, and government agencies seeking practical digital transformation.\n  * **Power Automate / Workflow Fit:** They focus on process discovery, replacing repetitive administrative paper/spreadsheet tasks, and orchestrating workflows using Power Automate, Logic Apps, and Cloud APIs.\n\n---\n\n### 2. National Partners with a Strong Hobart Presence\n\n* **Data#3 (Hobart Office)**\n  * **Overview:** One of Australia’s largest Microsoft Tier-1 Solutions Partners with a local team and office in Hobart.\n  * **Power Automate / Workflow Fit:** Data#3 possesses deep expertise across Microsoft Business Applications, Power Platform, Copilot Studio, and Robotic Process Automation (RPA). They are suited for larger mid-market, government (Tasmanian State Government / councils), or education deployments that require stringent security, enterprise governance, and complex multi-system orchestrations.\n* **MYtech Consulting Services (Hobart Office)**\n  * **Overview:** Located on Macquarie Street in Hobart, MYtech is a Microsoft Solutions Partner focusing on modern work and business systems.\n  * **Power Automate / Workflow Fit:** Their core services specifically emphasize Microsoft Dynamics 365 and the Power Platform suite (Power Apps, Power Automate, and Power BI) to automate administrative bottlenecks, client tracking, and finance workflows.\n\n---\n\n### Which Consultancy to Pick?\n\n| Your Need | Recommended Path |\n| :--- | :--- |\n| **Full-service IT + Power Platform adoption** | **Intuit Technologies** – Great balance of local Tasmanian support, managed IT, and dedicated Microsoft business application teams. |\n| **Workplace collaboration & custom integration** | **ISW** – Best if your automations tie deeply into SharePoint document sets, custom portals, or hybrid environments. |\n| **Enterprise-scale governance & compliance** | **Data#3** – Best if you have complex data policies, large license footprints, or require a Power Platform **Center of Excellence (CoE)** setup. |\n| **Boutique SME process transformation** | **Tempus** or **MYtech** – Best for targeted projects needing hands-on workflow mapping and rapid deployment. |\n\n---\n\n### Key Questions to Ask When Engaging:\n1. **Licensing & Connectors:** Will the automations run on standard *seeded* Microsoft 365 licensing, or will they require premium Power Automate / Dataverse per-flow or per-user licenses?\n2. **Environment & ALM Strategy:** How do they manage environments (Dev/Test/Prod) and solution packaging to ensure workflows don't break when individual staff accounts change?\n3. **Training & Handover:** Do they build \"black box\" solutions, or will they upskill your internal team to maintain and update basic flows moving forward?",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=IT+consultancy+Hobart+business+process+automation&client=app-vertex-grounding&safesearch=active\">IT consultancy Hobart business process automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22ISW%22+%22Power+Platform%22+OR+%22Power+Automate%22+Hobart&client=app-vertex-grounding&safesearch=active\">&quot;ISW&quot; &quot;Power Platform&quot; OR &quot;Power Automate&quot; Hobart</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Intuit+Technologies%22+%22Power+Automate%22+OR+%22Power+Platform%22+Hobart&client=app-vertex-grounding&safesearch=active\">&quot;Intuit Technologies&quot; &quot;Power Automate&quot; OR &quot;Power Platform&quot; Hobart</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Hobart+Microsoft+Power+Automate+consultancy+workflow+automation&client=app-vertex-grounding&safesearch=active\">Hobart Microsoft Power Automate consultancy workflow automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+%22Power+Automate%22+consulting+OR+implementation+services&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; &quot;Power Automate&quot; consulting OR implementation services</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partner+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partner Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Hobart+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Hobart &quot;Power Platform&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuQ3_L56GUM-NtFsm3OWl1c1k9Fxe9pLMhDWiBUV9Cca4mQteKbJSrb_yYgK4fUFDOH6GTlIjnyfB5PblKDifwqZ37xOl9EkMdRhnQpUYRn9Ijl3Fl_eUUDhLfyl2sG1n-Ke1NHhQ=",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5EZTIJBl65oQDfs6fQGSL2W5mpPWd6RXRouQvHHtEdBOPaIVoQBa9-eaSC4bApoFUuQfdNFBIOLawueXPnnpW4NIZ_SbLamxegWKo69Ry9Py_3rzdDHruzl3POWsltkAuETfbMdi2XBphGw==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4s8iX2fQZvf0cGMdSxJ0j9TSLxoiLnf6-eggYtMl9MiVMo4NcckK--j2fyrxb5X_clr-JIig9T0gfvKRyMdoo-qLV6LITXzHxHpbPFikgOXt1i1aNDlzshRCM4N_ZtYitrCPRk9WEOXfBIYxu",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNuOU9cMEBrZmnFmq2TZLCuePSORnCZpHl0f0v3A5pxb3CYR8EOsKXuioAQqtwzT-jyKMxmsQDv1soHdfrQgYmPvyrll1jw0F43d6uVHdoPLqMzj1LO-M6spFC7mYOqYZKOlsxkl2RhZ0alTY4WBOrrxA=",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuXKxhNvczQZ8aeTiSpymbGjbeKJl8IhSV176DKUip2hWP-CZkw8X_l4NKXndG-FOSKjJ9VlHx0Mic5WLgMFxVFUuwRMdzKFstH_UZniyAWObo3HK-VBz1k6zQLywX5DkLXMGX6RDOHKYdc9_3fPvE6gLe-s5eufkTK8QplmInM_WAsRCV",
+                "title": "officeproconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLgADJY8SotDy3dsETRyVbmcd-4Xz6s1BA9oRtA-KYHy2vz8Y50gVjEl0vs_Hde52ODuACcclcGweV49ELfAmxaSrJ6meqqHwj6Dw0",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4eq2LL1j53HkZrIbLVyd9a-bxRIdmTUpAlRRt18kuq2UMK-6ZuzHB_IOQgHriqmekO7RYdN3WtOI0UagWmHrNrvYEvNFYGLjPVxO3iP3ZJdpxeW5eREg0w==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSvW20B1CVa4TI3UjwnG5UGu8tOKXdQVqcC7hWaqm9pXPopQG9k695nbqdGBGUriaB746abV7l4tYxY0h5m8dT29LlT-m7V70Z5vdxkk0bfGqNYVL_7iYaSQf6xmVYSkMTqRXc6EI=",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgW9-Pm5krn352JUBqgSAeBMeh8N9lR8DRVa4qu3pLthhJYx_lhQLWnrxPyXuFSSVTkOaXaW8UyMHoLihR76Fjr6cHTwjL-C2_8XWoisnf7TlA7PDs2AJ9RfZflSqhKY8=",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwWalVQ3kw9DVI6WBHbx3-XuXhB0YWX4z5o7UQZf83sj7VivPVCUJKDr4KZDjxIq_UZ93MhAzE7ERpWyDADBsfifCjuUuMaSJjUHHNsgfEpOaXMbChw9p5TaskSLbunzCaa1MomQvsEkI=",
+                "title": "tempusis.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Rxikee7tKMjIJ80NnyjXqKqoQlERZ-yem_guwOFuqe1AOBUIdkFqFQVBRMq5lj_C8AImxQXlq2Gb4phuhOABGvXDUzEKxto__RxNlmiMHQW-UULLUnwog6SuHNb9YZkYRopWNO8HVU-0AgKWSuzVmbKKCQT7IRjlomvXyaa6zApMpPzpTbkv_11YA-cpsHpZVpY=",
+                "title": "elementdigital.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcKF1OnzivsItGVxbOK4J4Xac0R6d-j2IFfbq5STTlVOmCCr4RHkGq5TiMf35YQi_NRBHBs7DGEpMoQgC-L3WTQ2Ru1omJwBpKbVGvkW7U8Fo=",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA-8Pc3NJes44suqvyf8aICFp5UkJNy2unqxeW0nBWqWBWpTngudK7tl-G859Pi65oEvI4NhHgoSgdYgajOL8Ama1lPnPHrgTThQCBdG-ODfo796mZOUxMrBa8YtkOzA==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4eq2LL1j53HkZrIbLVyd9a-bxRIdmTUpAlRRt18kuq2UMK-6ZuzHB_IOQgHriqmekO7RYdN3WtOI0UagWmHrNrvYEvNFYGLjPVxO3iP3ZJdpxeW5eREg0w==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL-9t_vbLcpWIoGj3o5Ec1XlLO1cm_n_ra4o5fdFqSqFpokrni0ILjyp2k-mjZ5999X1aiBxeTzKCP5ytbDtIIqvvJVP0fuDDzg0RAdGORoehICWp5Fe-ZomMpIwB7gepPR7Dda48LcFc8Lf_jK8Do3-r2f7kXREB3gbLa81LeXoK3VSbz",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECTGXpzvDCkg6BnPmklfxonQYYrVfiKnyekjGmAXK7LzfjbB3DSU4b2FFWUiDvVTBHO_AsM0BO8H_h5pqNym45sXJW9Iofcgn8FVB5phzsJtcVC0-1BAY3CzbM0bf-",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJlaI7P5pWeYJNHTgOiecme_aivvQWFu8prmkH0-EAruVLM2SXp8q4WRifjukWPnfO53J1lzpwdaPVQO5JxQ_sBCvQt3-2EqUyjjj3Y6sGevw5RiIn4AAaJwmcRUhqVrtjFIP7t1xkzFC0UHRQMR8S",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoVbPvh-9G384FlyIGHV7TG4Gc5r1SleXso57AtrrVs1bbQebXpmpvOf5OMAtPWAYIYgbzisfVQUtCsGMLwgsn_RaIPkT6Slo9fdfCYZd5Q14e5lfFfFK5sy0CaqromIZAOKjoav_cXHfaj1Ddf9siOvEOWw==",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVd55zZCizna1XkrAHQt_MUxv6uuRIsPxBILxtnrZz1GoXLBz_hzkG5qdluz5wSaUFDRjKHOXRKtZIZrQDh66N8_6FbUzzQmlT3ZHT8oLk4MSb2xPBxggsNv-vlZO6theUd_aFQIE_UZZniCoTCeIJIuFa",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPgtNG3IEGyrKoi7_1PG4e-3hwVG-xrs0xNv8Cm6HQd9aRJYIn6M2QQ3LQt3a8LGbLtOA45s6Cv_TwhAEqIL4nXJTXwFTf4oTSuRmdqxvYQFnsmpc5JJ5H8vp3hJRu1UNSlW-K2KjkG95qKoN41LwietnN-bI=",
+                "title": "antares.solutions"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 387,
+                "endIndex": 539,
+                "text": "**Overview:** One of Tasmania’s largest and most prominent IT service providers and consultancies, with long-standing offices in Hobart and Launceston"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 546,
+                "endIndex": 652,
+                "text": "**Power Automate / Workflow Fit:** Intuit has a dedicated Microsoft Cloud & Business Applications practice"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 654,
+                "endIndex": 786,
+                "text": "They assist organisations with Dynamics 365, Microsoft 365, and the Microsoft Power Platform (Power Automate, Power Apps, Dataverse)"
+              },
+              "groundingChunkIndices": [
+                3,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 788,
+                "endIndex": 920,
+                "text": "They are particularly well-suited for mid-market to enterprise-level process automation, approval workflows, and systems integration"
+              },
+              "groundingChunkIndices": [
+                4,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 970,
+                "endIndex": 1112,
+                "text": "**Overview:** Founded and headquartered in Hobart, ISW has operated for over 25 years as a technology consultancy and custom software provider"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1118,
+                "endIndex": 1225,
+                "text": "**Power Automate / Workflow Fit:** ISW specializes in modern workplace solutions and digital transformation"
+              },
+              "groundingChunkIndices": [
+                5,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1227,
+                "endIndex": 1345,
+                "text": "They build workflow automations and internal apps connecting SharePoint, Microsoft Teams, and the wider Power Platform"
+              },
+              "groundingChunkIndices": [
+                8,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1347,
+                "endIndex": 1477,
+                "text": "They are an ideal choice if your automation involves document management, legacy software modernization, or custom web integration"
+              },
+              "groundingChunkIndices": [
+                5,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1535,
+                "endIndex": 1682,
+                "text": "**Overview:** Local Hobart-based consulting firms geared toward SMEs, non-profits, and government agencies seeking practical digital transformation"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1688,
+                "endIndex": 1893,
+                "text": "**Power Automate / Workflow Fit:** They focus on process discovery, replacing repetitive administrative paper/spreadsheet tasks, and orchestrating workflows using Power Automate, Logic Apps, and Cloud APIs"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1990,
+                "endIndex": 2107,
+                "text": "**Overview:** One of Australia’s largest Microsoft Tier-1 Solutions Partners with a local team and office in Hobart"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2113,
+                "endIndex": 2288,
+                "text": "**Power Automate / Workflow Fit:** Data#3 possesses deep expertise across Microsoft Business Applications, Power Platform, Copilot Studio, and Robotic Process Automation (RPA)"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2290,
+                "endIndex": 2501,
+                "text": "They are suited for larger mid-market, government (Tasmanian State Government / councils), or education deployments that require stringent security, enterprise governance, and complex multi-system orchestrations"
+              },
+              "groundingChunkIndices": [
+                12,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2556,
+                "endIndex": 2693,
+                "text": "**Overview:** Located on Macquarie Street in Hobart, MYtech is a Microsoft Solutions Partner focusing on modern work and business systems"
+              },
+              "groundingChunkIndices": [
+                17,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2699,
+                "endIndex": 2950,
+                "text": "**Power Automate / Workflow Fit:** Their core services specifically emphasize Microsoft Dynamics 365 and the Power Platform suite (Power Apps, Power Automate, and Power BI) to automate administrative bottlenecks, client tracking, and finance workflows"
+              },
+              "groundingChunkIndices": [
+                17,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3039,
+                "endIndex": 3221,
+                "text": "| **Full-service IT + Power Platform adoption** | **Intuit Technologies** – Great balance of local Tasmanian support, managed IT, and dedicated Microsoft business application teams"
+              },
+              "groundingChunkIndices": [
+                2,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3225,
+                "endIndex": 3395,
+                "text": "| **Workplace collaboration & custom integration** | **ISW** – Best if your automations tie deeply into SharePoint document sets, custom portals, or hybrid environments"
+              },
+              "groundingChunkIndices": [
+                8,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3399,
+                "endIndex": 3593,
+                "text": "| **Enterprise-scale governance & compliance** | **Data#3** – Best if you have complex data policies, large license footprints, or require a Power Platform **Center of Excellence (CoE)** setup"
+              },
+              "groundingChunkIndices": [
+                19,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3597,
+                "endIndex": 3751,
+                "text": "| **Boutique SME process transformation** | **Tempus** or **MYtech** – Best for targeted projects needing hands-on workflow mapping and rapid deployment"
+              },
+              "groundingChunkIndices": [
+                9,
+                18
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "IT consultancy Hobart business process automation",
+            "\"ISW\" \"Power Platform\" OR \"Power Automate\" Hobart",
+            "\"Intuit Technologies\" \"Power Automate\" OR \"Power Platform\" Hobart",
+            "Hobart Microsoft Power Automate consultancy workflow automation",
+            "\"Hobart\" \"Power Automate\" consulting OR implementation services",
+            "Microsoft Power Platform partner Hobart Tasmania",
+            "\"Data#3\" Hobart \"Power Platform\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 515,
+      "candidatesTokenCount": 1141,
+      "totalTokenCount": 2782,
+      "cachedContentTokenCount": 168,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 515
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 168
+        }
+      ],
+      "thoughtsTokenCount": 1126,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "SsfiapPTCbzIv_gP08jouQo"
+  }
+}

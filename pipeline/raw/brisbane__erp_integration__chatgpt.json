@@ -1,0 +1,694 @@
+{
+  "slug": "brisbane",
+  "pk": "erp_integration",
+  "plat": "chatgpt",
+  "text": "Which system integration specialists in Brisbane are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__erp_integration__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:03.265Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which system integration specialists in Brisbane are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20system%20integration%20specialists%20in%20Brisbane%20are%20best%20for%20connecting%20ERP%2C%20CRM%2C%20MYOB%20Acumatica%2C%20SAP%2C%20and%20Microsoft%20365%20systems%3F&hints=search",
+      "datetime": "2026-10-29 04:05:57 +00:00",
+      "markdown": "For Brisbane businesses connecting ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I’d shortlist specialists based on two things: **proven experience with your core business platforms and the ability to integrate systems reliably**, rather than general IT support alone.\n\nThere probably isn’t one provider that is equally strong across all five areas. The best fit may be a specialist ERP partner for MYOB Acumatica, an enterprise integration consultancy for SAP and CRM, or a lead integrator that coordinates the whole project.\n\n## Best Brisbane specialists to shortlist\n\n![Tonic Technologies MYOB Partner Profile](https://images.openai.com/static-rsc-4/8b9u5isNvf2RTUn7DTv0y9VqPjKOur3bYsbn8VPEl4Ne-VL5iSpiA8CyZMfRv4pVGHW7lGGF8Ox3doqiOxYFc4NmUnSITSBJjxmVwJCzHJAO9076QwnuSeyUiYCvS7IhIIIeClC92xlFstHH9dDcO0h8kJGotQFdFPESQJP2q8xsJVL4GTh0vaH-TLbAfNaA?purpose=fullsize)\n\n## 1\\. Tonic Technologies\n\n(Best starting point for MYOB Acumatica)\n\nTonic combines MYOB Acumatica implementation and support with ReadySoft, its software development arm, which builds custom ERP add-ons and integrations. That makes it a strong first conversation if Acumatica is your operational or financial system of record. [www.tonictechnologies.com.au](https://www.tonictechnologies.com.au/?utm_source=chatgpt.com)[www.tonictechnologies.com.au](https://www.tonictechnologies.com.au/home?utm_source=chatgpt.com)\n\n**Best for\\:** ERP integration, data migration, custom connectors and ongoing Acumatica support.\n\n**Confirm\\:** Direct experience integrating your specific SAP and CRM products, and Microsoft 365 workflows.\n\n[tonictechnologies.com.au](https://www.tonictechnologies.com.au/)\n\n---\n\n![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)\n\n## 2\\. Auboros\n\n(Best for multi-ERP expertise)\n\nAuboros specialises in MYOB Acumatica and Odoo, with its team describing hands-on experience across SAP, Microsoft Dynamics, NetSuite, Oracle and other ERP platforms. It also undertakes third-party integrations and custom development. [www.auboros.com](https://www.auboros.com/about?utm_source=chatgpt.com)[www.auboros.com](https://www.auboros.com/llm-info?utm_source=chatgpt.com)\n\n**Best for\\:** Mid-market organisations needing ERP integration and business-process redesign.\n\n**Confirm\\:** References for projects involving SAP and Microsoft 365 in the same integration architecture.\n\n[auboros.com](https://www.auboros.com/)\n\n---\n\n![Ihre sichere Videokonferenz - ohne Anmeldung](https://images.openai.com/static-rsc-4/Uk64PYNmPwcsiuocAqia9Amgs8-up15qFT2LTQF7vcrWIvABRq_dNTOBpQwu6AiO4rHL7v7ESAe5BcAlTVlbv2yqcjKhtqYDQ1AYCfFMqnjufFeX4GY35U1-YdJy-3xMm7kDa9dcrNuBXz-XSd-jpFijOIy32sZsHGjvr-93ZKxFJprbIBHrLntpp0wKGLq5?purpose=fullsize)\n\n## 3\\. Intelligent Pathways\n\n(Best for complex enterprise integration)\n\nAn independent Brisbane technology consultancy with a focus on systems integration and orchestration, including API management and integration platforms such as MuleSoft and Axway. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJkRJOo-1ZkWsRAyA4iOqFqh8&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** Connecting multiple applications, designing integration architecture and coordinating complex data flows.\n\n**Confirm\\:** Current delivery experience with MYOB Acumatica and the particular SAP and CRM versions you run.\n\nLevel 8, 500 Queen Street, Brisbane CBD\n\n---\n\n![An exciting new chapter: Stratus joins Pine Services Group](https://images.openai.com/static-rsc-4/B9-rFTaM6hI3c8dOPrA_Htq06kfOWi2B7QCuh31clpns_ImjLCyXNCzvKUuUDji3qAXToNROsVQhsqJ7JAusf_5z2L8n9DY8_1r4tw_o_5B7hMRafCXop7mDXteoSTKtJteCHhNGZf0uDFTA-gAmmuBxGY0LjXxvcJz0Nn8sz9lEPJcN1CtkdL6u3Jts1Hzd?purpose=fullsize)\n\n## 4\\. Stratus Consulting Group\n\nA specialist worth evaluating for the MYOB Acumatica side of the project. Its business profile identifies it as a MYOB Acumatica Diamond Partner, with experience implementing and supporting Acumatica and other ERP platforms. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJZ45b2DZbkWsRNNes9v51wkw&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** Acumatica implementation, customisation, support and ERP-led integration projects.\n\n**Confirm\\:** Whether it can own the full SAP, CRM and Microsoft 365 integration scope or would need a separate integration partner.\n\nLevel 4, 80 Ann Street, Brisbane CBD\n\n---\n\n![Announcing SAP Inside Track Brisbane 2nd June 2023 - SAP Community](https://images.openai.com/static-rsc-4/1ZhzDcUEddSubw8SFzc1ze8G7UECyrKIeWXHQ25njWGD0Oy00bAfnnY391HaoSdkvbA3kQMa_GmbMtc_chYk4UWGYAS2MCNsV97syy00cob8ofjbsH8xc73ExhfUcrKCOuV_xvh-9sdWRiRuIqafLFKIJW2u9Lgu0X-IaqPOk8QR6-FMGEiUU29GYWrYmNcD?purpose=fullsize)\n\n## 5\\. DalRae Solutions\n\nA Brisbane-based SAP-focused consultancy whose capabilities include SAP Business Technology Platform (BTP), S/4HANA and integration modernisation. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJb5A6o7dZkWsRpOOQoNRjoXQ&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** SAP-heavy environments where SAP integration architecture and extensions are central to the project.\n\n**Confirm\\:** Experience connecting SAP with MYOB Acumatica and your CRM, plus responsibility for end-to-end delivery.\n\nLevel 15, 348 Edward Street, Brisbane CBD\n\n## Other specialists worth considering\n\nThese providers may be useful if Microsoft 365 or broader application integration is a major part of your requirements.\n\n| Provider | Where they may fit | Website |\n|--------|--------|--------|\n| **365 Architechs** | Microsoft 365, Dynamics 365, Business Central, Azure and Power Platform integrations. [workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/365-architechs/?utm_source=chatgpt.com) | [365 Architechs](https://workforcedirectory.com.au/vendor/365-architechs/) |\n| **Office Experts Group** | Microsoft technology, workflow automation and reporting. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-brisbane?utm_source=chatgpt.com) | [Office Experts](https://www.officeexperts.com.au/microsoft-consultants-brisbane) |\n| **Outsource Advantage** | Connecting CRM, ERP, finance, operations and communications systems to reduce duplicate data entry. [www.outsourceadvantage.com.au](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane?utm_source=chatgpt.com) | [Systems integration](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane) |\n\n\nThese are candidates to assess, not a verified ranking of the best firms. Publicly available information does not establish that any one provider has demonstrated delivery experience across every system in your list.\n\n## How I would choose\n\n**If MYOB Acumatica is your main ERP**\n\nStart with Tonic Technologies and Stratus Consulting Group. Ask for examples of production integrations with your CRM and SAP environment.\n\n---\n\n**If several platforms must exchange data reliably**\n\nStart with Intelligent Pathways. Ask for an integration design covering APIs, middleware, data ownership, error handling and monitoring.\n\n---\n\n**If SAP is the most complex system**\n\nInclude DalRae Solutions in the shortlist and ask who will take responsibility for the non-SAP connectors and end-to-end testing.\n\n## Questions to ask before engaging anyone\n\n1. Have you delivered a live integration involving **MYOB Acumatica, SAP and a CRM**? Can we speak to a reference client?\n2. How would you connect Microsoft 365, including Outlook, Teams, SharePoint or Power Platform where relevant?\n3. Would you use native connectors, APIs, an integration platform such as MuleSoft, or custom middleware? Why?\n4. How will you handle duplicate records, failed synchronisations, conflicting updates and audit trails?\n5. Who owns the complete solution after go-live, and what are the support SLA and ongoing integration costs?\n\n## One detail would help me narrow this down\n\nWhich CRM are you using, and which SAP product do you have? For example, Salesforce or Dynamics 365, and SAP Business One or SAP S/4HANA.\n\nThat will make a significant difference to which Brisbane specialist is the strongest fit for your actual integration project.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://clutch.co/au/it-services/erp/brisbane",
+          "domain": "clutch.co",
+          "title": "Top ERP Consultants in Brisbane - Oct 2026 Rankings | Clutch.co",
+          "description": null,
+          "breadcrumb": "clutch.co"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.auboros.com/about",
+          "domain": "www.auboros.com",
+          "title": "ERP Consultants Brisbane | Odoo & MYOB Acumatica | Auboros",
+          "description": null,
+          "breadcrumb": "www.auboros.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.auboros.com/llm-info",
+          "domain": "www.auboros.com",
+          "title": "About Auboros for AI Assistants | Official LLM Reference",
+          "description": null,
+          "breadcrumb": "www.auboros.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.tonictechnologies.com.au/",
+          "domain": "www.tonictechnologies.com.au",
+          "title": "Tonic Technologies - MYOB Acumatica Partner",
+          "description": null,
+          "breadcrumb": "www.tonictechnologies.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.tonictechnologies.com.au/home",
+          "domain": "www.tonictechnologies.com.au",
+          "title": "Tonic Technologies - MYOB Acumatica Partner",
+          "description": null,
+          "breadcrumb": "www.tonictechnologies.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.proactivei.com.au/",
+          "domain": "www.proactivei.com.au",
+          "title": "ERP software | Australia | ProActive Integrators - SYSPRO ERP Software",
+          "description": null,
+          "breadcrumb": "www.proactivei.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://workforcedirectory.com.au/vendor/365-architechs/",
+          "domain": "workforcedirectory.com.au",
+          "title": "365 Architechs | Microsoft Business Applications Brisbane",
+          "description": null,
+          "breadcrumb": "workforcedirectory.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.outsourceadvantage.com.au/services/systems-integration/brisbane",
+          "domain": "www.outsourceadvantage.com.au",
+          "title": "Systems Integration Brisbane | Systems Integration Consultants in Brisbane, QLD",
+          "description": null,
+          "breadcrumb": "www.outsourceadvantage.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://365erp.com.au/about-us/",
+          "domain": "365erp.com.au",
+          "title": "About Us - 365 ERP",
+          "description": null,
+          "breadcrumb": "365erp.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.riseaccountants.com.au/business/innovation-services/myob-acumatica-specialists",
+          "domain": "www.riseaccountants.com.au",
+          "title": "MYOB Acumatica Accounting Specialists",
+          "description": null,
+          "breadcrumb": "www.riseaccountants.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.integratedlogic.com.au/our-team",
+          "domain": "www.integratedlogic.com.au",
+          "title": "Our Team | Integrated Logic",
+          "description": null,
+          "breadcrumb": "www.integratedlogic.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-brisbane",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Brisbane",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://momentumsoftwaresolutions.com.au/wp-content/uploads/2025/10/MSS-MYOB-Acumatica-Capability-Statement.pdf",
+          "domain": "momentumsoftwaresolutions.com.au",
+          "title": "Who is Momentum",
+          "description": null,
+          "breadcrumb": "momentumsoftwaresolutions.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Tonic Technologies",
+          "snippet": null,
+          "domain": "www.tonictechnologies.com.au",
+          "url": "https://www.tonictechnologies.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "MYOB Acumatica Partner",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Tonic Technologies",
+          "snippet": null,
+          "domain": "www.tonictechnologies.com.au",
+          "url": "https://www.tonictechnologies.com.au/home?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "MYOB Acumatica Partner",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "tonictechnologies.com.au",
+          "snippet": null,
+          "domain": "www.tonictechnologies.com.au",
+          "url": "https://www.tonictechnologies.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[tonictechnologies.com.au](https://www.tonictechnologies.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ERP Consultants Brisbane | Odoo & MYOB Acumatica",
+          "snippet": null,
+          "domain": "www.auboros.com",
+          "url": "https://www.auboros.com/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Auboros",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Auboros for AI Assistants",
+          "snippet": null,
+          "domain": "www.auboros.com",
+          "url": "https://www.auboros.com/llm-info?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Official LLM Reference",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "auboros.com",
+          "snippet": null,
+          "domain": "www.auboros.com",
+          "url": "https://www.auboros.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[auboros.com](https://www.auboros.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Intelligent Pathways",
+          "snippet": "Level 8/500 Queen St, Brisbane City QLD 4000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJkRJOo-1ZkWsRAyA4iOqFqh8&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Stratus Consulting Group",
+          "snippet": "Level 4/80 Ann St, Brisbane City QLD 4000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJZ45b2DZbkWsRNNes9v51wkw&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "DalRae Solutions",
+          "snippet": "Level 15/348 Edward St, Brisbane City QLD 4000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJb5A6o7dZkWsRpOOQoNRjoXQ&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "365 Architechs",
+          "snippet": null,
+          "domain": "workforcedirectory.com.au",
+          "url": "https://workforcedirectory.com.au/vendor/365-architechs/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Business Applications Brisbane",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "365 Architechs",
+          "snippet": null,
+          "domain": "workforcedirectory.com.au",
+          "url": "https://workforcedirectory.com.au/vendor/365-architechs/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[365 Architechs](https://workforcedirectory.com.au/vendor/365-architechs/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Consultants Brisbane",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-brisbane?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Office Experts Group",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Office Experts",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-brisbane",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Office Experts](https://www.officeexperts.com.au/microsoft-consultants-brisbane)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Systems Integration Brisbane",
+          "snippet": null,
+          "domain": "www.outsourceadvantage.com.au",
+          "url": "https://www.outsourceadvantage.com.au/services/systems-integration/brisbane?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Systems Integration Consultants in Brisbane, QLD",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Systems integration",
+          "snippet": null,
+          "domain": "www.outsourceadvantage.com.au",
+          "url": "https://www.outsourceadvantage.com.au/services/systems-integration/brisbane",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Systems integration](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane)"
+        }
+      ],
+      "fan_out_queries": [
+        "Brisbane systems integration specialists ERP CRM MYOB Acumatica SAP Microsoft 365 consultants Australia"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane MYOB Acumatica ERP and custom software integration provider",
+          "category": "company",
+          "markdown": "Tonic Technologies",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane ERP implementation and integration consultancy",
+          "category": "company",
+          "markdown": "Auboros",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Intelligent Pathways",
+          "category": "local_business",
+          "markdown": "Intelligent Pathways",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Stratus Consulting Group",
+          "category": "local_business",
+          "markdown": "Stratus Consulting Group",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "DalRae Solutions",
+          "category": "local_business",
+          "markdown": "DalRae Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "365 Architechs",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft consulting provider",
+          "category": "company",
+          "markdown": "Office Experts Group",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane systems integration services provider",
+          "category": "company",
+          "markdown": "Outsource Advantage",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For Brisbane businesses connecting ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I’d shortlist specialists based on two things: **proven experience with your core business platforms and the ability to integrate systems reliably**, rather than general IT support alone.\n\nThere probably isn’t one provider that is equally strong across all five areas. The best fit may be a specialist ERP partner for MYOB Acumatica, an enterprise integration consultancy for SAP and CRM, or a lead integrator that coordinates the whole project.\n\n## Best Brisbane specialists to shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Tonic Technologies MYOB Partner Profile](https://images.openai.com/static-rsc-4/8b9u5isNvf2RTUn7DTv0y9VqPjKOur3bYsbn8VPEl4Ne-VL5iSpiA8CyZMfRv4pVGHW7lGGF8Ox3doqiOxYFc4NmUnSITSBJjxmVwJCzHJAO9076QwnuSeyUiYCvS7IhIIIeClC92xlFstHH9dDcO0h8kJGotQFdFPESQJP2q8xsJVL4GTh0vaH-TLbAfNaA?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.myob.com/au/implementation-partners/tonic-technologies",
+              "alt": "Tonic Technologies MYOB Partner Profile",
+              "image_url": "https://images.openai.com/static-rsc-4/8b9u5isNvf2RTUn7DTv0y9VqPjKOur3bYsbn8VPEl4Ne-VL5iSpiA8CyZMfRv4pVGHW7lGGF8Ox3doqiOxYFc4NmUnSITSBJjxmVwJCzHJAO9076QwnuSeyUiYCvS7IhIIIeClC92xlFstHH9dDcO0h8kJGotQFdFPESQJP2q8xsJVL4GTh0vaH-TLbAfNaA?purpose=fullsize",
+              "markdown": "![Tonic Technologies MYOB Partner Profile](https://images.openai.com/static-rsc-4/8b9u5isNvf2RTUn7DTv0y9VqPjKOur3bYsbn8VPEl4Ne-VL5iSpiA8CyZMfRv4pVGHW7lGGF8Ox3doqiOxYFc4NmUnSITSBJjxmVwJCzHJAO9076QwnuSeyUiYCvS7IhIIIeClC92xlFstHH9dDcO0h8kJGotQFdFPESQJP2q8xsJVL4GTh0vaH-TLbAfNaA?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Tonic Technologies\n\n(Best starting point for MYOB Acumatica)\n\nTonic combines MYOB Acumatica implementation and support with ReadySoft, its software development arm, which builds custom ERP add-ons and integrations. That makes it a strong first conversation if Acumatica is your operational or financial system of record. [www.tonictechnologies.com.au](https://www.tonictechnologies.com.au/?utm_source=chatgpt.com)[www.tonictechnologies.com.au](https://www.tonictechnologies.com.au/home?utm_source=chatgpt.com)\n\n**Best for\\:** ERP integration, data migration, custom connectors and ongoing Acumatica support.\n\n**Confirm\\:** Direct experience integrating your specific SAP and CRM products, and Microsoft 365 workflows.\n\n[tonictechnologies.com.au](https://www.tonictechnologies.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Tonic Technologies",
+              "snippet": null,
+              "domain": "www.tonictechnologies.com.au",
+              "url": "https://www.tonictechnologies.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "MYOB Acumatica Partner",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Tonic Technologies",
+              "snippet": null,
+              "domain": "www.tonictechnologies.com.au",
+              "url": "https://www.tonictechnologies.com.au/home?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "MYOB Acumatica Partner",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "tonictechnologies.com.au",
+              "snippet": null,
+              "domain": "www.tonictechnologies.com.au",
+              "url": "https://www.tonictechnologies.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[tonictechnologies.com.au](https://www.tonictechnologies.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane MYOB Acumatica ERP and custom software integration provider",
+              "category": "company",
+              "markdown": "Tonic Technologies",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.tonictechnologies.com.au/tonic-talk/myob-acumatica-vs-myob-advanced-whats-the-difference",
+              "alt": "MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner",
+              "image_url": "https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize",
+              "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Auboros\n\n(Best for multi-ERP expertise)\n\nAuboros specialises in MYOB Acumatica and Odoo, with its team describing hands-on experience across SAP, Microsoft Dynamics, NetSuite, Oracle and other ERP platforms. It also undertakes third-party integrations and custom development. [www.auboros.com](https://www.auboros.com/about?utm_source=chatgpt.com)[www.auboros.com](https://www.auboros.com/llm-info?utm_source=chatgpt.com)\n\n**Best for\\:** Mid-market organisations needing ERP integration and business-process redesign.\n\n**Confirm\\:** References for projects involving SAP and Microsoft 365 in the same integration architecture.\n\n[auboros.com](https://www.auboros.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "ERP Consultants Brisbane | Odoo & MYOB Acumatica",
+              "snippet": null,
+              "domain": "www.auboros.com",
+              "url": "https://www.auboros.com/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Auboros",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Auboros for AI Assistants",
+              "snippet": null,
+              "domain": "www.auboros.com",
+              "url": "https://www.auboros.com/llm-info?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Official LLM Reference",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "auboros.com",
+              "snippet": null,
+              "domain": "www.auboros.com",
+              "url": "https://www.auboros.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[auboros.com](https://www.auboros.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane ERP implementation and integration consultancy",
+              "category": "company",
+              "markdown": "Auboros",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Ihre sichere Videokonferenz - ohne Anmeldung](https://images.openai.com/static-rsc-4/Uk64PYNmPwcsiuocAqia9Amgs8-up15qFT2LTQF7vcrWIvABRq_dNTOBpQwu6AiO4rHL7v7ESAe5BcAlTVlbv2yqcjKhtqYDQ1AYCfFMqnjufFeX4GY35U1-YdJy-3xMm7kDa9dcrNuBXz-XSd-jpFijOIy32sZsHGjvr-93ZKxFJprbIBHrLntpp0wKGLq5?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://sichere-videokonferenz.de/",
+              "alt": "Ihre sichere Videokonferenz - ohne Anmeldung",
+              "image_url": "https://images.openai.com/static-rsc-4/Uk64PYNmPwcsiuocAqia9Amgs8-up15qFT2LTQF7vcrWIvABRq_dNTOBpQwu6AiO4rHL7v7ESAe5BcAlTVlbv2yqcjKhtqYDQ1AYCfFMqnjufFeX4GY35U1-YdJy-3xMm7kDa9dcrNuBXz-XSd-jpFijOIy32sZsHGjvr-93ZKxFJprbIBHrLntpp0wKGLq5?purpose=fullsize",
+              "markdown": "![Ihre sichere Videokonferenz - ohne Anmeldung](https://images.openai.com/static-rsc-4/Uk64PYNmPwcsiuocAqia9Amgs8-up15qFT2LTQF7vcrWIvABRq_dNTOBpQwu6AiO4rHL7v7ESAe5BcAlTVlbv2yqcjKhtqYDQ1AYCfFMqnjufFeX4GY35U1-YdJy-3xMm7kDa9dcrNuBXz-XSd-jpFijOIy32sZsHGjvr-93ZKxFJprbIBHrLntpp0wKGLq5?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Intelligent Pathways\n\n(Best for complex enterprise integration)\n\nAn independent Brisbane technology consultancy with a focus on systems integration and orchestration, including API management and integration platforms such as MuleSoft and Axway. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJkRJOo-1ZkWsRAyA4iOqFqh8&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** Connecting multiple applications, designing integration architecture and coordinating complex data flows.\n\n**Confirm\\:** Current delivery experience with MYOB Acumatica and the particular SAP and CRM versions you run.\n\nLevel 8, 500 Queen Street, Brisbane CBD\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Intelligent Pathways",
+              "snippet": "Level 8/500 Queen St, Brisbane City QLD 4000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJkRJOo-1ZkWsRAyA4iOqFqh8&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Intelligent Pathways",
+              "category": "local_business",
+              "markdown": "Intelligent Pathways",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![An exciting new chapter: Stratus joins Pine Services Group](https://images.openai.com/static-rsc-4/B9-rFTaM6hI3c8dOPrA_Htq06kfOWi2B7QCuh31clpns_ImjLCyXNCzvKUuUDji3qAXToNROsVQhsqJ7JAusf_5z2L8n9DY8_1r4tw_o_5B7hMRafCXop7mDXteoSTKtJteCHhNGZf0uDFTA-gAmmuBxGY0LjXxvcJz0Nn8sz9lEPJcN1CtkdL6u3Jts1Hzd?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://stratusgroup.com.au/blog/an-exciting-new-chapter-stratus-joins-pine-services-group",
+              "alt": "An exciting new chapter: Stratus joins Pine Services Group",
+              "image_url": "https://images.openai.com/static-rsc-4/B9-rFTaM6hI3c8dOPrA_Htq06kfOWi2B7QCuh31clpns_ImjLCyXNCzvKUuUDji3qAXToNROsVQhsqJ7JAusf_5z2L8n9DY8_1r4tw_o_5B7hMRafCXop7mDXteoSTKtJteCHhNGZf0uDFTA-gAmmuBxGY0LjXxvcJz0Nn8sz9lEPJcN1CtkdL6u3Jts1Hzd?purpose=fullsize",
+              "markdown": "![An exciting new chapter: Stratus joins Pine Services Group](https://images.openai.com/static-rsc-4/B9-rFTaM6hI3c8dOPrA_Htq06kfOWi2B7QCuh31clpns_ImjLCyXNCzvKUuUDji3qAXToNROsVQhsqJ7JAusf_5z2L8n9DY8_1r4tw_o_5B7hMRafCXop7mDXteoSTKtJteCHhNGZf0uDFTA-gAmmuBxGY0LjXxvcJz0Nn8sz9lEPJcN1CtkdL6u3Jts1Hzd?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Stratus Consulting Group\n\nA specialist worth evaluating for the MYOB Acumatica side of the project. Its business profile identifies it as a MYOB Acumatica Diamond Partner, with experience implementing and supporting Acumatica and other ERP platforms. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJZ45b2DZbkWsRNNes9v51wkw&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** Acumatica implementation, customisation, support and ERP-led integration projects.\n\n**Confirm\\:** Whether it can own the full SAP, CRM and Microsoft 365 integration scope or would need a separate integration partner.\n\nLevel 4, 80 Ann Street, Brisbane CBD\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Stratus Consulting Group",
+              "snippet": "Level 4/80 Ann St, Brisbane City QLD 4000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJZ45b2DZbkWsRNNes9v51wkw&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Stratus Consulting Group",
+              "category": "local_business",
+              "markdown": "Stratus Consulting Group",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Announcing SAP Inside Track Brisbane 2nd June 2023 - SAP Community](https://images.openai.com/static-rsc-4/1ZhzDcUEddSubw8SFzc1ze8G7UECyrKIeWXHQ25njWGD0Oy00bAfnnY391HaoSdkvbA3kQMa_GmbMtc_chYk4UWGYAS2MCNsV97syy00cob8ofjbsH8xc73ExhfUcrKCOuV_xvh-9sdWRiRuIqafLFKIJW2u9Lgu0X-IaqPOk8QR6-FMGEiUU29GYWrYmNcD?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://community.sap.com/t5/welcome-corner-blog-posts/announcing-sap-inside-track-brisbane-2nd-june-2023/ba-p/13568704",
+              "alt": "Announcing SAP Inside Track Brisbane 2nd June 2023 - SAP Community",
+              "image_url": "https://images.openai.com/static-rsc-4/1ZhzDcUEddSubw8SFzc1ze8G7UECyrKIeWXHQ25njWGD0Oy00bAfnnY391HaoSdkvbA3kQMa_GmbMtc_chYk4UWGYAS2MCNsV97syy00cob8ofjbsH8xc73ExhfUcrKCOuV_xvh-9sdWRiRuIqafLFKIJW2u9Lgu0X-IaqPOk8QR6-FMGEiUU29GYWrYmNcD?purpose=fullsize",
+              "markdown": "![Announcing SAP Inside Track Brisbane 2nd June 2023 - SAP Community](https://images.openai.com/static-rsc-4/1ZhzDcUEddSubw8SFzc1ze8G7UECyrKIeWXHQ25njWGD0Oy00bAfnnY391HaoSdkvbA3kQMa_GmbMtc_chYk4UWGYAS2MCNsV97syy00cob8ofjbsH8xc73ExhfUcrKCOuV_xvh-9sdWRiRuIqafLFKIJW2u9Lgu0X-IaqPOk8QR6-FMGEiUU29GYWrYmNcD?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. DalRae Solutions\n\nA Brisbane-based SAP-focused consultancy whose capabilities include SAP Business Technology Platform (BTP), S/4HANA and integration modernisation. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJb5A6o7dZkWsRpOOQoNRjoXQ&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** SAP-heavy environments where SAP integration architecture and extensions are central to the project.\n\n**Confirm\\:** Experience connecting SAP with MYOB Acumatica and your CRM, plus responsibility for end-to-end delivery.\n\nLevel 15, 348 Edward Street, Brisbane CBD\n\n## Other specialists worth considering\n\nThese providers may be useful if Microsoft 365 or broader application integration is a major part of your requirements.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "DalRae Solutions",
+              "snippet": "Level 15/348 Edward St, Brisbane City QLD 4000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJb5A6o7dZkWsRpOOQoNRjoXQ&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "DalRae Solutions",
+              "category": "local_business",
+              "markdown": "DalRae Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "text": null,
+          "markdown": "| Provider | Where they may fit | Website |\n|--------|--------|--------|\n| **365 Architechs** | Microsoft 365, Dynamics 365, Business Central, Azure and Power Platform integrations. [workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/365-architechs/?utm_source=chatgpt.com) | [365 Architechs](https://workforcedirectory.com.au/vendor/365-architechs/) |\n| **Office Experts Group** | Microsoft technology, workflow automation and reporting. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-brisbane?utm_source=chatgpt.com) | [Office Experts](https://www.officeexperts.com.au/microsoft-consultants-brisbane) |\n| **Outsource Advantage** | Connecting CRM, ERP, finance, operations and communications systems to reduce duplicate data entry. [www.outsourceadvantage.com.au](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane?utm_source=chatgpt.com) | [Systems integration](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane) |\n\n",
+          "table": {
+            "table_header": [
+              "Provider",
+              "Where they may fit",
+              "Website"
+            ],
+            "table_content": [
+              [
+                "**365 Architechs**",
+                "Microsoft 365, Dynamics 365, Business Central, Azure and Power Platform integrations. [workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/365-architechs/?utm_source=chatgpt.com)",
+                "[365 Architechs](https://workforcedirectory.com.au/vendor/365-architechs/)"
+              ],
+              [
+                "**Office Experts Group**",
+                "Microsoft technology, workflow automation and reporting. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-brisbane?utm_source=chatgpt.com)",
+                "[Office Experts](https://www.officeexperts.com.au/microsoft-consultants-brisbane)"
+              ],
+              [
+                "**Outsource Advantage**",
+                "Connecting CRM, ERP, finance, operations and communications systems to reduce duplicate data entry. [www.outsourceadvantage.com.au](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane?utm_source=chatgpt.com)",
+                "[Systems integration](https://www.outsourceadvantage.com.au/services/systems-integration/brisbane)"
+              ]
+            ]
+          },
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "365 Architechs",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft consulting provider",
+              "category": "company",
+              "markdown": "Office Experts Group",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane systems integration services provider",
+              "category": "company",
+              "markdown": "Outsource Advantage",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\nThese are candidates to assess, not a verified ranking of the best firms. Publicly available information does not establish that any one provider has demonstrated delivery experience across every system in your list.\n\n## How I would choose\n\n**If MYOB Acumatica is your main ERP**\n\nStart with Tonic Technologies and Stratus Consulting Group. Ask for examples of production integrations with your CRM and SAP environment.\n\n---\n\n**If several platforms must exchange data reliably**\n\nStart with Intelligent Pathways. Ask for an integration design covering APIs, middleware, data ownership, error handling and monitoring.\n\n---\n\n**If SAP is the most complex system**\n\nInclude DalRae Solutions in the shortlist and ask who will take responsibility for the non-SAP connectors and end-to-end testing.\n\n## Questions to ask before engaging anyone\n\n1. Have you delivered a live integration involving **MYOB Acumatica, SAP and a CRM**? Can we speak to a reference client?\n2. How would you connect Microsoft 365, including Outlook, Teams, SharePoint or Power Platform where relevant?\n3. Would you use native connectors, APIs, an integration platform such as MuleSoft, or custom middleware? Why?\n4. How will you handle duplicate records, failed synchronisations, conflicting updates and audit trails?\n5. Who owns the complete solution after go-live, and what are the support SLA and ongoing integration costs?\n\n## One detail would help me narrow this down\n\nWhich CRM are you using, and which SAP product do you have? For example, Salesforce or Dynamics 365, and SAP Business One or SAP S/4HANA.\n\nThat will make a significant difference to which Brisbane specialist is the strongest fit for your actual integration project.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

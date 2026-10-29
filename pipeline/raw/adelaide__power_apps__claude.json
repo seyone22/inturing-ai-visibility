@@ -1,0 +1,254 @@
+{
+  "slug": "adelaide",
+  "pk": "power_apps",
+  "plat": "claude",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Adelaide for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_apps__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:16.154Z",
+  "cost": 0.060469,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9443,
+      "output_tokens": 1436,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.059869,
+      "datetime": "2026-10-29 04:08:11 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great — here's a roundup of the leading Microsoft Power Apps and Dataverse consultants with a presence in Adelaide (and across Australia) who specialise in building custom operational business apps for warehouse, shop-floor, and field teams:\n\n---\n\n## 🏆 Leading Power Apps & Dataverse Consultants in Adelaide\n\n---\n\n### 1. 🥇 Power Platform Experts (Office Experts Group) — *Adelaide's Most Established Local Specialist*\n**Website:** powerplatformexperts.com.au | **Phone:** 1300 102 810 | **Email:** consult@officeexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft Power Platform consultants specialise in business automation solutions and custom application development, and their nationwide team has 25+ years of experience helping businesses streamline operations with Power BI, Apps, Pages, and Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Serving South Australian organisations, their Adelaide team develops Microsoft Power Platform solutions tailored to diverse business needs, designing automated workflows, custom applications, and data analytics solutions that address complex operational challenges and drive digital transformation.",
+              "annotations": [
+                {
+                  "title": "Australia's Trusted Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** End-to-end Power Platform delivery for Adelaide businesses, including operational apps for field, warehouse, and shop-floor teams.\n\n---\n\n### 2. 🥈 Ultron Developments — *Australian-Led, Adelaide-Supported Delivery*\n**Website:** ultrondevelopments.com.au | **Phone:** 1300 967 494\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Apps consulting team works with businesses in Sydney, Melbourne, Brisbane, Perth, Adelaide, and across Australia to design, build, test, and hand over custom applications on the Microsoft Power Platform.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in custom Canvas & Model-Driven apps, Dataverse architecture & governance, and offer a fixed-scope delivery plan.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include custom canvas app development, model-driven app development, Power Automate workflow automation, legacy system modernisation, Dataverse & SharePoint integration, and ongoing support & training.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If your team relies on spreadsheets, paper forms, or outdated tools, they can map a practical replacement path.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Replacing paper-based or spreadsheet-driven processes in warehouse, field, and shop-floor environments with structured Dataverse apps.\n\n---\n\n### 3. 🥉 NRI (Nippon Resources International) — *Enterprise-Grade, Adelaide-Based*\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NRI operates in Adelaide and delivers enterprise-grade Microsoft Power Platform environments, including AI-powered business solutions using Microsoft Copilot Studio, Power Apps, Power Automate, Power BI, and Dataverse.",
+              "annotations": [
+                {
+                  "title": "Senior Microsoft Power Platform Consultant",
+                  "url": "https://www.dreamworkhq.com/job/aeeee345-b421-422c-bb44-81f795448254",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their consultants lead enterprise deployment, administration, and governance of the Microsoft Power Platform ecosystem, and configure and manage Power Apps, Power Automate, Power Pages, Dataverse, and Copilot Studio solutions.",
+              "annotations": [
+                {
+                  "title": "Senior Microsoft Power Platform Consultant",
+                  "url": "https://www.dreamworkhq.com/job/aeeee345-b421-422c-bb44-81f795448254",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Large enterprises in Adelaide needing governance, security, and enterprise-scale Power Platform deployments.\n\n---\n\n### 4. Dynamic Aspect — *Multi-City Australian Partner incl. Adelaide*\n**Website:** dynamicaspect.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dynamic Aspect provides Microsoft Power Apps consulting, deployment, and support across Australia, including Adelaide.",
+              "annotations": [
+                {
+                  "title": "Microsoft PowerApps Portals - Consulting, Development & Support Australia",
+                  "url": "https://www.dynamicaspect.com.au/powerapps-portals",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They focus on both professional mobile and web application development across the Microsoft ecosystem.\n\n**Best for:** Businesses needing Power Apps portals and broader Microsoft ERP integration alongside operational apps.\n\n---\n\n## 🔑 Key Capabilities to Look For (Relevant to Warehouse/Shop-Floor/Field Teams)\n\nWhen evaluating any of these consultants, make sure they can deliver:\n\n| Use Case | App Type |\n|---|---|\n| Field inspections & audits | Canvas mobile app with offline & photo capture |\n| Inventory / asset tracking | Model-driven app + barcode scanning on Dataverse |\n| Shop-floor job management | Canvas app with real-time status updates |\n| Warehouse data capture | Mobile canvas app connected to SQL or Dataverse |\n| Approval workflows | Power Automate + Canvas app |\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Canvas apps are ideal for custom UI, mobile data capture, inspections, approvals, dashboards, and workflows — connected to Dataverse, SharePoint, SQL, or APIs.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting for Custom Business Apps",
+                  "url": "https://star-knowledge.com/power-apps-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Model-driven apps on Dataverse are suited for forms, views, dashboards, business process flows, audit trails, and role-based security for structured business data.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting for Custom Business Apps",
+                  "url": "https://star-knowledge.com/power-apps-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Recommendation\n\nFor **Adelaide-specific, hands-on engagement**, **Power Platform Experts (Office Experts Group)** is the most established local option with over 25 years of Microsoft technology experience. For **Australian-wide delivery with Adelaide support**, **Ultron Developments** offers a strong fixed-scope, structured delivery model well-suited to operational teams. For **large enterprise needs**, **NRI Adelaide** brings governance and security depth.\n\nWould you like help defining your app requirements or preparing a brief to send to any of these consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power Apps Dataverse consultants Adelaide custom business apps",
+        "Power Apps warehouse shop floor field teams app development Adelaide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "newcastle",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Newcastle specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:08.142Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Depending on whether you mean **Newcastle upon Tyne (UK)** or **Newcastle, NSW (Australia)**, several consultancies specialize in Microsoft Copilot Studio, custom AI agents, and practical Power Platform workflow automation for mid-market businesses. \n\n---\n\n### If you are in **Newcastle upon Tyne (UK & North East)**\n\n#### 1. **Marra** *(Newcastle upon Tyne)*\n* **Focus:** Microsoft Copilot Studio & Custom Copilot Agent Development.\n* **Why they fit:** Based directly in Newcastle, Marra specifically specializes in turning \"AI ambition into adoption\" using Copilot Studio. They run Discovery & Design workshops to identify high-impact mid-market use cases and build custom AI agents integrated with Microsoft 365, Power Automate, and existing ERP/CRM databases.\n* **Core strengths:** Low-code agent orchestration, multi-channel deployment (Teams, web portals), and operational workflow automation.\n\n#### 2. **Cybit** *(Newcastle upon Tyne / North Tyneside)*\n* **Focus:** Microsoft Solutions Partner (Cloud, Data, Security & AI).\n* **Why they fit:** Headquartered near Newcastle, Cybit is one of the premier mid-market IT and cloud consultancies in the North East. They help mid-sized businesses implement Microsoft 365 Copilot and build specialized autonomous or semi-autonomous AI agents via Copilot Studio to eliminate repetitive administrative tasks.\n* **Core strengths:** Tenant readiness, Azure AI / Copilot data security, Power Platform connector builds, and end-to-end managed workflows.\n\n#### 3. **SR1 Development** *(Newcastle upon Tyne)*\n* **Focus:** Practical Power Platform & Microsoft 365 Process Digitization.\n* **Why they fit:** A hands-on, boutique team of Microsoft developers and consultants who excel at pragmatic workflow modernization. If your mid-market business is transitioning from manual spreadsheets, approvals, and legacy databases, SR1 connects Power Apps, Power Automate, and Copilot tools to create streamlined automated flows.\n* **Core strengths:** Straightforward, non-hyped process automation (e.g., invoice approvals, request triage, intake workflows).\n\n#### 4. **AI Vision Consulting** *(Newcastle upon Tyne)*\n* **Focus:** Practical AI Automation & Capability Building.\n* **Why they fit:** A Newcastle-based consultancy focusing specifically on helping businesses make practical use of the AI capabilities already within their Microsoft stack (Copilot, internal search agents, automated document summarisation) rather than over-engineering complex architectures.\n\n#### 5. **Version 1** *(Newcastle Delivery Hub)*\n* **Focus:** Enterprise & Mid-Market Microsoft Business Applications.\n* **Why they fit:** If your mid-market organization has complex enterprise systems (e.g., Dynamics 365, complex ERPs), Version 1’s major Newcastle branch has dedicated Power Platform and Agentic AI solution architects who design multi-step Copilot Studio agents that tie directly into core operations.\n\n---\n\n### If you are in **Newcastle, NSW (Australia)**\n\n* **Nettko *(Newcastle, NSW)*:** Strongly focused on safe, compliance-first AI automation for mid-market and regulated businesses. They audit SharePoint and Dataverse permissions before deploying Microsoft Copilot and build targeted intake, classification, and workflow pipelines using the Microsoft ecosystem.\n* **Frontrow Technology *(servicing Newcastle / Hunter Valley)*:** Specializes in Copilot Studio architecture, Microsoft AI readiness, and agent governance.\n\n---\n\n### What to Ask When Evaluating a Mid-Market Copilot Consultant\n\nWhen building agents with Copilot Studio, mid-market businesses typically struggle with data security and ROI. Ensure the partner you select evaluates the following:\n\n1. **Permission & Data Governance First:** Copilot Studio agents inherit your internal data access models. A good consultant will audit your SharePoint and Dataverse permissions first so the agent doesn't expose sensitive payroll or executive documents.\n2. **Connector Strategy (Action over Chat):** Ensure they design agents that execute actions via **Power Automate** and custom APIs (e.g., updating an ERP, creating an approval, fetching a vendor record), rather than just deploying a glorified knowledge-base FAQ bot.\n3. **Licensing & Message-Pack Optimization:** Microsoft Copilot Studio uses a consumption/session model. Your consultant should demonstrate how they optimize prompts and actions to prevent unexpected tenant billing spikes.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+automation+consultants+Newcastle+Microsoft+Copilot+Studio&client=app-vertex-grounding&safesearch=active\">AI automation consultants Newcastle Microsoft Copilot Studio</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Platform%22+%22Newcastle+upon+Tyne%22+%22AI+agents%22+OR+%22Copilot%22&client=app-vertex-grounding&safesearch=active\">&quot;Power Platform&quot; &quot;Newcastle upon Tyne&quot; &quot;AI agents&quot; OR &quot;Copilot&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Copilot+Studio%22+%22Newcastle+upon+Tyne%22+consultancy+OR+partner+OR+agency&client=app-vertex-grounding&safesearch=active\">&quot;Copilot Studio&quot; &quot;Newcastle upon Tyne&quot; consultancy OR partner OR agency</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Microsoft+Copilot%22+%22Newcastle+upon+Tyne%22+IT+consultancy+automation&client=app-vertex-grounding&safesearch=active\">&quot;Microsoft Copilot&quot; &quot;Newcastle upon Tyne&quot; IT consultancy automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+workflow+automation+mid+market+Newcastle+Microsoft+partner&client=app-vertex-grounding&safesearch=active\">AI workflow automation mid market Newcastle Microsoft partner</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+consultants+Newcastle+Power+Platform+AI+agents&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio consultants Newcastle Power Platform AI agents</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Microsoft+Copilot+Studio%22+%22Newcastle%22+%22Australia%22+OR+%22NSW%22&client=app-vertex-grounding&safesearch=active\">&quot;Microsoft Copilot Studio&quot; &quot;Newcastle&quot; &quot;Australia&quot; OR &quot;NSW&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH93Tp6Xp1P-12OjkoPVAetAVWXPrUFciVEupSomBaf_89XJfQKOE-VN6ewV7k0C3Kr41JxR1jtchXyPQopPrDyaeq3rzPtSTAG5Cank8Vc6GEMu4nue5vbEd5BUmxr2uCpmiNrCyFRU_FiwsSRVjfJhgM5BybZtjbJMJ90Z34=",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH93Tp6Xp1P-12OjkoPVAetAVWXPrUFciVEupSomBaf_89XJfQKOE-VN6ewV7k0C3Kr41JxR1jtchXyPQopPrDyaeq3rzPtSTAG5Cank8Vc6GEMu4nue5vbEd5BUmxr2uCpmiNrCyFRU_FiwsSRVjfJhgM5BybZtjbJMJ90Z34=",
+                "title": "marra.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGQQ7XOfgVqht5osCI5WqYj_7-WJSel8j6PVJb2mgmObwj2PpVYxue8637T-0_wYXuFsFMfxaZiR__bGURKNE3lBBoCfdASm8N8PMg1LmtzxM7Xo_A4edQPNbBaRb11CTKF1HvhD6rHTe_2dMTFB4lOyZTnkF6lhJdBkoeSY=",
+                "title": "cybit.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMghZep35ZzUCliE_tiJNabhGlX-Cc2fd_K5xzPbdSJres_Jk0egcai_NLOf0skur7MJ84hPXoTLkiDE3NDNcxquui6oh8n-5TjJHnxbQuzmwPEwp6Lc01YiJsG_o7-17Syg==",
+                "title": "sr1development.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE84En3h_b2CAsjl9-z95yskFn52oo626TWyAClsTEkKHD3DiONtQ1_n_gGZa4XjaERe1D78h27sVTWKkopwTbtZ6tDly0uEjYFf9x2CsUvm23Nzg15-aM4o0HgUFj33nlnab6Avbz3YsEj_-6jlH-B3Op3LjG3OX8Uc6Mk5W8Zsg==",
+                "title": "aivisionconsulting.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKvIKM9xjrzJS4ZGNiHNVKxs2j0fJDvqZxwazrsWT_QejbxsDptk2rhyzoSnidKHNecb7mhiu0oIeKNyzyFEQ6sbP817luJAqjbM4eyI6Ck2Ftps3xbB1Kc8_iHRJHSXXwvEyn6_rR9h9vqYGFFe93egP_sip5T4x8cgOUzSef",
+                "title": "version1.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQk5HpV9TIE18-EOta5sGikTVo2yLfGjAOj6j6rtJUJdsVVswJo8BYiZj1D9H89XWp7Hcsr44QfcTl7guio496cxjRmpd1r9p3cWsmjbAs9tHT5ylMpisfs9iR6OHX0Jo8eJi4vOAMJCJHpRe86AZd",
+                "title": "nettko.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQk5HpV9TIE18-EOta5sGikTVo2yLfGjAOj6j6rtJUJdsVVswJo8BYiZj1D9H89XWp7Hcsr44QfcTl7guio496cxjRmpd1r9p3cWsmjbAs9tHT5ylMpisfs9iR6OHX0Jo8eJi4vOAMJCJHpRe86AZd",
+                "title": "nettko.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzzDSwEMzKsfo9QHZHC6j5B4c5wzhdK9aURrJnmWV6Iv03hZvoAtpZtuCvTfw-20L8T5El019chT8cWy1yUXpbOG4t2qEhhNidITXhUP0yeFb91YejE5m0_t8XXS88W821woM=",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGjJjwhv6uRe2lAS8HalNIqJo9Tgfv6PcinIS5cmowMjSBo9zVCeRBTvHZzqY_8UTBx4pj0Wldw8VGEmGZNp9RlZHWfw6r8MOHm_lpZdOp1_hLVks1MDF27NDV8CBGERHvYzfWHoJgpiIx9R6C9VKNCasevRWTN6DYitppaMbvaasQCciQWAPYu2-GUlo=",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnEbZv8CusSrO4-smYqHIRyp0dP-7XafSBPQRDTIp48u0tHEA3sVmvzUePAB2N2vgkzXjlLwXGhnGwBKuNUBx8jyc0g_I2aU2hs7EpHhcNeAyvZXv2qBxO_Qv8aDIW9_HfL_BoFUAXrxVf6KEGr6YKd_KPL0t0vt99Zg-eK9_bE-habPD2wcxsC_Q3A8LxiCmV4vo",
+                "title": "datadaur.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRLaiGR1piRDRhjUC61FJPsSGtZDKtbmXfQTEwP-aujQuRPlOPdBqSBTIwnBPlDC8a9wzKiRk4HxipxfstH2cCKAuH-IxS4OtF-dcTZYSNd9atGNSjhG7BpgYftLvskgPpu0D2oLieqTF6XtwEQEeTrriXwXo7CfAY8d_66LHgB_C58Vj8NLbqnsFVdpA05MYQw7_KwZtsZ9JivnBJrpkxfsQJd2fmvl84uQ==",
+                "title": "superware.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSxMR4IOE4x89wAC-OnyXjmDdof6n73mpCsx39N_4znTQa1wQYRtTBjXxCF-I7taWea6kqY2NkaDQeq_DZVBfteLBWlual-6tY64LfXUvcStCCOomj9OWCzR73VCYa1EyEvOT1CmK64OGb4LbTCZBzSXy0ZCNFESs=",
+                "title": "hammerheadtech.co.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8XOMMO7ncir_URV9pkS5eOD9AK8HtfB38wxkVKSaB7_-YhbaXuV7-LQtl4H3_QtGHzLpPbsuwpWxXpOlSjHz4Nbn9Z5Wxwa3m5gv4JCykqQCVy8DyDl4ozGMLZLEtdrHBTN2gh5Q=",
+                "title": "meetup.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 362,
+                "endIndex": 432,
+                "text": "**Focus:** Microsoft Copilot Studio & Custom Copilot Agent Development"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 436,
+                "endIndex": 573,
+                "text": "**Why they fit:** Based directly in Newcastle, Marra specifically specializes in turning \"AI ambition into adoption\" using Copilot Studio"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 575,
+                "endIndex": 762,
+                "text": "They run Discovery & Design workshops to identify high-impact mid-market use cases and build custom AI agents integrated with Microsoft 365, Power Automate, and existing ERP/CRM databases"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 766,
+                "endIndex": 898,
+                "text": "**Core strengths:** Low-code agent orchestration, multi-channel deployment (Teams, web portals), and operational workflow automation"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 962,
+                "endIndex": 1029,
+                "text": "**Focus:** Microsoft Solutions Partner (Cloud, Data, Security & AI)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1166,
+                "endIndex": 1354,
+                "text": "They help mid-sized businesses implement Microsoft 365 Copilot and build specialized autonomous or semi-autonomous AI agents via Copilot Studio to eliminate repetitive administrative tasks"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1358,
+                "endIndex": 1495,
+                "text": "**Core strengths:** Tenant readiness, Azure AI / Copilot data security, Power Platform connector builds, and end-to-end managed workflows"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1552,
+                "endIndex": 1624,
+                "text": "**Focus:** Practical Power Platform & Microsoft 365 Process Digitization"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1628,
+                "endIndex": 1757,
+                "text": "**Why they fit:** A hands-on, boutique team of Microsoft developers and consultants who excel at pragmatic workflow modernization"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1759,
+                "endIndex": 1959,
+                "text": "If your mid-market business is transitioning from manual spreadsheets, approvals, and legacy databases, SR1 connects Power Apps, Power Automate, and Copilot tools to create streamlined automated flows"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1963,
+                "endIndex": 2088,
+                "text": "**Core strengths:** Straightforward, non-hyped process automation (e.g., invoice approvals, request triage, intake workflows)"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2150,
+                "endIndex": 2206,
+                "text": "**Focus:** Practical AI Automation & Capability Building"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2210,
+                "endIndex": 2499,
+                "text": "**Why they fit:** A Newcastle-based consultancy focusing specifically on helping businesses make practical use of the AI capabilities already within their Microsoft stack (Copilot, internal search agents, automated document summarisation) rather than over-engineering complex architectures"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2553,
+                "endIndex": 2619,
+                "text": "**Focus:** Enterprise & Mid-Market Microsoft Business Applications"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2623,
+                "endIndex": 2923,
+                "text": "**Why they fit:** If your mid-market organization has complex enterprise systems (e.g., Dynamics 365, complex ERPs), Version 1’s major Newcastle branch has dedicated Power Platform and Agentic AI solution architects who design multi-step Copilot Studio agents that tie directly into core operations"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2983,
+                "endIndex": 3110,
+                "text": "**Nettko *(Newcastle, NSW)*:** Strongly focused on safe, compliance-first AI automation for mid-market and regulated businesses"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3112,
+                "endIndex": 3290,
+                "text": "They audit SharePoint and Dataverse permissions before deploying Microsoft Copilot and build targeted intake, classification, and workflow pipelines using the Microsoft ecosystem"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3294,
+                "endIndex": 3447,
+                "text": "**Frontrow Technology *(servicing Newcastle / Hunter Valley)*:** Specializes in Copilot Studio architecture, Microsoft AI readiness, and agent governance"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3794,
+                "endIndex": 3939,
+                "text": "A good consultant will audit your SharePoint and Dataverse permissions first so the agent doesn't expose sensitive payroll or executive documents"
+              },
+              "groundingChunkIndices": [
+                6,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3944,
+                "endIndex": 4207,
+                "text": "**Connector Strategy (Action over Chat):** Ensure they design agents that execute actions via **Power Automate** and custom APIs (e.g., updating an ERP, creating an approval, fetching a vendor record), rather than just deploying a glorified knowledge-base FAQ bot"
+              },
+              "groundingChunkIndices": [
+                11,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4314,
+                "endIndex": 4430,
+                "text": "Your consultant should demonstrate how they optimize prompts and actions to prevent unexpected tenant billing spikes"
+              },
+              "groundingChunkIndices": [
+                10,
+                9,
+                13
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "AI automation consultants Newcastle Microsoft Copilot Studio",
+            "\"Power Platform\" \"Newcastle upon Tyne\" \"AI agents\" OR \"Copilot\"",
+            "\"Copilot Studio\" \"Newcastle upon Tyne\" consultancy OR partner OR agency",
+            "\"Microsoft Copilot\" \"Newcastle upon Tyne\" IT consultancy automation",
+            "AI workflow automation mid market Newcastle Microsoft partner",
+            "Microsoft Copilot Studio consultants Newcastle Power Platform AI agents",
+            "\"Microsoft Copilot Studio\" \"Newcastle\" \"Australia\" OR \"NSW\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 331,
+      "candidatesTokenCount": 1107,
+      "totalTokenCount": 2473,
+      "cachedContentTokenCount": 101,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 331
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 101
+        }
+      ],
+      "thoughtsTokenCount": 1035,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "PcfiaofMNeGr694P77Wp4Qk"
+  }
+}

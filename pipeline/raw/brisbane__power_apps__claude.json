@@ -1,0 +1,308 @@
+{
+  "slug": "brisbane",
+  "pk": "power_apps",
+  "plat": "claude",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Brisbane for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_apps__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:00.589Z",
+  "cost": 0.062764,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10013,
+      "output_tokens": 1475,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062164,
+      "datetime": "2026-10-29 04:05:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of the leading Microsoft Power Apps and Dataverse consultants in Brisbane (and across Australia with a Brisbane presence) who specialise in building custom operational business apps for warehouse, shop-floor, and field teams:\n\n---\n\n## 🏆 Leading Power Apps & Dataverse Consultants in Brisbane\n\n---\n\n### 1. **Alphavima** *(Brisbane, QLD)*\n🔗 alphavima.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a certified Microsoft Partner with a Low Code Application Development specialisation, delivering Power Apps consulting projects for organisations of all sizes across multiple industries and geographies.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well-suited for operational teams: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima configures Power Apps for Brisbane teams managing operational workflows that need to work on phones, tablets, and desktops, with all apps connecting to Microsoft Dataverse for centralised, secure data storage.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 20+ years of Microsoft platform experience, they configure Power Apps, Power Automate, Power BI, and Power Pages around how your team actually works.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Technology Cue** *(Brisbane, QLD)*\n🔗 technologycue.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 20 years of experience providing consulting services for Microsoft technologies, Technology Cue was an early adopter of Power Apps for Office 365, and their Power Apps developers provide proven, time-tested professional services for businesses.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Services in Brisbane, Australia @ Technology Cue",
+                  "url": "https://technologycue.com.au/power-apps-consulting-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Apps consulting services provide end-to-end solutions tailored to meet business needs, specialising in leveraging Power Apps to develop customised applications that streamline business processes, enhance data management, and enable seamless collaboration.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Services in Brisbane, Australia @ Technology Cue",
+                  "url": "https://technologycue.com.au/power-apps-consulting-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **OfficePro Consulting** *(Australia-wide, serving Brisbane)*\n🔗 officeproconsulting.com.au\n\nOfficePro Consulting is a strong choice for warehouse and field teams specifically. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They focus on giving field teams, office staff, and managers one place to log work, track progress, and get answers — without phone calls, paper forms, or disconnected spreadsheets — building Power Apps solutions that run on any device, connected to the systems you already use.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Apps Development",
+                  "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include operational tracking and case management via model-driven apps for managing jobs, cases, approvals, and pipelines.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Apps Development",
+                  "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Ultron Developments** *(Australia-wide, including Brisbane)*\n🔗 ultrondevelopments.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron's Power Apps consulting team works with businesses in Sydney, Melbourne, Brisbane, Perth, Adelaide, and across Australia to design, build, test, and hand over custom applications on the Microsoft Power Platform.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "If your team relies on spreadsheets, paper forms, or outdated tools, they can map a practical replacement path.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in custom Canvas & Model-Driven apps, Dataverse architecture & governance, and offer a fixed-scope delivery plan.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Office Experts Group (Power Platform Experts)** *(Brisbane, QLD)*\n🔗 powerplatformexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating since 2000, they serve clients Australia-wide including Brisbane, QLD.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting & Development Services",
+                  "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Businesses can work with them to create a wide variety of apps including data collection apps, inventory management, CRM apps, employee onboarding apps, and more",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting & Development Services",
+                  "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — all highly relevant to warehouse and shop-floor environments. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They integrate Power Apps with Microsoft products such as SharePoint, Office 365, Dataverse, and SQL Server, as well as third-party software through Microsoft's Power Platform connector library.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting & Development Services",
+                  "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Concetto Labs** *(Brisbane, QLD)*\n🔗 concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver customised solutions through their Power Platform consulting practice in Brisbane, empowering businesses to automate workflows, build custom apps, and enhance data insights.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their portfolio includes operational apps such as a Construction Vendor Management Power App built using Microsoft Power Apps, Microsoft Flow, MS SQL Server, and Custom Connectors.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Things to Look for When Choosing a Consultant\n\nWhen evaluating these (or any) Power Apps partner for **warehouse, shop-floor, or field operations**, consider:\n\n| Criteria | Why It Matters |\n|---|---|\n| **Microsoft Certified Partner status** | Ensures verified expertise and access to Microsoft support |\n| **Dataverse architecture experience** | Critical for scalable, relational operational data |\n| **Canvas App vs. Model-Driven App skills** | Canvas apps suit field/mobile use; model-driven apps suit case/job management |\n| **Offline capability experience** | Essential for warehouse/shop-floor environments with poor connectivity |\n| **Integration with ERP/WMS systems** | E.g., connecting to SAP, MYOB, Dynamics 365, or custom databases |\n| **Local Brisbane presence** | Enables on-site workshops and faster collaboration |\n\nWould you like help shortlisting based on your specific industry (e.g., logistics, manufacturing, construction) or project scope?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power Apps Dataverse consultants Brisbane custom business apps",
+        "Power Apps warehouse shop-floor field operations Brisbane consultant"
+      ]
+    }
+  ]
+}

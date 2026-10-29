@@ -1,0 +1,155 @@
+{
+  "clientName": "Inturing",
+  "shortName": "Inturing",
+  "legalName": "Inturing",
+  "founder": "Paul Del Gigante & Harry Cribb (Co-Founders)",
+  "domain": "inturing.com.au",
+  "targetRegex": "\\bInturing\\b|inturing\\.com\\.au",
+  "vertical": "Microsoft Power Platform, AI & Workflow Automation Consultancy",
+  "primaryMarket": "sydney",
+  "cities": [
+    {
+      "id": "sydney",
+      "name": "Sydney",
+      "displayLoc": "Sydney (HQ)",
+      "state": "NSW",
+      "locationCode": 1000286,
+      "mapsQuery": "Microsoft Power Platform automation consultant Sydney"
+    },
+    {
+      "id": "melbourne",
+      "name": "Melbourne",
+      "displayLoc": "Melbourne",
+      "state": "VIC",
+      "locationCode": 1000567,
+      "mapsQuery": "Microsoft Power Platform automation consultant Melbourne"
+    },
+    {
+      "id": "brisbane",
+      "name": "Brisbane",
+      "displayLoc": "Brisbane",
+      "state": "QLD",
+      "locationCode": 1000339,
+      "mapsQuery": "Microsoft Power Platform automation consultant Brisbane"
+    },
+    {
+      "id": "perth",
+      "name": "Perth",
+      "displayLoc": "Perth",
+      "state": "WA",
+      "locationCode": 1000676,
+      "mapsQuery": "Microsoft Power Platform automation consultant Perth"
+    },
+    {
+      "id": "adelaide",
+      "name": "Adelaide",
+      "displayLoc": "Adelaide",
+      "state": "SA",
+      "locationCode": 1000422,
+      "mapsQuery": "Microsoft Power Platform automation consultant Adelaide"
+    },
+    {
+      "id": "canberra",
+      "name": "Canberra",
+      "displayLoc": "Canberra",
+      "state": "ACT",
+      "locationCode": 1000142,
+      "mapsQuery": "Microsoft Power Platform automation consultant Canberra"
+    },
+    {
+      "id": "newcastle",
+      "name": "Newcastle",
+      "displayLoc": "Newcastle",
+      "state": "NSW",
+      "locationCode": 1000255,
+      "mapsQuery": "Microsoft Power Platform automation consultant Newcastle"
+    },
+    {
+      "id": "hobart",
+      "name": "Hobart",
+      "displayLoc": "Hobart",
+      "state": "TAS",
+      "locationCode": 1000480,
+      "mapsQuery": "Microsoft Power Platform automation consultant Hobart"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "power_platform",
+      "title": "Power Platform Consultants",
+      "category": "Microsoft Power Platform Consulting",
+      "serpKeyword": "Microsoft Power Platform consultants {city}",
+      "template": "Who are the best Microsoft Power Platform consultants in {city}? Give me a shortlist of reputable Power Platform consulting partners with reasons."
+    },
+    {
+      "id": "workflow_automation",
+      "title": "Workflow & Power Automate",
+      "category": "Workflow Automation & Power Automate",
+      "serpKeyword": "workflow automation Power Automate consultants {city}",
+      "template": "Which consultancies in {city} are best for business workflow automation and Microsoft Power Automate implementation?"
+    },
+    {
+      "id": "manufacturing_automation",
+      "title": "Manufacturing Process Automation",
+      "category": "Manufacturing Operations & Process Automation",
+      "serpKeyword": "manufacturing process workflow automation consultants {city}",
+      "template": "We are a manufacturer in {city} looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?"
+    },
+    {
+      "id": "power_apps",
+      "title": "Custom Business Apps (Power Apps)",
+      "category": "Operational Business Apps (Power Apps & Dataverse)",
+      "serpKeyword": "Microsoft Power Apps Dataverse developers consultants {city}",
+      "template": "Who are the leading Microsoft Power Apps and Dataverse consultants in {city} for building custom operational business apps for warehouse, shop-floor, or field teams?"
+    },
+    {
+      "id": "erp_integration",
+      "title": "ERP & System Integration",
+      "category": "ERP, CRM & System Integration",
+      "serpKeyword": "ERP CRM Microsoft 365 system integration consultants {city}",
+      "template": "Which system integration specialists in {city} are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?"
+    },
+    {
+      "id": "power_bi_fabric",
+      "title": "Power BI & Microsoft Fabric",
+      "category": "Operational Analytics (Power BI & Microsoft Fabric)",
+      "serpKeyword": "Microsoft Power BI Fabric analytics consultants {city}",
+      "template": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in {city} for operational reporting and data warehousing?"
+    },
+    {
+      "id": "copilot_ai",
+      "title": "AI Agents & Copilot Studio",
+      "category": "Practical AI & Microsoft Copilot Studio",
+      "serpKeyword": "Microsoft Copilot Studio AI workflow automation consultants {city}",
+      "template": "Which AI automation consultants in {city} specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?"
+    }
+  ],
+  "aiKeywordCluster": [
+    "power platform consultant",
+    "power bi consultant",
+    "power automate",
+    "workflow automation",
+    "ai automation",
+    "business process automation",
+    "microsoft power platform",
+    "power apps",
+    "copilot studio",
+    "microsoft fabric",
+    "erp integration",
+    "ai automation agency",
+    "manufacturing automation",
+    "power bi",
+    "microsoft copilot"
+  ],
+  "trackedDomains": [
+    "inturing.com.au",
+    "pa.com.au",
+    "velrada.com",
+    "barhead.com",
+    "leveragetech.com.au",
+    "engage2.com.au",
+    "officeexperts.com.au",
+    "powerplatformexperts.com.au",
+    "frontrowtech.com.au"
+  ]
+}

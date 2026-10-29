@@ -1,0 +1,215 @@
+{
+  "slug": "hobart",
+  "pk": "manufacturing_automation",
+  "plat": "gemini",
+  "text": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__manufacturing_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:42.289Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "To automate order processing, shop-floor data collection, and operations while keeping your core ERP intact, you need a partner skilled in **ERP “wrapper” architectures**—using Microsoft Power Platform (Power Apps, Power Automate, AI Builder) and Azure integration gateways to interface with existing on-premise or cloud databases.\n\nConsultants to evaluate include local Tasmanian partners (advantageous for assessing shop-floor physical workflows) as well as national specialists who bring pre-built manufacturing templates.\n\n---\n\n### 1. Local Tasmanian & Hobart-Based Consultants\n\nHaving a consultant who can physically walk your shop floor to inspect machine layout, Wi-Fi blind spots, operator ergonomics, and barcode scanning workflows is a major advantage.\n\n*   **ISW (Information Services Way)** *(Hobart HQ)*  \n    *   **Why them:** Founded and headquartered in Hobart, ISW has over 25 years of systems integration and software engineering experience. They specialize in connecting modern platforms like Microsoft 365 and Power Platform back into legacy business systems, on-premise databases, and third-party ERPs.\n    *   **Fit:** Ideal if your ERP lacks standard modern APIs and requires custom middleware, integration gateways, or hybrid data pipelines.\n*   **Intuit Technologies** *(Hobart / Launceston)*  \n    *   **Why them:** One of Tasmania’s largest ICT and Microsoft partners. They have an established Microsoft Cloud & Business Solutions practice with local Power Platform developers and solution architects.\n    *   **Fit:** Excellent for mid-to-large operational rollouts where you need both platform development and robust underlying IT/infrastructure support (e.g., networking the shop floor, mobile device management for warehouse tablets).\n*   **FutureAbility** *(Hobart-based)*  \n    *   **Why them:** A Hobart boutique dedicated specifically to Microsoft Power Platform and Copilot Studio automation for mid-market businesses. \n    *   **Fit:** Suited for agile, rapid-turnaround implementations (e.g., deploying focused Power Apps for order approvals or shop-floor defect logging) without the enterprise overhead of a large MSP.\n*   **Dialog Information Technology (NCS Group)** *(Hobart Office)*  \n    *   **Why them:** Maintains a longstanding delivery presence in Hobart and has deep expertise across Microsoft enterprise applications, custom application development, and industrial data integrations.\n\n---\n\n### 2. National Australian Manufacturing Specialists (Hybrid Delivery)\n\nThese firms frequently service Tasmanian manufacturing remotely, supported by fly-in/fly-out site visits for scoping and go-live:\n\n*   **Barhead Solutions** *(Melbourne / Sydney)*  \n    *   **Why them:** Recognized as one of Australia’s leading Microsoft Business Applications and Power Platform partners. They have significant experience designing \"wrapper\" front-ends over legacy core systems specifically for field operations, warehousing, and production line data collection.\n*   **Professional Advantage** *(Melbourne / National)*  \n    *   **Why them:** Longstanding specialists in mid-market Australian manufacturing and distribution operations. Because they implement both ERPs and integration layers, their team understands how to read/write production orders, BOMs, and work center routing without corrupting ERP transactional logic.\n*   **Rapid Circle** *(National with Tasmanian footprint / TasICT member)*  \n    *   **Why them:** Tier-1 Microsoft Cloud and Power Platform partner. Strong background in workflow governance, Centre of Excellence (CoE) setup, and automating manual processes across industrial and operational environments.\n\n---\n\n### What to Ask Them During Scoping\n\nTo ensure the prospective partner understands the nuances of manufacturing automation around a legacy ERP, press them on the following:\n\n1.  **ERP Integration Architecture:**  \n    *   *Question:* *\"How will Power Platform connect to our specific ERP?\"*  \n    *   *Look for:* Experience using the **Microsoft On-Premises Data Gateway**, Azure Logic Apps, REST/OData connectors, or direct SQL read-only replicas. They should emphasize protecting ERP data integrity (e.g., staging tables or validation APIs rather than unsafe direct database writes).\n2.  **Order Processing Automation:**  \n    *   *Question:* *\"How do you handle incoming orders from email/PDF without manual re-keying?\"*  \n    *   *Look for:* Use of **Power Automate + AI Builder Document Processing** to extract data from customer purchase orders, run automated reconciliation against your ERP master pricing and SKU tables, and only route exceptions to humans for approval.\n3.  **Shop-Floor Environmental Realities:**  \n    *   *Question:* *\"How will the shop-floor app handle offline states and industrial peripherals?\"*  \n    *   *Look for:* Knowledge of Power Apps offline canvas caching, hardware barcode scanner integration (via camera or dedicated Zebra/Honeywell Android scanners), and large-touch interface design for operators wearing PPE/gloves.\n4.  **Licensing Strategy:**  \n    *   *Question:* *\"How do we license 30+ shop-floor operators cost-effectively?\"*  \n    *   *Look for:* Pragmatic advice on Microsoft licensing. Naming every shift worker with an individual Power Apps Premium license can become expensive; a good consultant will advise on **Power Apps per-app licensing**, shared device configurations, or hybrid Power Pages/Power Automate alternatives.",
+              "thoughtSignature": "EtEgCs4gAWkUfRNJ5lB2LwoTLxqJG03szgKo4imL1oHgc4lJ9FCbhdnJhY9wUWfE8Un4/A0J7f23oYkRWuTktOu+qc+YK+4IZWVMruoeyBYaHdd6ilQcde6EL8n0q9gnPIM3jaN0kuvWfElrWMDt7E5baiBUGgUghH2B17u9A4teOJECwcG4iij2aeK6A3NuBXzjdCkCkCG6zMqeBGSQnD9u6R8qTo41kpEjdt3bfeIPUDetMjSMcqLcGp8fyi8fMchyyUDhHt0qIB92xm1eFe+XXqGQUHcSvZSPlsK25y1pdWNYX/JBrx7YNPs4l+RrzT2AEBGPuqnjcK5GJh7kSy9MJG1dbG3uJEHL/Zr1YLy6lWFzXBRhULx8MtczlA0yhhN0o4dsNItonRqQDfRy8mnfWLSgKrmHun4Y8SpVvfE8t/sbNaTp/pKVgVys6P9DhR9meoN4EMxbdkPu6yyiESx2OkTJoVgh5WWTUTo00bKIX455HhTcShR3fMB+tkoxEwku61Yk1IQdlw8B7543e1HIIjndh0+cub1Ele6csk/9wBhzW/xP1ZgOgPRYVeL4qqbB+UrkT/dxQGvg06a5zNCttYhlWgHUlK8nSG/a//uv26hYxr1SqVpuq8elyLtrfy20gHEF86VxhZe31GeJX95X2MoDcfv4omEBYFF1ofKAUg0neoKCryn67CsEb2wkSQOHW4UHXHnmvxX47qNvmDvY80axQ4NNHstalWc7nNW150Q0sZFXgMKtUDONxVeZ+OTJq+JKEQ7Iqw6JPrQRjOV6HiDnI1GBN6jVPrbRAK1pbyBMfvYmfjKtwcuSwRVQw1b7tNFL+K1+HZ+tsHExasG5GdE7D+BXPtb/1K2TSyIknwgA8q2NliXqRJKoKsFtAwGiDooQTHWItzdbKWL060H5CgqzJI6esXqPSLIG5q2LLlqc8YdM1apNJz/3Gbs733qMSOyjaCkpZlmk73VJ5UFijLUuOP4uuj1VFqIVzZciTKw+nEEKVgD+BxchOtCLISd3Tq2HjKXFHJlzkSpmICWIOABRWukR2Ip9sL+djjCE1Br1spDtl3tWkxMoJ67tlNT6tCCY39CDkmEUHJowMDkzkHPWTXpRW0Zz/PTR/hPNVFLlEHOTaK5A+QO1LjP3L5/fKrjM6BRWTtTKaYWuagdGrj+7Pl/SrCpoY5DkAcGconiSRtAsCNbrVcydpnnAHMfPn4hnFUq/ydYbuo/lnqxkJ5A03OxqR4IMZ3tvOljleKFwNKkfcYjqqnAArN5Dtk2uLr/LRL8rnGOfvykCH3Q5h2uxFJLDpfpoH4wvgGu4Tdc31woSWovUtX3zZXZzRvByVI/O85kZcNBAQXLosXfQ/QBnrJjtOKMcp6k83Equ57Kz05DwjHN5joV24RjDYjlfkfqr7ORqNFC7BFAhU57/byD7YMXtwRTgrUqyeAPk58yQv8mzk/kkkLjr41N8/SjsjNSdvk4mP6HndqhXt1xmG2E0WDe5bnEYqMl3zntOY10ggz4xwfw3HL3+6n2BlfUNBXyfl/6zGRn+Ohbw8iNqq2dLqJLpgthC0KxcYm06NzbZYuLMm1Ag+g4aDCg/Kt7VD9lLAoQQx1nGUKtf/75vM8bnNru5FWC330F7RqAX0KLP11iQtauTIsTqWLU+M7Nh0sbg88gjTM1hvBF2BM4Hjx7g0VG+Loo0joVrEMc1C+bAsJstlcg58JPLw7Ztc1Z5e3CyspwBCWgAThAvCYq2mTYPb2Lah4zfp7vz6wh5lkPGvaaKXAi1+n0BKtohyA9bI7laYfswWPCI4qfo0SVDSL5ycQLjBrIvfyDrYqVHo01eZoMUDwazW2wIhPX7njhc62y7ky8VATfI4KG3oEutdWnxzcg+0igVlEbvGcHloiX/I1Jp9dCwAVXNOPt3pzZLDR7lo4dBfdc8xqWBHt4kCRwa0K22GiuxANchmclMj4GkAmPXRAxJlKZXf8z79eRXvcUAgQngT+mukofVs+0gEoVfxXm9cyzR/tfo4Zzb+xVvg9ELZIXkuXpyQBoOlK0GNX96tTsAfuLHFcXHVpOQukur/oC4DlOhCuwB/zuxD3oGTWzWZFrVCQUI08cTFMCEJWAuZOWCdIHf7qJmNXF0eKA10gBzeXOgzMtv1Li3y1tr1IKnBFqkqDi0SxcHo76wc/MhVgQQzI5dzHJBHCV8AZJFv89v6fyJIo0DWuH7vZjLUv4t7aR2g9u+Zq5LsKzFdCW3go7mXJHlirszn0o9nU4U5wVjsRUJvLW9Su71Q6Sr9hDaG5jWeYnBeC73uG8dYFDL7tU5RkFlzIwev39mQcG8bzxgsD/yPcu8+mGwRWEE6+HQgPR35AKUOyPYVVaHUZ5QC+ZRJwzLCPrvQzabB2yRhiy6AOFI9ZpIAKcqa8sLVhDBi2MbFHZrgT+3BBPKhwplnQvfWvTFUlHcNb7mKTEPPxuNeLe4sE0Df7iawdQlT5O6X16G4oKiBYhs6PbqE8pTy2yROF2KoqmI2ziDREOyAYsGjZI8J/qj1pnoEK2TtH1T2Q+e3jNPV46oxcnuqy6I7GHJtIiLISXVkZqCcSvyFzgdiYJm4bI5MJAZq4mrBgsJs9fu1P34vBEsqXYoRPbSn7lvAL73PqFvESMXcQzq2mw3Nuh/jGYd5Cw75X5iM5aFAL56BQE0osD1n4tvlpQdHaw1u3Hxwqm8Et9JBi8SFWs6JZ0i5fRmk+nmd0J+2Ap+olsH25Tufr1/QuykokR76gDqOXEdS09BEUil3TN66qp7TikO8KE9E70+B3dQztFdCIAFqLB3oFtFzL+CG/5uvHr4Sfs/cx08E3brgLhBYE5hGFk+9GYgFVcR+0OlL7FpFastd5Y1/uwQ0yZDMt5EHQrI+N/lKTx06+1Lq+8u2lpzxo9vYg81eXGu2d62Kfh5veNzu9vcVgWpSAFROf6ny73TSLQ/HojgK9y9KXw9LZcSSEino30TtxX0bZUyx7eqWDehHC9Z8bnd0ZpJAvST5wBgdxw8Vv+BPetcbGpctvNAQCria2C9Vu8PvhIeQqpRYiD17LFO8KuNpHZga9XFQpha9hI4lEgn0lCH+CKwTeotTwM6yB33PgsAh1314cmR1W9UY4mkx1ApWkAWljDyiBG1mFnwtd9Z5TcZlvobYvhLoFZbW+YcT9jZex3knB8lQDdOcg0GlGlak5hLe8hIqmjB9ik2lSRrmUIA3HSDBrQ4qlI+gd2VwmU2vu2BYCREwjuEpOtQA+TbUhik0f42hvQBSdzFkrNZZ8HAJirTAit3FfMk+LvGgJ+0hI6sCEvpwG49mYQahbxY+bn4TM/dQIASzRJOQ9VSSHoQvs6PAq7fCrn2ye75cKQ63LQ99Nfyup2Tize6HzTgy6myc2uwGeuAQwnxvrJutUuACBLet0SLcm5+kPFFjE1IL3ZZM4uchBETCmtYHYRlNCh1DwFTFQcrSOcQRgI0eOFhDwO7oNRs992tMxqziQiPjJKZpXPI7Cvh7dW9ejxt0l2weWBckp6eeZwBf/vgLLOOYAq1cUNTe3P1YQKy4MKZHIT56X0smN1cwdssg/v1fqPpHlUBKmFcATZraIsWmiDhvK5GDplrukBjI8wD99ruH1tkAjzDZYye3kC74IYqmSnw8nYVz8+F1EEC7pcKuSBJ9NLXRlcM9g/mNIp2lUFIdFOy6kSgXMQj/moapg8XJrPrtDiZ/dscrN1n7x/08/RU0/vZlEDRgxHifzAKx9krZ4/TtHMZ6h0j2JwIxRfTdQtFsJ5i6TT/KSFP7dtinFbmJzBn4LgxKCBCRiXVQ0L4Ec7WZ69O470G76bEtuY++XmP48c6Hy0IMGs00z74JHNf1fqNnRb1tyS+Q0hSMjwFcjD9RdgTQlfWQcyH34QMDO5MbE+gb5B20rKOxSx5hUYmvVRXogARR1gpuHYLZyazXc2noCPmt2I82hvX89mqn8nlOL/wXa0ejBikrXr0oZHgCYkPKdz6C9orF91W31QPQ1yRcvcLUY57w2uj6ocAuEtAG/gFKxmK+jTKGCWeNyVQMKnL/8DmhDKjeapyOPXNo9g94H1CS2NsMazXKd95e+i+fTgOQJcYLy64krFoC/6binr7uqVXlsLueCvrLezp461yZU1EH87AMcSFeA504wxhcTy4dJWNjiUBgNVoc/qEUxYAhRJ/a9ocgK9UErvvAnzerfljChDA7lcJUuJk0akSx19JHT8LIWQ/kNnAjKsaov4VA82R/wAWQJIPVtbpyYc9h0Ifwu/TZoQCg9ou8PVD8jw01VsCw4wxqSEo+ke+guQI8VBkU0oo5RBX1Q9GF8AcXIQrqNrIl4zFWPMHtgWHLegafB13up6P8XZcuEK7nGyeaJf7O2tTxofos2cZDENNc9gjYLNMRwJ7yfHIJ6Vd0sjOzKY+yYeNpo1XB0/hDoN3kLs/4VmAxwfTnctqT+mwG2m/BenKrgy2hlLl9bd1pE9JBQqK8Ann8g0dByhrENJ/UGBgGpRAyv4B9++7CimtQvrH5z6L3+QfYmAaRpdsJgZNwuO+k30W9zc+AC4RkwMu2vF1kkLI13wDZFfzqgD0tgVghx9ONOBth69B1DW3zDiolluUkVfx/EkdzwFK7Ul0RtEt4BkAEThJPtRTQOMlh9+uy7rTeBHMvOeSAmfwqExEXcWMAPRb3lEBLNDWj/5JWtYJ6/PrX9yD3i8P1dg5ZWGKas86cxgcJ6aSFixWEBTOy9VhRv2lVAnPdKttjVH/FpERKJUFWWnLCb1CBeRVbUD7mhh6zNR+L4jDtc3Z8Ut3y58Tv06T5HV5JEGo9sjxZA8h1y/yMRqtsRrza95p2Y7qYLzwAKfoCmqm8NP66lGMuVOo4ZrekyQcswuiGvfxbX7NhH55sGf0O4tgnyCtRr8oyWHT0Zq12AcoAzsBXHRypvbKPiseDSxZInL2EdKdYq2u5tdS+IWZtk9g/XG7//quF4oIJQzxDEnp3w9hQStmQOYKBsdxgkBDi2PI1hMRCRMjwxtxljeDGNaWGGcDu/Me45bX0tEPPiZI+ABalLfeWCt+SMDFeVoSmye6yMYwRqbwg7U1ko7LnBV3jh+7s2C0XiJf4/455g+5wM1PaT4WFXxjToNRJkPfsxNJ10HtuUcGGWebTEFIjyJGHA2GYSloIm97DVZEWTN999lqEdMDZFpg1vZTQy3k/VmKidRHW30h2ug6jkjBVm7kZuks/n81U7HmARCkmLP6cNS5qMDRKb7+x54tTBTzr8qiNgdRrNhyw26iMfQBvsYSWLtiozQlrWH0flpLdIyat2bnK+ENilcCRl42ePUsLGX7A2KR1+vHi1PKnz2BXoZiItUxOu05/+WSuK9uNmcoTBKINxR8T1vHzY3OgTpJknEtp4/ZkRRQnK3PkCIIRkM2+c/nn9G8b3BNZ4Z/H/gtqbbJyXsvtJVJ+XBEyKMC+uxYsBKFJulIUW9ucA/OXYhKDwiEd6S+DoQsZ8zwg765fmko+lbvDVLQeG9Vali/gNffFXnVzAPeifqUB353kvZh8bKuBcUtgkqQNEU0BtJS16Fqxw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Intuit+Technologies%22+Hobart+%22Power+Platform%22+OR+%22Power+Apps%22&client=app-vertex-grounding&safesearch=active\">&quot;Intuit Technologies&quot; Hobart &quot;Power Platform&quot; OR &quot;Power Apps&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22ISW%22+Hobart+%22Power+Platform%22+OR+%22automation%22&client=app-vertex-grounding&safesearch=active\">&quot;ISW&quot; Hobart &quot;Power Platform&quot; OR &quot;automation&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart-based+Microsoft+Power+Platform+and+Copilot+Studio+specialists%22&client=app-vertex-grounding&safesearch=active\">&quot;Hobart-based Microsoft Power Platform and Copilot Studio specialists&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=manufacturing+automation+ERP+integration+Power+platform+Australia+Hobart&client=app-vertex-grounding&safesearch=active\">manufacturing automation ERP integration Power platform Australia Hobart</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK0Gq-vu-UN20xI3NgT-cB5Hc73GM3q2aBt6jdiRdpK_o1JqARo5lIueRBnYKL2NAj4uv0QS4p2Wne_ALWUFN3Gvhi_97x5XD7LOqaxA==",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOZsa0ds0Q5xD9zdGRyt35shJmpDEWEFHfuLyDA3osYuzVKkhFtgEWDhlWfSdLtF_yGxPSXsUj4jOLqZL5rS-42yOYzwe9vPiOQSyxzklGOMvaKOLJl3K3kKE=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd_j4ODrMHLCTko9nX8nkMV-slhXjiveZzbIM9YiFJbQxB47tn7Yy9RBdWHUotlQlqAF1Y808WKdx7KNF7kb6Trz-JgLLitQ9_vtUDXyV6keE9ezNouHNvdeHjan8-MM2H",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLx6gUX1COcuyXAp9OyIiYZda5w44La8Lty-44BlQOj33K7RO4gpUq6kvKSahLEeDTmzHKatrCTCbC2cz6ZUvdACcCRakMd8nmAUQiIfDc_ncKKaI94kYPXoYlcOqUQg_F-dG6EDO3rcG2TK4LQJsp_Q==",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbPDNkg6Dgr7Krtxi61pkaQnaUnKn8A4Ql0Vc1iN4_4FEgCA1fXzeWs8Uv35W_Z8BwmsKmnNHaIgYlk16h6hgTSgBVJ5IjUcVSHcndzk0ck_WBHgTU54jMYX8_n6n6zXeU_Q==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGafUuwpql5aXMg0nuXY9nkDpIBP_mxSzc2SIfsbkKc3QjbXFwiRM6x2mI2SgDrBTmFLUWpCMmlBfbyZ5QyLk1YpDi3oOsFuJapLI6AgEe7UBFoeXoWQLOY1LKq-g7ozZvzNOhAknda17ReTXXpKQ==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYJlatQ8dDorP3Fd3xMJP_GhrfDvAIqYDh5OvZFzMHfiqcK-RUn8oih0mdl4xqnGCUCWXNt5ca4I80QJ-oNAbynWvO7DWLv3SZITw9nSFH9q-06uKQdDqKmnkzFUrLcMFkmXTT_KNeW9MJsEVzZx9wOImU",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d7Wi5ty_sgZp8xtobKMmatuO_P05J1ea7wF5cMy0kzQMC1EltPuskdkabf1IgjejMqU2Q6UriaMhltfpJOkUOEcjdo7wogUkWVX0yCHA6aGbQWUUlc0d2qk=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d7Wi5ty_sgZp8xtobKMmatuO_P05J1ea7wF5cMy0kzQMC1EltPuskdkabf1IgjejMqU2Q6UriaMhltfpJOkUOEcjdo7wogUkWVX0yCHA6aGbQWUUlc0d2qk=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_cHRFyNzoYsqOCQ7tpl4W3ZKb9eFiiIK0BRav8XVB8Tuae70ZnYv6j2gco4jIwk0PI_kJH3CDAAsDtJwEpurIRo_RqmFZMsd00vY37EY1XE5XgOdGS9C9KLYN5zZGpL8zmNOPw==",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d7Wi5ty_sgZp8xtobKMmatuO_P05J1ea7wF5cMy0kzQMC1EltPuskdkabf1IgjejMqU2Q6UriaMhltfpJOkUOEcjdo7wogUkWVX0yCHA6aGbQWUUlc0d2qk=",
+                "title": "tasict.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 833,
+                "endIndex": 964,
+                "text": "**Why them:** Founded and headquartered in Hobart, ISW has over 25 years of systems integration and software engineering experience"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 966,
+                "endIndex": 1128,
+                "text": "They specialize in connecting modern platforms like Microsoft 365 and Power Platform back into legacy business systems, on-premise databases, and third-party ERPs"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1334,
+                "endIndex": 1402,
+                "text": "**Why them:** One of Tasmania’s largest ICT and Microsoft partners"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1404,
+                "endIndex": 1535,
+                "text": "They have an established Microsoft Cloud & Business Solutions practice with local Power Platform developers and solution architects"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1823,
+                "endIndex": 1961,
+                "text": "**Why them:** A Hobart boutique dedicated specifically to Microsoft Power Platform and Copilot Studio automation for mid-market businesses"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3068,
+                "endIndex": 3173,
+                "text": "**Why them:** Longstanding specialists in mid-market Australian manufacturing and distribution operations"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3175,
+                "endIndex": 3364,
+                "text": "Because they implement both ERPs and integration layers, their team understands how to read/write production orders, BOMs, and work center routing without corrupting ERP transactional logic"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3451,
+                "endIndex": 3514,
+                "text": "**Why them:** Tier-1 Microsoft Cloud and Power Platform partner"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Intuit Technologies\" Hobart \"Power Platform\" OR \"Power Apps\"",
+            "\"ISW\" Hobart \"Power Platform\" OR \"automation\"",
+            "\"Hobart-based Microsoft Power Platform and Copilot Studio specialists\"",
+            "manufacturing automation ERP integration Power platform Australia Hobart"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 908,
+      "candidatesTokenCount": 1200,
+      "totalTokenCount": 3789,
+      "cachedContentTokenCount": 532,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 908
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 532
+        }
+      ],
+      "thoughtsTokenCount": 1681,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "VcfiapG9FcH6694PgeHWgAg"
+  }
+}

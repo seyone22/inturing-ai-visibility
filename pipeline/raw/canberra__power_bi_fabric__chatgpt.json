@@ -1,0 +1,860 @@
+{
+  "slug": "canberra",
+  "pk": "power_bi_fabric",
+  "plat": "chatgpt",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Canberra for operational reporting and data warehousing?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_bi_fabric__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:41.595Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Canberra for operational reporting and data warehousing?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20top%20Microsoft%20Power%20BI%20and%20Microsoft%20Fabric%20analytics%20consultants%20in%20Canberra%20for%20operational%20reporting%20and%20data%20warehousing%3F&hints=search",
+      "datetime": "2026-10-29 04:09:36 +00:00",
+      "markdown": "# Top Power BI and Microsoft Fabric analytics consultants in Canberra\n\nFor operational reporting and data warehousing, I’d shortlist consultants based on three capabilities: **reliable operational dashboards, a governed data model with consistent KPIs, and a scalable warehouse or lakehouse that integrates data from multiple systems.**\n\nBased on current public service descriptions and Canberra presence, these are the strongest candidates to investigate. This is a capability-based shortlist, not a definitive ranking of delivery quality; I haven't independently verified each firm's client references or project outcomes.\n\n## My recommended shortlist\n\n\n\n## 1\\. DATASANJ\n\n(Best fit for hands-on delivery)\n\nCanberra-based · Founder-led consultancy\n\nSpecialises in bringing data from finance, operations, customer and compliance systems into Microsoft Fabric, then building governed Power BI models and reports. Its services include automated reporting, data quality checks, security, documentation and handover. [www.datasanj.com](https://www.datasanj.com/?utm_source=chatgpt.com)[www.datasanj.com](https://www.datasanj.com/services.html?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong match if you want to replace spreadsheet consolidation and manual operational reporting with a maintainable reporting platform.\n\n[Website and contact](https://www.datasanj.com/)\n\n---\n\n![Altis Consulting | The Org](https://images.openai.com/static-rsc-4/vPyxcM4By3apB30e9cLhgDEeLLNV4ZIiCf2wOaXMKa65cdCFlrC36iiGaOvy_Hd62P6lh4FJLnCkel_frAJezmWSDkH4Cb3sR_7l6oiXlwmjguoF-buzGihkuKByGDrq3SRpOhPzFMv-v5fYrhMR3OA2J6AAYzitMaP6JYWMqmJeEOH9nVEzbkWCcsszsNr0?purpose=fullsize)\n\n## 2\\. Altis Consulting\n\n(Best for enterprise data warehousing)\n\nCanberra office · National consulting team\n\nOffers Microsoft Azure, Fabric, Power BI and broader data-platform expertise. Its published Microsoft capabilities include certified data specialists, data engineering and enterprise analytics implementations. [www.altisconsulting.com](https://www.altisconsulting.com/partners/microsoft?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering for complex integrations, established enterprise data estates, data governance and a warehouse that must support multiple reporting teams.\n\n[Microsoft capabilities](https://www.altisconsulting.com/partners/microsoft)\n\n---\n\n![Professional Advantage attains the coveted Solutions Partner for Microsoft Cloud](https://images.openai.com/static-rsc-4/69N5vyDZkVDHJ9Q1lA7mvLpoa1o1V4Ck3cwKhwI8pdryFHIQShpHATuXCo6pyXWGeHGzT0rRAz9UHtMJ-nKJw4fc6yMj_FgsQdftiKBEAaV-FwtxC_aTVfEYhlccAR3AMKvX9JTcrOageilKHcyDEymwz4KK3b73eyT2m6Q5TtmumUvL7EJuK4_PIFz9KmyH?purpose=fullsize)\n\n## 3\\. Professional Advantage\n\nAustralia-wide delivery\n\nA Microsoft Solutions Partner offering Fabric implementation, Power BI, data integration and analytics. Its team advertises Fabric Analytics Engineer, Fabric Data Engineer and Power BI Data Analyst certifications. [www.pa.com.au](https://www.pa.com.au/products/microsoft-fabric/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate for a structured implementation involving several data sources, phased delivery, business-facing reporting and a longer-term Microsoft platform roadmap.\n\n[Microsoft Fabric consulting](https://www.pa.com.au/products/microsoft-fabric/)\n\n---\n\n![Calcom -Your project and operational consultant.](https://images.openai.com/static-rsc-4/KL0EQIveHIBAdjFHGlyPErFaGXYnYXtjv_g8s25T_8hR2LTeUfB51I8i9_l4X5vqFZzcCuPwaLFDdQcITzIyfl0iP9uwTZhPamaao8Za1oOiRJClqZPj7vwVe0QiWmdiBFJImKa8eFQf600AZhXOOSttFw5oOJPoNicGUUt48W-0dSWQqrZwjysIyDQ6zXXq?purpose=fullsize)\n\n## 4\\. TALCOM\n\nCanberra-based\n\nProvides data analytics, Power BI reporting, SQL Server, data modelling and data engineering, with Microsoft Fabric included in its service offering. [talcom.com.au](https://talcom.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant when operational dashboards need to be supported by practical SQL, data engineering and reporting work.\n\n[Website](https://talcom.com.au/)\n\n---\n\n![Sydney Power BI & Fabric User Group Meetup-The future of advanced Power BI Development - Agile Insights](https://images.openai.com/static-rsc-4/5V7snMSJhDf5DqikjFoHe3By_izzwe6WWOblwz2r_9c7o_V2GCM8hdWM2PALXvwYDVecCfUcmoXVDjqNyzes6uYmFCW0fiBoKFGWft6xpGWstQp_sPrJFPWPbRBDHO-CDzWPGPrXes3v4-OVgJsTSjC1p4w94X0kWOlAivBMBzQLr7T0cW76PbbUIZUSwmpa?purpose=fullsize)\n\n## 5\\. Agile Insights\n\nSydney-based · National delivery\n\nA specialist Microsoft analytics firm advertising more than 150 Fabric engagements, Microsoft certifications across its consulting team, and Power BI governance and performance uplift services. [www.agile-insights.com.au](https://www.agile-insights.com.au/power-bi-consulting/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong specialist option if the project requires advanced Fabric engineering, enterprise-grade Power BI architecture or remediation of an existing BI environment.\n\n[Power BI and Fabric consulting](https://www.agile-insights.com/power-bi-consulting/)\n\n## Other Canberra firms worth checking\n\nThese may be especially relevant if your project has government, legacy systems or complex data-governance requirements.\n\n- **Prometix** — Canberra office and Microsoft-focused delivery, with published Microsoft Fabric data-platform case material. [Website](https://prometix.com.au/) [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJJRgi-WNNFmsRiOcTH3HJk84&hl=en&utm_source=chatgpt.com)\n- **A23** — Local systems integrator offering data engineering, warehousing, dashboards and data-platform design. [Website](https://www.a23.com.au/) [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ__8_xuxSFmsRPYICS3006t0&hl=en&utm_source=chatgpt.com)\n- **Seers Digital** — Canberra presence with Microsoft platform, Power BI, Fabric and broader business-system modernisation capabilities. [Website](https://seersdigital.com/) [www.google.com.mx](https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n\n\n## Which would I choose for your requirements?\n\n| Your priority | First consultants to approach |\n|--------|--------|\n| Operational dashboards and automated reporting | DATASANJ, TALCOM |\n| Enterprise data warehouse and complex integrations | Altis Consulting, Professional Advantage |\n| Advanced Microsoft Fabric implementation | Agile Insights, Professional Advantage |\n| Canberra-based, hands-on engagement | DATASANJ, TALCOM |\n| Government or enterprise-scale delivery | Altis Consulting, Prometix, Professional Advantage |\n\n\n## What to test before engaging them\n\nAsk each shortlisted firm to demonstrate a real, comparable project and explain\\:\n\n1. **Data warehousing\\:** Can they build a Fabric Lakehouse or Warehouse with reliable ingestion pipelines, incremental loads, data-quality controls and historical tracking?\n2. **Operational reporting\\:** Can they produce exception reports, daily or hourly refreshes, drill-through, role-based access and clearly defined operational KPIs?\n3. **Maintainability\\:** Will you receive documented data models, source-to-report lineage, deployment processes, monitoring and a handover to your internal team?\n4. **Evidence\\:** Can they provide relevant client references, named consultant CVs, current Microsoft certifications and a transparent estimate of implementation and ongoing support costs?\n\nFor operational reporting, I would prioritise a consultant who can demonstrate the complete flow from source systems to warehouse to Power BI—not just attractive dashboards.\n\nIf you share whether this is for a **government agency or private-sector organisation**, and whether you need a new warehouse or an uplift to existing Power BI reports, I can narrow this to the best two or three candidates.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.linkedin.com/company/datasanj-analytics-consultancy",
+          "domain": "au.linkedin.com",
+          "title": "DATASANJ Analytics Consultancy | LinkedIn",
+          "description": null,
+          "breadcrumb": "au.linkedin.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.datasanj.com/",
+          "domain": "www.datasanj.com",
+          "title": "Microsoft Fabric and Power BI Consultancy | Integration, Analysis, Visualisation | DATASANJ",
+          "description": null,
+          "breadcrumb": "www.datasanj.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.datasanj.com/services.html",
+          "domain": "www.datasanj.com",
+          "title": "Services and Packages | Microsoft Fabric and Power BI | DATASANJ",
+          "description": null,
+          "breadcrumb": "www.datasanj.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.datasanj.com/index.html",
+          "domain": "www.datasanj.com",
+          "title": "Microsoft Fabric and Power BI Consultancy | Integration, Analysis, Visualisation | DATASANJ",
+          "description": null,
+          "breadcrumb": "www.datasanj.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.pa.com.au/products/microsoft-fabric/",
+          "domain": "www.pa.com.au",
+          "title": "Microsoft Fabric Consulting | Professional Advantage Australia",
+          "description": null,
+          "breadcrumb": "www.pa.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://talcom.com.au/",
+          "domain": "talcom.com.au",
+          "title": "TALCOM | Data & Reporting Services & Labour Hire | Canberra - Empowering Business Through Talent & Tech",
+          "description": null,
+          "breadcrumb": "talcom.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+          "domain": "www.agile-insights.com.au",
+          "title": "Power BI consulting - Agile Insights",
+          "description": null,
+          "breadcrumb": "www.agile-insights.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Canberra | Office Experts Group",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.altisconsulting.com/partners/microsoft",
+          "domain": "www.altisconsulting.com",
+          "title": "Microsoft Partner | Altis Consulting | Data Consulting Experts",
+          "description": null,
+          "breadcrumb": "www.altisconsulting.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://marketplace.microsoft.com/en-gb/product/intelegain.powerbiconsulting?country=AU&product=dynamics-365-business-central&subcategories=asset-management%3Banalytics-consolidation-and-reporting",
+          "domain": "marketplace.microsoft.com",
+          "title": "Power BI & Microsoft Fabric Consulting Services | Microsoft Marketplace",
+          "description": null,
+          "breadcrumb": "marketplace.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://alphavima.com/data-engineering/data-strategy-consulting-in-canberra/",
+          "domain": "alphavima.com",
+          "title": "data strategy consulting in Canberra | Alphavima",
+          "description": null,
+          "breadcrumb": "alphavima.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.datatobiz.com/blog/microsoft-fabric-implementation-specialists-australia/",
+          "domain": "www.datatobiz.com",
+          "title": "Top Microsoft Fabric Implementation Specialists in Australia",
+          "description": null,
+          "breadcrumb": "www.datatobiz.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Fabric and Power BI Consultancy | Integration, Analysis, Visualisation",
+          "snippet": null,
+          "domain": "www.datasanj.com",
+          "url": "https://www.datasanj.com/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "DATASANJ",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Services and Packages | Microsoft Fabric and Power BI",
+          "snippet": null,
+          "domain": "www.datasanj.com",
+          "url": "https://www.datasanj.com/services.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "DATASANJ",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website and contact",
+          "snippet": null,
+          "domain": "www.datasanj.com",
+          "url": "https://www.datasanj.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website and contact](https://www.datasanj.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Partner | Altis Consulting",
+          "snippet": null,
+          "domain": "www.altisconsulting.com",
+          "url": "https://www.altisconsulting.com/partners/microsoft?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Data Consulting Experts",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft capabilities",
+          "snippet": null,
+          "domain": "www.altisconsulting.com",
+          "url": "https://www.altisconsulting.com/partners/microsoft",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Microsoft capabilities](https://www.altisconsulting.com/partners/microsoft)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Fabric Consulting",
+          "snippet": null,
+          "domain": "www.pa.com.au",
+          "url": "https://www.pa.com.au/products/microsoft-fabric/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Professional Advantage Australia",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Fabric consulting",
+          "snippet": null,
+          "domain": "www.pa.com.au",
+          "url": "https://www.pa.com.au/products/microsoft-fabric/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Microsoft Fabric consulting](https://www.pa.com.au/products/microsoft-fabric/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "TALCOM | Data & Reporting Services & Labour Hire | Canberra",
+          "snippet": null,
+          "domain": "talcom.com.au",
+          "url": "https://talcom.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Empowering Business Through Talent & Tech",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "talcom.com.au",
+          "url": "https://talcom.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://talcom.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power BI consulting",
+          "snippet": null,
+          "domain": "www.agile-insights.com.au",
+          "url": "https://www.agile-insights.com.au/power-bi-consulting/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Agile Insights",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power BI and Fabric consulting",
+          "snippet": null,
+          "domain": "www.agile-insights.com",
+          "url": "https://www.agile-insights.com/power-bi-consulting/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Power BI and Fabric consulting](https://www.agile-insights.com/power-bi-consulting/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "prometix.com.au",
+          "url": "https://prometix.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://prometix.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "PROMETIX Limited - Canberra",
+          "snippet": "Level 1/33 Allara St, Canberra ACT 2601, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJJRgi-WNNFmsRiOcTH3HJk84&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.a23.com.au",
+          "url": "https://www.a23.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.a23.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "A23 PTY LTD",
+          "snippet": "Level 7/5 Constitution Ave, Canberra ACT 2601, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ__8_xuxSFmsRPYICS3006t0&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "seersdigital.com",
+          "url": "https://seersdigital.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://seersdigital.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Seers Digital",
+          "snippet": "Lvl 5/73 Northbourne Ave, Canberra ACT 2601, Australia",
+          "domain": "www.google.com.mx",
+          "url": "https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.mx",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Canberra ACT Microsoft Power BI Microsoft Fabric analytics consultants operational reporting data warehousing",
+        "Microsoft Power BI consultants",
+        "Microsoft Fabric consultants",
+        "data warehousing consultants",
+        "business intelligence consulting"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra Microsoft Fabric and Power BI analytics consultancy",
+          "category": "company",
+          "markdown": "DATASANJ",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian data engineering and analytics consultancy",
+          "category": "company",
+          "markdown": "Altis Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft business applications and data consulting firm",
+          "category": "company",
+          "markdown": "Professional Advantage",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra data analytics and technology consultancy",
+          "category": "company",
+          "markdown": "TALCOM",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft analytics and data platform consultancy",
+          "category": "company",
+          "markdown": "Agile Insights",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft technology consultancy",
+          "category": "company",
+          "markdown": "Prometix",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra systems integration and IT consulting firm",
+          "category": "company",
+          "markdown": "A23",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian digital transformation and Microsoft technology consultancy",
+          "category": "company",
+          "markdown": "Seers Digital",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Top Power BI and Microsoft Fabric analytics consultants in Canberra\n\nFor operational reporting and data warehousing, I’d shortlist consultants based on three capabilities: **reliable operational dashboards, a governed data model with consistent KPIs, and a scalable warehouse or lakehouse that integrates data from multiple systems.**\n\nBased on current public service descriptions and Canberra presence, these are the strongest candidates to investigate. This is a capability-based shortlist, not a definitive ranking of delivery quality; I haven't independently verified each firm's client references or project outcomes.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. DATASANJ\n\n(Best fit for hands-on delivery)\n\nCanberra-based · Founder-led consultancy\n\nSpecialises in bringing data from finance, operations, customer and compliance systems into Microsoft Fabric, then building governed Power BI models and reports. Its services include automated reporting, data quality checks, security, documentation and handover. [www.datasanj.com](https://www.datasanj.com/?utm_source=chatgpt.com)[www.datasanj.com](https://www.datasanj.com/services.html?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong match if you want to replace spreadsheet consolidation and manual operational reporting with a maintainable reporting platform.\n\n[Website and contact](https://www.datasanj.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Fabric and Power BI Consultancy | Integration, Analysis, Visualisation",
+              "snippet": null,
+              "domain": "www.datasanj.com",
+              "url": "https://www.datasanj.com/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "DATASANJ",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Services and Packages | Microsoft Fabric and Power BI",
+              "snippet": null,
+              "domain": "www.datasanj.com",
+              "url": "https://www.datasanj.com/services.html?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "DATASANJ",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website and contact",
+              "snippet": null,
+              "domain": "www.datasanj.com",
+              "url": "https://www.datasanj.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website and contact](https://www.datasanj.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra Microsoft Fabric and Power BI analytics consultancy",
+              "category": "company",
+              "markdown": "DATASANJ",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Altis Consulting | The Org](https://images.openai.com/static-rsc-4/vPyxcM4By3apB30e9cLhgDEeLLNV4ZIiCf2wOaXMKa65cdCFlrC36iiGaOvy_Hd62P6lh4FJLnCkel_frAJezmWSDkH4Cb3sR_7l6oiXlwmjguoF-buzGihkuKByGDrq3SRpOhPzFMv-v5fYrhMR3OA2J6AAYzitMaP6JYWMqmJeEOH9nVEzbkWCcsszsNr0?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://theorg.com/org/altis",
+              "alt": "Altis Consulting | The Org",
+              "image_url": "https://images.openai.com/static-rsc-4/vPyxcM4By3apB30e9cLhgDEeLLNV4ZIiCf2wOaXMKa65cdCFlrC36iiGaOvy_Hd62P6lh4FJLnCkel_frAJezmWSDkH4Cb3sR_7l6oiXlwmjguoF-buzGihkuKByGDrq3SRpOhPzFMv-v5fYrhMR3OA2J6AAYzitMaP6JYWMqmJeEOH9nVEzbkWCcsszsNr0?purpose=fullsize",
+              "markdown": "![Altis Consulting | The Org](https://images.openai.com/static-rsc-4/vPyxcM4By3apB30e9cLhgDEeLLNV4ZIiCf2wOaXMKa65cdCFlrC36iiGaOvy_Hd62P6lh4FJLnCkel_frAJezmWSDkH4Cb3sR_7l6oiXlwmjguoF-buzGihkuKByGDrq3SRpOhPzFMv-v5fYrhMR3OA2J6AAYzitMaP6JYWMqmJeEOH9nVEzbkWCcsszsNr0?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Altis Consulting\n\n(Best for enterprise data warehousing)\n\nCanberra office · National consulting team\n\nOffers Microsoft Azure, Fabric, Power BI and broader data-platform expertise. Its published Microsoft capabilities include certified data specialists, data engineering and enterprise analytics implementations. [www.altisconsulting.com](https://www.altisconsulting.com/partners/microsoft?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering for complex integrations, established enterprise data estates, data governance and a warehouse that must support multiple reporting teams.\n\n[Microsoft capabilities](https://www.altisconsulting.com/partners/microsoft)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Partner | Altis Consulting",
+              "snippet": null,
+              "domain": "www.altisconsulting.com",
+              "url": "https://www.altisconsulting.com/partners/microsoft?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Data Consulting Experts",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft capabilities",
+              "snippet": null,
+              "domain": "www.altisconsulting.com",
+              "url": "https://www.altisconsulting.com/partners/microsoft",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Microsoft capabilities](https://www.altisconsulting.com/partners/microsoft)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian data engineering and analytics consultancy",
+              "category": "company",
+              "markdown": "Altis Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Professional Advantage attains the coveted Solutions Partner for Microsoft Cloud](https://images.openai.com/static-rsc-4/69N5vyDZkVDHJ9Q1lA7mvLpoa1o1V4Ck3cwKhwI8pdryFHIQShpHATuXCo6pyXWGeHGzT0rRAz9UHtMJ-nKJw4fc6yMj_FgsQdftiKBEAaV-FwtxC_aTVfEYhlccAR3AMKvX9JTcrOageilKHcyDEymwz4KK3b73eyT2m6Q5TtmumUvL7EJuK4_PIFz9KmyH?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.pa.com.au/news/professional-advantage-attains-the-coveted-solutions-partner-for-microsoft-cloud/",
+              "alt": "Professional Advantage attains the coveted Solutions Partner for Microsoft Cloud",
+              "image_url": "https://images.openai.com/static-rsc-4/69N5vyDZkVDHJ9Q1lA7mvLpoa1o1V4Ck3cwKhwI8pdryFHIQShpHATuXCo6pyXWGeHGzT0rRAz9UHtMJ-nKJw4fc6yMj_FgsQdftiKBEAaV-FwtxC_aTVfEYhlccAR3AMKvX9JTcrOageilKHcyDEymwz4KK3b73eyT2m6Q5TtmumUvL7EJuK4_PIFz9KmyH?purpose=fullsize",
+              "markdown": "![Professional Advantage attains the coveted Solutions Partner for Microsoft Cloud](https://images.openai.com/static-rsc-4/69N5vyDZkVDHJ9Q1lA7mvLpoa1o1V4Ck3cwKhwI8pdryFHIQShpHATuXCo6pyXWGeHGzT0rRAz9UHtMJ-nKJw4fc6yMj_FgsQdftiKBEAaV-FwtxC_aTVfEYhlccAR3AMKvX9JTcrOageilKHcyDEymwz4KK3b73eyT2m6Q5TtmumUvL7EJuK4_PIFz9KmyH?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Professional Advantage\n\nAustralia-wide delivery\n\nA Microsoft Solutions Partner offering Fabric implementation, Power BI, data integration and analytics. Its team advertises Fabric Analytics Engineer, Fabric Data Engineer and Power BI Data Analyst certifications. [www.pa.com.au](https://www.pa.com.au/products/microsoft-fabric/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A good candidate for a structured implementation involving several data sources, phased delivery, business-facing reporting and a longer-term Microsoft platform roadmap.\n\n[Microsoft Fabric consulting](https://www.pa.com.au/products/microsoft-fabric/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Fabric Consulting",
+              "snippet": null,
+              "domain": "www.pa.com.au",
+              "url": "https://www.pa.com.au/products/microsoft-fabric/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Professional Advantage Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Fabric consulting",
+              "snippet": null,
+              "domain": "www.pa.com.au",
+              "url": "https://www.pa.com.au/products/microsoft-fabric/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Microsoft Fabric consulting](https://www.pa.com.au/products/microsoft-fabric/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft business applications and data consulting firm",
+              "category": "company",
+              "markdown": "Professional Advantage",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Calcom -Your project and operational consultant.](https://images.openai.com/static-rsc-4/KL0EQIveHIBAdjFHGlyPErFaGXYnYXtjv_g8s25T_8hR2LTeUfB51I8i9_l4X5vqFZzcCuPwaLFDdQcITzIyfl0iP9uwTZhPamaao8Za1oOiRJClqZPj7vwVe0QiWmdiBFJImKa8eFQf600AZhXOOSttFw5oOJPoNicGUUt48W-0dSWQqrZwjysIyDQ6zXXq?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.calcomservices.com/",
+              "alt": "Calcom -Your project and operational consultant.",
+              "image_url": "https://images.openai.com/static-rsc-4/KL0EQIveHIBAdjFHGlyPErFaGXYnYXtjv_g8s25T_8hR2LTeUfB51I8i9_l4X5vqFZzcCuPwaLFDdQcITzIyfl0iP9uwTZhPamaao8Za1oOiRJClqZPj7vwVe0QiWmdiBFJImKa8eFQf600AZhXOOSttFw5oOJPoNicGUUt48W-0dSWQqrZwjysIyDQ6zXXq?purpose=fullsize",
+              "markdown": "![Calcom -Your project and operational consultant.](https://images.openai.com/static-rsc-4/KL0EQIveHIBAdjFHGlyPErFaGXYnYXtjv_g8s25T_8hR2LTeUfB51I8i9_l4X5vqFZzcCuPwaLFDdQcITzIyfl0iP9uwTZhPamaao8Za1oOiRJClqZPj7vwVe0QiWmdiBFJImKa8eFQf600AZhXOOSttFw5oOJPoNicGUUt48W-0dSWQqrZwjysIyDQ6zXXq?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. TALCOM\n\nCanberra-based\n\nProvides data analytics, Power BI reporting, SQL Server, data modelling and data engineering, with Microsoft Fabric included in its service offering. [talcom.com.au](https://talcom.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant when operational dashboards need to be supported by practical SQL, data engineering and reporting work.\n\n[Website](https://talcom.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "TALCOM | Data & Reporting Services & Labour Hire | Canberra",
+              "snippet": null,
+              "domain": "talcom.com.au",
+              "url": "https://talcom.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Empowering Business Through Talent & Tech",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "talcom.com.au",
+              "url": "https://talcom.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://talcom.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra data analytics and technology consultancy",
+              "category": "company",
+              "markdown": "TALCOM",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Sydney Power BI & Fabric User Group Meetup-The future of advanced Power BI Development - Agile Insights](https://images.openai.com/static-rsc-4/5V7snMSJhDf5DqikjFoHe3By_izzwe6WWOblwz2r_9c7o_V2GCM8hdWM2PALXvwYDVecCfUcmoXVDjqNyzes6uYmFCW0fiBoKFGWft6xpGWstQp_sPrJFPWPbRBDHO-CDzWPGPrXes3v4-OVgJsTSjC1p4w94X0kWOlAivBMBzQLr7T0cW76PbbUIZUSwmpa?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.agile-insights.com.au/event/sydney-power-bi-fabric-user-group-meetup-the-future-of-advanced-power-bi-development/",
+              "alt": "Sydney Power BI & Fabric User Group Meetup-The future of advanced Power BI Development - Agile Insights",
+              "image_url": "https://images.openai.com/static-rsc-4/5V7snMSJhDf5DqikjFoHe3By_izzwe6WWOblwz2r_9c7o_V2GCM8hdWM2PALXvwYDVecCfUcmoXVDjqNyzes6uYmFCW0fiBoKFGWft6xpGWstQp_sPrJFPWPbRBDHO-CDzWPGPrXes3v4-OVgJsTSjC1p4w94X0kWOlAivBMBzQLr7T0cW76PbbUIZUSwmpa?purpose=fullsize",
+              "markdown": "![Sydney Power BI & Fabric User Group Meetup-The future of advanced Power BI Development - Agile Insights](https://images.openai.com/static-rsc-4/5V7snMSJhDf5DqikjFoHe3By_izzwe6WWOblwz2r_9c7o_V2GCM8hdWM2PALXvwYDVecCfUcmoXVDjqNyzes6uYmFCW0fiBoKFGWft6xpGWstQp_sPrJFPWPbRBDHO-CDzWPGPrXes3v4-OVgJsTSjC1p4w94X0kWOlAivBMBzQLr7T0cW76PbbUIZUSwmpa?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Agile Insights\n\nSydney-based · National delivery\n\nA specialist Microsoft analytics firm advertising more than 150 Fabric engagements, Microsoft certifications across its consulting team, and Power BI governance and performance uplift services. [www.agile-insights.com.au](https://www.agile-insights.com.au/power-bi-consulting/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong specialist option if the project requires advanced Fabric engineering, enterprise-grade Power BI architecture or remediation of an existing BI environment.\n\n[Power BI and Fabric consulting](https://www.agile-insights.com/power-bi-consulting/)\n\n## Other Canberra firms worth checking\n\nThese may be especially relevant if your project has government, legacy systems or complex data-governance requirements.\n\n- **Prometix** — Canberra office and Microsoft-focused delivery, with published Microsoft Fabric data-platform case material. [Website](https://prometix.com.au/) [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJJRgi-WNNFmsRiOcTH3HJk84&hl=en&utm_source=chatgpt.com)\n- **A23** — Local systems integrator offering data engineering, warehousing, dashboards and data-platform design. [Website](https://www.a23.com.au/) [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ__8_xuxSFmsRPYICS3006t0&hl=en&utm_source=chatgpt.com)\n- **Seers Digital** — Canberra presence with Microsoft platform, Power BI, Fabric and broader business-system modernisation capabilities. [Website](https://seersdigital.com/) [www.google.com.mx](https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power BI consulting",
+              "snippet": null,
+              "domain": "www.agile-insights.com.au",
+              "url": "https://www.agile-insights.com.au/power-bi-consulting/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Agile Insights",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power BI and Fabric consulting",
+              "snippet": null,
+              "domain": "www.agile-insights.com",
+              "url": "https://www.agile-insights.com/power-bi-consulting/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Power BI and Fabric consulting](https://www.agile-insights.com/power-bi-consulting/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "prometix.com.au",
+              "url": "https://prometix.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://prometix.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "PROMETIX Limited - Canberra",
+              "snippet": "Level 1/33 Allara St, Canberra ACT 2601, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJJRgi-WNNFmsRiOcTH3HJk84&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.a23.com.au",
+              "url": "https://www.a23.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.a23.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "A23 PTY LTD",
+              "snippet": "Level 7/5 Constitution Ave, Canberra ACT 2601, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ__8_xuxSFmsRPYICS3006t0&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "seersdigital.com",
+              "url": "https://seersdigital.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://seersdigital.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Seers Digital",
+              "snippet": "Lvl 5/73 Northbourne Ave, Canberra ACT 2601, Australia",
+              "domain": "www.google.com.mx",
+              "url": "https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com.mx",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft analytics and data platform consultancy",
+              "category": "company",
+              "markdown": "Agile Insights",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft technology consultancy",
+              "category": "company",
+              "markdown": "Prometix",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra systems integration and IT consulting firm",
+              "category": "company",
+              "markdown": "A23",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian digital transformation and Microsoft technology consultancy",
+              "category": "company",
+              "markdown": "Seers Digital",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Altis Consulting",
+              "description": "Consultant",
+              "address": "Level 6, 5 Farrell Place, Canberra ACT 2601, Australia",
+              "phone": "+61 2 6262 5422",
+              "reviews_count": 3,
+              "url": "https://www.altisconsulting.com/?utm_source=chatgpt.com",
+              "domain": "www.altisconsulting.com",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 3,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Prometix",
+              "description": "Business management consultant",
+              "address": "Level 1, 33 Allara Street, Canberra ACT 2601, Australia",
+              "phone": "+61 2 8072 0666",
+              "reviews_count": 1,
+              "url": "https://www.prometix.com.au/?utm_source=chatgpt.com",
+              "domain": "www.prometix.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 1,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "A23",
+              "description": "Software company",
+              "address": "Level 7, 5 Constitution Avenue, Canberra ACT 2601, Australia",
+              "phone": "+61 1800 223 228",
+              "reviews_count": 4,
+              "url": "https://www.a23.com.au/?utm_source=chatgpt.com",
+              "domain": "www.a23.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## Which would I choose for your requirements?\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Your priority | First consultants to approach |\n|--------|--------|\n| Operational dashboards and automated reporting | DATASANJ, TALCOM |\n| Enterprise data warehouse and complex integrations | Altis Consulting, Professional Advantage |\n| Advanced Microsoft Fabric implementation | Agile Insights, Professional Advantage |\n| Canberra-based, hands-on engagement | DATASANJ, TALCOM |\n| Government or enterprise-scale delivery | Altis Consulting, Prometix, Professional Advantage |\n\n",
+          "table": {
+            "table_header": [
+              "Your priority",
+              "First consultants to approach"
+            ],
+            "table_content": [
+              [
+                "Operational dashboards and automated reporting",
+                "DATASANJ, TALCOM"
+              ],
+              [
+                "Enterprise data warehouse and complex integrations",
+                "Altis Consulting, Professional Advantage"
+              ],
+              [
+                "Advanced Microsoft Fabric implementation",
+                "Agile Insights, Professional Advantage"
+              ],
+              [
+                "Canberra-based, hands-on engagement",
+                "DATASANJ, TALCOM"
+              ],
+              [
+                "Government or enterprise-scale delivery",
+                "Altis Consulting, Prometix, Professional Advantage"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n## What to test before engaging them\n\nAsk each shortlisted firm to demonstrate a real, comparable project and explain\\:\n\n1. **Data warehousing\\:** Can they build a Fabric Lakehouse or Warehouse with reliable ingestion pipelines, incremental loads, data-quality controls and historical tracking?\n2. **Operational reporting\\:** Can they produce exception reports, daily or hourly refreshes, drill-through, role-based access and clearly defined operational KPIs?\n3. **Maintainability\\:** Will you receive documented data models, source-to-report lineage, deployment processes, monitoring and a handover to your internal team?\n4. **Evidence\\:** Can they provide relevant client references, named consultant CVs, current Microsoft certifications and a transparent estimate of implementation and ongoing support costs?\n\nFor operational reporting, I would prioritise a consultant who can demonstrate the complete flow from source systems to warehouse to Power BI—not just attractive dashboards.\n\nIf you share whether this is for a **government agency or private-sector organisation**, and whether you need a new warehouse or an uplift to existing Power BI reports, I can narrow this to the best two or three candidates.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

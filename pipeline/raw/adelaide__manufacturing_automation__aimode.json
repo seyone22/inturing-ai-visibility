@@ -1,0 +1,216 @@
+{
+  "slug": "adelaide",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Adelaide looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:52.805Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Adelaide looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Adelaide%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-29 04:07:47 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For an Adelaide-based manufacturer looking to layer automation, shop-floor data capture, and custom workflows over an existing ERP without ripping and replacing the core system, the `Microsoft Power Platform (Power Apps, Power Automate, Power BI) combined with Azure integration tools` is an ideal approach.\n\nBecause you want to preserve your current ERP, you need consultants who specialize in **low-code integration architecture**, **API connectivity** , and **industrial/manufacturing business processes** , rather than traditional \"full ERP implementation\" partners.\n\nThe following consultants and enterprise partners operate locally or nationally with strong South Australian footprints and proven capabilities in this exact tier of architecture:\n\n### 1. Specialized Power Platform & Automation Specialists\n\n- **Power Platform Experts (Office Experts Group):** A dedicated team of Australian Microsoft-certified specialists focusing explicitly on low-code ecosystems. They provide targeted services in Power Automate workflows, custom Power Apps, and data visualization via Power BI . They are well-positioned for rapid deployment of modular shop-floor data capture apps and order-processing queues that safely talk to legacy or locked-down ERP databases via gateways or APIs.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)\n- **Local Boutique & Regional Microsoft Partners:** Searching via the [Microsoft Partner Directory](https://partner.microsoft.com/) filtering for the **Business Applications** or **Low Code Application Development** pathways will surface specialized South Australian boutique IT firms. Look for partners who emphasize \"systems integration\" and \"middle-tier automation\" rather than enterprise-wide ERP overhauls.[[1]](https://partner.microsoft.com/en-us/partnership/find-a-partner)\n\n### 2. Enterprise & Tier-1 Digital Transformation Consultancies\n\n- **DXC Technology (Adelaide Office):** DXC has a major delivery presence in Adelaide (notably recognized for large-scale South Australian digital platforms built on Microsoft Dynamics 365, Power Platform, and Azure ). While they handle massive enterprise builds, they excel at secure enterprise-grade middleware, API management, and robust Power Platform environments that can securely extract and write back data to persistent ERP backends.[[1]](https://dxc.com/newsroom/10052026-dxc-delivers-new-digital-minerals-and-energy-regulation-system-for-south-australian-department-for-energy-and-mining)\n- **KPMG Australia (Adelaide / Enterprise Practice):** KPMG features a dedicated [Microsoft Power Platform Alliance practice](https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html) focusing on operational excellence, legacy application modernization, and low-code workflow automation. They are a strong fit if your manufacturing automation project requires upfront business process re-engineering (BPR) to map out how orders and shop-floor metrics should flow before writing a single line of Power Apps code.[[1]](https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html)\n\n### Key Advisory Questions to Ask Them\n\nWhen interviewing these consultants, ensure you ask:\n\n- *Do you have experience using Power Platform Dataverse and custom connectors with non-Microsoft or legacy ERPs via OData/APIs?* \n- *How do you handle offline shop-floor data capture (if Wi-Fi drops in the warehouse/factory floor) before syncing back to the ERP?* \n- *Can you build a proof-of-concept (PoC) for just one bottleneck—like order intake or a single shop-floor station—before committing to a broad rollout?* \n\nTo help narrow this down, could you share:\n\n- **Which ERP system** you are currently running (e.g., SAP, Pronto, Syspro, Epicor)?\n- **How critical real-time data sync** is versus batch updates for your shop-floor operations?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For an Adelaide-based manufacturer looking to layer automation, shop-floor data capture, and custom workflows over an existing ERP without ripping and replacing the core system, the Microsoft Power Platform (Power Apps, Power Automate, Power BI) combined with Azure integration tools is an ideal approach.",
+              "markdown": "For an Adelaide-based manufacturer looking to layer automation, shop-floor data capture, and custom workflows over an existing ERP without ripping and replacing the core system, the `Microsoft Power Platform (Power Apps, Power Automate, Power BI) combined with Azure integration tools` is an ideal approach.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Because you want to preserve your current ERP, you need consultants who specialize in low-code integration architecture, API connectivity, and industrial/manufacturing business processes, rather than traditional \"full ERP implementation\" partners.",
+              "markdown": "Because you want to preserve your current ERP, you need consultants who specialize in **low-code integration architecture**, **API connectivity** , and **industrial/manufacturing business processes** , rather than traditional \"full ERP implementation\" partners.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The following consultants and enterprise partners operate locally or nationally with strong South Australian footprints and proven capabilities in this exact tier of architecture:",
+              "markdown": "The following consultants and enterprise partners operate locally or nationally with strong South Australian footprints and proven capabilities in this exact tier of architecture:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Specialized Power Platform & Automation Specialists",
+              "text": "Power Platform Experts (Office Experts Group): A dedicated team of Australian Microsoft-certified specialists focusing explicitly on low-code ecosystems. They provide targeted services in Power Automate workflows, custom Power Apps, and data visualization via Power BI. They are well-positioned for rapid deployment of modular shop-floor data capture apps and order-processing queues that safely talk to legacy or locked-down ERP databases via gateways or APIs. Power Automate workflows, custom Power Apps, and data visualization via Power BI Local Boutique & Regional Microsoft Partners: Searching via the Microsoft Partner Directory filtering for the Business Applications or Low Code Application Development pathways will surface specialized South Australian boutique IT firms. Look for partners who emphasize \"systems integration\" and \"middle-tier automation\" rather than enterprise-wide ERP overhauls.",
+              "markdown": "- **Power Platform Experts (Office Experts Group):** A dedicated team of Australian Microsoft-certified specialists focusing explicitly on low-code ecosystems. They provide targeted services in Power Automate workflows, custom Power Apps, and data visualization via Power BI . They are well-positioned for rapid deployment of modular shop-floor data capture apps and order-processing queues that safely talk to legacy or locked-down ERP databases via gateways or APIs.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)\n- **Local Boutique & Regional Microsoft Partners:** Searching via the [Microsoft Partner Directory](https://partner.microsoft.com/) filtering for the **Business Applications** or **Low Code Application Development** pathways will surface specialized South Australian boutique IT firms. Look for partners who emphasize \"systems integration\" and \"middle-tier automation\" rather than enterprise-wide ERP overhauls.[[1]](https://partner.microsoft.com/en-us/partnership/find-a-partner)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Microsoft Partner Directory",
+                  "description": null,
+                  "url": "https://partner.microsoft.com/",
+                  "domain": "partner.microsoft.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "title": "Power Platform Consultants Adelaide",
+                  "text": "Operating since 2000, part of Office Experts Group, 25+ consultants providing remote and onsite support across Australia and New Z..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "partner.microsoft.com",
+                  "domain": "partner.microsoft.com",
+                  "url": "https://partner.microsoft.com/en-us/partnership/find-a-partner",
+                  "title": "Find a Microsoft partner",
+                  "text": "Search for partners with a Solutions Partner designation badge that aligns to your business needs."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. Enterprise & Tier-1 Digital Transformation Consultancies",
+              "text": "DXC Technology (Adelaide Office): DXC has a major delivery presence in Adelaide (notably recognized for large-scale South Australian digital platforms built on Microsoft Dynamics 365, Power Platform, and Azure ). While they handle massive enterprise builds, they excel at secure enterprise-grade middleware, API management, and robust Power Platform environments that can securely extract and write back data to persistent ERP backends. Microsoft Dynamics 365, Power Platform, and Azure KPMG Australia (Adelaide / Enterprise Practice): KPMG features a dedicated Microsoft Power Platform Alliance practice focusing on operational excellence, legacy application modernization, and low-code workflow automation. They are a strong fit if your manufacturing automation project requires upfront business process re-engineering (BPR) to map out how orders and shop-floor metrics should flow before writing a single line of Power Apps code.",
+              "markdown": "- **DXC Technology (Adelaide Office):** DXC has a major delivery presence in Adelaide (notably recognized for large-scale South Australian digital platforms built on Microsoft Dynamics 365, Power Platform, and Azure ). While they handle massive enterprise builds, they excel at secure enterprise-grade middleware, API management, and robust Power Platform environments that can securely extract and write back data to persistent ERP backends.[[1]](https://dxc.com/newsroom/10052026-dxc-delivers-new-digital-minerals-and-energy-regulation-system-for-south-australian-department-for-energy-and-mining)\n- **KPMG Australia (Adelaide / Enterprise Practice):** KPMG features a dedicated [Microsoft Power Platform Alliance practice](https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html) focusing on operational excellence, legacy application modernization, and low-code workflow automation. They are a strong fit if your manufacturing automation project requires upfront business process re-engineering (BPR) to map out how orders and shop-floor metrics should flow before writing a single line of Power Apps code.[[1]](https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Microsoft Power Platform Alliance practice",
+                  "description": null,
+                  "url": "https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html",
+                  "domain": "kpmg.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "DXC Technology",
+                  "domain": "dxc.com",
+                  "url": "https://dxc.com/newsroom/10052026-dxc-delivers-new-digital-minerals-and-energy-regulation-system-for-south-australian-department-for-energy-and-mining",
+                  "title": "DXC Delivers New Digital Minerals and Energy Regulation ...",
+                  "text": "DXC), a leading enterprise technology and innovation partner, today announced it has completed the delivery of the Minerals and En..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "kpmg.com",
+                  "domain": "kpmg.com",
+                  "url": "https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html",
+                  "title": "Microsoft Power Platform | KPMG Australia",
+                  "text": "KPMG Australia Services: Microsoft Power Platform low-code/no-code digital transformation, legacy application modernisation, and o..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Advisory Questions to Ask Them",
+              "text": "When interviewing these consultants, ensure you ask:",
+              "markdown": "When interviewing these consultants, ensure you ask:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Do you have experience using Power Platform Dataverse and custom connectors with non-Microsoft or legacy ERPs via OData/APIs? How do you handle offline shop-floor data capture (if Wi-Fi drops in the warehouse/factory floor) before syncing back to the ERP? Can you build a proof-of-concept (PoC) for just one bottleneck—like order intake or a single shop-floor station—before committing to a broad rollout?",
+              "markdown": "- *Do you have experience using Power Platform Dataverse and custom connectors with non-Microsoft or legacy ERPs via OData/APIs?* \n- *How do you handle offline shop-floor data capture (if Wi-Fi drops in the warehouse/factory floor) before syncing back to the ERP?* \n- *Can you build a proof-of-concept (PoC) for just one bottleneck—like order intake or a single shop-floor station—before committing to a broad rollout?*",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow this down, could you share:",
+              "markdown": "To help narrow this down, could you share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Which ERP system you are currently running (e.g., SAP, Pronto, Syspro, Epicor)? How critical real-time data sync is versus batch updates for your shop-floor operations?",
+              "markdown": "- **Which ERP system** you are currently running (e.g., SAP, Pronto, Syspro, Epicor)?\n- **How critical real-time data sync** is versus batch updates for your shop-floor operations?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "kpmg.com",
+              "domain": "kpmg.com",
+              "url": "https://kpmg.com/au/en/why-kpmg/alliances/microsoft/power-platform.html",
+              "title": "Microsoft Power Platform | KPMG Australia",
+              "text": "KPMG Australia Services: Microsoft Power Platform low-code/no-code digital transformation, legacy application modernisation, and operational excellence solutions."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+              "title": "Power Platform Consultants Adelaide",
+              "text": "Operating since 2000, part of Office Experts Group, 25+ consultants providing remote and onsite support across Australia and New Zealand. Contact: consult@officeex..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "partner.microsoft.com",
+              "domain": "partner.microsoft.com",
+              "url": "https://partner.microsoft.com/en-us/partnership/find-a-partner",
+              "title": "Find a Microsoft partner",
+              "text": "Search for partners with a Solutions Partner designation badge that aligns to your business needs."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

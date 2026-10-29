@@ -1,0 +1,362 @@
+{
+  "slug": "perth",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Perth specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:46.240Z",
+  "cost": 0.073366,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11327,
+      "output_tokens": 1919,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.072766,
+      "datetime": "2026-10-29 04:07:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of AI automation consultants — Perth-based and Perth-serving — that specialise in **Microsoft Copilot Studio, AI agents, and practical workflow automation for mid-market businesses**:\n\n---\n\n## 🏆 Perth AI Automation Consultants — 2026 Overview\n\n---\n\n### 1. 🥇 Frontrow Technology\n**Website:** frontrowtech.com.au\n**Best for:** Mid-market businesses wanting senior Microsoft AI expertise\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow Technology delivers Applied AI consulting for Perth mid-market businesses — Microsoft 365 Copilot deployment, Copilot Studio agents, and Azure AI Foundry workloads. They operate remote-first with on-site delivery for engagements that need it, and are led by a 5× Microsoft MVP.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic workflows",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir core capabilities include:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Microsoft 365 Copilot:** Readiness assessment, data governance, identity controls, Purview sensitivity labelling, and phased rollout — the full deployment sequence, not just the licence.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic workflows",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Copilot Studio Agents:** Purpose-built agents grounded on your line-of-business data for workflows where standard Copilot doesn't fit — policy retrieval, operational reporting, customer service automation, and internal knowledge access.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic workflows",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Azure AI Foundry:** Production AI workloads including retrieval-augmented generation architectures, multi-agent orchestration, and AI governance and monitoring — for Perth businesses ready to go beyond Copilot.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic workflows",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their AI lead is a 5× Microsoft MVP and Microsoft Certified Agentic AI Business Solutions Architect who leads Copilot Studio and custom-agent work, and travels in for Perth pilots and workshops where the engagement warrants it.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Perth — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🥈 Austin Technology\n**Website:** austintechnology.com.au | 📞 1300 787 429 | 📍 Level 2, 541 Hay Street, Subiaco WA 6008\n**Best for:** Perth SMBs and mid-market businesses wanting on-the-ground local support\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They find the manual work that eats your team's week, automate it with Power Automate and AI agents, and set clear rules for how staff use AI — all secured on the Microsoft 365 platform they already manage for clients.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their AI agent offering includes Copilot Studio agents that answer staff or customer questions from your own policies and documents, and hand over to a person when they should.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are based in Subiaco and serve clients onsite across the Perth metro area, with remote support across regional WA and Australia.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🥉 CG Tech\n**Website:** cgtech.com.au\n**Best for:** Perth businesses of 50–500 staff wanting senior-only, practical automation\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CG Tech puts automation and AI to work in Perth and Western Australia teams — covering everything from an AI roadmap and governance, through Microsoft 365 and Copilot, Power Platform automation and custom AI agents, to the data and reporting work that makes them reliable.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Perth Businesses",
+                  "url": "https://cgtech.com.au/locations/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They work with small and mid-sized businesses of 50 to 500 staff and public sector teams across Perth and Western Australia.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Perth Businesses",
+                  "url": "https://cgtech.com.au/locations/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "You work with senior people who have done this before (not juniors learning on the job), and most work begins with a short discovery, not a long sales cycle.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Perth Businesses",
+                  "url": "https://cgtech.com.au/locations/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. Integrated Corporation\n**Website:** integratedcorp.com.au\n**Best for:** Businesses needing governed, security-conscious AI deployment\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver Microsoft Copilot rollouts, Anthropic Claude integrations, AI policy and governance, custom assistants, and business automation — engineered for the agentic era and accountable to your security baseline.",
+              "annotations": [
+                {
+                  "title": "AI Solutions Perth",
+                  "url": "https://integratedcorp.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nKey services include:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Copilot Studio agents for internal HR, finance, IT, and operations workflows.",
+              "annotations": [
+                {
+                  "title": "AI Solutions Perth",
+                  "url": "https://integratedcorp.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Workflow automation combining Power Automate, Microsoft 365, and Claude.",
+              "annotations": [
+                {
+                  "title": "AI Solutions Perth",
+                  "url": "https://integratedcorp.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Engagements typically begin with a short AI discovery — understanding current AI usage, business priorities, governance posture, and the highest-value processes — followed by a written AI roadmap and deployment in measured waves.",
+              "annotations": [
+                {
+                  "title": "AI Solutions Perth",
+                  "url": "https://integratedcorp.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. Affinity MSP (via CopilotSolutions.com.au)\n**Website:** copilotsolutions.com.au\n**Best for:** Businesses wanting a high-volume, proven Copilot Studio deployment track record\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Affinity MSP is Australia's leading Microsoft Copilot Studio partner, with 200+ deployments across IT, Finance, HR, and Customer Service.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include AI Agent Build & Deploy, Copilot Studio Deployment, Workflow Orchestration, SharePoint Metadata & AI, and Governance & Security — specialising in Microsoft Copilot Studio, AI agents, and workflow automation.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. Arinco *(National firm with Perth presence)*\n**Website:** arinco.com.au | 📍 Melbourne, Sydney, Brisbane, **Perth**, Auckland\n**Best for:** Mid-market to enterprise with complex Microsoft AI needs\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Arinco is a Microsoft-focused consultancy founded in 2019, now serving more than 400 customers across Australia and New Zealand. They cover production-ready copilots and agents, Azure AI, data platforms, Power Platform, and security — holding five Microsoft Solutions Partner designations, thirteen specialisations, and seven Microsoft MVPs on staff.",
+              "annotations": [
+                {
+                  "title": "Top 10 AI Consultants in Australia (2026)",
+                  "url": "https://www.synap.au/top-10-ai-consultants-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📊 Quick Comparison\n\n| Consultant | Perth On-Site | Copilot Studio | AI Agents | Mid-Market Focus |\n|---|---|---|---|---|\n| **Frontrow Technology** | ✅ (on-site for key milestones) | ✅ | ✅ | ✅ |\n| **Austin Technology** | ✅ (Subiaco HQ) | ✅ | ✅ | ✅ |\n| **CG Tech** | ✅ (remote-first) | ✅ | ✅ | ✅ (50–500 staff) |\n| **Integrated Corporation** | ✅ | ✅ | ✅ | ✅ |\n| **Affinity MSP** | National | ✅ | ✅ | ✅ |\n| **Arinco** | ✅ (Perth office) | ✅ | ✅ | ✅",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Perth Microsoft Copilot Studio AI agents mid-market businesses",
+        "Perth AI workflow automation consultants mid-market Microsoft Copilot"
+      ]
+    }
+  ]
+}

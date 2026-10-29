@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Brisbane for operational reporting and data warehousing?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:54.027Z",
+  "cost": 0.006267,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 638,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005667,
+      "datetime": "2026-10-29 04:05:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane organisations needing **operational reporting plus data warehousing**, these are the strongest candidates based on publicly stated Brisbane presence, Microsoft Power BI/Fabric capability, and relevant delivery experience:\n\n| Consultant | Why consider them | Best fit |\n|---|---|---|\n| **On Report** | Brisbane-headquartered Power BI consultancy delivering automated dashboards, data warehouses, reporting automation, and Microsoft Fabric data platforms. Its published Brisbane case study combines a data warehouse with a Power BI reporting suite. [2][4] | Local, hands-on operational reporting and mid-market implementations |\n| **Team 400** | Has senior Microsoft Power BI and Fabric specialists based in Brisbane, with capabilities spanning data modelling, dashboard optimisation, Fabric data warehousing, SQL analytics, and implementation support. [7][8] | Fabric architecture, warehouse design, and complex analytics |\n| **Report Simple** | Australian Fabric specialist supporting Brisbane clients with OneLake architecture, legacy-platform migration, Power BI optimisation, semantic models, governance, and Direct Lake. [1] | Fabric adoption, modernisation, governance, and enterprise reporting |\n| **Agile Insights** | Microsoft-focused consultancy with 150+ Fabric engagements, Microsoft Solutions Partner designations, operational-reporting accelerators, and consultants across Queensland. Its cited clients include major Australian enterprises. [5] | Larger or more complex enterprise transformations |\n| **Professional Advantage** | Microsoft Solutions Partner with more than a decade of Power BI experience, Fabric implementation experience since its launch, and certified consultants across Fabric Analytics, Fabric Data Engineering, and Power BI. [10] | Formal Microsoft-aligned delivery, training, governance, and enterprise projects |\n| **4Seer Technologies** | Offers governed Fabric foundations combining lakehouse, warehouse, real-time streams, and Power BI, with delivery coverage including Brisbane. [3] | Enterprise data foundations, governance, and ESG or cross-domain reporting |\n\n### Recommended shortlist\n\n- **Best local Brisbane option:** On Report.\n- **Best specialist for Fabric warehousing:** Team 400 or Report Simple.\n- **Best enterprise-scale option:** Agile Insights or Professional Advantage.\n- **Best for a governed, multi-workload Fabric platform:** Report Simple, Team 400, or 4Seer.\n\nWhen requesting proposals, ask each firm to demonstrate:\n\n- A **star-schema warehouse or lakehouse/warehouse architecture** in Fabric.\n- Incremental refresh, historical tracking, slowly changing dimensions, and data-quality controls.\n- Governed Power BI semantic models, certified datasets, row-level security, and deployment pipelines.\n- Operational reporting examples involving workflow, service, workforce, finance, inventory, or KPI data.\n- Clear separation between ingestion, transformation, warehouse/lakehouse layers, semantic models, and reports.\n- A realistic Fabric capacity and licensing design, including Direct Lake versus Import mode.\n- Post-go-live ownership, documentation, monitoring, and internal-team enablement.\n\nFor most Brisbane mid-sized organisations, obtaining proposals from **On Report, Team 400, and Report Simple** would provide a useful comparison between a local reporting-led partner and more Fabric-specialist approaches.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Australia | Report Simple",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best ESG Reporting Software in Australia | GRI Certified ESG Platform in Australia | ESG Software for Conglomerates in Australia | ESG Management Software in Australia | Top ESG Data Platform in Australia",
+                  "url": "https://www.4seertechnologies.com/au/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Consultant Brisbane",
+                  "url": "https://onreport.com.au/services/power-bi-consultant-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Paul Smith | LinkedIn",
+                  "url": "https://www.linkedin.com/in/paul-smith-2460127a",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Consultants. Data Visualisation & Analytics Experts.",
+                  "url": "https://team400.ai/power-bi-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "team400.ai › microsoft-fabric-consultantsMicrosoft Fabric Consultants Australia - Unified Data ...",
+                  "url": "https://team400.ai/microsoft-fabric-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric - Data Analytics",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting",
+                  "url": "https://www.pa.com.au/products/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

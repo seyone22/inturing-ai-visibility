@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Newcastle? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:41.611Z",
+  "cost": 0.006097,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 465,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005497,
+      "datetime": "2026-10-29 04:09:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Assuming **Newcastle, NSW**, the strongest shortlist is:\n\n- **SSW** — A well-established Australian Microsoft consultancy with Power Platform capability and a Newcastle-accessible delivery model. It is listed among Australia-based Power Platform consultants and has experience delivering Microsoft solutions across multiple countries.[3]  \n  **Best for:** complex Power Apps, Power Automate, Power BI, architecture, and developer enablement.\n\n- **Office Experts / Power Platform Experts** — A specialist Australian provider operating since 2000, offering Power Platform design, development, deployment, training, integration, and ongoing support.[6]  \n  **Best for:** small-to-medium businesses wanting hands-on implementation and continuing support.\n\n- **SR1 Development** — Specifically markets Power Platform consultancy in Newcastle, covering the core platform—Power Apps, Power Automate, Power BI, Power Pages, and Copilot.[2]  \n  **Best for:** a genuinely local Newcastle engagement, especially an initial discovery, prototype, or focused automation project.\n\n- **Barhead, an Akkodis company** — A sizeable Australian Microsoft-focused consultancy headquartered in Sydney, described as an award-winning firm working across Microsoft technologies.[3]  \n  **Best for:** larger organisations needing Dynamics 365, Power Platform, integration, governance, or enterprise-scale delivery.\n\n- **Velrada** — An Australian Microsoft Cloud Solution Partner with broad Microsoft-stack expertise and a strong national delivery capability.[8]  \n  **Best for:** enterprise transformation involving Power Platform alongside Azure, Microsoft 365, Dynamics 365, data, and AI.\n\n## Recommended choice\n\n- Choose **SR1 Development** if local Newcastle presence and responsiveness are the priority.\n- Choose **Office Experts** for a specialist, practical Power Platform build with training and support.\n- Choose **SSW** for technically demanding solutions or a stronger engineering capability.\n- Choose **Barhead or Velrada** for larger, regulated, or multi-system enterprise programmes.\n\nBefore appointing one, verify its current Microsoft partner status and relevant specialisations in Microsoft AppSource; Microsoft recommends filtering partners by capabilities, specialisations, and solution designations.[4] Ask each firm for two comparable Australian case studies, named delivery resources, indicative day rates, governance arrangements, and a fixed-price discovery proposal.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Consulting 2026 - Reviews, Case ...",
+                  "url": "https://www.featuredcustomers.com/software/microsoft-power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Power platform consultants worldwide",
+                  "url": "https://revenuebase.ai/companies/browse/power-platform-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Low-code partners",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-apps/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Professional Services | Microsoft Marketplace",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services?product=power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services",
+                  "url": "https://10pearls.com/microsoft-services/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Intelligent automation partners - Microsoft Power Platform",
+                  "url": "https://www.microsoft.com/en-au/power-platform/products/power-automate/partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting Services",
+                  "url": "https://innowise.com/technologies/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

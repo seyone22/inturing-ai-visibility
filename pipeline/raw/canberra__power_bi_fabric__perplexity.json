@@ -1,0 +1,106 @@
+{
+  "slug": "canberra",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Canberra for operational reporting and data warehousing?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:22.509Z",
+  "cost": 0.006235,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 606,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005635,
+      "datetime": "2026-10-29 04:09:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Canberra organisation needing **operational reporting plus data warehousing**, the strongest shortlist is:\n\n- **Agile Insights** — the best fit for a substantial Microsoft-first Fabric program. It reports 150+ Fabric engagements, Microsoft Solutions Partner designations, advanced Azure analytics specialisations, and experience with large Australian organisations including the Reserve Bank of Australia and Transport for NSW. Its operational analytics accelerators are directly relevant to workforce, IT service management, and delivery reporting.[1]\n- **On Report** — a good fit for an end-to-end implementation covering Power BI dashboards, reporting automation, data engineering, and a centralised Microsoft Fabric platform. Its stated source-system coverage includes SQL Server, Azure SQL, Dataverse, Dynamics 365, Snowflake, PostgreSQL, Oracle, APIs, and CSV files.[2]\n- **Professional Advantage** — a strong option where formal Microsoft credentials, governance, and enablement matter. It describes 10+ years of Power BI delivery, Fabric implementation experience since its launch, and consultants certified in Fabric Analytics Engineering, Fabric Data Engineering, and Power BI data analysis.[6]\n- **Intelegain Technologies** — worth considering for a defined Fabric build involving OneLake, medallion architecture, Fabric Data Factory pipelines, lakehouse or warehouse implementation, and Power BI semantic models. It is listed in Microsoft’s marketplace for these services, though Canberra delivery capability should be confirmed directly.[4]\n- **4Seer Technologies** — potentially suitable for enterprise data-foundation work, especially where ERP integration, semantic modelling, governance, and Power BI must support manufacturing, healthcare, or financial-services reporting. Its stated delivery footprint is across major Australian cities, so local Canberra availability should be checked.[8]\n\n## Recommended selection\n\nFor a typical Canberra public-sector, education, health, or enterprise environment:\n\n1. **Start with Agile Insights** for the deepest publicly evidenced Fabric and enterprise analytics capability.\n2. **Shortlist On Report** if the priority is practical operational reporting across many business systems.\n3. **Include Professional Advantage** when Microsoft certification, structured delivery, and internal capability uplift are important.\n4. Use **Intelegain or 4Seer** as additional bids for a technically focused warehouse or Fabric-platform implementation.\n\nBefore appointing a consultant, ask each candidate to demonstrate:\n\n- A Canberra or nearby delivery team and on-site availability.\n- Recent Power BI and Fabric projects involving operational KPIs, not only executive dashboards.\n- A dimensional warehouse or Fabric medallion architecture with incremental loading, history, and reconciliation.\n- Semantic-model design, row-level security, deployment pipelines, monitoring, and governance.\n- Experience with Australian Government security, privacy, accessibility, and procurement requirements where applicable.\n- Two references for comparable reporting and data-warehouse programs.\n\nNo objective Canberra-specific ranking or independent customer-satisfaction dataset was found in the available evidence, so the list is best treated as a **qualified shortlist**, not a definitive league table.",
+              "annotations": [
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric - Data Analytics",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Consulting 2026 | Certified Experts, 1,500+ Deployments",
+                  "url": "https://powerbiconsulting.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Fabric Consulting",
+                  "url": "https://www.pa.com.au/products/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "marketplace.microsoft.com › en-in › productPower BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-in/product/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best ESG Reporting Software in Australia | GRI Certified ESG Platform in Australia | ESG Software for Conglomerates in Australia | ESG Management Software in Australia | Top ESG Data Platform in Australia",
+                  "url": "https://www.4seertechnologies.com/au/microsoft-fabric/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Power BI Consultants in Australia",
+                  "url": "https://www.abbacustechnologies.com/top-10-power-bi-consultants-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Partners | Microsoft Fabric",
+                  "url": "https://www.microsoft.com/en-au/microsoft-fabric/partners/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

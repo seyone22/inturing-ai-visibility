@@ -1,0 +1,150 @@
+{
+  "slug": "perth",
+  "pk": "copilot_ai",
+  "plat": "aimode",
+  "text": "Which AI automation consultants in Perth specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__copilot_ai__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:15.384Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Perth specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20AI%20automation%20consultants%20in%20Perth%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:07:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "In Perth, the ecosystem of boutique and specialist AI consultancies focusing specifically on the Microsoft ecosystem (Copilot Studio, Power Platform, and agentic workflows) is growing to meet mid-market demand. `Notable Perth-based consultants and firms specialising in these areas include:` \n\n- **[Frontrow Technology](https://frontrowtech.com.au/ai-consultant-perth)** : Specialises in Applied AI consulting tailored specifically for mid-market businesses in Perth. Their core capabilities include Microsoft 365 Copilot deployments, custom Copilot Studio agents, and Azure AI Foundry workloads. Notably, the practice is led by a multi-award-winning Microsoft MVP, making them a strong fit for organisations seeking deep enterprise-grade Microsoft alignment scaled for mid-market budgets.[[1]](https://frontrowtech.com.au/ai-consultant-perth)\n- **Opticloud Solutions** : A Perth-based Microsoft 365, Power Platform, and AI consulting team that focuses heavily on building production-ready Copilot Studio agents grounded in internal data (such as SharePoint and Dataverse). They specialise in designing \"agents that act\"—connecting Copilot Studio with Power Automate to automate complex business processes like raising tickets, updating records, routing approvals, and integrating directly into Microsoft Teams.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)\n\n#### Key Focus Areas for Mid-Market AI Consulting\n\nWhen evaluating these or similar specialists in Western Australia, mid-market firms typically look for consultants who provide:\n\n1. **Data Grounding & Security:** Ensuring custom agents pull exclusively from controlled internal repositories (SharePoint, Dataverse) rather than the open internet, respecting existing corporate access permissions.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)\n2. **Action-Oriented Workflows:** Moving beyond simple Q&A chatbots to agents that can read/write data across line-of-business systems via Power Automate and Microsoft Graph.\n3. **Adoption & Governance:** Aligning deployment with the Power Platform governance framework so data boundaries and compliance needs remain intact.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)\n\nWould you like assistance in preparing an **RFP/brief** for these consultants, or do you need help defining specific **use cases** (like finance automation or customer triage) before reaching out to them?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Perth, the ecosystem of boutique and specialist AI consultancies focusing specifically on the Microsoft ecosystem (Copilot Studio, Power Platform, and agentic workflows) is growing to meet mid-market demand. Notable Perth-based consultants and firms specialising in these areas include:",
+              "markdown": "In Perth, the ecosystem of boutique and specialist AI consultancies focusing specifically on the Microsoft ecosystem (Copilot Studio, Power Platform, and agentic workflows) is growing to meet mid-market demand. `Notable Perth-based consultants and firms specialising in these areas include:`",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Frontrow Technology : Specialises in Applied AI consulting tailored specifically for mid-market businesses in Perth. Their core capabilities include Microsoft 365 Copilot deployments, custom Copilot Studio agents, and Azure AI Foundry workloads. Notably, the practice is led by a multi-award-winning Microsoft MVP, making them a strong fit for organisations seeking deep enterprise-grade Microsoft alignment scaled for mid-market budgets. Frontrow Technology Opticloud Solutions : A Perth-based Microsoft 365, Power Platform, and AI consulting team that focuses heavily on building production-ready Copilot Studio agents grounded in internal data (such as SharePoint and Dataverse). They specialise in designing \"agents that act\"—connecting Copilot Studio with Power Automate to automate complex business processes like raising tickets, updating records, routing approvals, and integrating directly into Microsoft Teams. Opticloud Solutions Opticloud Solutions",
+              "markdown": "- **[Frontrow Technology](https://frontrowtech.com.au/ai-consultant-perth)** : Specialises in Applied AI consulting tailored specifically for mid-market businesses in Perth. Their core capabilities include Microsoft 365 Copilot deployments, custom Copilot Studio agents, and Azure AI Foundry workloads. Notably, the practice is led by a multi-award-winning Microsoft MVP, making them a strong fit for organisations seeking deep enterprise-grade Microsoft alignment scaled for mid-market budgets.[[1]](https://frontrowtech.com.au/ai-consultant-perth)\n- **Opticloud Solutions** : A Perth-based Microsoft 365, Power Platform, and AI consulting team that focuses heavily on building production-ready Copilot Studio agents grounded in internal data (such as SharePoint and Dataverse). They specialise in designing \"agents that act\"—connecting Copilot Studio with Power Automate to automate complex business processes like raising tickets, updating records, routing approvals, and integrating directly into Microsoft Teams.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Frontrow Technology",
+                  "description": null,
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "domain": "frontrowtech.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "frontrowtech.com.au",
+                  "domain": "frontrowtech.com.au",
+                  "url": "https://frontrowtech.com.au/ai-consultant-perth",
+                  "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic ...",
+                  "text": "Frontrow Technology delivers Applied AI consulting for Perth mid-market businesses — Microsoft 365 Copilot deployment, Copilot Stu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "opticloud.com.au",
+                  "domain": "opticloud.com.au",
+                  "url": "https://opticloud.com.au/solutions/copilot-studio-ai-agents/",
+                  "title": "AI Development & Copilot Studio Agents in Perth",
+                  "text": "AI development in Perth, Copilot Studio agents that act. Opticloud Solutions is a Perth-based AI development and consulting team. ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Focus Areas for Mid-Market AI Consulting",
+              "text": "When evaluating these or similar specialists in Western Australia, mid-market firms typically look for consultants who provide:",
+              "markdown": "When evaluating these or similar specialists in Western Australia, mid-market firms typically look for consultants who provide:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Data Grounding & Security: Ensuring custom agents pull exclusively from controlled internal repositories (SharePoint, Dataverse) rather than the open internet, respecting existing corporate access permissions. Action-Oriented Workflows: Moving beyond simple Q&A chatbots to agents that can read/write data across line-of-business systems via Power Automate and Microsoft Graph. Adoption & Governance: Aligning deployment with the Power Platform governance framework so data boundaries and compliance needs remain intact.",
+              "markdown": "1. **Data Grounding & Security:** Ensuring custom agents pull exclusively from controlled internal repositories (SharePoint, Dataverse) rather than the open internet, respecting existing corporate access permissions.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)\n2. **Action-Oriented Workflows:** Moving beyond simple Q&A chatbots to agents that can read/write data across line-of-business systems via Power Automate and Microsoft Graph.\n3. **Adoption & Governance:** Aligning deployment with the Power Platform governance framework so data boundaries and compliance needs remain intact.[[1]](https://opticloud.com.au/solutions/copilot-studio-ai-agents/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "opticloud.com.au",
+                  "domain": "opticloud.com.au",
+                  "url": "https://opticloud.com.au/solutions/copilot-studio-ai-agents/",
+                  "title": "AI Development & Copilot Studio Agents in Perth",
+                  "text": "AI development in Perth, Copilot Studio agents that act. Opticloud Solutions is a Perth-based AI development and consulting team. We advise on where AI fits, then ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like assistance in preparing an RFP/brief for these consultants, or do you need help defining specific use cases (like finance automation or customer triage) before reaching out to them?",
+              "markdown": "Would you like assistance in preparing an **RFP/brief** for these consultants, or do you need help defining specific **use cases** (like finance automation or customer triage) before reaching out to them?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "opticloud.com.au",
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/solutions/copilot-studio-ai-agents/",
+              "title": "AI Development & Copilot Studio Agents in Perth",
+              "text": "AI development in Perth, Copilot Studio agents that act. Opticloud Solutions is a Perth-based AI development and consulting team. We advise on where AI fits, then ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "frontrowtech.com.au",
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/ai-consultant-perth",
+              "title": "AI Consultant Perth — Microsoft Copilot, Azure AI and agentic ...",
+              "text": "Frontrow Technology delivers Applied AI consulting for Perth mid-market businesses — Microsoft 365 Copilot deployment, Copilot Studio agents, Azure AI Foundry work..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

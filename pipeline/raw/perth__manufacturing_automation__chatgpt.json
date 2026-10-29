@@ -1,0 +1,817 @@
+{
+  "slug": "perth",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:55.750Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Perth%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:06:50 +00:00",
+      "markdown": "For a Perth manufacturer, I’d focus on consultants who can **automate processes around your existing ERP**, rather than firms whose first recommendation is an ERP replacement.\n\nYour ideal partner should be able to connect Microsoft Power Platform with your current ERP, automate order entry and approvals, capture production data directly from the shop floor, and give management better operational visibility.\n\nI’d assess providers against four practical requirements\\:\n\n- **Order processing\\:** capture orders from emails, PDFs or spreadsheets; validate them; and create or update ERP transactions.\n- **Shop-floor data capture\\:** replace paper forms and manual spreadsheets with Power Apps, barcode scanning, tablet interfaces or machine-data integrations where appropriate.\n- **Workflow automation\\:** use Power Automate for approvals, exceptions, notifications and hand-offs between systems.\n- **ERP integration\\:** preserve your existing ERP as the system of record, with appropriate APIs, connectors or middleware rather than fragile direct database changes.\n\n## Consultants I’d put on your shortlist\n\nI found several credible candidates with relevant published capabilities. These are ranked by fit for your brief, not by a claim that they are the best firms overall.\n\n![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)\n\n## 1\\. Opticloud Solutions\n\n(Local Power Platform specialist)\n\nPerth CBD · [opticloud.com.au](https://www.opticloud.com.au/)\n\nA strong first conversation for Power Apps, Power Automate, document processing, workflow automation and reporting. Opticloud explicitly lists manufacturing among its industries and offers hands-on Power Platform development and integration-related services. [opticloud.com.au](https://opticloud.com.au/about/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/solutions/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you integrate our existing ERP with order-intake automation and shop-floor apps without moving us onto Dynamics 365?\n\n---\n\n![ProcessPath.ai | Process Automation](https://images.openai.com/static-rsc-4/kCcK7CNRoVMbq-zX1miSxZ4Fq27hJrhiM_ishc0zcBAuVFwZmcAJWoDoZRwdhgDRbqSycOjLv8U1d6B5zeTvOgL2cNIS24I8VgmYkhlzKENu3ngnxUiUp7kzuWw9LAdU27DZOCLAMWI0TKg1s1FNCzaDi1EJuHYX9RtRsoJSD7Xy12a3mcU_GFTitGxDaXCJ?purpose=fullsize)\n\n## 2\\. ProcessPath\n\nWest Perth · [ProcessPath website](https://www.processpath.com.au/)\n\nA good candidate for a process-led automation project using Power Apps, Power Automate and Power BI. Its published capabilities include digitising data capture and automating data collation and reporting. That makes it worth evaluating for operational workflows that cross several systems. [www.google.com](https://www.google.com/maps/place/ProcessPath/@-31.9459768,115.8430572,17z/data=!3m1!4b1!4m6!3m5!1s0x25623a9bc3c413bd:0xaf36730f9aee6408!8m2!3d-31.9459768!4d115.8430572!16s%2Fg%2F11vj56ml8k?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them\\:** Have you delivered production-floor data capture and ERP integrations in discrete or process manufacturing, rather than mainly office workflows?\n\n---\n\n\n\n## 3\\. BrightMinds Technology\n\nPerth · [bmtech.net.au](https://bmtech.net.au/company/about)\n\nWorth speaking to if the project needs robust application design, controlled releases, documentation and long-term maintainability. Its published expertise includes Power Automate, Dataverse, Power BI and Azure integration. It also highlights engineering and resources experience, although manufacturing-specific case studies should be requested. [bmtech.net.au](https://bmtech.net.au/company/about?utm_source=chatgpt.com)\n\n**Ask them\\:** How would you design an auditable, supportable shop-floor application with reliable offline or intermittent-connectivity behaviour if the factory needs it?\n\n---\n\n![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)\n\n## 4\\. iCatalyst\n\nSubiaco · [icatalyst.com.au](https://icatalyst.com.au/)\n\nParticularly relevant if your existing ERP is Microsoft Dynamics, or if your integration needs touch complex ERP data and finance processes. Its published partner profile lists manufacturing and assembly, Power Platform and Azure Integration Services. [www.wiise.com](https://www.wiise.com/partner-icatalyst?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you extend our current ERP rather than propose a new ERP implementation, and which integration patterns do you support?\n\n---\n\n![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)\n\n## 5\\. Inturing\n\nAustralia-wide, remote and on-site support · [inturing.com.au](https://inturing.com.au/)\n\nOne of the closest matches to your overall brief. Inturing explicitly targets manufacturers running existing ERP, MES and Microsoft systems, with published services covering order processing, document extraction, shop-floor apps, system integration and operational dashboards. Its team is based in Sydney, so confirm Perth site-visit availability and local delivery arrangements. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate a comparable manufacturer workflow from incoming purchase order through ERP entry to production reporting?\n\n---\n\n\n\n## 6\\. SmartShopFloor\n\nPerth · [SmartShopFloor website](https://smartshopfloor.com.au/)\n\nA useful specialist to compare if production execution is a major pain point. It focuses on job shops, fabricators and made-to-order manufacturers, including digital forms, quality checks, scheduling and shop-floor execution. It is a manufacturing-software option rather than a pure Power Platform consultancy, so establish how it would integrate with your ERP and whether it complements your Microsoft stack. [www.google.com](https://www.google.com/maps/place/SmartShopFloor/@-31.9444443,115.8574906,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32bbc70f25f255:0x731b832428ea869f!8m2!3d-31.9444443!4d115.8574906!16s%2Fg%2F11pw1_byf1?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them\\:** Can we implement shop-floor capture as an extension of our existing systems, and what data would need to live in your platform?\n\n## Where to start\n\n\nI would contact **Opticloud, ProcessPath and Inturing first**, then bring in SmartShopFloor to compare the manufacturing-specific approach if shop-floor execution is a major priority. Add iCatalyst if you run Microsoft Dynamics.\n\n## What to ask every consultant\n\nGive each the same brief so you can compare proposals fairly.\n\n| Requirement | What a good answer should cover |\n|--------|--------|\n| ERP integration | Specific experience integrating your ERP without replacing it |\n| Order automation | Email/PDF ingestion, validation, duplicate checks, exception handling and ERP posting |\n| Shop-floor capture | Tablet or barcode-based reporting for production quantities, downtime, quality and labour |\n| Data architecture | Clear ownership of data, reliable synchronisation and audit trails |\n| Delivery approach | A small pilot first, followed by staged rollout and measurable results |\n| Commercials | Implementation cost, licensing, support fees and ongoing maintenance |\n\n\nOne important technical distinction: Power Platform is excellent for workflow automation and operational apps, but it isn't automatically the right place for every machine-level or real-time manufacturing control. If you need PLC/SCADA integration, high-frequency telemetry or deterministic machine control, ask how the consultant will handle that separately.\n\n## My recommended first project\n\nStart with a bounded pilot rather than trying to automate the whole factory at once.\n\n**Phase 1 — Order intake**\n\nAutomate extraction and validation of incoming orders, with a human approval step for exceptions and controlled posting into the ERP.\n\n---\n\n**Phase 2 — Shop-floor capture**\n\nIntroduce a Power App or suitable manufacturing application for production reporting, downtime and quality checks.\n\n---\n\n**Phase 3 — Operational visibility**\n\nConnect the data to Power BI dashboards for order status, production performance, exceptions and bottlenecks.\n\n## One question that would sharpen this shortlist\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Advanced, SAP, Epicor, Infor, Microsoft Dynamics, or a custom ERP.\n\nThat will determine which consultants are most likely to integrate cleanly with your system, what the technical risks are, and whether you need a Power Platform specialist, an ERP integration partner, or both.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://opticloud.com.au/about/",
+          "domain": "opticloud.com.au",
+          "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.opticloud.com.au/",
+          "domain": "www.opticloud.com.au",
+          "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+          "description": null,
+          "breadcrumb": "www.opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.opticloud.com.au/solutions/",
+          "domain": "www.opticloud.com.au",
+          "title": "Power Platform Development & Consulting in Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "www.opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wiise.com/partner-icatalyst",
+          "domain": "www.wiise.com",
+          "title": "iCatalyst | Partner Profile | Wiise ERP",
+          "description": null,
+          "breadcrumb": "www.wiise.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://bmtech.net.au/company/about",
+          "domain": "bmtech.net.au",
+          "title": "About Us | BrightMinds Technology",
+          "description": null,
+          "breadcrumb": "bmtech.net.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://waseem.com.au/capability/",
+          "domain": "waseem.com.au",
+          "title": "Capability & Scale, Microsoft 365 Consulting Perth – Waseem",
+          "description": null,
+          "breadcrumb": "waseem.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://waseem.com.au/",
+          "domain": "waseem.com.au",
+          "title": "Waseem – Microsoft 365, SharePoint & Cyber Security Consulting in Perth WA",
+          "description": null,
+          "breadcrumb": "waseem.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Perth",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://avenuegroupaus.com.au/",
+          "domain": "avenuegroupaus.com.au",
+          "title": "AI Development | Technology Consulting Company Australia",
+          "description": null,
+          "breadcrumb": "avenuegroupaus.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-WP%20Global%20Solutions-CUAICTS2021.pdf",
+          "domain": "www.wa.gov.au",
+          "title": "Contractor Profile-WP Global Solutions-CUAICTS2021",
+          "description": null,
+          "breadcrumb": "www.wa.gov.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://finprdpdwgpe01.blob.core.windows.net/procurementframeworks/CUAICTS2021/PDF%27s/CUAICTS2021_366SolutionsPtyLtd.pdf",
+          "domain": "finprdpdwgpe01.blob.core.windows.net",
+          "title": "CUAICTS2021 - Contractor Profile",
+          "description": null,
+          "breadcrumb": "finprdpdwgpe01.blob.core.windows.net"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "opticloud.com.au",
+          "snippet": null,
+          "domain": "www.opticloud.com.au",
+          "url": "https://www.opticloud.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[opticloud.com.au](https://www.opticloud.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth",
+          "snippet": null,
+          "domain": "opticloud.com.au",
+          "url": "https://opticloud.com.au/about/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+          "snippet": null,
+          "domain": "www.opticloud.com.au",
+          "url": "https://www.opticloud.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Development & Consulting in Perth",
+          "snippet": null,
+          "domain": "www.opticloud.com.au",
+          "url": "https://www.opticloud.com.au/solutions/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Opticloud Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ProcessPath website",
+          "snippet": null,
+          "domain": "www.processpath.com.au",
+          "url": "https://www.processpath.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[ProcessPath website](https://www.processpath.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ProcessPath",
+          "snippet": "Ste 20, Level 1/111 Colin St, West Perth WA 6005, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/ProcessPath/@-31.9459768,115.8430572,17z/data=!3m1!4b1!4m6!3m5!1s0x25623a9bc3c413bd:0xaf36730f9aee6408!8m2!3d-31.9459768!4d115.8430572!16s%2Fg%2F11vj56ml8k?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "bmtech.net.au",
+          "snippet": null,
+          "domain": "bmtech.net.au",
+          "url": "https://bmtech.net.au/company/about",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[bmtech.net.au](https://bmtech.net.au/company/about)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Us",
+          "snippet": null,
+          "domain": "bmtech.net.au",
+          "url": "https://bmtech.net.au/company/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "BrightMinds Technology",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "icatalyst.com.au",
+          "snippet": null,
+          "domain": "icatalyst.com.au",
+          "url": "https://icatalyst.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[icatalyst.com.au](https://icatalyst.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "iCatalyst | Partner Profile",
+          "snippet": null,
+          "domain": "www.wiise.com",
+          "url": "https://www.wiise.com/partner-icatalyst?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Wiise ERP",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SmartShopFloor website",
+          "snippet": null,
+          "domain": "smartshopfloor.com.au",
+          "url": "https://smartshopfloor.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[SmartShopFloor website](https://smartshopfloor.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "SmartShopFloor",
+          "snippet": "294 Newcastle St, Perth WA 6000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/SmartShopFloor/@-31.9444443,115.8574906,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32bbc70f25f255:0x731b832428ea869f!8m2!3d-31.9444443!4d115.8574906!16s%2Fg%2F11pw1_byf1?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Perth WA Microsoft Power Platform consultants manufacturing automation ERP integration Power Automate shop floor"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Perth Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Opticloud Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "ProcessPath",
+          "category": "local_business",
+          "markdown": "ProcessPath",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Perth Microsoft business applications consultancy",
+          "category": "company",
+          "markdown": "BrightMinds Technology",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Perth Microsoft Dynamics ERP and Power Platform consultancy",
+          "category": "company",
+          "markdown": "iCatalyst",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian manufacturing automation and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "SmartShopFloor",
+          "category": "local_business",
+          "markdown": "SmartShopFloor",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses",
+        "chat_gpt_table"
+      ],
+      "items_count": 17,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Perth manufacturer, I’d focus on consultants who can **automate processes around your existing ERP**, rather than firms whose first recommendation is an ERP replacement.\n\nYour ideal partner should be able to connect Microsoft Power Platform with your current ERP, automate order entry and approvals, capture production data directly from the shop floor, and give management better operational visibility.\n\nI’d assess providers against four practical requirements\\:\n\n- **Order processing\\:** capture orders from emails, PDFs or spreadsheets; validate them; and create or update ERP transactions.\n- **Shop-floor data capture\\:** replace paper forms and manual spreadsheets with Power Apps, barcode scanning, tablet interfaces or machine-data integrations where appropriate.\n- **Workflow automation\\:** use Power Automate for approvals, exceptions, notifications and hand-offs between systems.\n- **ERP integration\\:** preserve your existing ERP as the system of record, with appropriate APIs, connectors or middleware rather than fragile direct database changes.\n\n## Consultants I’d put on your shortlist\n\nI found several credible candidates with relevant published capabilities. These are ranked by fit for your brief, not by a claim that they are the best firms overall.\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.monarch360.com.au/blog/microsoft-power-platform-services-in-perth-for-business-automation-and-growth",
+              "alt": "Microsoft Power Platform Services Perth - Monarch360 — Monarch360",
+              "image_url": "https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Services Perth - Monarch360 — Monarch360](https://images.openai.com/static-rsc-4/SgeS00h82zq2TA7cRU6tunn5ENcakm3UmDaHL4SxGKPjUEB2ex57gInx3PRNusGDEc0RLZle3ZPCroBy380kiBp9gnlsAGL6wp8GaUsRACtt1gjjlJa8fsR3-D2E59ZIgAqkSpax0Z4iK875KtwlhxrE5bxi9Zb73oavwQ5m3RXlwKSuy4t_SvcPZwxBRD02?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Opticloud Solutions\n\n(Local Power Platform specialist)\n\nPerth CBD · [opticloud.com.au](https://www.opticloud.com.au/)\n\nA strong first conversation for Power Apps, Power Automate, document processing, workflow automation and reporting. Opticloud explicitly lists manufacturing among its industries and offers hands-on Power Platform development and integration-related services. [opticloud.com.au](https://opticloud.com.au/about/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/?utm_source=chatgpt.com)[www.opticloud.com.au](https://www.opticloud.com.au/solutions/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you integrate our existing ERP with order-intake automation and shop-floor apps without moving us onto Dynamics 365?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "opticloud.com.au",
+              "snippet": null,
+              "domain": "www.opticloud.com.au",
+              "url": "https://www.opticloud.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[opticloud.com.au](https://www.opticloud.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About: Microsoft Dynamics & Power Platform Consultants, Perth",
+              "snippet": null,
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/about/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Opticloud Solutions | Microsoft 365, Power Platform & AI Consultants in Perth",
+              "snippet": null,
+              "domain": "www.opticloud.com.au",
+              "url": "https://www.opticloud.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Development & Consulting in Perth",
+              "snippet": null,
+              "domain": "www.opticloud.com.au",
+              "url": "https://www.opticloud.com.au/solutions/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Opticloud Solutions",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Perth Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Opticloud Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![ProcessPath.ai | Process Automation](https://images.openai.com/static-rsc-4/kCcK7CNRoVMbq-zX1miSxZ4Fq27hJrhiM_ishc0zcBAuVFwZmcAJWoDoZRwdhgDRbqSycOjLv8U1d6B5zeTvOgL2cNIS24I8VgmYkhlzKENu3ngnxUiUp7kzuWw9LAdU27DZOCLAMWI0TKg1s1FNCzaDi1EJuHYX9RtRsoJSD7Xy12a3mcU_GFTitGxDaXCJ?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.processpath.ai/",
+              "alt": "ProcessPath.ai | Process Automation",
+              "image_url": "https://images.openai.com/static-rsc-4/kCcK7CNRoVMbq-zX1miSxZ4Fq27hJrhiM_ishc0zcBAuVFwZmcAJWoDoZRwdhgDRbqSycOjLv8U1d6B5zeTvOgL2cNIS24I8VgmYkhlzKENu3ngnxUiUp7kzuWw9LAdU27DZOCLAMWI0TKg1s1FNCzaDi1EJuHYX9RtRsoJSD7Xy12a3mcU_GFTitGxDaXCJ?purpose=fullsize",
+              "markdown": "![ProcessPath.ai | Process Automation](https://images.openai.com/static-rsc-4/kCcK7CNRoVMbq-zX1miSxZ4Fq27hJrhiM_ishc0zcBAuVFwZmcAJWoDoZRwdhgDRbqSycOjLv8U1d6B5zeTvOgL2cNIS24I8VgmYkhlzKENu3ngnxUiUp7kzuWw9LAdU27DZOCLAMWI0TKg1s1FNCzaDi1EJuHYX9RtRsoJSD7Xy12a3mcU_GFTitGxDaXCJ?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. ProcessPath\n\nWest Perth · [ProcessPath website](https://www.processpath.com.au/)\n\nA good candidate for a process-led automation project using Power Apps, Power Automate and Power BI. Its published capabilities include digitising data capture and automating data collation and reporting. That makes it worth evaluating for operational workflows that cross several systems. [www.google.com](https://www.google.com/maps/place/ProcessPath/@-31.9459768,115.8430572,17z/data=!3m1!4b1!4m6!3m5!1s0x25623a9bc3c413bd:0xaf36730f9aee6408!8m2!3d-31.9459768!4d115.8430572!16s%2Fg%2F11vj56ml8k?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them\\:** Have you delivered production-floor data capture and ERP integrations in discrete or process manufacturing, rather than mainly office workflows?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "ProcessPath website",
+              "snippet": null,
+              "domain": "www.processpath.com.au",
+              "url": "https://www.processpath.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[ProcessPath website](https://www.processpath.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ProcessPath",
+              "snippet": "Ste 20, Level 1/111 Colin St, West Perth WA 6005, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/ProcessPath/@-31.9459768,115.8430572,17z/data=!3m1!4b1!4m6!3m5!1s0x25623a9bc3c413bd:0xaf36730f9aee6408!8m2!3d-31.9459768!4d115.8430572!16s%2Fg%2F11vj56ml8k?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "ProcessPath",
+              "category": "local_business",
+              "markdown": "ProcessPath",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. BrightMinds Technology\n\nPerth · [bmtech.net.au](https://bmtech.net.au/company/about)\n\nWorth speaking to if the project needs robust application design, controlled releases, documentation and long-term maintainability. Its published expertise includes Power Automate, Dataverse, Power BI and Azure integration. It also highlights engineering and resources experience, although manufacturing-specific case studies should be requested. [bmtech.net.au](https://bmtech.net.au/company/about?utm_source=chatgpt.com)\n\n**Ask them\\:** How would you design an auditable, supportable shop-floor application with reliable offline or intermittent-connectivity behaviour if the factory needs it?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "bmtech.net.au",
+              "snippet": null,
+              "domain": "bmtech.net.au",
+              "url": "https://bmtech.net.au/company/about",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[bmtech.net.au](https://bmtech.net.au/company/about)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Us",
+              "snippet": null,
+              "domain": "bmtech.net.au",
+              "url": "https://bmtech.net.au/company/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "BrightMinds Technology",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Perth Microsoft business applications consultancy",
+              "category": "company",
+              "markdown": "BrightMinds Technology",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.designcrowd.com/design/25639753",
+              "alt": "Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753",
+              "image_url": "https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize",
+              "markdown": "![Modern, Upmarket, Business Intelligence Logo Design for iCatalyst by Blue Sparrow | Design #25639753](https://images.openai.com/static-rsc-4/9xU8qSwbODqTpF9lhvOEQeAWtx1NyuuUc5k0_FYVHXsewQ-eJSI_lz8hzVkbkv5Cved8khNOXlRbEZqdt8KhbOHnIuimOG1Jc-aKVdB2kGZ-1m7siKZzUnrNVha9ZOV7D3-RMek-rTb21FGmaYdSorprk9Z0cEZMv9BlO2szQIbvRX5-jSQGxBY1D61zFG87?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. iCatalyst\n\nSubiaco · [icatalyst.com.au](https://icatalyst.com.au/)\n\nParticularly relevant if your existing ERP is Microsoft Dynamics, or if your integration needs touch complex ERP data and finance processes. Its published partner profile lists manufacturing and assembly, Power Platform and Azure Integration Services. [www.wiise.com](https://www.wiise.com/partner-icatalyst?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you extend our current ERP rather than propose a new ERP implementation, and which integration patterns do you support?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "icatalyst.com.au",
+              "snippet": null,
+              "domain": "icatalyst.com.au",
+              "url": "https://icatalyst.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[icatalyst.com.au](https://icatalyst.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "iCatalyst | Partner Profile",
+              "snippet": null,
+              "domain": "www.wiise.com",
+              "url": "https://www.wiise.com/partner-icatalyst?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Wiise ERP",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Perth Microsoft Dynamics ERP and Power Platform consultancy",
+              "category": "company",
+              "markdown": "iCatalyst",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+              "alt": "Microsoft Power Platform Consulting | Professional Advantage Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Inturing\n\nAustralia-wide, remote and on-site support · [inturing.com.au](https://inturing.com.au/)\n\nOne of the closest matches to your overall brief. Inturing explicitly targets manufacturers running existing ERP, MES and Microsoft systems, with published services covering order processing, document extraction, shop-floor apps, system integration and operational dashboards. Its team is based in Sydney, so confirm Perth site-visit availability and local delivery arrangements. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Ask them\\:** Can you demonstrate a comparable manufacturer workflow from incoming purchase order through ERP entry to production reporting?\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian manufacturing automation and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. SmartShopFloor\n\nPerth · [SmartShopFloor website](https://smartshopfloor.com.au/)\n\nA useful specialist to compare if production execution is a major pain point. It focuses on job shops, fabricators and made-to-order manufacturers, including digital forms, quality checks, scheduling and shop-floor execution. It is a manufacturing-software option rather than a pure Power Platform consultancy, so establish how it would integrate with your ERP and whether it complements your Microsoft stack. [www.google.com](https://www.google.com/maps/place/SmartShopFloor/@-31.9444443,115.8574906,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32bbc70f25f255:0x731b832428ea869f!8m2!3d-31.9444443!4d115.8574906!16s%2Fg%2F11pw1_byf1?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them\\:** Can we implement shop-floor capture as an extension of our existing systems, and what data would need to live in your platform?\n\n## Where to start\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "SmartShopFloor website",
+              "snippet": null,
+              "domain": "smartshopfloor.com.au",
+              "url": "https://smartshopfloor.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[SmartShopFloor website](https://smartshopfloor.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "SmartShopFloor",
+              "snippet": "294 Newcastle St, Perth WA 6000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/SmartShopFloor/@-31.9444443,115.8574906,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32bbc70f25f255:0x731b832428ea869f!8m2!3d-31.9444443!4d115.8574906!16s%2Fg%2F11pw1_byf1?hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "SmartShopFloor",
+              "category": "local_business",
+              "markdown": "SmartShopFloor",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Opticloud Solutions",
+              "description": "Computer consultant",
+              "address": "152 St Georges Terrace, Perth WA 6000, Australia",
+              "phone": "+61 457 435 988",
+              "reviews_count": null,
+              "url": "http://opticloud.com.au/?utm_source=chatgpt.com",
+              "domain": "opticloud.com.au",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "ProcessPath",
+              "description": "Automation company",
+              "address": "Suite 20, Level 1, 111 Colin Street, West Perth WA 6005, Australia",
+              "phone": null,
+              "reviews_count": null,
+              "url": "https://processpath.ai/?utm_source=chatgpt.com",
+              "domain": "processpath.ai",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "iCatalyst",
+              "description": "Software company",
+              "address": "Suite 18, 513 Hay Street, Subiaco WA 6008, Australia",
+              "phone": "+61 8 9380 2305",
+              "reviews_count": null,
+              "url": "https://www.icatalyst.com.au/?utm_source=chatgpt.com",
+              "domain": "www.icatalyst.com.au",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "SmartShopFloor",
+              "description": "Software company",
+              "address": "1/294 Newcastle Street, Perth WA 6000, Australia",
+              "phone": "+61 8 6102 6590",
+              "reviews_count": null,
+              "url": "https://smartshopfloor.com/?utm_source=chatgpt.com",
+              "domain": "smartshopfloor.com",
+              "rating": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n\nI would contact **Opticloud, ProcessPath and Inturing first**, then bring in SmartShopFloor to compare the manufacturing-specific approach if shop-floor execution is a major priority. Add iCatalyst if you run Microsoft Dynamics.\n\n## What to ask every consultant\n\nGive each the same brief so you can compare proposals fairly.\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 16,
+          "text": null,
+          "markdown": "| Requirement | What a good answer should cover |\n|--------|--------|\n| ERP integration | Specific experience integrating your ERP without replacing it |\n| Order automation | Email/PDF ingestion, validation, duplicate checks, exception handling and ERP posting |\n| Shop-floor capture | Tablet or barcode-based reporting for production quantities, downtime, quality and labour |\n| Data architecture | Clear ownership of data, reliable synchronisation and audit trails |\n| Delivery approach | A small pilot first, followed by staged rollout and measurable results |\n| Commercials | Implementation cost, licensing, support fees and ongoing maintenance |\n\n",
+          "table": {
+            "table_header": [
+              "Requirement",
+              "What a good answer should cover"
+            ],
+            "table_content": [
+              [
+                "ERP integration",
+                "Specific experience integrating your ERP without replacing it"
+              ],
+              [
+                "Order automation",
+                "Email/PDF ingestion, validation, duplicate checks, exception handling and ERP posting"
+              ],
+              [
+                "Shop-floor capture",
+                "Tablet or barcode-based reporting for production quantities, downtime, quality and labour"
+              ],
+              [
+                "Data architecture",
+                "Clear ownership of data, reliable synchronisation and audit trails"
+              ],
+              [
+                "Delivery approach",
+                "A small pilot first, followed by staged rollout and measurable results"
+              ],
+              [
+                "Commercials",
+                "Implementation cost, licensing, support fees and ongoing maintenance"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\nOne important technical distinction: Power Platform is excellent for workflow automation and operational apps, but it isn't automatically the right place for every machine-level or real-time manufacturing control. If you need PLC/SCADA integration, high-frequency telemetry or deterministic machine control, ask how the consultant will handle that separately.\n\n## My recommended first project\n\nStart with a bounded pilot rather than trying to automate the whole factory at once.\n\n**Phase 1 — Order intake**\n\nAutomate extraction and validation of incoming orders, with a human approval step for exceptions and controlled posting into the ERP.\n\n---\n\n**Phase 2 — Shop-floor capture**\n\nIntroduce a Power App or suitable manufacturing application for production reporting, downtime and quality checks.\n\n---\n\n**Phase 3 — Operational visibility**\n\nConnect the data to Power BI dashboards for order status, production performance, exceptions and bottlenecks.\n\n## One question that would sharpen this shortlist\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Advanced, SAP, Epicor, Infor, Microsoft Dynamics, or a custom ERP.\n\nThat will determine which consultants are most likely to integrate cleanly with your system, what the technical risks are, and whether you need a Power Platform specialist, an ERP integration partner, or both.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

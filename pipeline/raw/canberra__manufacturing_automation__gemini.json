@@ -1,0 +1,326 @@
+{
+  "slug": "canberra",
+  "pk": "manufacturing_automation",
+  "plat": "gemini",
+  "text": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__manufacturing_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:20.864Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "To automate order processing and shop-floor data capture without replacing your existing ERP (e.g., Pronto, Epicor, SyteLine, SAP B1, or older on-premises systems), you need a partner specializing in **ERP extension, integration architecture, and industrial low-code development**—rather than a vendor trying to sell a costly ERP rip-and-replace.\n\nIn the Australian market—and specifically accessible to Canberra/ACT—consider evaluating the following consultancies:\n\n---\n\n### 1. Consultancies with Dedicated Power Platform & Manufacturing/Integration Expertise\n\n#### **Walkerscott**\n* **Why them:** Walkerscott has a dedicated office and team in **Canberra**. They specialize in Microsoft Dynamics and the Power Platform, bridging the gap between legacy operational platforms and modern workflow automation. \n* **Fit for your project:** Ideal if you want a team with a local Canberra footprint that understands how to build custom Power Apps and automated flows on top of existing business databases without forcing a full system migration.\n\n#### **Professional Advantage**\n* **Why them:** One of Australia’s largest and most established Microsoft Solutions Partners with deep domain focus in **manufacturing, supply chain, and distribution**. \n* **Fit for your project:** Because they have both a manufacturing ERP practice and an advanced Power Platform practice, their engineers understand how to integrate into work-in-progress (WIP) tracking, bill of materials (BOM), and inventory tables without breaking ERP integrity.\n\n#### **Barhead Solutions**\n* **Why them:** Nationally recognized as one of Microsoft’s top tier-1 partners dedicated specifically to Power Platform, low-code architecture, and Business Applications. \n* **Fit for your project:** Barhead is ideal for building sophisticated **Power Automate workflows and AI Builder integrations** (e.g., automated PDF purchase-order extraction straight into your ERP) and mobile-responsive canvas apps for plant operators.\n\n#### **Antares Solutions**\n* **Why them:** Antares focuses heavily on enterprise data, systems integration, and Power Platform architecture. \n* **Fit for your project:** If your legacy ERP lacks modern open APIs, Antares specializes in building the glue layer—using Azure Integration Services, On-Premises Data Gateways, or Power Automate Desktop (RPA) to push and pull data directly to legacy databases securely.\n\n#### **Inturing / Boutique Industrial Low-Code Specialists**\n* **Why them:** Boutique firms like Inturing specialize strictly in **Power Platform and AI for Australian manufacturing and supply chain environments**. \n* **Fit for your project:** Smaller, focused firms are often faster and more agile for scoped shop-floor proofs-of-concept (e.g., deploying 3–4 tablet stations on the floor for scrap tracking, machine down-time, or batch completion in a matter of weeks).\n\n---\n\n### 2. How the Technical Architecture Should Look\nWhen speaking to these consultants, ensure they propose a solution structured around this model:\n\n1. **Intelligent Order Processing:**\n   * Incoming PDF/email customer purchase orders are routed through **Power Automate + AI Builder** (or Azure Document Intelligence) to extract line items, quantities, and delivery dates.\n   * An approval workflow (Teams or Power Apps) allows a customer service rep to review exceptions before creating a Sales Order in your ERP via an API or database connector.\n2. **Shop-Floor Data Capture:**\n   * **Power Apps (Canvas App)** deployed on ruggedised Android/iOS tablets mounted to workstations or handheld barcode/RFID scanners.\n   * Operators scan job travellers, clock labor, record machine output, flag defects, and log non-conformance without dealing with paper sheets.\n3. **The ERP Bridge:**\n   * If your ERP has REST/SOAP APIs: A **Custom Connector** is built in Power Platform.\n   * If on-premises with SQL: Microsoft’s **On-Premises Data Gateway** allows Power Platform to read/write staging tables directly and safely.\n   * If completely closed/legacy: **Power Automate Desktop (RPA)** emulates keystrokes to input completed jobs into the ERP client without user intervention.\n\n---\n\n### 3. Key Questions to Ask Prospective Partners\n\n1. **ERP Experience:** *\"Have you built integration pipelines into [Your ERP Name] before, and do you recommend a staging database or direct API/webhooks?\"*\n2. **Shop-Floor Usability:** *\"Can you show examples of touch/glove-friendly Power Apps that integrate with hardware barcode scanners (Zebra, Honeywell, etc.) and handle offline caching if Wi-Fi drops on the shop floor?\"*\n3. **Licensing Optimization:** *\"How will you architect shop-floor data capture to avoid paying $20+/user/month Power Apps licenses for every shift worker?\"* \n   *(A skilled partner will suggest pooled kiosk devices, Power Pages, or Azure-backed hybrid architectures to keep operational licensing low).*\n4. **Local Support:** *\"Will design, configuration, and testing be delivered locally in Australia, and who provides break-fix support if an automated ERP sync fails during production hours?\"*",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partner+Canberra+manufacturing&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partner Canberra manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=ERP+integration+Power+Apps+manufacturing+Australia+consultancies&client=app-vertex-grounding&safesearch=active\">ERP integration Power Apps manufacturing Australia consultancies</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consulting+partners+Canberra&client=app-vertex-grounding&safesearch=active\">Power Platform consulting partners Canberra</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkIqTxLOZ-TcylCKRjfRmxoQcXb4XQdqbkRLJ1Y3suLfa6gdyypfZGYLYWFt4hVrgKSv48xRI0nmysKsW9lQZFlGrM0mBkwo2wV-m3zPm-1nHKg65hkMISYjKyYfIJkULZNgwVA==",
+                "title": "coupsltd.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_HbkV7TcfuhphbNxkS4oQmEqnkD5SJIWlGnbhCxrCDklAutMKW1YjnHuP5SiywZrXtun7B3u8B5Rx1QaeTwMTYYLYAt0aojgD0Cb010isynmEcfYgpFoZMvmCCVpn",
+                "title": "cloudfactory.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0HaeAGaP-3o-s8X2H1Gh2Ns5APosiGFdFeJom-pPKADAls1xY-n4sA7UYHabmEFonYTHjed-CbBCE2qGeW1p9v4XEmeWMw4xGNO82RKru18-A_rnTZi5v-N1SZ5sZTzXSJiV89sCYw0Ibt75OWNuT8do1kEqad2Cc0vQVOOM=",
+                "title": "walkerscott.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt5VTl2PCd_hP3Gr-AVbsmCD-VkMOmI7YZV5qOAQdzw08nRd0exKAnwOPCEjUguvx9Unsi5LCDMN0VUJMrqXkSecex19GysbKhz7LnfW9X6tQBbS5smFHt30XGmAhtxZ0kDxPUYue1MAjgwDq1",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd_Xad_GNR5zoQRZcRtzBF8NkIHYnm6OTBxeqPZp6mJLZOf21el4vwXrAa5-TVUzwrPiGWX0e0TdKyULnsoVWDxU2ipqQINsSX3YLdmOJ5Spv-OCaIPvHT2RrdSVqA4EEhreRv",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1anrSKF65jx-w9tNLdqd-s2SmQveVep0MSNKTu8QXeFqvB3KwuzmcWHH4F1rUVxEjbcPxE_N6p5Io6qNzJQqxjVILZhyYnwMVLRH19srndaRG8_ulzyuiB93zw15zF4MQVyOoKc__eTGT4xU=",
+                "title": "weblinkplus.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAvtT6LSnCf4nyH-0aJzyYw4INMqw27akA5v6md0ATNbfjLVCI6jTcxVG4x820rb1HMM1LmSeo_DUIC3PwDsdTh-f_MZjhbg2RYE-iqMQXMy1qGUcUfb_Jxj7l0fH_TMoeIiw4NwyAJl7K4Y_Yiw==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi-0tm5qDmzmWkp6fIzSblL-g0R57uV5AUEZQe4Dm4aVR7bNbfJd_dyN90yrmev80vDLzkYbdnYzXuihql8eH0ZIjB1Ow4HuRzHtLlfaEfvD4kAglwUp8nVKTeZg1tWNBzWyzV-ewfFXQEPGXln72JUgFZEvU2R7TfayOE9LFUAg==",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_gXiT9vWaW-C4N1gAEuanl-UillkGpNcbDMwnEmbsOV5xBvRUxOjGpCSAPtPGxLDkEzeSYxfzuD_DHJ2TGgefGqB41Yuy9vYxxyuGSbzzziDZ4ummig7_W9W1q9oOl2K9hLKTlQ2S7UwM_9NupH_AolTdyPqOkMmUWTluiBexy9tDv8VP7g==",
+                "title": "concettolabs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9GkjvZiIJ0XiC1RT_3osew1uN7j81gdQnp2ZxJW5f0D-CxvT2vJg58jkst4CQKOrJweyoQ0xQZC0WN7VLHCs9LyVEIg7g8XHy4YjTEt9rQVcXe7sYhnZR5fHeJhONiYtDXCZaOIeghyj3tpzTFDFIwQ==",
+                "title": "techflock.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCrgpmnF8JeXnAIuOlnj1sdp0deqGH-wEYJeIoEIn64UM9cybWBTe4uMnsh1HzMf4uStUNureQggBHAFePDBuXkmFhIgbY_jdBvdCdp5s38B2eMvVqqyRQ6EgFH0r2Z4SXdtv9S7CHaQWVw0t3wX-1hdWo6w==",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLcbj7DsGiSjjKupoh815Ahrz4MuhevmqsEExT3GKnWS0xeFH9vwBe1Abg4ndGqT9l_nOeKpNfPkMJ_YxJPNINGZU3ZoNjeESaL6dh0eOOcy68TlAg0vCWpat1QN4D",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEthxmXS2vmDjh5vXtiATgRckABhZFP3J-tF1LkVxKV3Sqmp6Uv7z7uCZ99kCERYJI18Dz-MMY6RctUa6CMLNszAcBB27lST3JyXiy627zTCuyJib1rpXMRavwbA_1j",
+                "title": "codertrove.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1gVFoOIgWuY7-cQR2KDDUhtA4o_wSi9N4DRDD-y9eho96re25yVXdD1uHERIvhD2WrbEI6yEsJaRMiktTd5WyxLtVzM1uxgkygsmJRYL6V6QejGKxKn2-ZgMbWt39rgDg3YHrGkkQkjIK4fV6AAYV",
+                "title": "weblinkplus.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrM75DtxKOaxQJ79henMzrpprHOuYgGurZ3hXYMwEX2oZPDsvAeP-NnnHTu8Fn1PpUmNmQ5hc4vcmwgCMjWY1ntt8yQyJv6iLLQze281UfneQwOHoqkSUHfkJHQCjgepMmU-jBo45ln-GZikumbFRSbjO85FGrN4AXjh1Ae8UGeDR8UZtA8pg=",
+                "title": "integral-mgt.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 347,
+                "text": "To automate order processing and shop-floor data capture without replacing your existing ERP (e.g., Pronto, Epicor, SyteLine, SAP B1, or older on-premises systems), you need a partner specializing in **ERP extension, integration architecture, and industrial low-code development**—rather than a vendor trying to sell a costly ERP rip-and-replace"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 591,
+                "endIndex": 664,
+                "text": "**Why them:** Walkerscott has a dedicated office and team in **Canberra**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 666,
+                "endIndex": 812,
+                "text": "They specialize in Microsoft Dynamics and the Power Platform, bridging the gap between legacy operational platforms and modern workflow automation"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 817,
+                "endIndex": 1045,
+                "text": "**Fit for your project:** Ideal if you want a team with a local Canberra footprint that understands how to build custom Power Apps and automated flows on top of existing business databases without forcing a full system migration"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1082,
+                "endIndex": 1250,
+                "text": "**Why them:** One of Australia’s largest and most established Microsoft Solutions Partners with deep domain focus in **manufacturing, supply chain, and distribution**"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1255,
+                "endIndex": 1532,
+                "text": "**Fit for your project:** Because they have both a manufacturing ERP practice and an advanced Power Platform practice, their engineers understand how to integrate into work-in-progress (WIP) tracking, bill of materials (BOM), and inventory tables without breaking ERP integrity"
+              },
+              "groundingChunkIndices": [
+                5,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1564,
+                "endIndex": 1734,
+                "text": "**Why them:** Nationally recognized as one of Microsoft’s top tier-1 partners dedicated specifically to Power Platform, low-code architecture, and Business Applications"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1739,
+                "endIndex": 1990,
+                "text": "**Fit for your project:** Barhead is ideal for building sophisticated **Power Automate workflows and AI Builder integrations** (e.g., automated PDF purchase-order extraction straight into your ERP) and mobile-responsive canvas apps for plant operators"
+              },
+              "groundingChunkIndices": [
+                8,
+                6,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2022,
+                "endIndex": 2132,
+                "text": "**Why them:** Antares focuses heavily on enterprise data, systems integration, and Power Platform architecture"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2473,
+                "endIndex": 2623,
+                "text": "**Why them:** Boutique firms like Inturing specialize strictly in **Power Platform and AI for Australian manufacturing and supply chain environments**"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2628,
+                "endIndex": 2881,
+                "text": "**Fit for your project:** Smaller, focused firms are often faster and more agile for scoped shop-floor proofs-of-concept (e.g., deploying 3–4 tablet stations on the floor for scrap tracking, machine down-time, or batch completion in a matter of weeks)"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3079,
+                "endIndex": 3260,
+                "text": "Incoming PDF/email customer purchase orders are routed through **Power Automate + AI Builder** (or Azure Document Intelligence) to extract line items, quantities, and delivery dates"
+              },
+              "groundingChunkIndices": [
+                8,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3267,
+                "endIndex": 3435,
+                "text": "An approval workflow (Teams or Power Apps) allows a customer service rep to review exceptions before creating a Sales Order in your ERP via an API or database connector"
+              },
+              "groundingChunkIndices": [
+                12,
+                13,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3474,
+                "endIndex": 3602,
+                "text": "**Power Apps (Canvas App)** deployed on ruggedised Android/iOS tablets mounted to workstations or handheld barcode/RFID scanners"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3609,
+                "endIndex": 3747,
+                "text": "Operators scan job travellers, clock labor, record machine output, flag defects, and log non-conformance without dealing with paper sheets"
+              },
+              "groundingChunkIndices": [
+                5,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3777,
+                "endIndex": 3858,
+                "text": "If your ERP has REST/SOAP APIs: A **Custom Connector** is built in Power Platform"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4905,
+                "endIndex": 5093,
+                "text": "**Local Support:** *\"Will design, configuration, and testing be delivered locally in Australia, and who provides break-fix support if an automated ERP sync fails during production hours?\"*"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Power Platform partner Canberra manufacturing",
+            "ERP integration Power Apps manufacturing Australia consultancies",
+            "Power Platform consulting partners Canberra"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 328,
+      "candidatesTokenCount": 1253,
+      "totalTokenCount": 2750,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 328
+        }
+      ],
+      "thoughtsTokenCount": 1169,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "0MbiatG5M72O4-EP_p_pwAQ"
+  }
+}

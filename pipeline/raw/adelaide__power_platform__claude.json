@@ -1,0 +1,290 @@
+{
+  "slug": "adelaide",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Adelaide? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:45.029Z",
+  "cost": 0.059707,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9729,
+      "output_tokens": 1328,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.059107,
+      "datetime": "2026-10-29 04:07:39 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable **Microsoft Power Platform consulting partners** in or serving Adelaide, based on available information:\n\n---\n\n## 🏆 Top Microsoft Power Platform Consultants in Adelaide\n\n---\n\n### 1. 🥇 Power Platform Experts (Office Experts Group)\n**Website:** powerplatformexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Operating since 2000",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", this is one of the most established Microsoft-focused consultancies serving Adelaide. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their highly experienced team is renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services across Power Automate, Power Apps, Power BI, and Power Pages.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Long-standing track record (25+ years), Microsoft-certified, and a full-suite Power Platform offering with local Adelaide presence.\n\n---\n\n### 2. 🥈 Pact IT Solutions\n**Website:** pactict.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Located in Adelaide and servicing South Australia",
+              "annotations": [
+                {
+                  "title": "Pact IT Solutions Adelaide: Power Platform",
+                  "url": "https://www.pactict.com.au/solutions/process-automation/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", Pact IT Solutions is a locally grounded option. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their consultants and software developers help businesses harness the full potential of Microsoft Power Platform, delivering tailored solutions that drive efficiency and innovation.",
+              "annotations": [
+                {
+                  "title": "Pact IT Solutions Adelaide: Power Platform",
+                  "url": "https://www.pactict.com.au/solutions/process-automation/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They work across the full Microsoft Power Platform suite — Power Automate, Power Apps, Power BI, and Power Virtual Agents — combined with Microsoft 365 and hundreds of other apps to create end-to-end business solutions.",
+              "annotations": [
+                {
+                  "title": "Pact IT Solutions Adelaide: Power Platform",
+                  "url": "https://www.pactict.com.au/solutions/process-automation/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Adelaide-based and South Australia-focused, making them a strong choice for local businesses wanting on-the-ground support.\n\n---\n\n### 3. 🥉 Evolvous\n**Website:** evolvous.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Evolvous is often regarded as a leading Microsoft Power BI consultant in Adelaide, not only because of their in-depth expertise in Power BI consulting services, but also because they offer end-to-end solutions for every business need.",
+              "annotations": [
+                {
+                  "title": "Power BI Consultant Adelaide",
+                  "url": "https://evolvous.com/microsoft-power-bi-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From setting up the Power BI environment from scratch, to data visualisation and Power BI migration, their Power BI partners in Adelaide help at every stage.",
+              "annotations": [
+                {
+                  "title": "Power BI Consultant Adelaide",
+                  "url": "https://evolvous.com/microsoft-power-bi-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer solutions developed to meet the specific needs of your industry, and their solutions conform to various compliance standards.",
+              "annotations": [
+                {
+                  "title": "Power BI Consultant Adelaide",
+                  "url": "https://evolvous.com/microsoft-power-bi-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Strong specialisation in Power BI and data analytics, with industry-specific and compliance-aware solutions. Great for data-driven organisations.\n\n---\n\n### 4. Intuition SofTech\n**Website:** intuitionsoftech.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Intuition SofTech is an Australian software development company offering innovative solutions, with an expert team of developers and designers dedicated to driving business success through customised strategies.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver solutions that resonate with local market dynamics and compliance standards, ensuring businesses are at the forefront of digital innovation.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Australia-based team provides comprehensive training and ongoing support, ensuring staff are proficient in utilising Power Platform to its fullest potential, enhancing overall productivity and efficiency.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Strong focus on training, support, and compliance — ideal for businesses new to Power Platform.\n\n---\n\n### 5. OfficePro Consulting\n**Website:** officeproconsulting.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting's Power Platform team ensures that Microsoft Power Platform integrates seamlessly with existing systems, including Microsoft 365, SharePoint, Dataverse, Dynamics 365, and other third-party applications — helping link data and workflows to enable automated processes, real-time reporting, and custom apps.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Platform consulting includes training, guidance, and ongoing support, ensuring staff can access real-time insights, submit approvals, and make data-driven decisions confidently.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Strong integration expertise across the Microsoft ecosystem, with remote and on-site options available for Adelaide businesses.\n\n---\n\n## 💡 Tips for Choosing the Right Partner\n- ✅ **Check Microsoft Partner status** — look for Gold/Solutions Partner designations\n- ✅ **Ask for local Adelaide references** and case studies\n- ✅ **Clarify whether they offer on-site or remote delivery**\n- ✅ **Ensure they cover your specific needs** (e.g., Power BI analytics vs. Power Apps development vs. Power Automate workflows)\n\nWould you like more detail on any of these firms, or help comparing them for a specific use case?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consultants Adelaide",
+        "Microsoft Power Platform consulting partners Adelaide Australia"
+      ]
+    }
+  ]
+}

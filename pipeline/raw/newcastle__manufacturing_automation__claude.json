@@ -1,0 +1,290 @@
+{
+  "slug": "newcastle",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:33.510Z",
+  "cost": 0.063541,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10402,
+      "output_tokens": 1449,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062941,
+      "datetime": "2026-10-29 04:10:28 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong consultants worth exploring, ranging from Newcastle-based specialists to UK-wide Microsoft partners with deep manufacturing and ERP integration experience. Here's a curated shortlist tailored to your needs:\n\n---\n\n## 🏭 Power Platform & Automation Consultants for Manufacturers in Newcastle\n\n---\n\n### 1. **SR1 Development** *(Newcastle-based)*\n**Website:** sr1development.com\n\nThis is the most locally rooted option. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a small, tight-knit group of consultants and developers who have been working together in Newcastle upon Tyne since their establishment in 2011, offering SharePoint and Office 365 consultancy and support.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "By combining Power Platform tools, they can quickly digitise your current processes by capturing the relevant information, sending it to the relevant person or system for action, and reporting on the outcomes — even utilising AI capabilities.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recent implementations include leave management systems, expense submissions, PO approval, supplier management, and stage-gate process management",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — all highly relevant to manufacturing operations.\n\n📞 +44 (0) 191 691 1358\n\n---\n\n### 2. **PowerTech365** *(UK-wide, Manufacturing Specialists)*\n**Website:** powertech365.co.uk\n\nA strong fit if you want sector-specific manufacturing expertise. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their manufacturing solutions include OEE dashboards, quality non-conformance tracking, digital shift handover, maintenance scheduling, and production reporting",
+              "annotations": [
+                {
+                  "title": "Proven Power Platform Services for FM & Construction",
+                  "url": "https://powertech365.co.uk/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — directly addressing your shop-floor data capture needs. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "PowerTech365 is a UK Microsoft Power Platform consultancy that builds enterprise-grade applications on Dataverse, intelligent automation with Power Automate, and integration architectures that connect operational data across the business.",
+              "annotations": [
+                {
+                  "title": "Proven Power Platform Services for FM & Construction",
+                  "url": "https://powertech365.co.uk/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Crimson** *(UK-wide, Microsoft Partner)*\n**Website:** crimson.co.uk\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Microsoft Power Platform expedites creativity and minimises cost as you scrutinise data, automate operations, and construct applications — and as Microsoft Power Platform consultants, Crimson helps accelerate business transformation using this low-code/no-code platform.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.crimson.co.uk/microsoft-solutions/microsoft-power-platform-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, they have a proven local track record — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Newcastle University transformed its student admissions process using Microsoft Power Platform with Crimson's help.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.crimson.co.uk/microsoft-solutions/microsoft-power-platform-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Crimson goes beyond Power Platform expertise, providing expertise in Microsoft Dynamics 365, Azure, and Office 365 tools like SharePoint",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.crimson.co.uk/microsoft-solutions/microsoft-power-platform-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — useful if your ERP sits within the Microsoft ecosystem.\n\n---\n\n### 4. **Transparity** *(UK-wide, Governance-Focused)*\n**Website:** transparity.com\n\nA good choice if you want to scale automation safely across departments. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Platform consulting services help organisations build apps, automate workflows, and turn data into decisions — and they specialise in both low-code and no-code development, so your teams can build, scale, and evolve solutions with the right level of support at every stage.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy",
+                  "url": "https://www.transparity.com/app-innovation/power-platform-consultancy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also help set up Centre of Excellence controls, ALM pipelines, environment strategy, and adoption tracking, so what your teams build is supportable, secure, and aligned to your wider IT strategy.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy",
+                  "url": "https://www.transparity.com/app-innovation/power-platform-consultancy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Chorus** *(UK-wide, ERP Integration Focus)*\n**Website:** chorus.co.uk\n\nA strong option if ERP integration and data architecture are priorities. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their capabilities include Dataverse management and data architecture, connectors and system integration, custom application development, workflow automation, and data visualisation and reporting.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultancy",
+                  "url": "https://www.chorus.co.uk/technologies/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Platform consultants can help you unlock the full potential of your data and Microsoft technologies, streamline complex processes, and solve business challenges effectively.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultancy",
+                  "url": "https://www.chorus.co.uk/technologies/power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Sharp Business Systems** *(UK-wide)*\n**Website:** sharp.co.uk\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their expert team offers tailored advice and practical ideas to help you overcome operational challenges, automate manual tasks, and make smarter, data-driven decisions.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://www.sharp.co.uk/business-apps-and-erp/microsoft-power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their expert team has over 100 years of combined experience delivering and supporting clients with the Power Platform, and they work with a variety of industries and understand the challenges businesses face day-to-day.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting",
+                  "url": "https://www.sharp.co.uk/business-apps-and-erp/microsoft-power-platform-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you speak to these firms, make sure to ask:\n\n- **Can you integrate Power Automate with our existing ERP** (e.g., SAP, Sage, Infor, SYSPRO) without replacing it?\n- **Do you have experience with shop-floor data capture** (e.g., barcode scanning, machine data, shift handover apps)?\n- **Can you build order processing automation** that connects our customer-facing systems to production workflows?\n- **Do you offer ongoing support** or just implementation?\n- **Do you have other manufacturing clients** we can speak to as references?\n\n---\n\n**SR1 Development** (Newcastle) and **PowerTech365** (manufacturing specialists) would be my top two recommendations to start conversations with, given your location and sector. Would you like help preparing a brief or RFP to send to these consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Newcastle UK",
+        "ERP integration Power Automate shop floor data capture manufacturing consultants Newcastle"
+      ]
+    }
+  ]
+}

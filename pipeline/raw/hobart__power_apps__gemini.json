@@ -1,0 +1,411 @@
+{
+  "slug": "hobart",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Hobart for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:51.438Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When building operational Microsoft Power Apps backed by Microsoft Dataverse for frontline workers (warehouse inventory, shop-floor inspections, field audits, and mobile dispatch), you need a partner with deep **Dataverse data modelling**, **Power Apps offline capability**, and **device-level integration** (e.g., camera capture, barcode scanning, GPS).\n\nIn Hobart, the leading consultancies that either have a permanent local presence or are headquartered in Tasmania include:\n\n---\n\n### 1. Locally Headquartered / Tasmanian Specialist Consultancies\n\n* **Intuit Technologies**  \n  * **Headquarters/Presence:** Hobart (with statewide offices in Launceston and Burnie).  \n  * **Focus:** One of Tasmania’s largest and most established ICT providers. Intuit Technologies has a dedicated Business Applications practice building solutions across Dynamics 365 and the Microsoft Power Platform (Power Apps, Power Automate, Dataverse).  \n  * **Operational Fit:** They specialize in replacing spreadsheet-based workflows, paper processes, and disparate legacy databases with unified field and operational apps (such as asset booking, incident reporting, and ward/facility workflows).\n\n* **ISW (ISW Development)**  \n  * **Headquarters/Presence:** Headquartered in Hobart (Sandy Bay / CBD) with national and international offices.  \n  * **Focus:** A long-standing custom software and enterprise digital transformation consultancy (Microsoft Solutions Partner).  \n  * **Operational Fit:** Because ISW originates from a strong custom software engineering background, they are well-suited for complex operational applications. They build Power Apps integrated with Dataverse, legacy ERPs, Azure services, and external APIs, particularly where shop-floor workers need responsive, highly reliable UI/UX.\n\n* **FutureAbility**  \n  * **Headquarters/Presence:** Hobart-based.  \n  * **Focus:** A specialised, boutique Microsoft Solutions Partner focusing strictly on the Microsoft Power Platform and Copilot Studio.  \n  * **Operational Fit:** Ideal for mid-market Tasmanian businesses looking for agile delivery. They focus on Dataverse data models, Model-Driven and Canvas Power Apps, and modern workflow automation—well suited for rapid deployments of field audits, request management, and operational approvals.\n\n---\n\n### 2. Major National Tier-1 Partners with Dedicated Hobart Offices\n\n* **Data#3**  \n  * **Hobart Presence:** Established Hobart office with an on-the-ground Tasmanian team.  \n  * **Focus:** One of Australia’s largest and most accredited Microsoft Solutions Partners across Modern Work, Azure, and Business Applications.  \n  * **Operational Fit:** Highly experienced in large-scale Power Platform rollouts, enterprise Dataverse architecture, and Power Platform Center of Excellence (CoE) governance. Data#3 is typically chosen for complex supply chain, logistics, and government/utility environments requiring stringent data governance and integration with ERP systems (like Dynamics 365 Supply Chain Management or SAP).\n\n* **NCS Australia (incorporating legacy Dialog Information Technology)**  \n  * **Hobart Presence:** Long-standing physical presence in Hobart.  \n  * **Focus:** Enterprise systems integration, application modernisation, and Microsoft Business Applications.  \n  * **Operational Fit:** Suitable for high-scale shop-floor and field integration projects involving heavy industrial backend connectivity, cloud integrations, and structured application lifecycle management (ALM).\n\n---\n\n### Key Questions to Ask Prospective Hobart Partners for This Use Case\n\nWhen interviewing any of these consultancies for shop-floor or field apps, probe specifically on operational app constraints:\n\n1. **Offline Sync & Caching in Dataverse:**  \n   * Field and warehouse environments frequently hit Wi-Fi dead zones. Ask how they design **offline profiles in Dataverse** and configure Canvas/Model-Driven offline mode to ensure data doesn't conflict or get lost during synchronization.\n2. **Hardware & Peripheral Integration:**  \n   * Will your teams use ruggedised Zebra/Honeywell handhelds, consumer iPads, or smartphones? Ensure the consultant has experience integrating the device’s physical laser scanners or building barcode/QR camera readers directly in Power Apps.\n3. **Dataverse Licensing & Storage Architecture:**  \n   * Dataverse usage requires specific Power Apps licensing (per-user or per-app capacity). Ask how they architect the schema (table design, polymorphic lookups, relational data) to optimize performance and prevent unnecessary database licensing bloat.\n4. **Integration with Existing ERP/WMS:**  \n   * Inquire about their approach to synchronising warehouse inventory or job tickets from your core system (e.g., Pronto, Microsoft Dynamics, SAP, MYOB) into Dataverse via Power Automate, Azure Logic Apps, or Custom Connectors.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+%22Power+Apps%22+OR+%22Power+Platform%22+%22consulting%22&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; &quot;Power Apps&quot; OR &quot;Power Platform&quot; &quot;consulting&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Intuit+Technologies%22+%22Power+Platform%22+OR+%22Power+Apps%22&client=app-vertex-grounding&safesearch=active\">&quot;Intuit Technologies&quot; &quot;Power Platform&quot; OR &quot;Power Apps&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+Dataverse+consultants+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps Dataverse consultants Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22ISW%22+Hobart+%22Power+Apps%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;ISW&quot; Hobart &quot;Power Apps&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22FutureAbility%22+Hobart+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;FutureAbility&quot; Hobart Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Dialog%22+OR+%22NCS%22+Hobart+%22Power+Apps%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Dialog&quot; OR &quot;NCS&quot; Hobart &quot;Power Apps&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Hobart+%22Power+Apps%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Hobart &quot;Power Apps&quot; OR &quot;Power Platform&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuP2M9bYyJJWsqgxKyM1g765emRLbCko9DbkPI9I6ViTH_h_LZW_7mXumm3Uvc6HVigwtVIK5JMLZkOwc5zx4VFjuwmRcdd5BuipCWcelTX6WCWWmsNGH50fVydhNZYvd7A2dEBkKBTGgRJAdm",
+                "title": "bd-s.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdfGPWAgmANyaS6ThbYsA5sk75XrsiC2Uuwag9zDDvWAROHZTGgsyCCCTsVnTsUvTmbeM89HwB2Nio93Rx74ruafz7u1KoGdm-l23mGZ_Su8dJZnrx3W37PgiJ6-CN0b1Wa8QQ2dtStGcfmeJSBK6CfggdDvqGNGnCCyogrfSfasQSg==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDSGT7SoDJOq2Smj1_l0fm7Q2DkKCnHJ9xcTutiZgiYWs5DNl6w04fN9awmX1V_GHM5cqmvlJFAUCly1Y3fTjTeS7L5I_Mx9P5U_6Kz-hjVHeH8d_NYhvRmuTIFMOcOTV2uvyh3G2ZLsDodMPbyc1M5VjUDTthduhu4fN0B9BEbOiN2jzzz7WXvFvoJRuGJDLkanQ=",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDF9dLdP1ZUFyI6Ims-fQN1M_2FlkFUi9-ngUz1YkB3P7ngJfTdn-bpwqT74JEhNIULAoZwaH8fPaW1hdYP9FYIoz6ohZ8u7YuYrfAw4KQz6GzW-ZCGu4JeuuQjETathm6HPRVvC3It80vv68tEjl_Pz0oZVMaCyfVFgHK8kvpdfyjmydHv0QO3MEqPlBgIzQqkfwgk5XSTkpunAm5T-c=",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_7Pl6AtmLP4XPNHNX1B9QUB5g692MiSS0ap79vvq1wItXssINhUqUbAUywr44YGmxD6rY4NZ7jUC21E4tFMrqJiAnkse7h1W62qCFcpwS3l1o5u1oGByUu9QbgjtYLRxzNh8eIvJRGjiSVtXveoTK_haYuskLPTjVoa-diI9Gvi2KLsnzx9bJBxvC9SKunuaPIToGwpRlrOQ=",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2HzP9tKCMMZeyT2kYE4zgcDll4tUalnH3npJ6Tg9RxCQKFwJSeh9eCZ_vmyicIo1PZ-g55jT_fKo5N7gs3_l5nel4Tyu6CVVL4T3CJi10qrgoz3hAeMIXFMsF90GGcZxIhWhdLu0x",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzEPTKaCu9WUmcJSmf6DuM2hL1cet5l8dp85s3XjMVYZA0SigR5AhP8IYESxBxprIM038iiAZUEUIy78RrG9NedT6XlrghlNHh3E065Q==",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1aoeNvbegT9nS4LMgwoIP21KYyqomm2Zx_gq2U4C3rSecxNyjDgSJCPJ5tOfQBCu2Uccv-NtSWomhCL74ZcuzXfTaoV4Z1__TbWaf_Ok-l8MrvF66_FDRnnaDMt2kO9d4",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoi-B7aWVicFfYujLMxbaVDuuokR8wgwByNAlJPDuB_QWfhWNAz4px9eO5g3mO5rfIswCgMdCNBKLju20LlYOqBINizfQJpFxzxXwzvfyJ8PNGIlgC64DFbhzzjwm125Q-6l3wSt9cTfYaCN0kOyY=",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH69zZD9CnpO2G8za1UlqoOR0MIcVhZTkVHHuWUn3Ulkcn8m1Dh3tEQWt3NBD1l6rhwPpYrkweKEFgWTIHMel6redDdq69sGhUwvnck80GYaagK7nnOMfkro3AAkwxNH4UUQUn_Qp1d4X6NRpxeUx4D8Rg2A==",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6Mgnz4nlsjo0BrnEzhHNT9QNF8oNsKfI8DY7H9tDfqAhO6sKd04BsOaf8qPSBrgObE9JnQS_MiKta3GxYQVxODqg1pesVTQ1h2nEBDLUzwsHUt5HtGoWrKE=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH25rX01CmKJtr0rIFjcoOOXxPENpNfjuId1UIsyizQiQx1xZrr3wP_jYmHsqCHNINQaUWXgZsEBISDiNaY-Fwzv4IGqUwI5mgXR_OoTYEAPORbXxIWNAiL",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE018qOm0nDsNvr0zN3UsXSBrePUOKPMdmcXCLkGpzQpqXrXiMQME33_oRqAoQ1o4LYUk2uPlMceOo6H5y49qcxBWEfeDPBDAP-M2Seq4IvHt0PW_gPk5eSQnjapPXtf-IsLqbIAA==",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rk5fEzd36mHjfyKTXSFQt2v6aFz_oZXEapkcQadtQMmagsloDGHMehZOzx9Cl-0nviSb1iG5amyqUysJb5MwShyanTc48ialOu6HcpnEy6XBd2De5u6cYd66YPWnqX_OQXL6bOaGZ6l-",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH891d31xIDLHbIwKi6tDoLUGDqDytvWX520pvWQquV4d5c3LwV5RWxFakAIPgshoFjCAWAf6sjggi4U1-6YtJxSdBILNA7aIC8cOPPA1wXhzCQKFeTQCg7UMCg_fK0WkHbeEMp7576Y79noyX1-0xJ7ly1u2guQIQH2wvvXyQ8",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzI--jQuQmoWhvviA4obXtYU99cOORGhxAiel51mhamVfL1E47Rmbsqai-joGGCmPKh8uhu5R4EVZwiOyHO1BYRgOubbd5jFrXUe_",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmpiNuoULwB3jKRqXXjIx_PsNaeW1aNupHzdHbCmEdJGLIiKsmQZl2ARwODbKrkHKdaKh8S6BTZHT6sFa9SbNiZQMJRp05xS8jf-0Fs6e3_LkBdqLv_4j0h_gQM-9Gi8pI8f-QPIdys4dy6hRGm-xviThjsA==",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6Mgnz4nlsjo0BrnEzhHNT9QNF8oNsKfI8DY7H9tDfqAhO6sKd04BsOaf8qPSBrgObE9JnQS_MiKta3GxYQVxODqg1pesVTQ1h2nEBDLUzwsHUt5HtGoWrKE=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIWDXNC_TIAQOh1dY2VdLVD8cXgaDcxeMDPIIRdeGp-vazCEf47u-BBik3JhXYOGJsEL0ItAUd-PXQIfXxXVgwE2xLS_MCsHsDRIkubmx-ntOKrDHi0rKiY3khD-9HF1wYMveFwZ-bE2e1",
+                "title": "jobrapido.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyg0qWeBml09xSUZvB5vIjcgxBx6u77LOUOoL00StL-uNpCc24NQ_SSXwRuczPJlwhb7YfKaSe2phnd29RXk2RZ82kNOXN7AddxdVNi33v1z5P1Rf2QiFMXt4ZNtAR4XSec29NNwqdN85OXE_-cRfHrw==",
+                "title": "indeed.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEpWs2ePMoq_ONxU39V92kELJCJCydhRXM2kLUGXhlr1jX9yiKa1i1AT8xb8gfYymS0vQNumXwzaqzuIs7GBmTSjIsmOr82wV9jTj0IZoJDAIdeglwRbUXTmvKeLqvY54V2lz5sizjByPhawS4eo178a1Y2-G9kLnG6fOpLm8_R04tbVohsH9hpZ3rJ-ka5ygqKo_TTk8rtMrvGOuHEL2kjeJM",
+                "title": "ascenwork.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 353,
+                "text": "When building operational Microsoft Power Apps backed by Microsoft Dataverse for frontline workers (warehouse inventory, shop-floor inspections, field audits, and mobile dispatch), you need a partner with deep **Dataverse data modelling**, **Power Apps offline capability**, and **device-level integration** (e.g., camera capture, barcode scanning, GPS)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 675,
+                "endIndex": 748,
+                "text": "**Focus:** One of Tasmania’s largest and most established ICT providers"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 750,
+                "endIndex": 928,
+                "text": "Intuit Technologies has a dedicated Business Applications practice building solutions across Dynamics 365 and the Microsoft Power Platform (Power Apps, Power Automate, Dataverse)"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 936,
+                "endIndex": 1175,
+                "text": "**Operational Fit:** They specialize in replacing spreadsheet-based workflows, paper processes, and disparate legacy databases with unified field and operational apps (such as asset booking, incident reporting, and ward/facility workflows)"
+              },
+              "groundingChunkIndices": [
+                0,
+                3,
+                1,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1212,
+                "endIndex": 1320,
+                "text": "**Headquarters/Presence:** Headquartered in Hobart (Sandy Bay / CBD) with national and international offices"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1328,
+                "endIndex": 1450,
+                "text": "**Focus:** A long-standing custom software and enterprise digital transformation consultancy (Microsoft Solutions Partner)"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1458,
+                "endIndex": 1613,
+                "text": "**Operational Fit:** Because ISW originates from a strong custom software engineering background, they are well-suited for complex operational applications"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1615,
+                "endIndex": 1788,
+                "text": "They build Power Apps integrated with Dataverse, legacy ERPs, Azure services, and external APIs, particularly where shop-floor workers need responsive, highly reliable UI/UX"
+              },
+              "groundingChunkIndices": [
+                0,
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1817,
+                "endIndex": 1856,
+                "text": "**Headquarters/Presence:** Hobart-based"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1864,
+                "endIndex": 1995,
+                "text": "**Focus:** A specialised, boutique Microsoft Solutions Partner focusing strictly on the Microsoft Power Platform and Copilot Studio"
+              },
+              "groundingChunkIndices": [
+                11,
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2003,
+                "endIndex": 2092,
+                "text": "**Operational Fit:** Ideal for mid-market Tasmanian businesses looking for agile delivery"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2094,
+                "endIndex": 2296,
+                "text": "They focus on Dataverse data models, Model-Driven and Canvas Power Apps, and modern workflow automation—well suited for rapid deployments of field audits, request management, and operational approvals"
+              },
+              "groundingChunkIndices": [
+                0,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2392,
+                "endIndex": 2475,
+                "text": "**Hobart Presence:** Established Hobart office with an on-the-ground Tasmanian team"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2483,
+                "endIndex": 2624,
+                "text": "**Focus:** One of Australia’s largest and most accredited Microsoft Solutions Partners across Modern Work, Azure, and Business Applications"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2632,
+                "endIndex": 2803,
+                "text": "**Operational Fit:** Highly experienced in large-scale Power Platform rollouts, enterprise Dataverse architecture, and Power Platform Center of Excellence (CoE) governance"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2805,
+                "endIndex": 3024,
+                "text": "Data#3 is typically chosen for complex supply chain, logistics, and government/utility environments requiring stringent data governance and integration with ERP systems (like Dynamics 365 Supply Chain Management or SAP)"
+              },
+              "groundingChunkIndices": [
+                16,
+                14,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3106,
+                "endIndex": 3168,
+                "text": "**Hobart Presence:** Long-standing physical presence in Hobart"
+              },
+              "groundingChunkIndices": [
+                17,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3176,
+                "endIndex": 3281,
+                "text": "**Focus:** Enterprise systems integration, application modernisation, and Microsoft Business Applications"
+              },
+              "groundingChunkIndices": [
+                14,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3289,
+                "endIndex": 3498,
+                "text": "**Operational Fit:** Suitable for high-scale shop-floor and field integration projects involving heavy industrial backend connectivity, cloud integrations, and structured application lifecycle management (ALM)"
+              },
+              "groundingChunkIndices": [
+                0,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4635,
+                "endIndex": 4857,
+                "text": "Inquire about their approach to synchronising warehouse inventory or job tickets from your core system (e.g., Pronto, Microsoft Dynamics, SAP, MYOB) into Dataverse via Power Automate, Azure Logic Apps, or Custom Connectors"
+              },
+              "groundingChunkIndices": [
+                20,
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Hobart\" \"Power Apps\" OR \"Power Platform\" \"consulting\"",
+            "\"Intuit Technologies\" \"Power Platform\" OR \"Power Apps\"",
+            "Microsoft Power Apps Dataverse consultants Hobart Tasmania",
+            "\"ISW\" Hobart \"Power Apps\" OR \"Power Platform\"",
+            "\"FutureAbility\" Hobart Power Platform",
+            "\"Dialog\" OR \"NCS\" Hobart \"Power Apps\" OR \"Power Platform\"",
+            "\"Data#3\" Hobart \"Power Apps\" OR \"Power Platform\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 885,
+      "candidatesTokenCount": 1233,
+      "totalTokenCount": 3560,
+      "cachedContentTokenCount": 570,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 885
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 570
+        }
+      ],
+      "thoughtsTokenCount": 1442,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "Xcfiat-oIrGJ694P7cmdqAI"
+  }
+}

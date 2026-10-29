@@ -1,0 +1,200 @@
+{
+  "slug": "perth",
+  "pk": "power_apps",
+  "plat": "aimode",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_apps__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:50.996Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Perth for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Perth%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:06:45 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for specialized Microsoft Power Apps and Dataverse consultants in Perth to build rugged, offline-capable, or tightly integrated operational apps (for warehouses, shop floors, or field crews), you want partners who understand not just low-code UI design, but **robust relational data modeling (Dataverse), complex API/ERP integrations, and offline device synchronization**.\n\nLeading providers and consulting firms servicing the Perth market with these specific capabilities include:\n\n- **iCatalyst:** A prominent Australian-owned Microsoft Solutions Partner with a strong physical presence in [iCatalyst Perth](https://icatalyst.com.au/) . They specialize heavily in the Microsoft stack—including Dynamics 365 (Business Central, Finance & Supply Chain) and the Power Platform. They are an ideal fit if your operational apps need to hook directly into heavy enterprise supply chain, manufacturing, mining, or engineering backend systems.[[1]](https://icatalyst.com.au/)\n- **Office Experts Group (Power Platform Experts):** Operating a dedicated local arm via [Power Platform Consultants Perth](https://www.powerplatformexperts.com.au/) , they focus exclusively on custom low-code application development, Power Automate workflows, and Dataverse/SharePoint data structures. They handle everything from rapid departmental tool creation to enterprise-grade operational dashboards and shop-floor data collection apps.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)\n- **1Dynamics:** A recognized enterprise Microsoft partner servicing national operations (including key WA heavy industry clients like NRW Holdings). They specialize in heavy-duty Dataverse architecture, connected order fulfillment/warehouse flows, and role-based operational tooling. They excel when warehouse and field systems require single-source-of-truth governance across Microsoft cloud ecosystems.[[1]](https://1dynamics.com.au/)[[2]](https://1dynamics.com.au/microsoft-dataverse)\n- **Dynamics Square Australia:** Operating with a regional presence supporting [Dynamics Square Perth](https://www.dynamicssquare.com.au/solutions/power-apps/) , they provide end-to-end implementation, audit, and custom integration services specifically tailored around Microsoft Power Apps and underlying data architectures for operational continuity.[[1]](https://www.dynamicssquare.com.au/solutions/power-apps/)\n\nIf you'd like to narrow this down, please share:\n\n- Are these apps intended for **tablets/phones (field/warehouse)** or **fixed touch-screens (shop floor)**?\n- Do you require **offline functionality** when network connectivity drops?\n- What **backend ERP or inventory system** (e.g., SAP, Business Central, MYOB) do these apps need to sync with?\n\nI can help you outline an **RFP checklist** or tailor specific questions to ask these consultants.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for specialized Microsoft Power Apps and Dataverse consultants in Perth to build rugged, offline-capable, or tightly integrated operational apps (for warehouses, shop floors, or field crews), you want partners who understand not just low-code UI design, but robust relational data modeling (Dataverse), complex API/ERP integrations, and offline device synchronization.",
+              "markdown": "When looking for specialized Microsoft Power Apps and Dataverse consultants in Perth to build rugged, offline-capable, or tightly integrated operational apps (for warehouses, shop floors, or field crews), you want partners who understand not just low-code UI design, but **robust relational data modeling (Dataverse), complex API/ERP integrations, and offline device synchronization**.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Leading providers and consulting firms servicing the Perth market with these specific capabilities include:",
+              "markdown": "Leading providers and consulting firms servicing the Perth market with these specific capabilities include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "iCatalyst: A prominent Australian-owned Microsoft Solutions Partner with a strong physical presence in iCatalyst Perth. They specialize heavily in the Microsoft stack—including Dynamics 365 (Business Central, Finance & Supply Chain) and the Power Platform. They are an ideal fit if your operational apps need to hook directly into heavy enterprise supply chain, manufacturing, mining, or engineering backend systems. Office Experts Group (Power Platform Experts): Operating a dedicated local arm via Power Platform Consultants Perth, they focus exclusively on custom low-code application development, Power Automate workflows, and Dataverse/SharePoint data structures. They handle everything from rapid departmental tool creation to enterprise-grade operational dashboards and shop-floor data collection apps. 1Dynamics: A recognized enterprise Microsoft partner servicing national operations (including key WA heavy industry clients like NRW Holdings). They specialize in heavy-duty Dataverse architecture, connected order fulfillment/warehouse flows, and role-based operational tooling. They excel when warehouse and field systems require single-source-of-truth governance across Microsoft cloud ecosystems. Dynamics Square Australia: Operating with a regional presence supporting Dynamics Square Perth, they provide end-to-end implementation, audit, and custom integration services specifically tailored around Microsoft Power Apps and underlying data architectures for operational continuity.",
+              "markdown": "- **iCatalyst:** A prominent Australian-owned Microsoft Solutions Partner with a strong physical presence in [iCatalyst Perth](https://icatalyst.com.au/) . They specialize heavily in the Microsoft stack—including Dynamics 365 (Business Central, Finance & Supply Chain) and the Power Platform. They are an ideal fit if your operational apps need to hook directly into heavy enterprise supply chain, manufacturing, mining, or engineering backend systems.[[1]](https://icatalyst.com.au/)\n- **Office Experts Group (Power Platform Experts):** Operating a dedicated local arm via [Power Platform Consultants Perth](https://www.powerplatformexperts.com.au/) , they focus exclusively on custom low-code application development, Power Automate workflows, and Dataverse/SharePoint data structures. They handle everything from rapid departmental tool creation to enterprise-grade operational dashboards and shop-floor data collection apps.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-perth)\n- **1Dynamics:** A recognized enterprise Microsoft partner servicing national operations (including key WA heavy industry clients like NRW Holdings). They specialize in heavy-duty Dataverse architecture, connected order fulfillment/warehouse flows, and role-based operational tooling. They excel when warehouse and field systems require single-source-of-truth governance across Microsoft cloud ecosystems.[[1]](https://1dynamics.com.au/)[[2]](https://1dynamics.com.au/microsoft-dataverse)\n- **Dynamics Square Australia:** Operating with a regional presence supporting [Dynamics Square Perth](https://www.dynamicssquare.com.au/solutions/power-apps/) , they provide end-to-end implementation, audit, and custom integration services specifically tailored around Microsoft Power Apps and underlying data architectures for operational continuity.[[1]](https://www.dynamicssquare.com.au/solutions/power-apps/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "iCatalyst Perth",
+                  "description": null,
+                  "url": "https://icatalyst.com.au/",
+                  "domain": "icatalyst.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power Platform Consultants Perth",
+                  "description": null,
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "domain": "www.powerplatformexperts.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Dynamics Square Perth",
+                  "description": null,
+                  "url": "https://www.dynamicssquare.com.au/solutions/power-apps/",
+                  "domain": "www.dynamicssquare.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "iCatalyst",
+                  "domain": "icatalyst.com.au",
+                  "url": "https://icatalyst.com.au/",
+                  "title": "Dynamics 365 Partner - Perth, Sydney, Melbourne, Brisbane",
+                  "text": "Dynamics 365 Business Central, Finance and Supply Chain, Customer Engagement (CRM), and Power Platform; implementation, integratio..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "title": "Power Platform Consultants Perth",
+                  "text": "Microsoft Power Platform consulting, automation solutions, and custom application development. Specialisations: Power Automate (wo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "1Dynamics",
+                  "domain": "1dynamics.com.au",
+                  "url": "https://1dynamics.com.au/",
+                  "title": "Microsoft Dynamics 365, Power Platform & AI Consulting | 1Dynamics",
+                  "text": "1Dynamics provides strategy, consulting, architecture, delivery, managed services, and support for Dynamics 365, Power Platform, d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "1Dynamics",
+                  "domain": "1dynamics.com.au",
+                  "url": "https://1dynamics.com.au/microsoft-dataverse",
+                  "title": "Microsoft Dataverse Consulting Partner",
+                  "text": "Microsoft Dataverse Consulting Partner. Services ImplementationUpgrades & ModernisationCustom. Mining & ResourcesDistribution & Wa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Dynamics Square Australia",
+                  "domain": "www.dynamicssquare.com.au",
+                  "url": "https://www.dynamicssquare.com.au/solutions/power-apps/",
+                  "title": "Microsoft Power Apps Partner | Demo & Pricing",
+                  "text": "We are Australia's leading Microsoft Power Apps support partner. We … from implementation, upgrade, and support to integration and..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please share:",
+              "markdown": "If you'd like to narrow this down, please share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are these apps intended for tablets/phones (field/warehouse) or fixed touch-screens (shop floor) ? Do you require offline functionality when network connectivity drops? What backend ERP or inventory system (e.g., SAP, Business Central, MYOB) do these apps need to sync with?",
+              "markdown": "- Are these apps intended for **tablets/phones (field/warehouse)** or **fixed touch-screens (shop floor)**?\n- Do you require **offline functionality** when network connectivity drops?\n- What **backend ERP or inventory system** (e.g., SAP, Business Central, MYOB) do these apps need to sync with?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you outline an RFP checklist or tailor specific questions to ask these consultants.",
+              "markdown": "I can help you outline an **RFP checklist** or tailor specific questions to ask these consultants.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Dynamics Square Australia",
+              "domain": "www.dynamicssquare.com.au",
+              "url": "https://www.dynamicssquare.com.au/solutions/power-apps/",
+              "title": "Microsoft Power Apps Partner | Demo & Pricing",
+              "text": "We are Australia's leading Microsoft Power Apps support partner. We … from implementation, upgrade, and support to integration and audit services."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+              "title": "Power Platform Consultants Perth",
+              "text": "Microsoft Power Platform consulting, automation solutions, and custom application development. Specialisations: Power Automate (workflows), Power Apps"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "1Dynamics",
+              "domain": "1dynamics.com.au",
+              "url": "https://1dynamics.com.au/",
+              "title": "Microsoft Dynamics 365, Power Platform & AI Consulting | 1Dynamics",
+              "text": "1Dynamics provides strategy, consulting, architecture, delivery, managed services, and support for Dynamics 365, Power Platform, data, and AI ecosystems."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

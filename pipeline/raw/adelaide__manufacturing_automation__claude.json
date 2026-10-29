@@ -1,0 +1,254 @@
+{
+  "slug": "adelaide",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Adelaide looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:13.844Z",
+  "cost": 0.063838,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10106,
+      "output_tokens": 1528,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063238,
+      "datetime": "2026-10-29 04:08:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — there are several strong Power Platform and automation consultants in and around Adelaide who specialise in exactly what you need: automating order processing, shop-floor data capture, and operations **without replacing your existing ERP**. Here's a curated shortlist:\n\n---\n\n## 🏭 Power Platform & Automation Consultants for Adelaide Manufacturers\n\n---\n\n### 1. 🔵 Power Platform Experts (Office Experts Group)\n**Website:** powerplatformexperts.com.au | **Phone:** 1300 102 810\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A nationwide team operating since 2000, with 25+ years helping businesses streamline operations using Power BI, Power Apps, Power Pages, and Power Automate.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are renowned for business process optimisation, low-code solutions, customised training workshops, and comprehensive implementation services.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why relevant:** Strong track record across all Power Platform tools; ideal for layering automation on top of your existing ERP.\n\n---\n\n### 2. 🔵 Pact IT Solutions\n**Website:** pactict.com.au | **Location:** Adelaide, SA\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their consultants and software developers help businesses harness the full potential of Microsoft Power Platform, delivering tailored solutions that drive efficiency and innovation — located in Adelaide and servicing South Australia.",
+              "annotations": [
+                {
+                  "title": "Pact IT Solutions Adelaide: Power Platform",
+                  "url": "https://www.pactict.com.au/solutions/process-automation/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Pact IT has a suite of \"plug & play\" Microsoft Power Platform apps to automate repetitive business tasks — some run standalone, others integrate with larger systems, and all can be customised to your needs.",
+              "annotations": [
+                {
+                  "title": "Pact IT Solutions Adelaide: Plug & Play Apps",
+                  "url": "https://www.pactict.com.au/solutions/process-automation/power-apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why relevant:** Their plug-and-play app approach is great for quick wins on the shop floor without a lengthy ERP replacement project.\n\n---\n\n### 3. 🔵 SimpleIT4U\n**Website:** simpleit4u.com.au | **Phone:** 0426 972 982 | **Email:** info@simpleit4u.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have a proven manufacturing case study — for Stone Manufacturing in Adelaide, they built a model-driven Power Platform app plus a Canvas app that gave the team real-time visibility over quotes, active orders and installations, replacing a manual spreadsheet-based process. Power BI dashboards added performance reporting, and an AI agent now automatically updates their pricing list.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultant Adelaide: The Honest, Proven Guide to Choosing One",
+                  "url": "https://simpleit4u.com.au/microsoft-power-platform-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Working with an Adelaide-based Microsoft Certified Power Platform Functional Consultant Associate means direct access to the person doing the work, without an account-management layer.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultant Adelaide: The Honest, Proven Guide to Choosing One",
+                  "url": "https://simpleit4u.com.au/microsoft-power-platform-consultant-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why relevant:** This is the most directly manufacturing-relevant case study of the group — highly applicable to your order processing and shop-floor visibility needs.\n\n---\n\n### 4. 🔵 OfficePro Consulting\n**Website:** officeproconsulting.com.au | **Coverage:** Australia-wide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting is an Australian business automation consultancy that designs, builds, and supports workflows across platforms — whether it's simple approval flows or complex multi-system orchestration, they deliver solutions that work reliably at scale.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Automate connects to over 1,000+ applications including SharePoint, Teams, Outlook, Salesforce, Xero, and hundreds of others",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — including most common ERP connectors.\n\n**Why relevant:** Particularly strong for multi-system orchestration, which is exactly what's needed when bridging shop-floor data capture with an existing ERP.\n\n---\n\n### 5. 🔵 Intuition SofTech\n**Website:** intuitionsoftech.com.au | **Coverage:** Adelaide & Australia-wide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They take pride in being leading Power Platform experts in Australia, partnering with Australian businesses to innovate and revolutionise operations using the dynamic and versatile Microsoft Power Platform.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in Power Apps, Power Automate, and Power BI for automation, apps, and analytics.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why relevant:** Good option if you also need broader software development capability alongside Power Platform work.\n\n---\n\n### 6. 🔵 The Waffle (Adelaide, SA)\n**Website:** thewaffle.co | **Coverage:** Adelaide & SA\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer comprehensive Power Platform solutions tailored to businesses in Adelaide and across SA, including integration with existing systems, ongoing maintenance, and updates.",
+              "annotations": [
+                {
+                  "title": "Power Platform Development in Adelaide, SA",
+                  "url": "https://www.thewaffle.co/en-au/power-platform-development/adelaide-sa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why relevant:** Local SA presence with a focus on integration with existing systems — important when keeping your ERP in place.\n\n---\n\n## 💡 Key Questions to Ask Any Consultant\n\nWhen you meet with these firms, make sure to ask:\n\n1. **Do you have experience with ERP connectors?** (e.g., SAP, MYOB Acumatica, Microsoft Dynamics, Pronto, SYSPRO)\n2. **Can you show manufacturing or shop-floor case studies?**\n3. **How do you handle shop-floor data capture?** (e.g., barcode scanning, mobile Power Apps, IoT sensors)\n4. **How do you integrate Power Automate flows with our existing ERP without disrupting it?**\n5. **What does ongoing support look like post-implementation?**\n\n---\n\n**Top recommendation to start with:** Given their direct Adelaide manufacturing case study, **SimpleIT4U** is worth a call first, followed by **Pact IT Solutions** for their plug-and-play approach and local SA presence. Would you like help preparing a brief or RFQ to send to these consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Adelaide",
+        "ERP integration automation consultants Adelaide manufacturing"
+      ]
+    }
+  ]
+}

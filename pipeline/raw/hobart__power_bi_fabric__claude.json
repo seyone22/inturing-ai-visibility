@@ -1,0 +1,218 @@
+{
+  "slug": "hobart",
+  "pk": "power_bi_fabric",
+  "plat": "claude",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Hobart for operational reporting and data warehousing?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_bi_fabric__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:12:06.320Z",
+  "cost": 0.055132,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9169,
+      "output_tokens": 1135,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.054532,
+      "datetime": "2026-10-29 04:12:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a summary of the top consultants and firms offering **Microsoft Power BI** and **Microsoft Fabric** analytics services for operational reporting and data warehousing in and around **Hobart, Tasmania**:\n\n---\n\n### 1. 🏆 **Alphavima**\n**Website:** alphavima.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima delivers certified data warehouse consulting for mid-size and enterprise businesses in Hobart, Tasmania.",
+              "annotations": [
+                {
+                  "title": "data warehouse consulting-in-Hobart, Tasmania",
+                  "url": "https://alphavima.com/data-engineering/data-warehouse-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft-certified engineers build end-to-end data solutions using Microsoft Fabric, Azure Synapse Analytics, Azure Data Factory, and OneLake — covering every stage from raw data ingestion to business-ready analytics reports.",
+              "annotations": [
+                {
+                  "title": "data warehouse consulting-in-Hobart, Tasmania",
+                  "url": "https://alphavima.com/data-engineering/data-warehouse-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They implement Microsoft Fabric as a unified analytics platform for Hobart businesses — setting up OneLake as a central data repository, configuring Fabric workspaces, and connecting operational data sources through Fabric Data Factory pipelines, with implementations delivering a single, governed platform covering data ingestion, transformation, warehousing, and Power BI reporting.",
+              "annotations": [
+                {
+                  "title": "data warehouse consulting-in-Hobart, Tasmania",
+                  "url": "https://alphavima.com/data-engineering/data-warehouse-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Alphavima is a Microsoft Solutions Partner with 20+ years of experience in ERP, CRM, and cloud data engineering.",
+              "annotations": [
+                {
+                  "title": "data modernization services-in-Hobart, Tasmania",
+                  "url": "https://alphavima.com/data-engineering/data-modernization-services-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏢 **Datawise Consulting**\n**Address:** 30 Salamanca Square, Hobart, Tasmania 7000\n**Phone:** 03 6224 1231\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in Hobart, Tasmania, Datawise Consulting is a software development, IT & network support, managed network services, and IT consulting company which aims to provide high-quality, cost-effective services to local businesses.",
+              "annotations": [
+                {
+                  "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+                  "url": "https://datawise.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Datawise can develop both on-premise and cloud-based reporting systems using SQL Reporting Services and Microsoft Power BI.",
+              "annotations": [
+                {
+                  "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+                  "url": "https://datawise.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🌐 **Ascenwork Technologies**\n**Website:** ascenwork.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ascenwork Technologies offers Power BI development services in Tasmania, Hobart, and Kingston, specialising in empowering businesses with cutting-edge data analytics and visualisation, blending expertise with innovation to unlock the full potential of Power BI.",
+              "annotations": [
+                {
+                  "title": "Power BI development company in Tasmania, Hobart, Kingston & Australia",
+                  "url": "https://www.ascenwork.com/power-bi-location-pages/power-bi-development-company-in-tasmania-hobart-kingston-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🇦🇺 **Agile Insights** *(Australia-wide, remote delivery)*\n**Website:** agile-insights.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agile Insights is a Microsoft Advanced Specialisation partner providing data and AI consulting, project delivery, training, and managed services to mid-to-large organisations and the public sector across Australia.",
+              "annotations": [
+                {
+                  "title": "Agile Insights",
+                  "url": "https://www.agile-insights.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Every consultant holds current Microsoft certifications, including PL-300 Power BI Data Analyst and DP-600 Fabric Analytics Engineer.",
+              "annotations": [
+                {
+                  "title": "Power BI consulting - Agile Insights",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🌏 **AGER BI** *(Australia-wide, remote delivery)*\n**Website:** agerbi.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AGER BI is a founder-led Microsoft data and analytics consultancy that specialises in Microsoft Fabric, Power BI, Azure, business intelligence, data engineering and data analytics, helping small and mid-market Australian organisations deliver defined data and analytics engagements from architecture and data engineering through to semantic modelling, reporting and production deployment.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia - Data Analytics Experts",
+                  "url": "https://agerbi.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Consultant:\n- **Local presence:** Datawise Consulting is the most locally embedded firm in Hobart.\n- **Enterprise/certified expertise:** Alphavima and Agile Insights offer deep Microsoft-certified capabilities.\n- **Microsoft Fabric specialists:** Alphavima, Agile Insights, and AGER BI are all strong choices for modern Fabric-based data warehousing.\n- **SMBs:** Ascenwork Technologies and Datawise may be better suited for smaller businesses.\n\nIt's recommended to reach out to a few of these firms to discuss your specific operational reporting and data warehousing needs before making a decision.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power BI Fabric analytics consultants Hobart Tasmania",
+        "data warehousing operational reporting consultants Hobart Tasmania"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "slug": "canberra",
+  "pk": "power_apps",
+  "plat": "claude",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Canberra for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_apps__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:48.786Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgVsX6jPa4RhzhR2KBZEQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01DnvM9gFBMSC4q1zsVYWsbj",
+        "name": "web_search",
+        "input": {
+          "query": "Microsoft Power Apps Dataverse consultants Canberra custom business apps"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01WqWMZARQT4mesdbYKgf7RH",
+        "name": "web_search",
+        "input": {
+          "query": "Power Apps warehouse shop-floor field operations app consultants Canberra Australia"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01DnvM9gFBMSC4q1zsVYWsbj",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps Development Services in Australia",
+            "url": "https://www.designpluz.com.au/power-apps-development/",
+            "encrypted_content": "EtgICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNtjkxMitcIDnwwqARoM8drHJfwKUDhD8N2aIjDMCdnFcnuJviAfvptj1RJBnkDCTBbh7DAGV+Wl0d/OCCPGCWDSsJOj6M7G4AUyqGEq2wfmBDt37AHF3RjfDVA/KnaKxxDKcoPaZGep3ztJ/1/OcI7hr8f63qmRA4FxTTLblnFT14BwfT/Lb6a4RB0QzJ9BNU/I00Mi6UnEToWYaRaa9yiND40VItbJXf2JMWgTwsM0lIHDKn0H/SnrEIy/9vg45YaU82ZZBjrI10yMLI0/+Lj7km31+jBH6eLbFAsy7b/pQPKpvrlZUpsAoqjjcWNJw1tK/pNIhBN1Ir4PgzNHER+ocZt3suyIVRiIPfYiqB36k8f6dFLnl2wGzyRkfwy4zy55z0O5gYVd5cigAAOKvNptdk/jMyBGaGm1Aj/I9QOgdwBRwLgCsiy4iwv6fQiBscQ+/3W5MWWoHqeVeUAqt4QkFagCM8fMmsoAUbiy2NjJZVWIJATNKlycYUo5DzdywPSn0+q4jO45L1zrq7MxO/sNhZEBSpwzSHCPJIlsItTkxp6Tqk8iMsAADqoJopWLZ44/UH6ycxhUx+8Rt3wPjE71BjrnkqUyyk9pt0ItzcUSxHZ/Kt/DSMe7ofUR9F2+7k/8qpwPaUh1JqmZh64nZ/at0VCUAp9csGva5oGYiBeX0yjKJkcg+KqhRlEQstoG/mplS04j5ZDI/07wHFdx2BiAgp/pIdjv0F8gI1uJw66sruRwjTjInMrX7zdtsj83iSfyIs+6Io4YruPOYfzRh3Jkbn21jdxktjYQ4fP+Q7l0Vf/0c9KGgDDxBGVzqulaLKwNrgxJhMpNnZKaAfQ/NgIzzClS5kYNDYTmKTNeY+O83pa78Q5m9rljWNYVK9iw0m20y52Am75yX9alnl5LGHTmriuFGEjaHzjYSngAsRiCAJZf8ecGKPZATCCAzm3+vBmFHeGnBvnwAu9oK0LXQJUPs1fcbmodOgC56e3Yl+ELilElQo6C82/wOpnQXBbF5Yt5yKeUZEb2UiVa8WYDQvvEulvADj1fCMMm573p2vzRGw2Sgy9mZBgKF6a27GjFoSOIGvXDUNVBYHL/OCZtbC8pgaxYoKeXRalEO52yaalFTYbyrdnam8PkoqN/Lrm4Rd81QQd81suIzTMP93pJUSbaS3Eij9CfDRILi9p5hGqayv1kzhTog2uCiGvArOKzmqdEovS09BgNxZEx2bTL9Yn1U28qiTUF1piTAsR2kAVvSxsJzfi4Jv0j6b8XWl9EBCaCkcNqz0rIWZYUz9OkYC4qLxqaLcZKVSFiTZs86Z1qGxRIPRm0GfJrSEy3he32fLAwuQMnxA42vYWqLGhaJ5ncPl6JVdkCXw2jSR+mjirj6b9xWV3aemBjSAMft3+qJ7liO3lZqjpMcvEYAw==",
+            "page_age": "56 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Consulting for Custom Business Apps",
+            "url": "https://star-knowledge.com/power-apps-consulting-services/",
+            "encrypted_content": "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",
+            "page_age": "13 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consulting Services",
+            "url": "https://www.rishabhsoft.com/microsoft-power-platform",
+            "encrypted_content": "EvAICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLZ/woMdprSbWPEEyhoMQefUfRR9hfHk+YGNIjA0reu4jJlJpPhzgiYjBIXAbBjEKAsaK2+T6Fx0HKrAX5n8TQrmv3y56a1hUIB4sioq8wfsPDNZCSsbHQR6B3anFAnwPoOjq2AN/TihykX6xu9zBAwrWtYjK4aUCPOi9zfwaSHo3RPQqgTCOSHN6ZGSgN+QoGfr07HwERkKYTS1aqfWvbEZSbNKFpOC25D07L4w6uMgu6O8ja9vcLo5naM79s8qdsaHa5A8OaMOoRt/31DUwj7Nf5nwjFL5t4g+BZGq3ZhHOBLPcG5JK4xeMM5dRozt/q9k1sLZMyDNGIZG09Gu7BI20CPe8UVBafGfnpg/JeVg152NPEv15lsGsSRwaDFLhcbkLEOPks3LqrGGoJY18vhXpVAkz32Pen0qzMhQlne3QIyyeUv3JGJidbflx6Jcvp2SRw1CFJBSBxx3SO4KvR6D/jp6Se+Xzw6r4QH6O+KHkQLcHhG1te2NaUaQCat6ln5VCoLFMV4pyy8FCHgOH495yogtxvvuUu8mbn/kD8iKJDyHHUTmvFCCwmlpRB1G8mx2Kr1LT8ibWlHhi85Qe4qPIqsmO2fZlHX2fQVjxO6jCzsKyErj0QW+ZKV7BbZs5IjZ769I6cIiTO+dSF9nhoIvMAX/GPEf6xYIYqTmGBBFD4qhKwy5kZOJ5JO1gW1nC8Q+0a0ZyxtfhTzkCsFZEK5W6gCPe04aU/n5/hYc0qtwVTuSjxponOIxCgqZOw9Fj0dj4YHWbPz0zJPFBe8/CjxUoUx8ocOfKdWh200q7hOYz3O1y0KnSq5k4telaFLYjeV+2E2V1Fv25EYnED54xP9+TGC/Ig5U+LeKX0WkOu4sf9EfFi6yB0RkS/uR27ds0Wmjw3j2GFJSLie0pnGWxVFLiP0N/8IEO+V0rZrDqSoyJLBHAR+65jOfM8CM0jFtQ8dSU/7dhMAZcwTwUNsRLBORsm65ndB8fgxTfH48Rt0o3sT2JOofdDg5J6R6w+j+6NFKVJkb5IzaZ0e2RrUNG5pnIS6dNWkukASIk9uNxqnWgTJ8+lj4p1Fds+YJ1ftq9xr7rIjolIlBoxzGqRSS85m2yOW6VQXUGWmuA7lOkb/ixDuAcjh2LG15Xli/jcKHljk+x6btm+m1G/6o0TuFwsT20Q4InAtRM5A/EFbVvHbJRP5m8nIWsQ51sbhWV+31W0fNlHMuyIJ3eeRwYAPVmHq6i5vsX0iHew8CbgGjdvIVKT/bgApM/32t0+O80Roj3MZ2Yd0gBiw1jgK3b+CR48OxE0QXqie9LNFlkorepeA5JgOgjLS0bZjcc3RGoRqKxrCsjdSiwNmIqgg6MSpg3iUUCuXfkRu/jZXqMAGgUpFwRGqGTRRsDRtw4ANBORPVHAtDJYKwtRt3M9qgVX4iWwdrfQlE1cF+eu7KTL0EOv1VNNMYAw==",
+            "page_age": "34 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Best Microsoft Power Platform Development Company in Australia",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-australia/",
+            "encrypted_content": "Eq8ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHcsEq6S7NlHgxJXbBoM8XJsoqOdkv27mjz5IjDmLGuJvKwQCPwRrQQU14SpZJ1WhSsRxBEofidIoc1fl228/U7Iv3EU+uAoJVUFM54qsgeHE6u6YbyWZemGf+AGWSiRw5mn/MaGox9YASR0XP2UwUxvPHHLhZKI2mXtuOq5aDsrDwgEr7GCJsy8/rX/HILaZjvnWKVkSodBip8Ont3+d5MGwgE7Bv0PVsjfcOXOC/GqLf22GwAsY8zS7MbqWpclLIXcVSn8UsuSB6lpq6nHxFTws7WIo/2pSfTolP0RL/5B4KTL7S5kW0cSk8K/oqyle2pvUuTIhHKdIAP8cTeIFgwO6aYAwlUGMtlyRVMAeFrZ38v6PLMBKsHji3rp9w5GjPEepG5DFV9bfVQr1IPr5+lo0a7xMrMUqQJoZ2faM8IPX0g9QlMdZ1nJZo1M6pvvnPzmYcHDHImTu4hahqQkDoti/fRIyEfGytFNZQFqEDuR26Yxbno19xrkGShNN/VPuYKWIHBnOqLsp3Ytcsm7/kckjvXSgtsQ5k2hht8gSVY9ScxX9QOHaqRIYK0iLW9c4q9wEGO3FO14qd4jyKeuBDlcbUnAcOsbHPutI1OXH5Ou+OY0Wsow9T2/i/5ZAkSw/WxThqBFSAqMRmjDSKA77kYro0xht0SAoE7Cpr/FczXA22AA7AnLMRpe1EIo2RX8vFHov/5OoKJGi480D0a3ImwfOzEtLcbkgGI+mHidG6NwMzozuX1JAEw6/Dd4GR1NkFcE7k9ja6Ug3ZiX+jQxV+nkeEfvpm92UwwOqXGo+gD1GnFtTcCGrjUbdeRZCmMp4V7LFrL83oWT812YqSWE1tLkg1auysiJTwwXUjPMjAp9BNt4qXvcb6/2vnZF54GxWQNqa7XnzX4hfTMt+El2XU3I85Avg1CN+4JsZs1NecPiL19kL481iAuldYKfOg3BQYzoCxAYQuwcvWfwFrxQn88SWXJfuTxJd3zORaApp8DE4jnvTlYLIqYKC3e6gnzX6VD4qtWJqTT2itiIXHsihM9IOJaVpYmSxfdoi9crrom9S3qPcm4n7weL52ee9O4PtZAwgiesYmGSdSrCheli0CEjTuXm1fevb2AwYrIv7uZ/9UybyA0Fj19Rwta+wirUZd1tknuqv6oRyq2E12glVY8msMzLDS7uz0AlcvWgtzCgjemLFo74dbuvkZMVaMcCe/7VQAV45Me5IIsPpumtWVdAXQzmUT+sBXYaVpbOvK07o8DGl5PrSevC4ccn14UDC6FnlL5swttfaTzOZqb7Nd5kpqqukhkchCMudgrz/WEhSXlb4CEajPz0XQFDKi1d168lSFS8skXZx+gy2lGEz5lGGAM=",
+            "page_age": "443 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Best Microsoft Power Platform Development Company in Canberra",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+            "encrypted_content": "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",
+            "page_age": "443 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Consulting Australia",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Consulting & Development Services",
+            "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+            "encrypted_content": "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",
+            "page_age": "732 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft PowerApps Consulting & Development Services",
+            "url": "https://levelshift.com/services/data-modernization/power-platform/power-apps",
+            "encrypted_content": "EsEHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH0fsC16JGANnW1LbxoMCiGhWbeiPqvN0L91IjDroR24DBm7NKb9SX7ybpQBjm02KdF1eDusSHcDW73U3HjlPPOJCbki2uqTsFqA62kqxAbG/u146cFth4Ejk3ouz88Eu6bohMqqruAw5cc/GGkzbI/M/COA00Fc7zdKRE+X1rV+lNrD8aC3nqr9EJHY/a4gswQyHgBS1njBOnVW81W9rrZ4QgafXLRJD7aKr5P/Hvw8iVwiL5fpmkviXSxDhfrv9LStnqabT/RkS0sB6/pf93pLIGzwfaaM4tYUkDt4IfZ6qsz68DF+nHsvG8qbn6VG0+w7JoJYZl5wt4eIuDVrUB1vMg4ljXboesO9pAo1GKH7VTr/ZIdws2slxTL0iQCyItxOSv/Go6j65fzC5KZb8uGZu6cVKmthvNRkuR4hzUSfHnPrmtn/elWg3U5JJqt5++b9+cYTHeIXG9QZT+ONT6KG5SeaAv6st5HkzsPk08eEunaJnJttfZl3WlRERunYD2tOLOEPnVTW17oXr3px23q8qEUxZ6/as13cTAG7C449OthyZPEAah1wM+loQuSvr9Q8VPFFZ44+98yuy0mztHurvwRlqgdWUzZwPxt9tKMesP71mCDLOqDAHDxFK4tFDtOWIJI1t8GQlvnCp30EikN+K+Jr+4K9T45G0BWLKFrSrvV/PvPNpu+CqmpNKCerNLZ1IV037o/pxpIexkkaH5mDwqml1EMU29R1tO725ym914uw+YiV7Ohvek7MJQoVHaVjkFCTPCx0StnfoXee/1y5xTWB54rYidstL4D1UwaiWtd2NdFQYHk6AF4RglgTS16uayVuYeqL0SkIXHplx+FIcHESwypx/SW7PSEgljOHgwfCCQtmgzj4H/47fIwP8ODSzq4j97qyt143ANojtacZ9IVTggikmRrwgDcZvqk0rgog0jnElZsA/aq+GOIExnreUlLexH5ehazAc0Rzp2HcNepQSiJnJuj3MMKQ83lsGFvfOU4vSuQFoe33z0HYahrpMnliDrKyR5zPCebDCLWJzNEekKrKr7aV5nPQg5ZFaNPYA6efZ5hvNz5haIpAkdSZOx9ofj5SeSDDqdssbXyEC7s4na2j+5UtSKdYZ95q34bjg3SNf8yEMJhqyKr1Lulv/7VvIRjwooUMA/LeOaaORYQt93Rq3JTgRcIZdhNfm20IJowsD670OHJcKXvs4LHr0BgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants Canberra",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+            "encrypted_content": "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",
+            "page_age": "582 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01WqWMZARQT4mesdbYKgf7RH",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps Development Services in Australia",
+            "url": "https://www.designpluz.com.au/power-apps-development/",
+            "encrypted_content": "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",
+            "page_age": "56 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants Canberra",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+            "encrypted_content": "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",
+            "page_age": "582 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Developers & Consultants Australia",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Apps Consulting & Development Services",
+            "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+            "encrypted_content": "ErsLCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHjndDld3UdAqc5cmhoM3ZivofcCrXMsP+WnIjBDSv+JFBT2mQ8LA/SICwoOFqvQnK03bdk7CTVwZSAPYTk6dg8ECwaC4MfyQcBOfrkqvgqZqhVNwLgA7RQY643zV19cs2DVXJKIPHIRkrDQa8d9ek8qJ8hhJ1nIgIg9VNf3p8rHZQp7HrdKxaY3c/HF75chqR2RrkOb0kKMQv3gTINTZlkYJswi2NMbqBJ8lBBTx4BI72h7Y3JmEHxVXO0mAE8Ugw94ZvYB+CKwg24+FPzKnFPx0pCcepLGyaZaz9GcBZTTg1oNcOz5y50q38/iMzhHMOyA2lMR2xkADIik3QiovzshgMYwv3hAIJ44oOEw8j/IPeYpyQ4uNU6MnkXmy8Fm0NWJJIvqYCVwMAvFOrhUK1F7oTQdTjWFRmBV57o0184lyyiC5ki0HwzBOlEYpRVK+16Vh6Z7ae8V73xWCsBREAEFRqu85RSQ3PzZ9dq71SuHOXkMZqOTGLq94rKSWj44PsUalk3p2V02MZ6tm0AhYjZuzmW8X1fIc7kCW45hx99fwbtwdL15VrjRP8v6pyxOnZDQPsYZQ2b8E4J/S/AfzcP9TT6EwoD+GOgi6FArI2FwrhlizSGsC5i6JbqKH8jKlxl9wEwG0fXoda5HJ0nsSdsFQLW5OAsvQUT+KSW1tSU/rpepIWqZ68YKB9sGsF/x/UuegzBDt2Im3NypxvJ20aGdyxeCgvscXwbcKTxp03OxBvj0hrdlhTGjtN1arGwgJ6t714vrkPKwaE9MxADCpQKjeq1lJoh4sc2rRhD32miFLgE2vimItZkQ913kl95iY+JTicNFl2IUDEpASkaULqpMkvwCZ/N9CTkuwYpYaqKlpqlsnMd6dmNBsn5KeBytG1Gb+N9tQ1QELVKtTh/Ji24/yqbybV0PgBkmE9aTVMsZ3fz6cFzXmKS2OI0NyW9vFwKjuqXMpIwc51TYRlnu+iQE/4cAvG2RWfTEfzjxETswtGmqTe5fNeLwHm4xMqE6FcGh4/Fq3/6oqKn7AovMZebvo6Eib9GKs5W7Q+BBCb4E0hwVtGdlk6pWR66y+O8akDPxd2s4unbVFSCqaCGEfKJN8IvSDuibeNT3p+yYaM/3Otf/v6TxEqbPByLnpVXnt8EpPbh6kGPPFzSsB+njgPYEznqsehodl5O/XVlbZXvGaNm39iLYkL5mwiLffSpwWjMQ2gsD1PILpNHr+gUsN5XZn6lY7lsUAgFjuMCCDFLN+VOy9XffEGh+3PiTJkxPc73loIiI8Mm2wIPT1ERBb66IPch5kElDBq73j8d1fiPpCRn0aTNhA8/CXfKv8qG9nMBxB1I3tT9FfghmnjkNLhCq79AszUQg6omfBl+KvtqzSn9ru0FQi4W2wJKt1e4qMrzWj3Go1kZuXSGaPW9/jSJb0Yh3E99qYTmVbghiPACLj/sJmdI8ItLCMT6+u5YEQQo84n11V27NFQFGUEeAM5DUrciKlWv5ic3yqkzV5xQvtQiFSdliaPdf2U+sd0Wo+OkLqxJfsmU5n5oBJrSjppzj2MLYiwZidsCkwWWg6JEJq7z/8dzVJbDENsQc/BDU82FYKgDKwtn2x3sUmtWb+yXsikfB293qpa7d0EniKfEfCXJ1w/LJ25eA/vQkoKxzcHTguNnNm76KcDAnPt04sOuJL7YmbDwhA28uD2upSuyH3Hmj29nq2+9iM0fa21HPoGxWryeQSW2HlRzO14pmr9lYG4Jra9zmimBwf4w26EwXW9sgXkULSpQ8dIlKtkcE7nhl9f+hDFjP2yG81NcF/PQOy59yTJ4yALROxMiwdJrjQV+6FXfROVV5erMD+UxbylUBoFrr6f1V0nted4iRM4/BuYC2Uus+RYOMs+cIGAM=",
+            "page_age": "732 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "PowerApps - Prometix",
+            "url": "https://prometix.com.au/your-next-powerapps/",
+            "encrypted_content": "Et8ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBB3ZvkhOzJd9RSElxoMDkx97RVekOypJNh6IjAUxCR4z6pnqbeHSDrcDgSNy55XtVsiGaECCOio6Glkw6Rm1i7KDhzYoCn2OuosGU0q4gft3KuVkyOCEtbFnfRqJRGCUKE/5BtTlPhIEEK82wDbJcjbxlw18+Kmrb61KuaxYgJvlkeuvOfuZhEIALHApceLPsJPmCH7sHDrt4vpR58PIsdNfTTS0zXsk+xHjkjT6vuVwufwA3sfkyoFSkmbgtZgXc8KrzQpCifjqGQYa4t5fwVqc9aV8AVvcw7/lkzixK0WvZ0K8IqGnpDuzImS35Qzq4RPfpJjNO1ARPdHJQRfZZm039lqr/55+nppOZEyeSN51A+iouhrXuUrI/K/j/mu5VLRJAtdzgr40cbCI0SSFbSAYFt91lPJYZ8Jn72OIlhGJ5bGwxlIgW2BsM0K0bsEwe4ZVR/bGxrUO/f1+UTsL+Yizw1cH1YWhkZ5q3j7SMVlnDmEapeI2Qc8LAzNJdIqMjNVI1RL2fGevVjPgdkMIsZsgtds7CNKkxnFj3ZV0EhrMXOI+f//xEC189SmHqFiBlahQMd+e9I0LnRDKaVM/gk3asfQyTSlNzmnsNLkVKK0Kzkl1XQBdfqPwD3JSR7Sk6Xj7vXqV+2DOABNG0RF/FmfkmtAxwQvpxVm6d5zqMmdszkqpPzWTDGpvlcqLWo62tPQmDH/4qwx+DW7ycwXVG2IHMOLx0cQc6LYYTSB80r1epBVq6LiSDM82KUNn+EOczyElpeBU9Vwd8O9XwFe5nl6tQO3tTz26C9+bn8RCDHUkUSYB6/THSmxCyL6Bg5MhhHb6p4+jNgXY/l3kT+3Rqi9Qr16QYaT1CUawp8iBYtpV1ObhlzEyqB+G5XS4672VpTjX2G5W5rzAn/qz1iBrJ75PhTIAUikXk+V+EK06KWheT4aj2FOclEaFpQ0np6lAsV9p1QrG+Q8oCKV8Tl5inWnj+khXbRhaAQy2t6VCmy+l8js7Su2aALWpS/eu6odZn03b8prYLfTAcaUmwSKjGdE7qn7HeY3HexpFJt2wo1SfUy+J757DZeAy0NRe5ywmW6gnblaeQ60IvfZ05Go1m4ZeQh3Ml74GoUU8E+RmCJUFcKLOGvPnp7LNR3EORDt/koq/tST0fE7B2M/LCDk0zJo1LKf9DaOzpk7WTkmkvlENA/2RRk/M7jVzf7FhMeKPWhuvY7kHsqkQ4sX4JHAPe+8zgIUiBCM9byOxOwA4tG7hx+r2hxf5hkSDcN9uCyo8rRjWVec16PlhZ6ioN9Sglc3ql2AXWBsNsSD1GP6r+r7/nIrTFKubp85qB9LYTiI1P5w1emnSFVW2z6reDMTtHF+3P+Fvu1hJMN0P3o9PL3NZM7g0Bca52cWpRF+wj8Nhs/6hqp0+Xx1tOfCdWnstGwUGAM=",
+            "page_age": "198 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps from Professional Advantage Australia",
+            "url": "https://www.pa.com.au/products/microsoft-power-platform/microsoft-power-apps/",
+            "encrypted_content": "Er8HCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEpvbYk/cNGtVfiFxhoMgqgolCN6tJVKsfdVIjBM74H17a6abbfPsF8BwHnQ3NYL1RrM/r1cJ08S4S1vRX31zeAM/JCREbfApFVeYjcqwgYoKPj9kVIRtIjSIwv1IZ4XeQAsGPya8G20pivAwb3wJBOw1kWY5R1O3W7rfYn0DNGIlSHXfrqtLLCCa8UEKno2K2tbeQf6y100zP7fO5jOsGjFZaHecUM3g55i/5Ubh+GcbJ9J3X82NpNWCDkS2+kMry/8EWo9Qhw+3hepvzmgq6Q1FzzFfnwqLBOuOHex3B95+ki1qCSFQTqwwarzZu34FB0+hYcLRABrMPpxbmtPt0qzAsvMnoffMJkwCjcQZnosc6s5bZs7ORa2GisTWURPi+ikeYzHWqJLDmq4fTpgcs6Yzm2MYG5CX2rJiLSRTYhic1Fnq9b92/A09303s7jMsUN8mo3u54+pWsfucyi8ZWJj77qPgWeFqJ2GiKgH3KzXqTln8dsk4P71GpnNYYRiuNV6c60PNhp3AH5+QSCOowuo4Be1OFfhWusKOK+UZE5ncKLnCnAyVXTdrbOForg/jsarmpytp5ijohqsXEKPcZFCc1vi+b5HyHAAH5w+dyHKi3kreAyM1HIsJuXEvhj9tN0d6pWPXBwye4kf/rwtCH30hlfkuq6vV988gypZf6tdTrdbSQOBiGdeV6S8ObwW7Qn15zO2DfDIkO7oIEHnVTmB0rAbaPKtNHSyCGdpB9UZtA2HDhGkTvEr1q4DhGtKdhkkqwvOYZ51gn4+jTIOTSF15jdPK4LNY87F2AU2917OKu8qPzD/d1N1SU0LN8bQf/wXzyoi/BBMORKMm/hZSoVSf2ssi8jEa749haMaJP57gmCdKik8M0nK2fWJvw/y2HkeqPuon4x04B9buTXFVKqqXxRwiGyYnpL56lLipUX+V2ffsiopXrhJ14p2LcaaCV5Ag//FvR3lOS+ePywtnXQzVBSORWMCnpXW+a1SsXX4d9D01KQJUk8uVmJBFnYBmwkvN3pDOW0mRP9mJO3FyUud+TRsiHzzvM1WtD/3Af1XDKoYXUftlY2NYE2YFRJhw/LunUztuJjKw5/UHKm2c/gubelCOCHbXByVlHWFWthyDKNzi0M3oL3UwtMgnDGuhBYOTDY46xysBayR/5rN9qNMO4QoZmmVLKwruBIa3oochErDfpv8vbGE/uOQ7G9bpicYAw==",
+            "page_age": "483 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Get Expert Microsoft Power Apps Consultants",
+            "url": "https://www.grassrootsit.com.au/app-support/power-apps/",
+            "encrypted_content": "EvcICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOg7UfmJRVUhNGFpRRoM+b8TNoZoSxSjsqKYIjDPcolb/LKs6/D+rZwmfI9j3I0xgcmkhY5X+cohHY03hwJSucIl7GltpMfZzWpDHQsq+gfy5aT/MEM45A2KVrtq+ss0sbRvKsWRvpVlst0edSIWWpL7JHkNAgswwaee1nUhlLrxh7OBJJoz4dQaHd1A4JUvTAof8MmHIN17sJ42ka0lyoLwxSdLGQcYCJLrRt4Qbgfmx9CjjOmjVPF0IlLbKx/Hhcgbx4kNfelUbwL8MwVbiUIwChgyTd3/0R66/r7xQsEZ2gTHHY+mCMuBJteCo/i9Ilsl+5MM/P62Jq1FQo1gvwYMUpjqQn7joaLHKfVuOzlL9PVgPsBhl9m0OtW3ubbUEJh/iynhcmbaY9x/S6YXbNPnAS/sx9twYydimVH4f1bSu7pnAwkJUbmbZFVOGT4Bl40VnadII5FhC+EklmZ+OZxcP/Jl3DpyI5+A1J9XcNnCmXmx+JZ6HsZg+U9+8ZqhQio/AFdw77d6xRWtmKCjHBRAUMzSNNlAaSR3RK9FX/FFSuq/Lk1YpHBiHuBpk7liHaQzvflwMKMxa+Ib7PyMf0A9URkfE87v2XZ0tD0ZFOTODmpPnocw4EDn/RImMFkmOv9NHgNc7C808UwGIFu8v9e77b8bLHC5iFi6P6ITJ5vH9GxhdsPNPvuwm8QaH1L4n2yCscmuw1vG+2+Mapi/5NwyqPF8HwRMFxUkOYJaK2cGf7aSLkGn0jfCxfXsIJlPv8ofY7ZIDzOszIr440OCi+KKtVUh8TUaqpznW98MO0lf8nbbvl4FXK1E7mdiqBw42/bRqKMlQctw+VzbNclK8vXq9lZfvXx4psCd16p+mAYdB7khcl4vW0T0vgbsqJWP/jWNqeBe4qAmfeU6vb+3tplTrKxWZKT/Rx4Hl59NTHJ3bqFtyQfaZzvs/mbsBw7NW99/5JBBVADjnk656NuQHP6DbwLR/hPAal3dZuLdxiQa7JJBBAIaT49YrFypSA6L//L6DldadpyMSW1BWzeM8pQP18RYLLuX6U+oqqVP2Lj0fZ3OyFJsTQwt2IeXX0v924Fi7/2rVJtEhkRmkNYu5V/IQg/ZU63tlKG6qHei+ydtPNwycvUDxLnv52xWd7ep02O5urD9dLC1HELvsLf8Gtx+SC7eDujZbAt9fPzhOfb2o9CQfGBZAFHMgYg+bN6BuZwS5f0JrvJDdChTzFYWdW4B1RVJqB+Zcdr+5WePIGCpb02sdxUA0CH92+epwDvHVsHxz1a9iJWPhlbmwO1wU66aeBCRPEvCP69td6HKpDBE8xDShWQi+BszueO+UQN/F2oH/PVfPAwkxvCALX1EHt4L1NeLJEcrrOvXYunFpaS1eh9IG9CRxRlHHebzT2zmI0v/89o2f8lqMV4wLvmu7HWZ7YSXtj/L/buNOOzBuWRhL0Qt4ES46PK+GAM=",
+            "page_age": "64 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps Development",
+            "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+            "encrypted_content": "EpkHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFyF3cCTreoUYpZ4BxoMkcj4sGoDgxoiGQqtIjAsEfNEhxjzciKm/qmYjU46pIRGRQmIhgmUQOctQCImA5OPO7fdGfbyurNa9zovovYqnAa2C9kngHR0baphQdG8Tmp42AVP9ytCJTX/9YNKt+PeUsh7SCjjgjD7+mB096egA8JcyJnOYmE5Uh0+791OIO4YIXNT4eY0Jyo6hgLdlfJHQSadar7bmn/T06NnM3IqDRiItRoSZ8X86pZuWUIkCXh696tdjlPxrqdGxeSF0WpGrzl0slQdq2s+D9+iqcnqSItDlu8bgD7k60t+iYzNqWf75FR8BdnFvwHHeS0W4AzbYHsPpFRbZuhHTg4DxwimN6TtbhhQz0NlANzy9OQCPo1YsmTleP+74dzY9tVCS7lrf0xF9icbgggNfR6OY7nlXYYKuk7buQVHhe0YHP/GbwLznCjCLljBndN8yixP5i/QJOaf87kobBapKzrAoxXj2rn3LJmdt5Sl56IUVZEPrG1XdIsOYVus47QPYYOONHqkuAYbxfQhJhIRLAIcxyTXReXGTvkAOsTUritrvrLvVN6+vst3dZaTu69SKgocI7yIghbJoqae9D8LXHKLEPmDeU3DTBmbaaFVMrtClKWX/1EEXPASgjKLIWy0IyNAcXLSR17rbs2PNfFuhtR0BosbpkaeMEgIiBDWHSAKrvUnyPAhpjAVFh1gH9d6iiYZwG3zfhkm6C3dTK4vsPigizYgLKGggF1ooKz0dC05EJZHx0r3s9Wtgw2qCUfCn3MV7X7wBuQ/FpiypeXS4s/nOGiujGHBcIzYuJn2bJjOLpDIBbRZl5qRTZIc66vsVH5hf9hAKUOXWyAsDrzuLCrIYU2hHAtzP0y1HxUFzpI8KL5i97cJ7k3VI6+VrtrSsorkD6L3t9bjvnJ4EmGsSYPgT0QuLKxaQy/UZOHKyJjMYwh7hXJjAjBnjI8ze3HEyiouMIP5bnKRyjzstpEUtK3u1pGo0R42V24zYWw244Uqrb0LuVEGyC5FIOlRiveV+w3P/pRWOaJ+hcJq7LGAODY51d78dxQiMXJPXE4H7rNAudxnrspEAAR3V9Y9OJcjKd9Lq9OqjmE4Rj+X5pLMjKkVyuiJ/7mievsK5cu7Qe9rz4Vti6JNT4jf6iopgL3Nk1gVGAM=",
+            "page_age": "173 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Power Platform Consultants",
+            "url": "https://www.workforcery.com/powerplatform",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Microsoft Power Apps Consulting Services| Tech Engine Australia",
+            "url": "https://techengine.au/microsoft-power-apps-consulting-services/",
+            "encrypted_content": "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",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a roundup of the leading Microsoft Power Apps and Dataverse consultants serving Canberra businesses — including those focused on operational apps for warehouse, shop-floor, and field teams:\n\n---\n\n## 🏆 Leading Microsoft Power Apps & Dataverse Consultants in/Serving Canberra\n\n---\n\n### 1. 🥇 Power Platform Experts (powerplatformexperts.com.au)\n**📍 Canberra, ACT | Operating since 2000**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our Microsoft Power Platform consultants at Power Platform Experts Canberra specialise in business automation solutions and custom application develop...",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+            "title": "Power Platform Consultants Canberra",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKA8jRoMk4OhQyRObxoMbu6d7ErlFLUoZSPgIjBYjNIkd/SeQtkQQFkcfYIwtom7V+CjX20tU6v8vY4SfljFpvHIi9p87U+iGtmj5KgqFZpXCLrYZB04gQMgTfrjxCbGpEHiNxgE"
+          }
+        ],
+        "type": "text",
+        "text": "Power Platform Experts' Microsoft Power Platform consultants in Canberra specialise in business automation solutions and custom application development, with 25+ years helping businesses streamline operations with Power BI, Apps, Pages, and Automate solutions."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visua...",
+            "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+            "title": "Power Platform Consultants Canberra",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDd13dH4ETpYqfKp1BoMtGLXtqRn728kDUl2IjArYTpY21h2HjPYeEENV9Cde9xo9jWzJSK5usfXPPaaCJ739vjTHaG2h/12PnPMFWAqE1Mkizyk2lz0kG0uj0dyVqDVntEYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their local team of Microsoft-certified Power Platform specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Your Microsoft Technology Development and Consulting Experts - **Operating since 2000**\n\nLocation\n\nAustralia Wide Sydney, NSW Melbourne, Vic Brisbane,...",
+            "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-apps",
+            "title": "Power Apps Consulting & Development Services",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDA3AwRZ63M1tu6735RoM9rLtKEBI4P14tKgbIjCB9V86Kfj3yjzmqWeLH/J7cvVdoyqlZDDJErIw0HgjlhQ0ETNf2lwI1UhRSsoqaA8qFqOJsk8SVajIa6+7+5EkGRQ0+cnQbykYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They operate Australia-wide including Canberra, ACT, and can build a wide variety of apps including data collection apps, inventory management, CRM apps, employee onboarding apps, and more."
+      },
+      {
+        "type": "text",
+        "text": "\n\n📞 **1300 102 810** | 📧 consult@officeexperts.com.au\n\n---\n\n### 2. 🥈 Ultron Developments (ultrondevelopments.com.au)\n**📍 Australia-wide (Remote + On-site) | Strong Operational & Field App Focus**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Australian Microsoft Power Apps consultants. Custom Canvas & Model-Driven apps, Dataverse architecture & governance. Get a fixed-scope delivery plan.\n...",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "title": "Power Apps Developers & Consultants Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIv9Z6bUmV3T4CwKMxoMyO77NVx66U5q9BzQIjCsl+U4JuKwcuNYjJgl3p20jor1CDVTI9/+6PtzFIEJn1E7kAlPmX00oJLUQaIe1P8qFu7SDJZKQ4jDpsZ5os0rMuQ3RaaWcPUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Ultron Developments are Australian Microsoft Power Apps consultants specialising in custom Canvas & Model-Driven apps, Dataverse architecture & governance, offering fixed-scope delivery plans."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Trusted by Australian organisations across government, mining, and healthcare\n\nBHP - Power Apps client Shire of Dardanup WA Country Health Service Chi...",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "title": "Power Apps Consulting Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDN4GC4xXSGgEKFDgmRoMXCtwx+6+jAhrluNlIjB/ifu0k9wsOySji+335/yrAnqVVqWn98qZAse0MWTr7vSfgi1+iSrI+gqAtPoIPG4qE5Ji57KLpsTOUzca/cNs24k/7cUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They are trusted by Australian organisations across government, mining, and healthcare — including clients such as BHP, WA Country Health Service, and Alcoa."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Projects we have delivered recently\n### Field inspections and asset reporting\n\n\nMobile inspection apps for field teams to",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "title": "Power Apps Developers & Consultants Australia",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBB1eT97KUbEloT1qBoMgOmbfgQRHjfFT2MYIjCvXwR3As4o5Lgj4HWYnkSSKmY50DumTkkI4M6k7YrfDomjf7qFFa3C05W7Gg1PmWcqFVk9z18JNcJ1D1dVPpY8Bhmv2tC8mBgE"
+          }
+        ],
+        "type": "text",
+        "text": "Recent projects they have delivered include mobile inspection apps for field teams"
+      },
+      {
+        "type": "text",
+        "text": " and "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Discuss This Scope With an Engineer →\n\n100% Onshore Australian Delivery · NDA on request\n\n## Our Power Apps Consulting & Development Services\n### Lega...",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "title": "Power Apps Developers & Consultants Australia",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMSGoSUbEtVv40/FXRoMrPvrwYri2DdYokDUIjCDpTo/blJhCBb2tifOiv6TmScrFAWwu5X8odilrTmGTTvMmX6WWK4nWIXoQp1ir6gqGI20KTEOyxfTGrM+aFNGUeUd10aE0GWKtxgE"
+          }
+        ],
+        "type": "text",
+        "text": "replacing outdated spreadsheets, paper forms, and aging internal tools with modern Power Apps, managing migration, integration, and end-user training end-to-end."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We coordinate projects remotely across Australia and can arrange on-site workshops where they add value. ",
+            "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+            "title": "Power Apps Consulting Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJ1JSgJveQOuP9ZdQBoM2PDtST4Ew3QLnl6YIjChTLN44j/JN5rjmzwbZhD+Oo7qwQ52IpHHyPEVV3Dwofpl/ZwmqVLh1Ve38uTulzcqE1eAGT4dDPzqeTuWBoVDq92wlUkYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They coordinate projects remotely across Australia and can arrange on-site workshops where they add value."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 3. 🥉 Prometix (prometix.com.au)\n**📍 Canberra + National | Microsoft Solutions Partner**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "As a Microsoft Solutions Partner, we design Power Apps solutions that actually work for your teams, supporting organisations across Australia, from Sy...",
+            "url": "https://prometix.com.au/your-next-powerapps/",
+            "title": "PowerApps - Prometix",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAMK7wVVoAlXotSO8xoMGJcDxjjTFcdN3/pJIjBS3/mYW3/ogqcD6sEM7bEm1nlSUrjTccStqOWhWIh1Uw0/V7hHknBTwNvGvmWkJJwqFK0TB8v/2XOMed5QLjzFw9+PQlmrGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "As a Microsoft Solutions Partner, Prometix designs Power Apps solutions that actually work for teams, supporting organisations across Australia — from Sydney to Melbourne, Brisbane to Canberra — with consulting, integration, and long-term support."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Key Features of PowerApps\n### Canvas apps\n\nDesign highly customized apps from scratch.\n\n### Model-driven Apps\n\nBuild apps based on your data model ...",
+            "url": "https://prometix.com.au/your-next-powerapps/",
+            "title": "PowerApps - Prometix",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKQUsHLUFX229M8clRoMSFF03AMmmFCmVi6xIjAW3qihISVZOIsFbi76q1W6HZWwZJhezgVbsWRD2qsprUbe46bcmsQhZyNCZ+oiiU8qFnKLbSuYbJJUrvn4z0hWSHCeUZ6KThsYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They deliver Canvas Apps (highly customized from scratch) and Model-Driven Apps (built on your data model for a more structured approach)."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 4. OfficePro Consulting (officeproconsulting.com.au)\n**📍 Australia-wide (Remote & On-site) | Specialist in Field & Operational Apps**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "OfficePro Consulting builds canvas and model-driven apps for data capture, field inspections, case management and operational dashboards connected to ...",
+            "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+            "title": "Microsoft Power Apps Development",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDO41U7cGlQ8XVxgZYhoMpDatNnvqws2N75AvIjCHydqhud+mb8rN6Dle3zpofgEnBCNu0UD+9AZGQ1mr26+xSabBIfdSSCeYIzPE+awqFETm/0zpnQzemsjBojoKORFsP1bjGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "OfficePro Consulting builds canvas and model-driven apps for data capture, field inspections, case management, and operational dashboards connected to SharePoint, Dataverse, and existing systems."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Site inspections, job logging, photo capture and offline access, designed for phones and tablets so field crews can work without interruption.\n\n",
+            "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+            "title": "Microsoft Power Apps Development",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJtc80Eo6uxGxSfGyBoMxJcHmFkQpGcWKdoFIjANrEnd6nsRDpMamSLEtsIQCheWgRyNNgq5m4U+rlEXsbuFgT3FtzQ0uV/qTLDc+dUqFGQksCKnA3fQDEdfzZUWZlvLdmT2GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Their solutions cover site inspections, job logging, photo capture, and offline access — designed for phones and tablets so field crews can work without interruption."
+      },
+      {
+        "type": "text",
+        "text": "\n\n📞 **1300 160 336** | 📧 contact@officeproconsulting.com.au\n\n---\n\n### 5. Concetto Labs (concettolabs.com/canberra)\n**📍 Canberra (dedicated page) | Low-Code Specialist**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Concetto Labs is a Microsoft Power Platform Development Company in Canberra. By using Low-Code or No-Code Platforms, We Give You the Best Solution.\n\n",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+            "title": "Best Microsoft Power Platform Development Company in Canberra",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAqWGRjmdLbqk1NdpBoMEtiEdfO+i93TgIhFIjBw5cUTHJ3VYyUotDEKSnEQa3UehEQ21t2Dwr9Y98GopeuUp/rqXrjjYysQBtncc70qFQ6P4DyIo3jdol6iNWyJhrwKxuo3VRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Concetto Labs is a Microsoft Power Platform Development Company in Canberra, using low-code or no-code platforms to deliver business solutions."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Revolutionizing Business Processes with Power Platform\n#### Construction Vendor Management PowerApps\n- Microsoft PowerApps\n- Microsoft Flow\n- MS SQ...",
+            "url": "https://www.concettolabs.com/services/power-platform-consulting-company-canberra/",
+            "title": "Best Microsoft Power Platform Development Company in Canberra",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDwVF6AyOK8k9omD3hoMNpRlXup1mqxTqqp2IjBhJJFMSZV4ae08A38jDKelVW9Zs4cbqRcvDct8DoUx3V1Phebm5NI/x7zocwaq/98qFtdstw16CDqQENdwA4pw3kDnaT2LYkQYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Notable projects include a Construction Vendor Management PowerApp to manage workers and vendors, and an Incident Management PowerApp built on Canvas App, Dataverse, SharePoint, Power BI, Active Directory, and Custom Connectors."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. Designpluz (designpluz.com.au)\n**📍 Australia-wide | Manufacturing, Warehouse & Logistics Focus**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Why Choose Designpluz for Power Apps Development\n### Skilled Power Apps Developers\n\n\n\nWith over 18 years of experience in digital transformation se...",
+            "url": "https://www.designpluz.com.au/power-apps-development/",
+            "title": "Microsoft Power Apps Development Services in Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH9XMTDIekT8Pq/7+hoMy4O5TbqoNhCRMtf4IjCyHeVpBqNmI1l6LiMI7/ShYmR7vO4l7ID/nP4vQfWHqHEXymWSyPCdCBpKAY7AeWkqFonBa4wHXqMpdKrlKQRe2OUqmp1lOKMYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "With over 18 years of experience in digital transformation services, Designpluz delivers custom Power Apps solutions backed by certified Microsoft developers, specialising in solution architecture and API integrations to build scalable applications."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Industries We Serve\nManufacturing & Industrial\n\n### Manufacturing & Industrial\n\nIoT, AI/ML, ERP, MES, and SCADA are used in our manufacturing app s...",
+            "url": "https://www.designpluz.com.au/power-apps-development/",
+            "title": "Microsoft Power Apps Development Services in Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDB9kX3A/SfdzmsXcIRoMfRPfLD2BwalgaaVAIjD9CtJG68L2m7ZnAfdPqKexr6o1kGCylpBQJ2WyZJz4y91C6ZiF3l5AEN29R3IKOvEqFo61krvIzb7Pc9XjSkham9EHIXycju0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "For manufacturing and industrial clients, they use IoT, AI/ML, ERP, MES, and SCADA for manufacturing app scheduling, inventory sync, and operational reporting for real-time factory visibility."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Logistics & Supply Chain\nWe build logistics apps that connect ERP, GPS and warehouse systems for end-to-end visibility. We also streamline operati...",
+            "url": "https://www.designpluz.com.au/power-apps-development/",
+            "title": "Microsoft Power Apps Development Services in Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDEf6KrTMW+eq1WnuxoMXE6LzwtOfI4b4Ry2IjBzxdqiuUF/ESAXaNSKoFdqb82y9OlLqshYKJWaQckJ/f0EmeBH2IWzr1ydYaOffjUqFpxnIISdi6uYE+wObPMfPD1pc22QJdgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "For logistics and supply chain, they build apps that connect ERP, GPS, and warehouse systems for end-to-end visibility, streamlining operations by connecting inventory, transportation, and business management systems in real-time."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 7. Grassroots IT (grassrootsit.com.au)\n**📍 Australia-wide | SMB Focus**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We design, build and support custom low-code apps on the Microsoft 365 platform you already own.\n\n# Microsoft Power Apps Support\n## Custom Apps Withou...",
+            "url": "https://www.grassrootsit.com.au/app-support/power-apps/",
+            "title": "Get Expert Microsoft Power Apps Consultants",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPbQC6Q4oG3YCABMxhoM0ymYKLeBGNpGjp3TIjDe180e3MBby6LpJRZuGanVNMBS0Nct2S3YhGvxWFQXZKKWCWSItF11+zZeUkDHihQqFkZHeSfjm0jmFG6AKLldClHY03DkY6IYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Grassroots IT designs, builds, and supports custom low-code apps on the Microsoft 365 platform, helping businesses replace paper forms, spreadsheets, and clunky workarounds with purpose-built apps — fast."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Anyone can drag fields onto a screen; fewer can design the data layer underneath so an app stays fast, secure and maintainable as it grows. Our Power ...",
+            "url": "https://www.grassrootsit.com.au/app-support/power-apps/",
+            "title": "Get Expert Microsoft Power Apps Consultants",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDN1cirshN5ezOxwC9hoMQY8tzweMSqtcDCcVIjCYgwusDCB94l3bWPJTeT1u+ZdHwuwUJXgRETcgsvixNVsYHAQgAvOhdkxZcKWc/kkqFr9XvsHQsyABVqxz/UsYOzsyzEDbLZMYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They highlight that while anyone can drag fields onto a screen, fewer consultants can design the data layer underneath so an app stays fast, secure, and maintainable as it grows — a key differentiator for warehouse and operational use cases."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🔍 Key Considerations When Choosing a Consultant\n\n| Factor | What to Look For |\n|---|---|\n| **Offline capability** | Essential for warehouse/shop-floor/field apps with patchy connectivity |\n| **Dataverse expertise** | Needed for complex data models, role-based security, and scalability |\n| **Barcode/QR scanning** | Common requirement for warehouse and inventory apps |\n| **Government experience** | Important in Canberra — check for security clearance capability |\n| **Onshore delivery** | Ensures IP stays local and compliance is easier |\n| **Fixed-scope pricing** | Reduces budget risk for operational app projects |\n\n**Power Platform Experts** and **Prometix** are the strongest locally-anchored Canberra options, while **Ultron Developments** and **OfficePro Consulting** stand out specifically for their depth in **field, warehouse, and shop-floor operational app delivery** across Australia."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15336,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1886,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

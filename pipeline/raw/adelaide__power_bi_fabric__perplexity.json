@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "power_bi_fabric",
+  "plat": "perplexity",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Adelaide for operational reporting and data warehousing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_bi_fabric__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:10.744Z",
+  "cost": 0.006112,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 483,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005512,
+      "datetime": "2026-10-29 04:08:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an Adelaide organisation needing **operational reporting plus data warehousing**, the strongest shortlist is:\n\n- **Report Simple** — Best fit for a Fabric-first architecture. It specialises in Microsoft Fabric, OneLake, Direct Lake, data warehousing, governance and Power BI, and explicitly lists Adelaide delivery coverage.[1]\n- **Agile Insights** — Strong enterprise option for governed Power BI and Fabric implementations. It reports more than 150 Fabric engagements, Microsoft certifications and experience delivering operational analytics and reporting accelerators.[2]\n- **On Report** — Good choice for a local, practical analytics partner covering Power BI dashboards, reporting automation and Microsoft Fabric data platforms, including data engineering and warehousing.[3]\n- **Yohan Dole** — A potentially strong individual consultant for hands-on or specialist work. His Adelaide experience includes enterprise data-warehouse modernisation, Azure Data Factory, Power BI, Fabric, SSIS, SSAS and SSRS, plus procurement and contract-management reporting.[9]\n- **Neil Chen** — An Adelaide-based Fabric and Power BI specialist with experience developing configuration-driven ELT frameworks, Fabric warehouse architecture and SSRS operational reporting.[4]\n- **Numlytics** — Worth considering if a distributed or cost-conscious delivery model is acceptable. It advertises certified Power BI, Fabric and cloud-data-platform consultants serving Adelaide, though its delivery model appears less locally based.[5]\n\n## Recommended selection\n\n1. **Choose Report Simple** if Microsoft Fabric architecture, OneLake governance and warehouse modernisation are the priority.\n2. **Choose Agile Insights** for a larger enterprise implementation with strong Microsoft credentials and established delivery capacity.\n3. **Choose On Report** for a smaller Australian partner focused on practical dashboards, automation and a modern data foundation.\n4. **Interview Yohan Dole or Neil Chen** when you want senior individual expertise, rapid discovery or augmentation of an internal team.\n\nFor operational reporting, ask each provider to demonstrate a complete pattern—not just dashboards: source-system integration, incremental pipelines, dimensional modelling, data-quality controls, row-level security, refresh/Direct Lake strategy, KPI definitions, alerting and support. Fabric is most appropriate where reporting requires multiple systems, historical warehouse-style transformations, real-time workloads or larger-scale data engineering; Power BI alone may be sufficient for a few well-structured sources.[1]",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Australia | Report Simple",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI consulting",
+                  "url": "https://www.agile-insights.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "On Report - Home",
+                  "url": "https://onreport.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Neil Chen | LinkedIn",
+                  "url": "https://www.linkedin.com/in/yanshu-chen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Data Analytics Services in Australia",
+                  "url": "https://numlytics.com/data-analytics-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI & Microsoft Fabric Consulting Services",
+                  "url": "https://marketplace.microsoft.com/en-us/marketplace/consulting-services/intelegain.powerbiconsulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Power BI Consultants in Australia",
+                  "url": "https://www.abbacustechnologies.com/top-10-power-bi-consultants-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Microsoft Fabric Implementation Specialists in Australia",
+                  "url": "https://www.datatobiz.com/blog/microsoft-fabric-implementation-specialists-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Yohan Dole | LinkedIn",
+                  "url": "https://www.linkedin.com/in/yohan-dole-287abb15",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power BI Consulting 2026 | Certified Experts, 1,500+ Deployments",
+                  "url": "https://powerbiconsulting.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

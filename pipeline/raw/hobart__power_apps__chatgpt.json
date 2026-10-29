@@ -1,0 +1,980 @@
+{
+  "slug": "hobart",
+  "pk": "power_apps",
+  "plat": "chatgpt",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Hobart for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_apps__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:47.254Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Hobart for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Hobart%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hints=search",
+      "datetime": "2026-10-29 04:11:41 +00:00",
+      "markdown": "# Leading Power Apps and Dataverse consultants for Hobart\n\nFor custom operational apps used by warehouse staff, shop-floor teams and field workers, I’d shortlist a combination of **local Tasmanian Microsoft specialists and Australia-wide Power Platform consultancies with documented operational-app experience**\\.\n\nThe important distinction is that a general Microsoft IT provider isn't necessarily experienced in building production-grade Power Apps on Dataverse. You want someone who can design the data model, create mobile-friendly workflows, manage permissions, integrate with inventory or ERP systems, and support the solution after launch.\n\nBased on the available public evidence, these are the strongest candidates to investigate. This is a shortlist by apparent technical fit, not a definitive ranking of every consultant in Hobart.\n\n## My recommended shortlist\n\n![Microsoft Power Platform – Beschleunigen der Entwicklung mit KI-basierten, Low-Code-Tools | Microsoft-Entwickler](https://images.openai.com/static-rsc-4/z0Cte1B1vPE_tpC9zmBC8cr_kCv8_2ls1ttX6SBATRpcmU8diO-xGLP5k8DLKbHkFpLx_Qnpso9__pT8KAl3bS_o7Sj9ZSunumK9EtuJrJT8jjiydPTy2WTE_N5XmRoP9iyz2kf3A9arlEvV3QlPCUjmbCwEaTWvwbKgKfTNaj5MStuR5LTHZZv4uAbwgcGs?purpose=fullsize)\n\n## 1\\. Ultron Developments\n\n(Best documented operational-app examples)\n\nUltron publishes specific implementation examples covering warehouse-style scanning, manufacturing quality checks, and mobile field operations. These closely match your intended use case. Examples include a scanner-first load queue for Pentarch, manufacturing checks for David Moss, and mobile job workflows for Malta Group. [ultrondevelopments.com.au](https://ultrondevelopments.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist them\\:** Their examples demonstrate the kind of practical, transactional applications you are describing, rather than just generic dashboard or approval apps.\n\n**Ask\\:** Can they deliver and support the project in Tasmania, and can they demonstrate a comparable Dataverse app running on handheld devices?\n\n[Ultron Developments website](https://ultrondevelopments.com.au/)\n\n---\n\n![Dr IT Solutions | Onsite IT and web solutions in Hobart and Brisbane Australia](https://images.openai.com/static-rsc-4/sKGbZRrJAJLyaqHp0UKoB60rYrbhrCKsvzx1qIXaeXxVSqvF1di6FHklkdMxk4Mykq6W5AR04xdewIiqWxrlcPf_acsNqzs1pXxjF2YWXRM9JP5LyiLAW5obhVbFqGAzC0_a7iMtVW_aPcr-xRqwDTjJzKAPqnhCTlumlvPU9h04juqtSE8K52omWcjK4EIV?purpose=fullsize)\n\n## 2\\. Intuit Technologies\n\n(Local Tasmanian option)\n\nIntuit Technologies is a Tasmanian-founded IT and consulting provider with a Hobart presence. Its service offering includes Microsoft cloud, Dynamics 365 and Power Platform technologies, including Power Apps and Power Automate. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com)[www.dpac.tas.gov.au](https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A local provider may be useful when the project requires onsite discovery, shop-floor observation, staff training and ongoing support.\n\n**What to verify\\:** Ask for named Power Platform specialists and references for custom Dataverse applications, rather than assuming its broader Microsoft capabilities establish deep app-development experience.\n\n39 Sandy Bay Road, Battery Point, Hobart\n\n\\+61 3 6281 5600\n\n[Intuit Technologies website](https://www.intuittechnologies.com/)\n\n---\n\n![Custom Software & App Development for Modern Businesses | ISW](https://images.openai.com/static-rsc-4/gK6gZt8HqsD_B5eBEepGGVhXXe0lQHv86Wda0257We83q_p6fK1Vh3NIjeCBgfDGfpGIoyytGzkO1Ko1wKPZOndzBMfVqAMz6N7AB34rp6hjEMUZ4G9WbGSqunMzzG0giGIZLGedEMhUMXXm1rxGHWpqnwePg6FC_t27mhq5G5bS5PE2Rtq7UDi9VhqxUhw2?purpose=fullsize)\n\n## 3\\. ISW\n\nISW is an Australian software engineering and IT services firm with a Hobart office. Its capabilities include custom application development and Microsoft Power Platform, alongside broader workplace and cloud technologies. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com)[www.dpac.tas.gov.au](https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJiR2FCoh1bqoRgu3tiN_dDhQ&hl=en&utm_source=chatgpt.com)[workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)[www.google.co.in](https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** Worth considering if your operational app needs more than low-code development—for example, custom integrations, mobile experiences or connections to existing enterprise systems.\n\n**What to verify\\:** Request examples that specifically use Dataverse for operational transactions, and clarify which work would be delivered by its local team versus other offices.\n\n2 Kelly Street, Battery Point, Hobart\n\n1300 850 479\n\n[ISW website](https://www.isw.com.au/)\n\n---\n\n![Walkerscott | LinkedIn](https://images.openai.com/static-rsc-4/o734HchYfPE74bPRUlYZE0uM5e03uY129R9_-brEYcCOS3WIlWZTWcrGYE6Dsl2k67_4NwlD-LJVIgIGE6vd72AfIdi2t7TN5Y6ZT5YmobtLOnHBYDtoq0qWwFUMFyEcYjThefawGspY07N9IwIrAyuQrFLG5BzUkdxYV6jOymU6Hl-bLzX7jSUeWDkEfy_-?purpose=fullsize)\n\n## 4\\. Walkerscott Pty Ltd\n\nWalkerscott delivers Microsoft Dynamics 365, Power Platform, custom Azure applications and reporting. Its stated operational coverage includes Tasmania, although its listed office is in Sydney. [workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A potentially strong fit when your app needs to connect with an existing ERP, business management system, or wider Dynamics 365 environment.\n\n**What to verify\\:** Ask for a reference project involving warehouse transactions, manufacturing workflows or field service, and confirm its proposed delivery and support arrangements for Hobart.\n\n[Walkerscott website](https://walkerscott.co/)\n\n---\n\n![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)\n\n## 5\\. Power Platform Experts\n\nPower Platform Experts offers Australia-wide consulting, development, support and training across Power Apps, Power Automate, Power BI and Power Pages, with Dataverse-related capabilities. [www.google.co.in](https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A focused alternative if your primary requirement is Power Platform delivery rather than a broader IT outsourcing arrangement.\n\n**What to verify\\:** Ask for direct evidence of scanner-based warehouse apps, offline-capable field apps, Dataverse security design and production deployments in industrial environments.\n\n[Power Platform Experts website](https://powerplatformexperts.com.au/)\n\n## Other candidates worth a conversation\n\nThese are useful alternatives, depending on how much of your project is custom app development versus a broader Microsoft or business-systems implementation.\n\n![DataWise Consulting](https://images.openai.com/static-rsc-4/-9bXEZFrizeQieGk2j8-pzI38lPoTSklIfaD7v1mHEzEHGcPYRoMVpjUYac9Oz2FSugj_QAR67ZlxZZug6GbUK8VyE5tEnllCFi91rJroFDurBNFZl74YoEZC6XeNx99xS-4tR9M4QWWzZGLXlcoaJUMkroLyKCpEkZ4ohSYb16NJgl6Rtp1p0Xbe6a2hLYh?purpose=fullsize)\n\n**Datawise Consulting — local custom software**\n\nHobart-based since 2000, Datawise specialises in Microsoft technologies, custom software and database design. It's worth approaching if you value local development and long-term support, but its public material doesn't establish the same level of specific Dataverse experience as the specialist candidates above. [datawise.com.au](https://datawise.com.au/services/?utm_source=chatgpt.com)[datawise.com.au](https://datawise.com.au/?utm_source=chatgpt.com)\n\n[Datawise services](https://datawise.com.au/services/)\n\n---\n\n![DXC Technology Jobs and Careers | Welcome to the Jungle (formerly Otta)](https://images.openai.com/static-rsc-4/zfQvJcLsVuDY4FHO-rFADL_EhgcZdg_28XskUfoaOW47FlM617fJViJtc5I2P0uLvc9fgNsPErcQfnRP-eLRybAaEw_RsH0Fwbkl5yj4DssVqvNnwxitZcCyXPqJJCreqiC50A8ZSL9QodJqYZwaMmdK5hwvsZY1TEXGT1L0VcbOgiwlJ8WflJZTptvPIlRv?purpose=fullsize)\n\n**UXC Eclipse — enterprise Microsoft delivery**\n\nA Hobart-listed presence associated with a broader Microsoft business applications practice, including Dynamics 365 and Power Platform. Consider it for a larger transformation or integration project, subject to confirming the current team and relevant custom-app references. [www.google.com.br](https://www.google.com.br/maps/place/UXC+Eclipse/@-42.8875947,147.3303059,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7582b90cb1b1:0xa97138df1659bf95!8m2!3d-42.8875947!4d147.3303059!16s%2Fg%2F1td_6dzv?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n[DXC Technology website](https://dxc.com/)\n\n## Local options on the map\n\n\nThese four have identifiable Hobart locations. That is useful for workshops and onsite discovery, but **local presence alone doesn't prove specialist Dataverse capability**\\.\n\n## Who would I contact first?\n\nFor your specific warehouse, shop-floor or field-team requirements, my order would be\\:\n\n| Priority | Consultant | Main reason |\n|--------|--------|--------|\n| 1 | Ultron Developments | Strongest publicly documented examples of industrial and operational Power Apps |\n| 2 | Intuit Technologies | Local Tasmanian Microsoft partner to investigate for onsite delivery |\n| 3 | ISW | Local software engineering capability and broader integration options |\n| 4 | Walkerscott | National delivery for Power Platform and ERP-connected applications |\n| 5 | Power Platform Experts | Specialist Power Platform-focused alternative |\n\n\nThe first choice is based on published project examples, while the local providers should be assessed through project references and a technical discussion. I couldn't establish a definitive market-share or independently verified ranking for Hobart.\n\n## What to ask before engaging a consultant\n\nFor operational apps, I would make these five questions part of your initial screening\\:\n\n- **Similar projects\\:** Can you demonstrate a live warehouse, production, inventory, inspection or field-service application you've built?\n- **Dataverse design\\:** How will you model items, locations, jobs, stock movements, equipment and audit history?\n- **Frontline usability\\:** Can the app work well on rugged handheld scanners, shared tablets and mobile phones? What happens when connectivity drops?\n- **Integration\\:** Can it connect to our ERP, inventory system, barcode hardware and reporting tools?\n- **Ownership and support\\:** Will we own the solution in our Microsoft tenant, including its source assets, documentation, deployment pipeline and support arrangements?\n\nOne particularly important point: if you need barcode scanning, reliable offline use, high-volume stock transactions or strict traceability, ask the consultant to demonstrate those features in a working prototype. Don't rely on a generic Power Apps demo.\n\n**My recommendation\\:** Start with Ultron for the directly relevant industrial use cases, then compare its proposal against a local provider such as Intuit Technologies or ISW. Ask all three to scope the same representative workflow so you can compare architecture, delivery cost, implementation risk and ongoing support on a like-for-like basis.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://alphavima.com/data-engineering/data-warehouse-consulting-in-hobart-tasmania/",
+          "domain": "alphavima.com",
+          "title": "data warehouse consulting in Hobart, Tasmania | Alphavima",
+          "description": null,
+          "breadcrumb": "alphavima.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/customers/story/1790469603343301337-hobart-dynamics-365-customer-service-discrete-manufacturing-en-united-states",
+          "domain": "www.microsoft.com",
+          "title": "Hobart Service modernizes service and integrates operations with Dynamics 365 | Microsoft Customer Stories",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://datawise.com.au/services/",
+          "domain": "datawise.com.au",
+          "title": "Services - Consulting, Software & Website Development",
+          "description": null,
+          "breadcrumb": "datawise.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://datawise.com.au/",
+          "domain": "datawise.com.au",
+          "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+          "description": null,
+          "breadcrumb": "datawise.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://workforcedirectory.com.au/vendor/walkerscott/",
+          "domain": "workforcedirectory.com.au",
+          "title": "Walkerscott | Microsoft Dynamics 365 Partner Australia",
+          "description": null,
+          "breadcrumb": "workforcedirectory.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://uhslogic.com.au/about-us",
+          "domain": "uhslogic.com.au",
+          "title": "About UHS Logic | Microsoft Solutions Partner",
+          "description": null,
+          "breadcrumb": "uhslogic.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.trueaxisconsulting.com/",
+          "domain": "www.trueaxisconsulting.com",
+          "title": "TrueAxis Consulting",
+          "description": null,
+          "breadcrumb": "www.trueaxisconsulting.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://ultrondevelopments.com.au/",
+          "domain": "ultrondevelopments.com.au",
+          "title": "Microsoft Power Platform Consulting Australia | Ultron",
+          "description": null,
+          "breadcrumb": "ultrondevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.futureability.com/power-platform",
+          "domain": "www.futureability.com",
+          "title": "Power Platform Consultants Australia | FutureAbility",
+          "description": null,
+          "breadcrumb": "www.futureability.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://1dynamics.com.au/microsoft-dataverse",
+          "domain": "1dynamics.com.au",
+          "title": "Microsoft Dataverse Consulting Partner | 1Dynamics",
+          "description": null,
+          "breadcrumb": "1dynamics.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://legodynamics.com.au/",
+          "domain": "legodynamics.com.au",
+          "title": "Home - legodynamics",
+          "description": null,
+          "breadcrumb": "legodynamics.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://infinitydevelopments.com.au/",
+          "domain": "infinitydevelopments.com.au",
+          "title": "Dynamics 365 & Power Platform Consultants | Infinity Developments",
+          "description": null,
+          "breadcrumb": "infinitydevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf",
+          "domain": "www.dpac.tas.gov.au",
+          "title": "Department of Premier and Cabinet",
+          "description": null,
+          "breadcrumb": "www.dpac.tas.gov.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Platform Consulting Australia",
+          "snippet": null,
+          "domain": "ultrondevelopments.com.au",
+          "url": "https://ultrondevelopments.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Ultron",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Ultron Developments website",
+          "snippet": null,
+          "domain": "ultrondevelopments.com.au",
+          "url": "https://ultrondevelopments.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Ultron Developments website](https://ultrondevelopments.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Intuit Technologies",
+          "snippet": "39 Sandy Bay Rd, Battery Point TAS 7004, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Department of Premier and Cabinet",
+          "snippet": null,
+          "domain": "www.dpac.tas.gov.au",
+          "url": "https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Department of Premier and Cabinet",
+          "publication_date": "2024-10-09 23:32:37 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Intuit Technologies website",
+          "snippet": null,
+          "domain": "www.intuittechnologies.com",
+          "url": "https://www.intuittechnologies.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Intuit Technologies website](https://www.intuittechnologies.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ISW",
+          "snippet": "2 Kelly St, Battery Point TAS 7004, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJiR2FCoh1bqoRgu3tiN_dDhQ&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Walkerscott",
+          "snippet": null,
+          "domain": "workforcedirectory.com.au",
+          "url": "https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Dynamics 365 Partner Australia",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Walkerscott Pty Ltd",
+          "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Experts",
+          "snippet": null,
+          "domain": "www.google.co.in",
+          "url": "https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.co.in",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ISW website",
+          "snippet": null,
+          "domain": "www.isw.com.au",
+          "url": "https://www.isw.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[ISW website](https://www.isw.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Walkerscott website",
+          "snippet": null,
+          "domain": "walkerscott.co",
+          "url": "https://walkerscott.co/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Walkerscott website](https://walkerscott.co/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Experts website",
+          "snippet": null,
+          "domain": "powerplatformexperts.com.au",
+          "url": "https://powerplatformexperts.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Power Platform Experts website](https://powerplatformexperts.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Services",
+          "snippet": null,
+          "domain": "datawise.com.au",
+          "url": "https://datawise.com.au/services/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Consulting, Software & Website Development",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+          "snippet": null,
+          "domain": "datawise.com.au",
+          "url": "https://datawise.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Datawise",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Datawise services",
+          "snippet": null,
+          "domain": "datawise.com.au",
+          "url": "https://datawise.com.au/services/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Datawise services](https://datawise.com.au/services/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "UXC Eclipse",
+          "snippet": "3/21 Kirksway Pl, Hobart TAS 7004, Australia",
+          "domain": "www.google.com.br",
+          "url": "https://www.google.com.br/maps/place/UXC+Eclipse/@-42.8875947,147.3303059,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7582b90cb1b1:0xa97138df1659bf95!8m2!3d-42.8875947!4d147.3303059!16s%2Fg%2F1td_6dzv?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.br",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "DXC Technology website",
+          "snippet": null,
+          "domain": "dxc.com",
+          "url": "https://dxc.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[DXC Technology website](https://dxc.com/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Hobart Tasmania Microsoft Power Apps Dataverse consultants custom operational apps warehouse field service Australia"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform consultancy",
+          "category": "company",
+          "markdown": "Ultron Developments",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Intuit Technologies",
+          "category": "local_business",
+          "markdown": "Intuit Technologies",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "ISW",
+          "category": "local_business",
+          "markdown": "ISW",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Walkerscott Pty Ltd",
+          "category": "local_business",
+          "markdown": "Walkerscott Pty Ltd",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Power Platform Experts",
+          "category": "local_business",
+          "markdown": "Power Platform Experts",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Datawise Consulting",
+          "category": "local_business",
+          "markdown": "Datawise Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "UXC Eclipse",
+          "category": "local_business",
+          "markdown": "UXC Eclipse",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses",
+        "chat_gpt_table"
+      ],
+      "items_count": 19,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Leading Power Apps and Dataverse consultants for Hobart\n\nFor custom operational apps used by warehouse staff, shop-floor teams and field workers, I’d shortlist a combination of **local Tasmanian Microsoft specialists and Australia-wide Power Platform consultancies with documented operational-app experience**\\.\n\nThe important distinction is that a general Microsoft IT provider isn't necessarily experienced in building production-grade Power Apps on Dataverse. You want someone who can design the data model, create mobile-friendly workflows, manage permissions, integrate with inventory or ERP systems, and support the solution after launch.\n\nBased on the available public evidence, these are the strongest candidates to investigate. This is a shortlist by apparent technical fit, not a definitive ranking of every consultant in Hobart.\n\n## My recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Microsoft Power Platform – Beschleunigen der Entwicklung mit KI-basierten, Low-Code-Tools | Microsoft-Entwickler](https://images.openai.com/static-rsc-4/z0Cte1B1vPE_tpC9zmBC8cr_kCv8_2ls1ttX6SBATRpcmU8diO-xGLP5k8DLKbHkFpLx_Qnpso9__pT8KAl3bS_o7Sj9ZSunumK9EtuJrJT8jjiydPTy2WTE_N5XmRoP9iyz2kf3A9arlEvV3QlPCUjmbCwEaTWvwbKgKfTNaj5MStuR5LTHZZv4uAbwgcGs?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://developer.microsoft.com/de-de/power-platform",
+              "alt": "Microsoft Power Platform – Beschleunigen der Entwicklung mit KI-basierten, Low-Code-Tools | Microsoft-Entwickler",
+              "image_url": "https://images.openai.com/static-rsc-4/z0Cte1B1vPE_tpC9zmBC8cr_kCv8_2ls1ttX6SBATRpcmU8diO-xGLP5k8DLKbHkFpLx_Qnpso9__pT8KAl3bS_o7Sj9ZSunumK9EtuJrJT8jjiydPTy2WTE_N5XmRoP9iyz2kf3A9arlEvV3QlPCUjmbCwEaTWvwbKgKfTNaj5MStuR5LTHZZv4uAbwgcGs?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform – Beschleunigen der Entwicklung mit KI-basierten, Low-Code-Tools | Microsoft-Entwickler](https://images.openai.com/static-rsc-4/z0Cte1B1vPE_tpC9zmBC8cr_kCv8_2ls1ttX6SBATRpcmU8diO-xGLP5k8DLKbHkFpLx_Qnpso9__pT8KAl3bS_o7Sj9ZSunumK9EtuJrJT8jjiydPTy2WTE_N5XmRoP9iyz2kf3A9arlEvV3QlPCUjmbCwEaTWvwbKgKfTNaj5MStuR5LTHZZv4uAbwgcGs?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Ultron Developments\n\n(Best documented operational-app examples)\n\nUltron publishes specific implementation examples covering warehouse-style scanning, manufacturing quality checks, and mobile field operations. These closely match your intended use case. Examples include a scanner-first load queue for Pentarch, manufacturing checks for David Moss, and mobile job workflows for Malta Group. [ultrondevelopments.com.au](https://ultrondevelopments.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist them\\:** Their examples demonstrate the kind of practical, transactional applications you are describing, rather than just generic dashboard or approval apps.\n\n**Ask\\:** Can they deliver and support the project in Tasmania, and can they demonstrate a comparable Dataverse app running on handheld devices?\n\n[Ultron Developments website](https://ultrondevelopments.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Platform Consulting Australia",
+              "snippet": null,
+              "domain": "ultrondevelopments.com.au",
+              "url": "https://ultrondevelopments.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Ultron",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Ultron Developments website",
+              "snippet": null,
+              "domain": "ultrondevelopments.com.au",
+              "url": "https://ultrondevelopments.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Ultron Developments website](https://ultrondevelopments.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform consultancy",
+              "category": "company",
+              "markdown": "Ultron Developments",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Dr IT Solutions | Onsite IT and web solutions in Hobart and Brisbane Australia](https://images.openai.com/static-rsc-4/sKGbZRrJAJLyaqHp0UKoB60rYrbhrCKsvzx1qIXaeXxVSqvF1di6FHklkdMxk4Mykq6W5AR04xdewIiqWxrlcPf_acsNqzs1pXxjF2YWXRM9JP5LyiLAW5obhVbFqGAzC0_a7iMtVW_aPcr-xRqwDTjJzKAPqnhCTlumlvPU9h04juqtSE8K52omWcjK4EIV?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://drit.solutions/",
+              "alt": "Dr IT Solutions | Onsite IT and web solutions in Hobart and Brisbane Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/sKGbZRrJAJLyaqHp0UKoB60rYrbhrCKsvzx1qIXaeXxVSqvF1di6FHklkdMxk4Mykq6W5AR04xdewIiqWxrlcPf_acsNqzs1pXxjF2YWXRM9JP5LyiLAW5obhVbFqGAzC0_a7iMtVW_aPcr-xRqwDTjJzKAPqnhCTlumlvPU9h04juqtSE8K52omWcjK4EIV?purpose=fullsize",
+              "markdown": "![Dr IT Solutions | Onsite IT and web solutions in Hobart and Brisbane Australia](https://images.openai.com/static-rsc-4/sKGbZRrJAJLyaqHp0UKoB60rYrbhrCKsvzx1qIXaeXxVSqvF1di6FHklkdMxk4Mykq6W5AR04xdewIiqWxrlcPf_acsNqzs1pXxjF2YWXRM9JP5LyiLAW5obhVbFqGAzC0_a7iMtVW_aPcr-xRqwDTjJzKAPqnhCTlumlvPU9h04juqtSE8K52omWcjK4EIV?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Intuit Technologies\n\n(Local Tasmanian option)\n\nIntuit Technologies is a Tasmanian-founded IT and consulting provider with a Hobart presence. Its service offering includes Microsoft cloud, Dynamics 365 and Power Platform technologies, including Power Apps and Power Automate. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com)[www.dpac.tas.gov.au](https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A local provider may be useful when the project requires onsite discovery, shop-floor observation, staff training and ongoing support.\n\n**What to verify\\:** Ask for named Power Platform specialists and references for custom Dataverse applications, rather than assuming its broader Microsoft capabilities establish deep app-development experience.\n\n39 Sandy Bay Road, Battery Point, Hobart\n\n\\+61 3 6281 5600\n\n[Intuit Technologies website](https://www.intuittechnologies.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Intuit Technologies",
+              "snippet": "39 Sandy Bay Rd, Battery Point TAS 7004, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Department of Premier and Cabinet",
+              "snippet": null,
+              "domain": "www.dpac.tas.gov.au",
+              "url": "https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Department of Premier and Cabinet",
+              "publication_date": "2024-10-09 23:32:37 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Intuit Technologies website",
+              "snippet": null,
+              "domain": "www.intuittechnologies.com",
+              "url": "https://www.intuittechnologies.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Intuit Technologies website](https://www.intuittechnologies.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Intuit Technologies",
+              "category": "local_business",
+              "markdown": "Intuit Technologies",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Custom Software & App Development for Modern Businesses | ISW](https://images.openai.com/static-rsc-4/gK6gZt8HqsD_B5eBEepGGVhXXe0lQHv86Wda0257We83q_p6fK1Vh3NIjeCBgfDGfpGIoyytGzkO1Ko1wKPZOndzBMfVqAMz6N7AB34rp6hjEMUZ4G9WbGSqunMzzG0giGIZLGedEMhUMXXm1rxGHWpqnwePg6FC_t27mhq5G5bS5PE2Rtq7UDi9VhqxUhw2?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.isw.net.au/solutions/software-app-development",
+              "alt": "Custom Software & App Development for Modern Businesses | ISW",
+              "image_url": "https://images.openai.com/static-rsc-4/gK6gZt8HqsD_B5eBEepGGVhXXe0lQHv86Wda0257We83q_p6fK1Vh3NIjeCBgfDGfpGIoyytGzkO1Ko1wKPZOndzBMfVqAMz6N7AB34rp6hjEMUZ4G9WbGSqunMzzG0giGIZLGedEMhUMXXm1rxGHWpqnwePg6FC_t27mhq5G5bS5PE2Rtq7UDi9VhqxUhw2?purpose=fullsize",
+              "markdown": "![Custom Software & App Development for Modern Businesses | ISW](https://images.openai.com/static-rsc-4/gK6gZt8HqsD_B5eBEepGGVhXXe0lQHv86Wda0257We83q_p6fK1Vh3NIjeCBgfDGfpGIoyytGzkO1Ko1wKPZOndzBMfVqAMz6N7AB34rp6hjEMUZ4G9WbGSqunMzzG0giGIZLGedEMhUMXXm1rxGHWpqnwePg6FC_t27mhq5G5bS5PE2Rtq7UDi9VhqxUhw2?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. ISW\n\nISW is an Australian software engineering and IT services firm with a Hobart office. Its capabilities include custom application development and Microsoft Power Platform, alongside broader workplace and cloud technologies. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com)[www.dpac.tas.gov.au](https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJiR2FCoh1bqoRgu3tiN_dDhQ&hl=en&utm_source=chatgpt.com)[workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)[www.google.co.in](https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** Worth considering if your operational app needs more than low-code development—for example, custom integrations, mobile experiences or connections to existing enterprise systems.\n\n**What to verify\\:** Request examples that specifically use Dataverse for operational transactions, and clarify which work would be delivered by its local team versus other offices.\n\n2 Kelly Street, Battery Point, Hobart\n\n1300 850 479\n\n[ISW website](https://www.isw.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Intuit Technologies",
+              "snippet": "39 Sandy Bay Rd, Battery Point TAS 7004, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJy7pN0Rs_pL8RIUvx6Y_FBic&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Department of Premier and Cabinet",
+              "snippet": null,
+              "domain": "www.dpac.tas.gov.au",
+              "url": "https://www.dpac.tas.gov.au/__data/assets/pdf_file/0031/473593/DPAC-Annual-Report-2023-24.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Department of Premier and Cabinet",
+              "publication_date": "2024-10-09 23:32:37 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ISW",
+              "snippet": "2 Kelly St, Battery Point TAS 7004, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJiR2FCoh1bqoRgu3tiN_dDhQ&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott",
+              "snippet": null,
+              "domain": "workforcedirectory.com.au",
+              "url": "https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Dynamics 365 Partner Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott Pty Ltd",
+              "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Experts",
+              "snippet": null,
+              "domain": "www.google.co.in",
+              "url": "https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.co.in",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ISW website",
+              "snippet": null,
+              "domain": "www.isw.com.au",
+              "url": "https://www.isw.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[ISW website](https://www.isw.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "ISW",
+              "category": "local_business",
+              "markdown": "ISW",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Walkerscott | LinkedIn](https://images.openai.com/static-rsc-4/o734HchYfPE74bPRUlYZE0uM5e03uY129R9_-brEYcCOS3WIlWZTWcrGYE6Dsl2k67_4NwlD-LJVIgIGE6vd72AfIdi2t7TN5Y6ZT5YmobtLOnHBYDtoq0qWwFUMFyEcYjThefawGspY07N9IwIrAyuQrFLG5BzUkdxYV6jOymU6Hl-bLzX7jSUeWDkEfy_-?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://au.linkedin.com/company/walkerscott",
+              "alt": "Walkerscott | LinkedIn",
+              "image_url": "https://images.openai.com/static-rsc-4/o734HchYfPE74bPRUlYZE0uM5e03uY129R9_-brEYcCOS3WIlWZTWcrGYE6Dsl2k67_4NwlD-LJVIgIGE6vd72AfIdi2t7TN5Y6ZT5YmobtLOnHBYDtoq0qWwFUMFyEcYjThefawGspY07N9IwIrAyuQrFLG5BzUkdxYV6jOymU6Hl-bLzX7jSUeWDkEfy_-?purpose=fullsize",
+              "markdown": "![Walkerscott | LinkedIn](https://images.openai.com/static-rsc-4/o734HchYfPE74bPRUlYZE0uM5e03uY129R9_-brEYcCOS3WIlWZTWcrGYE6Dsl2k67_4NwlD-LJVIgIGE6vd72AfIdi2t7TN5Y6ZT5YmobtLOnHBYDtoq0qWwFUMFyEcYjThefawGspY07N9IwIrAyuQrFLG5BzUkdxYV6jOymU6Hl-bLzX7jSUeWDkEfy_-?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Walkerscott Pty Ltd\n\nWalkerscott delivers Microsoft Dynamics 365, Power Platform, custom Azure applications and reporting. Its stated operational coverage includes Tasmania, although its listed office is in Sydney. [workforcedirectory.com.au](https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com)[www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A potentially strong fit when your app needs to connect with an existing ERP, business management system, or wider Dynamics 365 environment.\n\n**What to verify\\:** Ask for a reference project involving warehouse transactions, manufacturing workflows or field service, and confirm its proposed delivery and support arrangements for Hobart.\n\n[Walkerscott website](https://walkerscott.co/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott",
+              "snippet": null,
+              "domain": "workforcedirectory.com.au",
+              "url": "https://workforcedirectory.com.au/vendor/walkerscott/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Dynamics 365 Partner Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott Pty Ltd",
+              "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott website",
+              "snippet": null,
+              "domain": "walkerscott.co",
+              "url": "https://walkerscott.co/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Walkerscott website](https://walkerscott.co/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Walkerscott Pty Ltd",
+              "category": "local_business",
+              "markdown": "Walkerscott Pty Ltd",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+              "alt": "Microsoft Power Platform Consulting | Professional Advantage Australia",
+              "image_url": "https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform Consulting | Professional Advantage Australia](https://images.openai.com/static-rsc-4/48XBtHrA5K7KWOlgdQDeQUYV1XDG6Ir90ws6EprENn1_xGY6MltphUfvmSw1pWOY3k_H3jretBd6kxQwZmhTqt_IuUieQMJeHf89bqmp1oxX5fcQmsbkjiiOpqGo3HUkN1AEhDmmoaLrxhaPbmiDRoceQ3_izpZyyMTKC_Y9B4NVmI8KXMHn52HPgyQcmvx9?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Power Platform Experts\n\nPower Platform Experts offers Australia-wide consulting, development, support and training across Power Apps, Power Automate, Power BI and Power Pages, with Dataverse-related capabilities. [www.google.co.in](https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why shortlist them\\:** A focused alternative if your primary requirement is Power Platform delivery rather than a broader IT outsourcing arrangement.\n\n**What to verify\\:** Ask for direct evidence of scanner-based warehouse apps, offline-capable field apps, Dataverse security design and production deployments in industrial environments.\n\n[Power Platform Experts website](https://powerplatformexperts.com.au/)\n\n## Other candidates worth a conversation\n\nThese are useful alternatives, depending on how much of your project is custom app development versus a broader Microsoft or business-systems implementation.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Experts",
+              "snippet": null,
+              "domain": "www.google.co.in",
+              "url": "https://www.google.co.in/maps/place/Power+Platform+Experts/@-30.3823322,114.6680266,4z/data=!3m1!4b1!4m6!3m5!1s0x48ec6764071d9585:0x1c3ebbfe75e3d8a7!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11s0vkx8qd?hl=en&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.co.in",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Experts website",
+              "snippet": null,
+              "domain": "powerplatformexperts.com.au",
+              "url": "https://powerplatformexperts.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Power Platform Experts website](https://powerplatformexperts.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Power Platform Experts",
+              "category": "local_business",
+              "markdown": "Power Platform Experts",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![DataWise Consulting](https://images.openai.com/static-rsc-4/-9bXEZFrizeQieGk2j8-pzI38lPoTSklIfaD7v1mHEzEHGcPYRoMVpjUYac9Oz2FSugj_QAR67ZlxZZug6GbUK8VyE5tEnllCFi91rJroFDurBNFZl74YoEZC6XeNx99xS-4tR9M4QWWzZGLXlcoaJUMkroLyKCpEkZ4ohSYb16NJgl6Rtp1p0Xbe6a2hLYh?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://grasshopper-dolphin-btzk.squarespace.com/",
+              "alt": "DataWise Consulting",
+              "image_url": "https://images.openai.com/static-rsc-4/-9bXEZFrizeQieGk2j8-pzI38lPoTSklIfaD7v1mHEzEHGcPYRoMVpjUYac9Oz2FSugj_QAR67ZlxZZug6GbUK8VyE5tEnllCFi91rJroFDurBNFZl74YoEZC6XeNx99xS-4tR9M4QWWzZGLXlcoaJUMkroLyKCpEkZ4ohSYb16NJgl6Rtp1p0Xbe6a2hLYh?purpose=fullsize",
+              "markdown": "![DataWise Consulting](https://images.openai.com/static-rsc-4/-9bXEZFrizeQieGk2j8-pzI38lPoTSklIfaD7v1mHEzEHGcPYRoMVpjUYac9Oz2FSugj_QAR67ZlxZZug6GbUK8VyE5tEnllCFi91rJroFDurBNFZl74YoEZC6XeNx99xS-4tR9M4QWWzZGLXlcoaJUMkroLyKCpEkZ4ohSYb16NJgl6Rtp1p0Xbe6a2hLYh?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n**Datawise Consulting — local custom software**\n\nHobart-based since 2000, Datawise specialises in Microsoft technologies, custom software and database design. It's worth approaching if you value local development and long-term support, but its public material doesn't establish the same level of specific Dataverse experience as the specialist candidates above. [datawise.com.au](https://datawise.com.au/services/?utm_source=chatgpt.com)[datawise.com.au](https://datawise.com.au/?utm_source=chatgpt.com)\n\n[Datawise services](https://datawise.com.au/services/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Services",
+              "snippet": null,
+              "domain": "datawise.com.au",
+              "url": "https://datawise.com.au/services/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Consulting, Software & Website Development",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Customised & Integrated IT Solutions in Hobart Datawise",
+              "snippet": null,
+              "domain": "datawise.com.au",
+              "url": "https://datawise.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Datawise",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Datawise services",
+              "snippet": null,
+              "domain": "datawise.com.au",
+              "url": "https://datawise.com.au/services/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Datawise services](https://datawise.com.au/services/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Datawise Consulting",
+              "category": "local_business",
+              "markdown": "Datawise Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "markdown": "![DXC Technology Jobs and Careers | Welcome to the Jungle (formerly Otta)](https://images.openai.com/static-rsc-4/zfQvJcLsVuDY4FHO-rFADL_EhgcZdg_28XskUfoaOW47FlM617fJViJtc5I2P0uLvc9fgNsPErcQfnRP-eLRybAaEw_RsH0Fwbkl5yj4DssVqvNnwxitZcCyXPqJJCreqiC50A8ZSL9QodJqYZwaMmdK5hwvsZY1TEXGT1L0VcbOgiwlJ8WflJZTptvPIlRv?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://app.welcometothejungle.com/companies/DXC-Technology",
+              "alt": "DXC Technology Jobs and Careers | Welcome to the Jungle (formerly Otta)",
+              "image_url": "https://images.openai.com/static-rsc-4/zfQvJcLsVuDY4FHO-rFADL_EhgcZdg_28XskUfoaOW47FlM617fJViJtc5I2P0uLvc9fgNsPErcQfnRP-eLRybAaEw_RsH0Fwbkl5yj4DssVqvNnwxitZcCyXPqJJCreqiC50A8ZSL9QodJqYZwaMmdK5hwvsZY1TEXGT1L0VcbOgiwlJ8WflJZTptvPIlRv?purpose=fullsize",
+              "markdown": "![DXC Technology Jobs and Careers | Welcome to the Jungle (formerly Otta)](https://images.openai.com/static-rsc-4/zfQvJcLsVuDY4FHO-rFADL_EhgcZdg_28XskUfoaOW47FlM617fJViJtc5I2P0uLvc9fgNsPErcQfnRP-eLRybAaEw_RsH0Fwbkl5yj4DssVqvNnwxitZcCyXPqJJCreqiC50A8ZSL9QodJqYZwaMmdK5hwvsZY1TEXGT1L0VcbOgiwlJ8WflJZTptvPIlRv?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n\n**UXC Eclipse — enterprise Microsoft delivery**\n\nA Hobart-listed presence associated with a broader Microsoft business applications practice, including Dynamics 365 and Power Platform. Consider it for a larger transformation or integration project, subject to confirming the current team and relevant custom-app references. [www.google.com.br](https://www.google.com.br/maps/place/UXC+Eclipse/@-42.8875947,147.3303059,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7582b90cb1b1:0xa97138df1659bf95!8m2!3d-42.8875947!4d147.3303059!16s%2Fg%2F1td_6dzv?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n[DXC Technology website](https://dxc.com/)\n\n## Local options on the map\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "UXC Eclipse",
+              "snippet": "3/21 Kirksway Pl, Hobart TAS 7004, Australia",
+              "domain": "www.google.com.br",
+              "url": "https://www.google.com.br/maps/place/UXC+Eclipse/@-42.8875947,147.3303059,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e7582b90cb1b1:0xa97138df1659bf95!8m2!3d-42.8875947!4d147.3303059!16s%2Fg%2F1td_6dzv?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com.br",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "DXC Technology website",
+              "snippet": null,
+              "domain": "dxc.com",
+              "url": "https://dxc.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[DXC Technology website](https://dxc.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "UXC Eclipse",
+              "category": "local_business",
+              "markdown": "UXC Eclipse",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 16,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Intuit Technologies",
+              "description": "Computer support and services",
+              "address": "39 Sandy Bay Rd, Battery Point TAS 7004, Australia",
+              "phone": "+61 3 6281 5600",
+              "reviews_count": 24,
+              "url": "http://www.itechnologies.com.au/",
+              "domain": "www.itechnologies.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.6,
+                "votes_count": 24,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "ISW",
+              "description": "Computer consultant",
+              "address": "2 Kelly St, Battery Point TAS 7004, Australia",
+              "phone": "+61 1300 850 479",
+              "reviews_count": 3,
+              "url": "https://isw.net.au/",
+              "domain": "isw.net.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 3,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Datawise Consulting",
+              "description": "Software company",
+              "address": "30 Salamanca Square, Hobart TAS 7004, Australia",
+              "phone": "+61 3 6224 1231",
+              "reviews_count": 2,
+              "url": "http://www.datawise.com.au/",
+              "domain": "www.datawise.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 2,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "UXC Eclipse",
+              "description": "Software company",
+              "address": "3/21 Kirksway Pl, Hobart TAS 7004, Australia",
+              "phone": "+61 3 6235 2222",
+              "reviews_count": null,
+              "url": null,
+              "domain": null,
+              "rating": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\n\nThese four have identifiable Hobart locations. That is useful for workshops and onsite discovery, but **local presence alone doesn't prove specialist Dataverse capability**\\.\n\n## Who would I contact first?\n\nFor your specific warehouse, shop-floor or field-team requirements, my order would be\\:\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 18,
+          "text": null,
+          "markdown": "| Priority | Consultant | Main reason |\n|--------|--------|--------|\n| 1 | Ultron Developments | Strongest publicly documented examples of industrial and operational Power Apps |\n| 2 | Intuit Technologies | Local Tasmanian Microsoft partner to investigate for onsite delivery |\n| 3 | ISW | Local software engineering capability and broader integration options |\n| 4 | Walkerscott | National delivery for Power Platform and ERP-connected applications |\n| 5 | Power Platform Experts | Specialist Power Platform-focused alternative |\n\n",
+          "table": {
+            "table_header": [
+              "Priority",
+              "Consultant",
+              "Main reason"
+            ],
+            "table_content": [
+              [
+                "1",
+                "Ultron Developments",
+                "Strongest publicly documented examples of industrial and operational Power Apps"
+              ],
+              [
+                "2",
+                "Intuit Technologies",
+                "Local Tasmanian Microsoft partner to investigate for onsite delivery"
+              ],
+              [
+                "3",
+                "ISW",
+                "Local software engineering capability and broader integration options"
+              ],
+              [
+                "4",
+                "Walkerscott",
+                "National delivery for Power Platform and ERP-connected applications"
+              ],
+              [
+                "5",
+                "Power Platform Experts",
+                "Specialist Power Platform-focused alternative"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "markdown": "\nThe first choice is based on published project examples, while the local providers should be assessed through project references and a technical discussion. I couldn't establish a definitive market-share or independently verified ranking for Hobart.\n\n## What to ask before engaging a consultant\n\nFor operational apps, I would make these five questions part of your initial screening\\:\n\n- **Similar projects\\:** Can you demonstrate a live warehouse, production, inventory, inspection or field-service application you've built?\n- **Dataverse design\\:** How will you model items, locations, jobs, stock movements, equipment and audit history?\n- **Frontline usability\\:** Can the app work well on rugged handheld scanners, shared tablets and mobile phones? What happens when connectivity drops?\n- **Integration\\:** Can it connect to our ERP, inventory system, barcode hardware and reporting tools?\n- **Ownership and support\\:** Will we own the solution in our Microsoft tenant, including its source assets, documentation, deployment pipeline and support arrangements?\n\nOne particularly important point: if you need barcode scanning, reliable offline use, high-volume stock transactions or strict traceability, ask the consultant to demonstrate those features in a working prototype. Don't rely on a generic Power Apps demo.\n\n**My recommendation\\:** Start with Ultron for the directly relevant industrial use cases, then compare its proposal against a local provider such as Intuit Technologies or ISW. Ask all three to scope the same representative workflow so you can compare architecture, delivery cost, implementation risk and ongoing support on a like-for-like basis.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

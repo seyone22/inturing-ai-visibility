@@ -1,0 +1,186 @@
+{
+  "slug": "sydney",
+  "pk": "copilot_ai",
+  "plat": "aimode",
+  "text": "Which AI automation consultants in Sydney specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__copilot_ai__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:38.064Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Sydney specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20AI%20automation%20consultants%20in%20Sydney%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-29 04:03:32 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "In Sydney, `several specialist consultancies` focus on mid-market businesses looking to implement practical workflow automation, custom AI agents, and Microsoft Copilot Studio. Prominent local providers matching these capabilities include:[[1]](https://cgtech.com.au/locations/sydney/)[[2]](https://www.iotai.com.au/services/microsoft-copilot)[[3]](https://team400.ai/copilot-studio-consultants)\n\n- **CG Tech:** Operating locally across Sydney and New South Wales, CG Tech specialises in digital transformation, AI roadmaps, and practical workflow automation for mid-market businesses (typically 50 to 500 staff). Their expertise spans Microsoft 365, Power Platform automation, governance, and custom AI agent deployment. Learn more about their services on the [CG Tech Sydney AI Automation Page](https://cgtech.com.au/locations/sydney/).[[1]](https://cgtech.com.au/locations/sydney/)\n- **Team 400:** With a strong presence in Sydney, Melbourne, and Brisbane, Team 400 focuses directly on conversational AI and low-code agent building using Microsoft Copilot Studio. They build multi-turn agents, connect corporate knowledge bases (SharePoint, Dataverse) for generative answers, and handle multi-channel deployments (Teams, web) alongside governance. Check out their capabilities via Team 400 Copilot Studio Consultants.[[1]](https://team400.ai/copilot-studio-consultants)\n- **IOTAI:** An Australian digital consultancy that designs and deploys custom Microsoft Copilot agents tailored to the Microsoft 365 ecosystem. They focus on practical operational workflows—automating HR onboarding, IT helpdesks, and connecting Microsoft environments to accounting tools like Xero or MYOB. Review their offerings at IOTAI Microsoft Copilot Services.[[1]](https://www.iotai.com.au/services/microsoft-copilot)\n\nIf you'd like, share:\n\n- Your **approximate company size** or industry\n- Specific **Microsoft 365 licenses or tools** (e.g. Teams, Dynamics, SharePoint) you already use\n- Which **operational workflows** (HR, customer support, finance) you want to automate first\n\nI can help you narrow down which of these consultants aligns best with your goals.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Sydney, several specialist consultancies focus on mid-market businesses looking to implement practical workflow automation, custom AI agents, and Microsoft Copilot Studio. Prominent local providers matching these capabilities include:",
+              "markdown": "In Sydney, `several specialist consultancies` focus on mid-market businesses looking to implement practical workflow automation, custom AI agents, and Microsoft Copilot Studio. Prominent local providers matching these capabilities include:[[1]](https://cgtech.com.au/locations/sydney/)[[2]](https://www.iotai.com.au/services/microsoft-copilot)[[3]](https://team400.ai/copilot-studio-consultants)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "cgtech.com.au",
+                  "domain": "cgtech.com.au",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "text": "We put automation and AI to work in Sydney and New South Wales teams, taking real, repetitive work off your people so they can foc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.iotai.com.au",
+                  "domain": "www.iotai.com.au",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+                  "text": "Custom Copilot agents that automate HR, IT, sales, and operations across your Microsoft 365 environment. No code required."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Team 400",
+                  "domain": "team400.ai",
+                  "url": "https://team400.ai/copilot-studio-consultants",
+                  "title": "Copilot Studio Consultants. Custom AI Agent & Copilot Builders.",
+                  "text": "Based in Sydney, Brisbane, and Melbourne, we help Australian businesses design, build, and deploy conversational AI agents across ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "CG Tech: Operating locally across Sydney and New South Wales, CG Tech specialises in digital transformation, AI roadmaps, and practical workflow automation for mid-market businesses (typically 50 to 500 staff). Their expertise spans Microsoft 365, Power Platform automation, governance, and custom AI agent deployment. Learn more about their services on the CG Tech Sydney AI Automation Page. Team 400: With a strong presence in Sydney, Melbourne, and Brisbane, Team 400 focuses directly on conversational AI and low-code agent building using Microsoft Copilot Studio. They build multi-turn agents, connect corporate knowledge bases (SharePoint, Dataverse) for generative answers, and handle multi-channel deployments (Teams, web) alongside governance. Check out their capabilities via Team 400 Copilot Studio Consultants. Team 400 Copilot Studio Consultants IOTAI: An Australian digital consultancy that designs and deploys custom Microsoft Copilot agents tailored to the Microsoft 365 ecosystem. They focus on practical operational workflows—automating HR onboarding, IT helpdesks, and connecting Microsoft environments to accounting tools like Xero or MYOB. Review their offerings at IOTAI Microsoft Copilot Services. IOTAI Microsoft Copilot Services",
+              "markdown": "- **CG Tech:** Operating locally across Sydney and New South Wales, CG Tech specialises in digital transformation, AI roadmaps, and practical workflow automation for mid-market businesses (typically 50 to 500 staff). Their expertise spans Microsoft 365, Power Platform automation, governance, and custom AI agent deployment. Learn more about their services on the [CG Tech Sydney AI Automation Page](https://cgtech.com.au/locations/sydney/).[[1]](https://cgtech.com.au/locations/sydney/)\n- **Team 400:** With a strong presence in Sydney, Melbourne, and Brisbane, Team 400 focuses directly on conversational AI and low-code agent building using Microsoft Copilot Studio. They build multi-turn agents, connect corporate knowledge bases (SharePoint, Dataverse) for generative answers, and handle multi-channel deployments (Teams, web) alongside governance. Check out their capabilities via Team 400 Copilot Studio Consultants.[[1]](https://team400.ai/copilot-studio-consultants)\n- **IOTAI:** An Australian digital consultancy that designs and deploys custom Microsoft Copilot agents tailored to the Microsoft 365 ecosystem. They focus on practical operational workflows—automating HR onboarding, IT helpdesks, and connecting Microsoft environments to accounting tools like Xero or MYOB. Review their offerings at IOTAI Microsoft Copilot Services.[[1]](https://www.iotai.com.au/services/microsoft-copilot)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "CG Tech Sydney AI Automation Page",
+                  "description": null,
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "domain": "cgtech.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "cgtech.com.au",
+                  "domain": "cgtech.com.au",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "text": "We put automation and AI to work in Sydney and New South Wales teams, taking real, repetitive work off your people so they can focus on higher-value work."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Team 400",
+                  "domain": "team400.ai",
+                  "url": "https://team400.ai/copilot-studio-consultants",
+                  "title": "Copilot Studio Consultants. Custom AI Agent & Copilot Builders.",
+                  "text": "Microsoft Copilot Studio lets you build custom copilots and AI agents with low-code tooling, generative AI, and deep Microsoft 365 integration."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.iotai.com.au",
+                  "domain": "www.iotai.com.au",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+                  "text": "IOTAI designs and deploys custom Microsoft Copilot agents for Australian businesses on Microsoft 365, with development fees from $5,000 to $20,000 and basic agents..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, share:",
+              "markdown": "If you'd like, share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Your approximate company size or industry Specific Microsoft 365 licenses or tools (e.g. Teams, Dynamics, SharePoint) you already use Which operational workflows (HR, customer support, finance) you want to automate first",
+              "markdown": "- Your **approximate company size** or industry\n- Specific **Microsoft 365 licenses or tools** (e.g. Teams, Dynamics, SharePoint) you already use\n- Which **operational workflows** (HR, customer support, finance) you want to automate first",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you narrow down which of these consultants aligns best with your goals.",
+              "markdown": "I can help you narrow down which of these consultants aligns best with your goals.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "cgtech.com.au",
+              "domain": "cgtech.com.au",
+              "url": "https://cgtech.com.au/locations/sydney/",
+              "title": "AI Agents and Automation for Sydney Businesses",
+              "text": "We put automation and AI to work in Sydney and New South Wales teams, taking real, repetitive work off your people so they can focus on higher-value work."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Team 400",
+              "domain": "team400.ai",
+              "url": "https://team400.ai/copilot-studio-consultants",
+              "title": "Copilot Studio Consultants. Custom AI Agent & Copilot Builders.",
+              "text": "Microsoft Copilot Studio lets you build custom copilots and AI agents with low-code tooling, generative AI, and deep Microsoft 365 integration."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.iotai.com.au",
+              "domain": "www.iotai.com.au",
+              "url": "https://www.iotai.com.au/services/microsoft-copilot",
+              "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+              "text": "IOTAI designs and deploys custom Microsoft Copilot agents for Australian businesses on Microsoft 365, with development fees from $5,000 to $20,000 and basic agents..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

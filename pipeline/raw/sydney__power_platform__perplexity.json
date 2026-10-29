@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Sydney? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:02:45.902Z",
+  "cost": 0.006239,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 607,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005639,
+      "datetime": "2026-10-29 04:02:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "A strong Sydney shortlist is **SSW, Barhead (an Akkodis company), Professional Advantage, Coder Trove, Prometix, and Eagle360 Consulting**. The best fit depends on whether you need enterprise-scale delivery, governance, Dynamics 365 integration, or a smaller hands-on engineering team.\n\n- **SSW** — A well-established Microsoft consultancy with more than 1,000 clients across 15 countries, around 100 consultants, Microsoft-certified staff, MVPs, and a Microsoft Regional Director. A good choice for complex implementations, custom development, training, and broader Microsoft-stack work.[2]\n\n- **Barhead, an Akkodis company** — A prominent Sydney-based Microsoft consulting partner with substantial local scale and strong Dynamics 365 and Power Platform capability. It is worth considering for large organisations requiring structured delivery, enterprise integration, and ongoing managed services.[3][9]\n\n- **Professional Advantage** — A North Sydney-based consultancy specialising in identifying automation opportunities, building scalable Power Platform solutions, and enabling internal teams. It appears particularly suitable for organisations wanting both implementation and user adoption or capability uplift.[4]\n\n- **Coder Trove** — Sydney-headquartered and focused on Power Apps, Power Automate, Power BI, Copilot Studio, governance, and maintainable architecture. Its positioning around governed environments and solutions that scale beyond an initial app makes it a good fit for organisations concerned about platform sprawl and long-term support.[1]\n\n- **Prometix** — An Australian Microsoft consultancy serving private and government organisations, with ISO 27001:2022 certification reported in business listings. This makes it a sensible candidate where security, compliance, and public-sector delivery experience are important.[3][5]\n\n- **Eagle360 Consulting** — Based in North Sydney and focused on production-grade Power Platform applications and Copilot agents, including integrations with Dynamics 365 Business Central. Its emphasis on architecture, governance, ALM, and testing suits mid-market organisations that want engineering discipline rather than informal citizen-development support.[6]\n\n## Practical shortlist by requirement\n\n| Requirement | Best starting points |\n|---|---|\n| Large enterprise or complex Microsoft transformation | Barhead, SSW |\n| Governance, security, and scalable Power Platform | Coder Trove, Eagle360 |\n| Automation and internal capability building | Professional Advantage, SSW |\n| Government or compliance-sensitive work | Prometix, Barhead |\n| Business Central plus Power Platform/Copilot | Eagle360 |\n| Smaller, focused Power Platform engagement | Coder Trove, Eagle360 |\n\nBefore selecting one, ask each firm for two comparable Sydney or Australian case studies, the proposed delivery team’s Microsoft certifications, its approach to Dataverse security and environment strategy, ALM and source control practices, post-go-live support terms, and a fixed-price discovery proposal. Microsoft partner designations and staff certifications should be verified directly during procurement, since capabilities and ownership can change.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Australia",
+                  "url": "https://www.codertrove.com/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform consulting companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting - Professional Advantage",
+                  "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & Copilot",
+                  "url": "https://eagle360.consulting/power-platform-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find a Location",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform developers based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-developers/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform partners based in Australia",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 24 Microsoft power platform companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

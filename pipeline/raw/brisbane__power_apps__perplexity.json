@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Brisbane for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:28.529Z",
+  "cost": 0.006268,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 632,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005668,
+      "datetime": "2026-10-29 04:05:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane-based or Brisbane-serving delivery, the strongest shortlist is:\n\n- **Grassroots IT** — A genuinely Brisbane-based Microsoft partner in Milton, suited to organisations with multiple sites, field teams, and compliance requirements. Its Power Apps practice covers Dataverse, Power Automate, Power BI, governance, and ongoing managed support.[2]\n- **Ultron Developments** — A strong fit for warehouse, manufacturing, mining, and field operations. Its examples include inventory and barcode-scanning apps, procurement workflows, shop-floor quality control, offline field-technician apps, and Dataverse-based canvas/model-driven solutions.[1][3]\n- **Power Platform Experts Brisbane / Office Experts** — A local Brisbane team offering custom Power Apps, Dataverse, Power Automate, Power BI, and Power Pages work, with named staff covering business analysis, UX, Dataverse, and implementation.[10]\n- **Dynamics Square Australia** — Worth considering where the app must connect closely with Dynamics 365, ERP, or broader Microsoft Business Applications. It has a Brisbane office in Darra and provides Power Apps implementation, integration, support, and audit services.[9]\n- **Alphavima** — A Microsoft Solutions Partner with Brisbane-focused Power Platform services. Its stated use cases include inspections, inventory, field data collection, approvals, mobile/offline forms, and operational job-costing workflows.[4][6][8]\n- **OfficePro Consulting** — A good specialist option for field and mobile apps, including site inspections, job logging, photo capture, offline use, and Dataverse model-driven apps for operational tracking and case management. It is Australia-based rather than clearly Brisbane-based, so confirm onsite availability.[7]\n- **Rishabh Software** — A larger distributed development provider suited to more complex or industrial deployments. Its Power Apps offering covers inventory, inspections, field service, Dataverse model-driven apps, and industrial workflows, but Brisbane-local delivery should be verified.[5]\n\n## Best fit by requirement\n\n| Requirement | Shortlist |\n|---|---|\n| Brisbane-local partner and ongoing IT support | Grassroots IT; Power Platform Experts Brisbane |\n| Warehouse, barcode, inventory, or manufacturing apps | Ultron Developments; Alphavima |\n| Field crews, offline forms, inspections, photos, signatures | Ultron Developments; OfficePro; Alphavima |\n| Dynamics 365 or ERP-connected business apps | Dynamics Square; Alphavima |\n| Complex industrial or enterprise-scale delivery | Ultron Developments; Rishabh Software |\n| Smaller specialist app build with Dataverse architecture | Power Platform Experts Brisbane; OfficePro |\n\nFor an initial tender, invite **Grassroots IT, Ultron Developments, Power Platform Experts Brisbane, and Dynamics Square**. Add **Alphavima** if offline/mobile field workflows or job-costing are central. Require each bidder to demonstrate a working prototype covering offline behaviour, barcode or photo capture, Dataverse security roles, integration with the existing ERP/WMS, audit history, licensing, and post-launch support.",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia | Custom Business Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps Support",
+                  "url": "https://www.grassrootsit.com.au/app-support/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia | Enterprise Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consulting-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD | Alphavima",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps development services - Rishabh Software",
+                  "url": "https://www.rishabhsoft.com/microsoft-powerapps-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Developer in Brisbane, QLD",
+                  "url": "https://alphavima.com/power-platform/power-apps-developer-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps Development | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD - Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform-2/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps Partner | Demo & Pricing | Dynamics Square",
+                  "url": "https://www.dynamicssquare.com.au/solutions/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Brisbane",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

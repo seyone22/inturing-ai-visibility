@@ -1,0 +1,477 @@
+{
+  "slug": "brisbane",
+  "pk": "power_apps",
+  "plat": "gemini",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Brisbane for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_apps__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:56.201Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft Power Apps and Dataverse partner in Brisbane for frontline operations (warehouses, shop floors, and field teams), you need a consultant who understands both **Dataverse relational architecture** and the practical realities of deskless environments—such as **offline data sync, barcode/RFID scanning, rugged device UI design, and ERP integration**.\n\nThe leading consultancies serving Brisbane can be divided into enterprise leaders and specialized operational consultancies:\n\n---\n\n### 1. Enterprise Leaders & Heavy Field/Operational Specialists\n\n* **Velrada (Part of NRI Australia)**\n  * **Best for:** Heavy industry, asset maintenance, complex field logistics, and utilities.\n  * **Profile:** A premier Microsoft Solutions Partner with a Brisbane team, Velrada is globally recognized for **Field Service and frontline operations**. They excel at connecting Power Apps and Dataverse to wider ERP systems (such as Dynamics 365 F&O or SAP) for field workers, dispatch, and physical asset management.\n  * **Key Strengths:** Dedicated IP for mobile workforce scheduling, offline-capable field inspection apps, and mission-critical shop-floor tracking.\n\n* **Data#3**\n  * **Best for:** Large enterprise rollouts and end-to-end Microsoft ecosystem integration.\n  * **Profile:** **Headquartered in Brisbane**, Data#3 is one of Australia’s largest and most decorated Microsoft Solutions Partners. Their Business Applications and Modern Workplace practices specialize in modernizing legacy spreadsheets, paper forms, and Lotus Notes/Access databases into governed Power Platform solutions.\n  * **Key Strengths:** Strong governance (Power Platform CoE), enterprise Dataverse architecture, frontline worker licensing optimization, and device-management tie-in (Intune/ruggedized hardware).\n\n* **Barhead Solutions**\n  * **Best for:** Rapid operational digitization, custom frontline workflows, and Dynamics 365 integration.\n  * **Profile:** Barhead is a Microsoft Business Applications pure-play with an active presence in Brisbane. They regularly deploy canvas and model-driven Power Apps backed by Dataverse for supply chain workflows, material receipting, and mobile field reporting.\n  * **Key Strengths:** Exceptional Dataverse design capabilities, user-centric canvas app interfaces for mobile phones/tablets, and pre-built operational accelerators.\n\n---\n\n### 2. Specialized & Boutique Consultancies (Shop-Floor & Field Focus)\n\n* **Inturing**\n  * **Best for:** Targeted warehouse, workshop, and field replacement of paper/Excel.\n  * **Profile:** Inturing focuses on operational business applications for Australian wholesale, manufacturing, and trade operations. They specifically target shop-floor check-ins, stocktaking, inventory replenishment, and field service workflows built on Power Apps and Dataverse.\n  * **Key Strengths:** Agile delivery, deep understanding of physical warehouse/shop-floor pain points, and rapid transition from paper checklists to tablet-based apps.\n\n* **OfficePro Consulting**\n  * **Best for:** Trades, construction, field inspections, and job dispatch.\n  * **Profile:** A specialist Australian consultancy delivering custom Power Apps for teams away from a desk. They build mobile canvas apps configured with Dataverse offline sync, camera defect capture, and task sign-offs for phones and tablets.\n  * **Key Strengths:** Offline capability, automated PDF report generation, and practical, low-friction mobile forms.\n\n* **Rapid Circle**\n  * **Best for:** Frontline worker enablement and hybrid cloud/operations apps.\n  * **Profile:** Operating out of Brisbane, Rapid Circle is a top-tier Microsoft partner that emphasizes user adoption for frontline workforces, delivering field inspection apps, asset registers, and mobile health and safety audit tools.\n  * **Key Strengths:** Frontline persona research, change management, and connecting field apps into Power BI dashboards and Microsoft Teams.\n\n* **Technology Cue & C9 Solutions**\n  * **Best for:** Mid-market custom app development and workflow automation.\n  * **Profile:** Both are Brisbane-based consultancies specializing in custom Power Apps engineering. They help mid-sized businesses replace disjointed operational spreadsheets with centralized Dataverse models and Power Automate flows.\n\n---\n\n### Key Questions to Ask Prospective Partners\n\nWhen vetting a consultant for warehouse, manufacturing, or field apps:\n\n1. **How do you handle offline mode?**\n   * Operational apps frequently lose connectivity (e.g., in a deep warehouse aisle or remote site). Ask whether they implement **Dataverse Mobile Offline profiles** natively or handle caching manually.\n2. **What is their hardware and peripheral experience?**\n   * Ensure they have experience configuring native barcode scanning, camera capture, GPS stamping, or integrating with ruggedized industrial scanners (e.g., Zebra or Honeywell devices).\n3. **Dataverse Architecture vs. SharePoint:**\n   * Inexperienced builders often default to using SharePoint lists as a database, which will break under warehouse-scale data volume and lacks relational integrity. Verify that their team designs relational schemas, uses native Dataverse tables, and leverages security roles properly.\n4. **ERP/Inventory System Connectivity:**\n   * Check how they plan to sync data back to your main ERP/WMS (e.g., via Virtual Tables, custom REST connectors, or Azure Logic Apps).",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead+Solutions%22+Brisbane+Power+Apps+Dataverse&client=app-vertex-grounding&safesearch=active\">&quot;Barhead Solutions&quot; Brisbane Power Apps Dataverse</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Apps+consultants+Brisbane+Dataverse+operational+warehouse+field+teams&client=app-vertex-grounding&safesearch=active\">Microsoft Power Apps consultants Brisbane Dataverse operational warehouse field teams</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Velrada%22+Brisbane+field+operations+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;Velrada&quot; Brisbane field operations Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Power+Apps+Dataverse+operational+frontline&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Power Apps Dataverse operational frontline</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consulting+Brisbane+field+service+warehouse&client=app-vertex-grounding&safesearch=active\">Power Platform consulting Brisbane field service warehouse</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAK5pRjtzlYHWFz1SebKkPiX9dBZdF4ZBEEUy_TRzsGcEPGE8B5cbKCalInyFNWYIdtpN126bedLuu6U32YvaP0Zfyynh9OHKXP63aCC2Mfylakr4CcFOhv7YfmJqm7w=",
+                "title": "highperformr.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqunB_nFOcUgMRVX1NFUIL74dBQI7Nd883Kn5CaT2zTPPf0iF18-5l-Jd00FFdek0b3bjO5I6CELZvshiqRERqK0_18V_Kd_PCqGUt8iVc_mOB11Fap9lTDnTs2dY6TKny8UiNQsE=",
+                "title": "nzapps.co.nz"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAjswZ_Mdd7sOKYdJ0ewC5T-qbD0V0k1kS9KnaOHN3iVX_J_FKPq3IDjvyrVUn78Ko5Zkzeoa67OD3LYC4mrDrMv7v_tSNnGkl",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTPNUxmZlHbGUkdjezelQzMXds74LLC6bpvMKMXv2LlxNrdYFAiX9iH4BStL88Y0esuM_CaHFAYtvMbQ-CULyEcMV3oGeg34mA34VU1k4y-FjyU2kHx9e7lrtKu4_41ut18PyIkjtoozkUr-YKCmkClNfBRQnMSKcIUfVSyPLuP7MoOnA65kCstUk_nvPV1F89T_P7hjVmJtWoWXPpraO-lEF8ARjKRbc0q12Nwq56sKIbfKcXiEKOC004TboUcyze1B5WuRrYuSj7zFzjiZSy",
+                "title": "service.gov.uk"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVCDme87aY9SEy3mFqx7phn7yhhJnp_6R7ihN9HmHIU4SaLUfM70O04NaAgPzWNJ17ifYBd-f9UEkwBgbAe1ad6y53lX9nuCbzEa9CsYPvQS8cdh8gkzfuXbWqpIh9u2R",
+                "title": "trustpilot.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm8oRisvDQo1vxCUF0c3SLgnt6STWD5ySJcIlfIknf7daVzxwQ0uDzvL_OYPTWwt9GaX3sZ2qHTGBqqcbRcifB4rzBHTuNGX48gsc-qzzXDTNQRylJdtzcmdsShSh-qngsKwZo1dhhStf2rAD1VNkT5ABQ6PATRnGWklAZ2G4O-kCfogI2FuAwwSHgPtm0lZrAXF6tDuUKme9oKaOd81IGH7v5GA==",
+                "title": "unisys.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG41gjAFo_kKFIijMWREE_L_YHp0QWC61gH7OyBvvJC1LWmE5dAS0DJh-rnK-jjayjIubH30_2NtGc9lShXc5mvd6VKyarFFFBc9lA6kyN4cX-AoYtMZwgCcFIRUv5IaG8p0AWmn34HnnQ39pNRM1AoDH_MF5SLz_Jv2eLpidnp4tmPeUJ_ZXp4RwybXQY8puGmnhnN",
+                "title": "datadaur.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAbyEyffgXXfS4cfZcba3o2m8PnYsqc1pWsQGPgMtDAQCgZCNPUTSuJPKsURbUtKRwO_-CYnZCqMlYAwnz3v1UGbojX8N2APwpFTziyhCHbN32NeGaGUtBvz_-RTYGGIWTCuA=",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEip-vW_HnMkxiTLWp1Ff3lS3IAVGnrQVa7wg-3qsMb8ACtrQclc4NRiU3rda9nT3nIZCpV9o_7eaJGFrHPhjio_vEy7qQxamUVB72Gdqndm3lpUFt7Pw7kzO-qoT3L-Bo9lZX8",
+                "title": "1dynamics.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSLfv5nXsEHwleCihTWuD5k9GlVx_HEbm1ctrgA52q41vEK-roDWHP4LCvFzsCbkGM6h7SL85eFXpX56GkTNqF7vx7gZa_TTYrlRw6sbdxxkOlgZEu7FLhTTsXxWls9IRbQEhegMbVVlpfIYYDA3Y=",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT3FC4aTBKPeLVz0Ja81G1tKUHytBvfgVvtHd6foPy34dw4_Tyh3TKFDKz5WPphVpZ_Y4O63jGdFxZ0myrs7Zuh6bKdu0q4HcadjdnxL8qW9juRf7f3cm4gVQbjV3XTwMu",
+                "title": "1dynamics.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Nd7_IcGkmfpiM4gNUZc_cmxfvc_l7ObAA_BaGU5Ku3szojItNXKzWwqbglbno-9tP1Z4wf2NJNnpAMv6rAKlbq_hP0lw0eYiggu16vJiO-bsnYy1jdpDbmHNJRR_lzUZ9uRAs0U2jjIRZFmSKf6jLKZnfVJ4NTB1Dcm42VuxZ5vFBly0M6DRplfq",
+                "title": "officeproconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWubh4e7PyHqGLEMyIka6i0kSTrYNmt7O5iKHd84MzVt3wm-vI5dOD8yXxw5HXx2K0TEG8ve9QjVa-n8YxosSvSVZgl5iD_v_Mp9mdqMx_gMs=",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEizdeEVMnA8I1hv_mJ9qypZpQDOqHJlt0aF5l9bDYA0R_4Um_skCvk8aQaiujav7rYdFWT3YO_aJyu-vc_l1kgQHYJi5Kzenh1AZGz7EQlqs4PoGFOS0cb0nKbyA_tqgPw20BUnQ==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy0mqZRtdEkF_vcl2mdRCDlldUY62db5LZCo-dxS5kGJIiO4yzJm_6VLFhZoo8TNyP0i74HvDtVVQWzSe3DicmbH1WFXwF6dwN3Y4fbju4sT-_Dul_ucais1wKKRyppjbdvw==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQT3biLyGpINLvtli-ejbAWceH_8J9EYjKhpTBYuuWwI8E4IkZphqwF91qBgEyJdrAyOT42h0e9peeIs7AuaX4xdNIzDLMFNTJRM7CgRo8Vzg35zBP5QKPZ__8gUb127JMlLJcXWmTN9DYZS89IiBSobI=",
+                "title": "technologycue.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRr_JgeqYf4T-r3eMfn4-PJng8GhBD-ee3zes0AIJN08WORj2LSeqWCS7YUATbJuxrLYjbwAUuP7JcXVtgeZPeNF2ARnYbdYsSXDsusqfb-E3Z812FFloTNZjotKirikw09On8GtNc2MLmmaf5JIEZqCy6poaLveEnFg==",
+                "title": "c9.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQT3biLyGpINLvtli-ejbAWceH_8J9EYjKhpTBYuuWwI8E4IkZphqwF91qBgEyJdrAyOT42h0e9peeIs7AuaX4xdNIzDLMFNTJRM7CgRo8Vzg35zBP5QKPZ__8gUb127JMlLJcXWmTN9DYZS89IiBSobI=",
+                "title": "technologycue.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO96uBrVd6QFh_X6LGx3-IG5rsStRa9mQOGyZ5jnLm0RMvqETnf9hmis3J2wOb1-s2wz6nwsQFBMkuim-RDUsy1KU2h6slkKffZQ7jC5385FGpPlUQVNpu5RJI3SgelZ3ssGGqC4JBEpAbRhupZqL1mODCwj7HpBfXg-U-2H4=",
+                "title": "netlumait.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxaizijSUCmAtm_RRhw4S-v01fY4CNgfswjybx9xrsqNhKgNZ59s_4VF0NMelXtF07deP8veEbbe-Eq1ssTmSSqD6dkj141ddmlFw235A79hrMUiRzzEjjr56Gkvm0w==",
+                "title": "vb-analyst.de"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 616,
+                "endIndex": 703,
+                "text": "**Best for:** Heavy industry, asset maintenance, complex field logistics, and utilities"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 709,
+                "endIndex": 780,
+                "text": "**Profile:** A premier Microsoft Solutions Partner with a Brisbane team"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 709,
+                "endIndex": 859,
+                "text": "**Profile:** A premier Microsoft Solutions Partner with a Brisbane team, Velrada is globally recognized for **Field Service and frontline operations**"
+              },
+              "groundingChunkIndices": [
+                4,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 861,
+                "endIndex": 1024,
+                "text": "They excel at connecting Power Apps and Dataverse to wider ERP systems (such as Dynamics 365 F&O or SAP) for field workers, dispatch, and physical asset management"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1286,
+                "endIndex": 1416,
+                "text": "**Profile:** **Headquartered in Brisbane**, Data#3 is one of Australia’s largest and most decorated Microsoft Solutions Partners"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1614,
+                "endIndex": 1806,
+                "text": "**Key Strengths:** Strong governance (Power Platform CoE), enterprise Dataverse architecture, frontline worker licensing optimization, and device-management tie-in (Intune/ruggedized hardware)"
+              },
+              "groundingChunkIndices": [
+                6,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1837,
+                "endIndex": 1939,
+                "text": "**Best for:** Rapid operational digitization, custom frontline workflows, and Dynamics 365 integration"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1945,
+                "endIndex": 2048,
+                "text": "**Profile:** Barhead is a Microsoft Business Applications pure-play with an active presence in Brisbane"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2050,
+                "endIndex": 2202,
+                "text": "They regularly deploy canvas and model-driven Power Apps backed by Dataverse for supply chain workflows, material receipting, and mobile field reporting"
+              },
+              "groundingChunkIndices": [
+                6,
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2208,
+                "endIndex": 2268,
+                "text": "**Key Strengths:** Exceptional Dataverse design capabilities"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2208,
+                "endIndex": 2330,
+                "text": "**Key Strengths:** Exceptional Dataverse design capabilities, user-centric canvas app interfaces for mobile phones/tablets"
+              },
+              "groundingChunkIndices": [
+                11,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2208,
+                "endIndex": 2370,
+                "text": "**Key Strengths:** Exceptional Dataverse design capabilities, user-centric canvas app interfaces for mobile phones/tablets, and pre-built operational accelerators"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2469,
+                "endIndex": 2549,
+                "text": "**Best for:** Targeted warehouse, workshop, and field replacement of paper/Excel"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2555,
+                "endIndex": 2683,
+                "text": "**Profile:** Inturing focuses on operational business applications for Australian wholesale, manufacturing, and trade operations"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2685,
+                "endIndex": 2831,
+                "text": "They specifically target shop-floor check-ins, stocktaking, inventory replenishment, and field service workflows built on Power Apps and Dataverse"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2837,
+                "endIndex": 3000,
+                "text": "**Key Strengths:** Agile delivery, deep understanding of physical warehouse/shop-floor pain points, and rapid transition from paper checklists to tablet-based apps"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3034,
+                "endIndex": 3105,
+                "text": "**Best for:** Trades, construction, field inspections, and job dispatch"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3111,
+                "endIndex": 3215,
+                "text": "**Profile:** A specialist Australian consultancy delivering custom Power Apps for teams away from a desk"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3217,
+                "endIndex": 3351,
+                "text": "They build mobile canvas apps configured with Dataverse offline sync, camera defect capture, and task sign-offs for phones and tablets"
+              },
+              "groundingChunkIndices": [
+                11,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3357,
+                "endIndex": 3469,
+                "text": "**Key Strengths:** Offline capability, automated PDF report generation, and practical, low-friction mobile forms"
+              },
+              "groundingChunkIndices": [
+                11,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3992,
+                "endIndex": 4063,
+                "text": "**Best for:** Mid-market custom app development and workflow automation"
+              },
+              "groundingChunkIndices": [
+                15,
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4069,
+                "endIndex": 4165,
+                "text": "**Profile:** Both are Brisbane-based consultancies specializing in custom Power Apps engineering"
+              },
+              "groundingChunkIndices": [
+                15,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4167,
+                "endIndex": 4300,
+                "text": "They help mid-sized businesses replace disjointed operational spreadsheets with centralized Dataverse models and Power Automate flows"
+              },
+              "groundingChunkIndices": [
+                15,
+                6,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4471,
+                "endIndex": 4565,
+                "text": "Operational apps frequently lose connectivity (e.g., in a deep warehouse aisle or remote site)"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4731,
+                "endIndex": 4911,
+                "text": "Ensure they have experience configuring native barcode scanning, camera capture, GPS stamping, or integrating with ruggedized industrial scanners (e.g., Zebra or Honeywell devices)"
+              },
+              "groundingChunkIndices": [
+                6,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5125,
+                "endIndex": 5243,
+                "text": "Verify that their team designs relational schemas, uses native Dataverse tables, and leverages security roles properly"
+              },
+              "groundingChunkIndices": [
+                6,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5292,
+                "endIndex": 5422,
+                "text": "Check how they plan to sync data back to your main ERP/WMS (e.g., via Virtual Tables, custom REST connectors, or Azure Logic Apps)"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Barhead Solutions\" Brisbane Power Apps Dataverse",
+            "Microsoft Power Apps consultants Brisbane Dataverse operational warehouse field teams",
+            "\"Velrada\" Brisbane field operations Power Platform",
+            "\"Data#3\" Power Apps Dataverse operational frontline",
+            "Power Platform consulting Brisbane field service warehouse"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 742,
+      "candidatesTokenCount": 1413,
+      "totalTokenCount": 3448,
+      "cachedContentTokenCount": 224,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 742
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 224
+        }
+      ],
+      "thoughtsTokenCount": 1293,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "AMbiat6ODNTF694PnsfywAU"
+  }
+}

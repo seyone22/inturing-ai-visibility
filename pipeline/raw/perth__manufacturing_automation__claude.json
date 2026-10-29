@@ -1,0 +1,272 @@
+{
+  "slug": "perth",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Perth looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:02.886Z",
+  "cost": 0.061876,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9912,
+      "output_tokens": 1436,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061276,
+      "datetime": "2026-10-29 04:06:57 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! As a Perth-based manufacturer looking to automate order processing, shop-floor data capture, and operations **without replacing your ERP**, the Microsoft Power Platform (Power Apps, Power Automate, Power BI) is an ideal layer to sit on top of your existing ERP and connect your systems. Here are the consultants best positioned to help you:\n\n---\n\n## 🏭 Recommended Automation & Power Platform Consultants for Perth Manufacturers\n\n---\n\n### 1. 🥇 Ultron Developments *(Perth-based — Top Pick for Manufacturers)*\n**Website:** ultrondevelopments.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron is an Australian Microsoft consultancy based in Perth",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them an ideal local partner. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron focuses on Microsoft 365 and Power Platform projects where the goal is measurable business improvement, not technology for its own sake, and they support Perth and WA organisations with local context where needed.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultant Australia",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consultant-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nFor manufacturers specifically, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they can build role-based applications and automated workflows for field, office, and operational teams, backed by controlled data and identity — replacing forms, email approvals, and operational spreadsheets.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir capabilities include ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Apps consulting for structured forms, operational apps and internal portals; Power Automate consulting for approvals, notifications, integrations and scheduled tasks; and Power BI consulting for dashboards, data models and reporting automation.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultant Australia",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consultant-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nCritically for your ERP-retention requirement, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultron designs, builds, integrates and supports Microsoft business systems — turning spreadsheet-heavy processes, disconnected approvals, unreliable reporting and hard-to-use internal services into governed solutions your team can operate and improve.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consulting Australia",
+                  "url": "https://ultrondevelopments.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📞 Enquiries go directly to an Australian consultant.\n\n---\n\n### 2. 🥈 Power Platform Experts Perth *(Operating Since 2000)*\n**Website:** powerplatformexperts.com.au | 📞 1300 102 810\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Microsoft Power Platform consultants specialise in business automation solutions and custom application development, delivering results in workflow automation, interactive business apps, and data analytics — with 25+ years helping businesses streamline operations with Power BI, Apps, Pages, and Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Perth consultants implement Power Platform solutions for businesses throughout Western Australia, developing custom Power Apps, Power Automate workflows, Power BI dashboards, and Power Pages portals.",
+              "annotations": [
+                {
+                  "title": "Australia's Trusted Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/locations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team is renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services across Power Automate, Power Apps, Power BI, and Power Pages.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🥉 OfficePro Consulting *(Australia-wide, Strong Automation & Integration Focus)*\n**Website:** officeproconsulting.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting designs, builds and supports Power Automate solutions for Australian businesses of all sizes.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly strong on integration, as ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Automate connects to over 1,000+ applications including SharePoint, Teams, Outlook, Salesforce, Xero and hundreds of others",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — which is highly relevant if you need to bridge your ERP with shop-floor capture tools or order management systems.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro designs, builds and supports automated workflows that connect your apps and services, replace manual processes and reduce errors across your operations.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. Concetto Labs *(Power Platform Development, Perth)*\n**Website:** concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Automate creates smooth workflows between several applications and services in the cloud and automates tedious tasks — decreasing manual work and lowering mistakes. Companies trying to streamline their procedures can get customised automation solutions from this Power Platform consulting firm in Perth.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Perth",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nThey also offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "help with Power Platform licensing, governance policies, and compliance.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Perth",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Things to Discuss With Any of These Consultants\n\nWhen you reach out, make sure to cover:\n\n| Topic | Why It Matters |\n|---|---|\n| **ERP connector/API availability** | They need to assess how Power Automate can integrate with your specific ERP (e.g., SAP, MYOB Acuity, Pronto, Epicor, etc.) |\n| **Shop-floor data capture** | Power Apps canvas apps can run on tablets/mobile devices on the factory floor — offline-capable |\n| **Order processing automation** | Power Automate can trigger workflows from ERP events, emails, or forms |\n| **Power BI reporting** | Real-time dashboards pulling data from your ERP without replacing it |\n| **Dataverse vs. ERP as system of record** | Important architectural decision for data integrity |\n\n---\n\n**My recommendation:** Start with **Ultron Developments** (Perth-based, manufacturing-aware, ERP integration experience) and **Power Platform Experts Perth** (long track record, local team). Both can assess your ERP's integration capabilities before committing to a solution design.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Perth Australia",
+        "ERP integration automation consultants manufacturing Perth Western Australia"
+      ]
+    }
+  ]
+}

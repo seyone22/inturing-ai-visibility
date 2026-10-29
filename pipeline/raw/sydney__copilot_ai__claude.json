@@ -1,0 +1,416 @@
+{
+  "slug": "sydney",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Sydney specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:00.272Z",
+  "cost": 0.069625,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11260,
+      "output_tokens": 1683,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.069025,
+      "datetime": "2026-10-29 04:03:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here's a rundown of the top AI automation consultants serving Sydney businesses that specialise in **Microsoft Copilot Studio, AI agents, and practical workflow automation** for mid-market organisations:\n\n---\n\n## 🏆 1. **Frontrow Technology**\n🌐 [frontrowtech.com.au](https://frontrowtech.com.au/ai-consultant-sydney)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow Technology runs AI strategy, Copilot rollouts, Copilot Studio agents, and AI governance for Sydney mid-market businesses — led by a 5× Microsoft MVP.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Sydney — Microsoft MVP-led strategy, Copilot and agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The AI lead, Daniel Brown, is a 5× Microsoft MVP and a Microsoft Certified Agentic AI Business Solutions Architect, who leads every Copilot engagement nationally, including Copilot Studio and custom-agent work.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Sydney — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their \"Shape 2\" engagement runs 8–14 weeks and covers M365 Copilot deployment with SharePoint hygiene and Purview labels, or a first Copilot Studio or Azure AI Foundry agent in production.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Sydney — Microsoft MVP-led strategy, Copilot and agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A full deployment including identity remediation, data readiness, Purview labels, pilot and rollout typically lands between $60k and $180k for a mid-market tenant, excluding Copilot licence costs.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Sydney — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow consultants travel to Sydney for kick-off, pilot launch, executive sponsor sessions and quarterly business reviews, with configuration and build happening remotely on a weekly Teams cadence.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Sydney — Microsoft MVP-led strategy, Copilot and agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n> ⚠️ Note: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow is not Sydney-based — their offices are in Brisbane, Mackay, Townsville and Adelaide",
+              "annotations": [
+                {
+                  "title": "AI Consultant Sydney — Microsoft MVP-led strategy, Copilot and agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", but they are a strong specialist option for Sydney mid-market.\n\n---\n\n## 🥈 2. **CG Tech**\n🌐 [cgtech.com.au](https://cgtech.com.au/locations/sydney/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CG Tech are automation and AI consultants in Sydney with senior people on the ground for New South Wales, working across Microsoft 365, Power Platform and AI agents.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help Sydney and New South Wales teams put AI agents and automation to work, taking repetitive work off people so they can focus on higher-value tasks.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- They have real-world case studies, including: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "building an AI agent for a ports operator that reads email attachments and websites, files scheduling data automatically, and flags changes to stakeholders.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also built a Copilot Studio voice AI agent for an outside school hours care provider, helping directors handle policy calls from centre managers.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most work starts with a short, fixed-price discovery, and they reply within 4 business hours.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🥉 3. **Team 400**\n🌐 [team400.ai](https://team400.ai)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Team 400 is recognised as Australia's leading AI partner for mid-market companies, specialising in helping businesses with 50–500 employees implement practical AI solutions that deliver measurable ROI, combining enterprise-grade AI capabilities with agility and personalised service.",
+              "annotations": [
+                {
+                  "title": "AI Agency, AI Consultants, AI Agent Builders",
+                  "url": "https://team400.ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They design and deploy custom Copilots with Microsoft Copilot Studio — conversational AI agents tailored to your business workflows.",
+              "annotations": [
+                {
+                  "title": "AI Agency, AI Consultants, AI Agent Builders",
+                  "url": "https://team400.ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team includes Microsoft MVP-level engineers with early access to Copilot Studio capabilities and direct relationships with Microsoft's AI and Power Platform teams.",
+              "annotations": [
+                {
+                  "title": "Copilot Studio Consultants Australia - Custom AI Agents & Copilots",
+                  "url": "https://team400.ai/copilot-studio-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They build end-to-end AI agents for document processing, customer service, compliance workflows, data extraction, and operational automation — running in production today for real businesses.",
+              "annotations": [
+                {
+                  "title": "Top AI Consultants in Australia (2026)",
+                  "url": "https://team400.ai/blog/2026-04-top-ai-consultants-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Senior Copilot Studio specialists are based in Sydney, Melbourne, and Brisbane.",
+              "annotations": [
+                {
+                  "title": "Copilot Studio Consultants Australia - Custom AI Agents & Copilots",
+                  "url": "https://team400.ai/copilot-studio-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 4. **365 Digital Consulting**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "365 Digital Consulting is best for businesses already running on Microsoft 365, offering Copilot readiness assessments, Copilot implementation, and AI agents built in Copilot Studio.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Companies Sydney: How to Choose (2026)",
+                  "url": "https://aifirstpartners.com.au/blog/ai-consulting-companies-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also cover Power Automate workflows, SharePoint, Dynamics 365 CRM, and Xero integration.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Companies Sydney: How to Choose (2026)",
+                  "url": "https://aifirstpartners.com.au/blog/ai-consulting-companies-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They state 18 years of experience, with consultants in Australia, the UK, Canada, and the USA, plus remote developers.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Companies Sydney: How to Choose (2026)",
+                  "url": "https://aifirstpartners.com.au/blog/ai-consulting-companies-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 5. **Affinity MSP / Copilot Solutions**\n🌐 [copilotsolutions.com.au](https://copilotsolutions.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Affinity MSP positions itself as Australia's leading Microsoft Copilot Studio partner, with 200+ deployments across IT, Finance, HR, and Customer Service.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their 2025 client cohort averaged positive ROI in 47 days, with some seeing it in three weeks.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔍 How to Choose\n\n| Factor | What to Look For |\n|---|---|\n| **Microsoft credentials** | MVP status, certified Microsoft partner |\n| **Mid-market fit** | Experience with 50–500 employee businesses |\n| **Delivery model** | Senior-led (not junior pass-through) |\n| **Scope** | Strategy + build + governance, not just slides |\n| **Proof** | Real production case studies, not demos |\n\nFor pure **Copilot Studio + AI agents + practical workflow automation** for Sydney mid-market, **Frontrow Technology**, **CG Tech**, and **Team 400** are the strongest specialist options worth evaluating first.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Sydney Microsoft Copilot Studio AI agents mid-market",
+        "Microsoft Copilot Studio AI workflow automation consultants Sydney Australia"
+      ]
+    }
+  ]
+}

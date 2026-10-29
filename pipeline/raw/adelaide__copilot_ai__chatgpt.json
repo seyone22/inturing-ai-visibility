@@ -1,0 +1,846 @@
+{
+  "slug": "adelaide",
+  "pk": "copilot_ai",
+  "plat": "chatgpt",
+  "text": "Which AI automation consultants in Adelaide specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__copilot_ai__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:00.313Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Adelaide specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20AI%20automation%20consultants%20in%20Adelaide%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hints=search",
+      "datetime": "2026-10-29 04:08:54 +00:00",
+      "markdown": "# Best AI automation consultants in Adelaide for Microsoft Copilot Studio and AI agents\n\nFor a mid-market business in Adelaide, I'd shortlist consultancies that can do more than deploy Microsoft 365 Copilot: they should be able to build **custom Copilot Studio agents, automate end-to-end business workflows, integrate with existing systems, and put appropriate security and governance controls in place.**\n\nBased on my web research, these are the strongest candidates to investigate. I've prioritised firms with explicit evidence of Microsoft Copilot Studio, AI-agent development or practical workflow automation, rather than general AI strategy alone.\n\n## Recommended shortlist\n\n![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)\n\n## 1\\. Frontrow Technology\n\n(Strong Microsoft specialist)\n\n**Best for\\:** Microsoft-first AI transformation with senior technical leadership.\n\nFrontrow explicitly offers Copilot Studio and Azure AI Foundry agent builds, Microsoft 365 Copilot rollout, data readiness, and governance. Its Adelaide AI lead, Daniel Brown, is described as a five-time Microsoft MVP and local Microsoft 365 and Copilot community leader. [frontrowtech.com.au](https://frontrowtech.com.au/ai-consultant-adelaide?utm_source=chatgpt.com)[frontrowtech.com.au](https://frontrowtech.com.au/applied-ai?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong fit if you want an experienced Microsoft specialist to assess your environment and deliver governed agents, not just run an AI workshop.\n\n[Website: Frontrow — Adelaide AI consulting](https://frontrowtech.com.au/ai-consultant-adelaide)\n\n---\n\n![Genefied](https://images.openai.com/static-rsc-4/2S3SPQ1UX-Zapz7_TxSuWIo1C48h8itgdyQwgZmjK_XrknYhK5rVcT21s909wSgi5AZgjnXXkGhIRhY5G58Z_kDh0hmrZf8WsUpRmNyMYaR47Bm-hBBI-T-RxuhZIOs0mOgcyUN0WVyPvP_UgX6tvqlP44sw41TlRNbd68jC3ETgAe7Pq8gBVR7yu8ZN8Bur?purpose=fullsize)\n\n## 2\\. Office Experts Group\n\n**Best for\\:** Practical Microsoft 365 automation and process improvement.\n\nThe firm explicitly advertises custom AI agents in Microsoft 365 and Copilot Studio, including shared-inbox triage, internal policy Q&amp;A, routine report drafting and process automation. It also covers Power Platform, document automation and Microsoft 365 configuration. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant if your business has repetitive administrative work, document-heavy processes or manual handoffs between email, spreadsheets and approvals.\n\n[Website: Microsoft consultants in Adelaide](https://www.officeexperts.com.au/microsoft-consultants-adelaide)\n\n---\n\n![JASON ENGLISH, CHIEF ECOSYSTEM OFFICER, CG TECH – Innovations of the World](https://images.openai.com/static-rsc-4/KZ8fyD8R-GW2IM0MjSoycbJg10Yf34MqnOhcjjP49jixUmZXZR8xm_JP6h9iF-YCVouR_iVp7L04VEx578sjJ0R1HHgu4Hh4bKGbolOcEl7clPdSWvSTB_1VlK6dBBovXHxCR53YC7H-CIBKwcdzjK9LGumSwPzmkJIxg42O7qOUjdMrTkBLt4FNrpq_PuIC?purpose=fullsize)\n\n## 3\\. CG TECH\n\n**Best for\\:** Mid-market businesses wanting AI agents and business-process automation.\n\nCG TECH works with Adelaide organisations remotely and describes serving businesses with approximately 50–500 staff. Its services include agentic and generative AI, Power Platform automation, Microsoft 365, sales and CRM solutions, and governance controls such as least-privilege access and human handoffs. [cgtech.com.au](https://cgtech.com.au/locations/adelaide/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its stated customer size and combination of automation, AI and operational systems make it particularly relevant to the mid-market brief.\n\n[Website: CG TECH — Adelaide AI agents and automation](https://cgtech.com.au/locations/adelaide/)\n\n---\n\n\n\n## 4\\. Tyto IT\n\n**Best for\\:** Custom Copilot agents connected to everyday business systems.\n\nTyto describes building purpose-built agents in Copilot Studio for customer support and internal workflows, including agents that use company knowledge and escalate enquiries to staff when necessary. Its broader Microsoft 365 and Teams focus is useful when implementation and ongoing IT support need to work together. [www.tyto.net.au](https://www.tyto.net.au/ai-and-copilot?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering if you want custom agents alongside your Microsoft cloud environment, rather than an isolated AI proof of concept.\n\n[Website: Tyto IT — Microsoft Copilot and AI](https://www.tyto.net.au/ai-and-copilot)\n\n---\n\n![IT Support & AI Solutions Adelaide | Core IT Solutions](https://images.openai.com/static-rsc-4/5OPdtyllFO3V56kq1tGVMLtW8rQ0HUhoN9LPtPKJn_do7m4NOG2ma9z-LmFLX2QcgXXUkVR_dpEEmxNwo7ZcbQbjYU6JAuLQoicFyxhZxproMnOWdN2jOu2l6PWf-gJdbt8fuUC2pd-oT_QQjGxViJzHgt3Ft2vtthLMOhjOf3l-NYLnLpyn0KjlsREnnmLA?purpose=fullsize)\n\n## 5\\. Core IT Solutions\n\n**Best for\\:** A local partner combining AI automation, Microsoft 365 and cybersecurity.\n\nCore IT offers AI readiness assessments, Copilot deployment and adoption, workflow automation, internal assistants, document processing, integrations and ongoing support. Its positioning emphasises measurable time savings and secure adoption within existing IT environments. [www.coreit.com.au](https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A sensible option if you want one Adelaide-based provider to help with both the IT foundations and the practical AI implementation.\n\n[Website: Core IT Solutions — AI consulting](https://www.coreit.com.au/ai-solutions-consultation-adelaide)\n\n---\n\n![NAIC AI Directory | ExpertEase AI](https://images.openai.com/static-rsc-4/5Nsb0xjnGgvIn-0cyEVLSmHvlkZ9Qna8iDbsXvmcTmVAch-wxUerD83miNCQJs7vtJsLylBfpM8q_v-R_CDwV7okRObkpgEoKkwtkLYHVeCkXrZESrtndH-CGkWt2sQ0T5YkxtukU6v-cfsPCGR_uv8Sq2ulDJer9qoWgeuJln2j_jVaN6Bn824ZV0FMFBpS?purpose=fullsize)\n\n## 6\\. EITSAA\n\n**Best for\\:** Custom agents where governance, integration and measurable outcomes matter.\n\nEITSAA lists Copilot Studio, Azure AI and other agent frameworks in its technology stack. It describes outcome-based delivery, regular working-software demonstrations, security controls and handover of source code and documentation. [eitsaa.com.au](https://eitsaa.com.au/services/ai-agents-chatbots/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly worth exploring for custom workflows, customer-facing agents or projects that need explicit security and operational handover requirements.\n\n[Website: EITSAA — AI agents and chatbots](https://eitsaa.com.au/services/ai-agents-chatbots/)\n\n## Additional Adelaide option worth checking\n\n![Atria Reviews 2026: Details, Pricing, & Features | G2](https://images.openai.com/static-rsc-4/IhnKKW4dozP31kZUNG-l5jOytZT56t1oPLBTmZfMqm01vM4fbxtZvKP6c_6NviOuX-dXpSoJFZZzUIwVIWbbrxRjOXhZMoDzc9-LvMGRyEqheKA3wHXRQx2NRVNC2U2swNLM3-gXG-CRmyjUfOeZzI6qZV1reBNx6L7KElhBFvjqfYQExH4GEOoQFohrSkvG?purpose=fullsize)\n\n**Atria Systems**\n\n**Best for\\:** Smaller and mid-sized organisations that want Microsoft automation alongside IT support and security.\n\nAtria's listed capabilities include Copilot Studio agents and Power Automate workflows for company-handbook questions, warranty lookups, enquiry routing and invoice-data extraction.\n\n112 Tynte Street, North Adelaide\n\nPhone: (08) 8379 4802\n\n\n\n## Who would I contact first?\n\nMy suggested order, based on the publicly described capabilities rather than independently verified project outcomes\\:\n\n| Your priority | Start with |\n|--------|--------|\n| Deep Microsoft Copilot Studio expertise | **Frontrow Technology** |\n| Automating everyday Microsoft 365 processes | **Office Experts Group** |\n| Mid-market AI agents and workflow transformation | **CG TECH** |\n| AI alongside local IT and cybersecurity support | **Core IT Solutions** |\n| Bespoke agent development and governance | **EITSAA** |\n| Microsoft automation with local IT support | **Atria Systems** |\n\n\n## How to distinguish a good consultant from a good sales pitch\n\nBefore choosing, ask each finalist to demonstrate a real workflow similar to one in your business. For example, an agent that reads incoming requests, retrieves approved information, updates a business system and escalates exceptions to a person.\n\nI would assess them on five criteria\\:\n\n- **Production experience\\:** Can they show deployed Copilot Studio agents, not just demos?\n- **Integration\\:** Can they connect to your ERP, CRM, SharePoint, email and line-of-business systems?\n- **Security\\:** Do they understand Microsoft Entra ID, permissions, data loss prevention, auditability and human approvals?\n- **Commercial practicality\\:** Will they scope a fixed-price pilot with clear acceptance criteria and measurable benefits?\n- **Ownership\\:** Will your team receive documentation, maintainable flows, support arrangements and a clear understanding of ongoing licensing costs?\n\nAsk for references from businesses of a similar size and complexity, and verify the claimed experience directly.\n\n## To narrow this to the best 2–3 firms\n\nThe most useful distinction is whether you need someone to build agents inside the Microsoft ecosystem or a broader automation partner who can work across multiple systems.\n\nWhich best describes your business?\n\n1\\. Business size\n\nUnder 50 employees\n\n50–250 employees\n\n250–1,000 employees\n\n---\n\n2\\. Main requirement\n\nCopilot Studio agents and Microsoft 365\n\nEnd-to-end workflow automation across business systems\n\nAI strategy plus hands-on implementation\n\n---\n\n3\\. Delivery preference\n\nLocal, face-to-face preferred\n\nRemote delivery is fine\n\nBest specialist regardless of location\n\n[Find my best-fit consultants]",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://frontrowtech.com.au/ai-consultant-adelaide",
+          "domain": "frontrowtech.com.au",
+          "title": "AI Consultant Adelaide — AI advisory, Copilot & agents | Frontrow",
+          "description": null,
+          "breadcrumb": "frontrowtech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://frontrowtech.com.au/applied-ai",
+          "domain": "frontrowtech.com.au",
+          "title": "AI that gives your team back their day | Frontrow Technology | Frontrow",
+          "description": null,
+          "breadcrumb": "frontrowtech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide",
+          "domain": "www.coreit.com.au",
+          "title": "AI Solutions & Consultation Adelaide | Practical AI for Business | Core IT Solutions",
+          "description": null,
+          "breadcrumb": "www.coreit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.coreit.com.au/",
+          "domain": "www.coreit.com.au",
+          "title": "IT Support & AI Solutions Adelaide | Core IT Solutions",
+          "description": null,
+          "breadcrumb": "www.coreit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://cgtech.com.au/locations/adelaide/",
+          "domain": "cgtech.com.au",
+          "title": "AI Agents and Automation for Adelaide Businesses – CG TECH",
+          "description": null,
+          "breadcrumb": "cgtech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.opticloud.com.au/solutions/copilot-studio-ai-agents/",
+          "domain": "www.opticloud.com.au",
+          "title": "AI Development & Copilot Studio Agents in Perth | Opticloud Solutions",
+          "description": null,
+          "breadcrumb": "www.opticloud.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eitsaa.com.au/services/ai-agents-chatbots/",
+          "domain": "eitsaa.com.au",
+          "title": "EITSAA | AI Agents & Chatbots Adelaide",
+          "description": null,
+          "breadcrumb": "eitsaa.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://sandlabs.com.au/ai-consulting-adelaide",
+          "domain": "sandlabs.com.au",
+          "title": "AI Consultant & AI Consulting Adelaide | Claude Specialists | Sandlabs - Sandlabs",
+          "description": null,
+          "breadcrumb": "sandlabs.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.tyto.net.au/ai-and-copilot",
+          "domain": "www.tyto.net.au",
+          "title": "Microsoft 365 Copilot & AI Solutions | Adelaide & Gold Coast | Tyto IT",
+          "description": null,
+          "breadcrumb": "www.tyto.net.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://zenbyte.com.au/services/ai-automation",
+          "domain": "zenbyte.com.au",
+          "title": "AI & Automation: Adelaide AI Consultancy | ZenByte",
+          "description": null,
+          "breadcrumb": "zenbyte.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "domain": "eagle360.consulting",
+          "title": "Power Platform & Copilot",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "AI Consultant Adelaide — AI advisory, Copilot & agents",
+          "snippet": null,
+          "domain": "frontrowtech.com.au",
+          "url": "https://frontrowtech.com.au/ai-consultant-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Frontrow",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI that gives your team back their day | Frontrow Technology",
+          "snippet": null,
+          "domain": "frontrowtech.com.au",
+          "url": "https://frontrowtech.com.au/applied-ai?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Frontrow",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Frontrow — Adelaide AI consulting",
+          "snippet": null,
+          "domain": "frontrowtech.com.au",
+          "url": "https://frontrowtech.com.au/ai-consultant-adelaide",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Frontrow — Adelaide AI consulting](https://frontrowtech.com.au/ai-consultant-adelaide)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Consultants Adelaide",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Office Experts Group",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI Solutions & Consultation Adelaide | Practical AI for Business",
+          "snippet": null,
+          "domain": "www.coreit.com.au",
+          "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Core IT Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "IT Support & AI Solutions Adelaide",
+          "snippet": null,
+          "domain": "www.coreit.com.au",
+          "url": "https://www.coreit.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Core IT Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Microsoft consultants in Adelaide",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Microsoft consultants in Adelaide](https://www.officeexperts.com.au/microsoft-consultants-adelaide)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI Agents and Automation for Adelaide Businesses",
+          "snippet": null,
+          "domain": "cgtech.com.au",
+          "url": "https://cgtech.com.au/locations/adelaide/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "CG TECH",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: CG TECH — Adelaide AI agents and automation",
+          "snippet": null,
+          "domain": "cgtech.com.au",
+          "url": "https://cgtech.com.au/locations/adelaide/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: CG TECH — Adelaide AI agents and automation](https://cgtech.com.au/locations/adelaide/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft 365 Copilot & AI Solutions | Adelaide & Gold Coast",
+          "snippet": null,
+          "domain": "www.tyto.net.au",
+          "url": "https://www.tyto.net.au/ai-and-copilot?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Tyto IT",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Tyto IT — Microsoft Copilot and AI",
+          "snippet": null,
+          "domain": "www.tyto.net.au",
+          "url": "https://www.tyto.net.au/ai-and-copilot",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Tyto IT — Microsoft Copilot and AI](https://www.tyto.net.au/ai-and-copilot)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: Core IT Solutions — AI consulting",
+          "snippet": null,
+          "domain": "www.coreit.com.au",
+          "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: Core IT Solutions — AI consulting](https://www.coreit.com.au/ai-solutions-consultation-adelaide)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "EITSAA",
+          "snippet": null,
+          "domain": "eitsaa.com.au",
+          "url": "https://eitsaa.com.au/services/ai-agents-chatbots/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "AI Agents & Chatbots Adelaide",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website: EITSAA — AI agents and chatbots",
+          "snippet": null,
+          "domain": "eitsaa.com.au",
+          "url": "https://eitsaa.com.au/services/ai-agents-chatbots/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website: EITSAA — AI agents and chatbots](https://eitsaa.com.au/services/ai-agents-chatbots/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Adelaide Australia Microsoft Copilot Studio AI agents workflow automation consultants mid-market business"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft partner and AI consultancy",
+          "category": "company",
+          "markdown": "Frontrow Technology",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Office Experts Group",
+          "category": "company",
+          "markdown": "Office Experts Group",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft, AI and automation consultancy",
+          "category": "company",
+          "markdown": "CG TECH",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian managed IT and Microsoft cloud services provider",
+          "category": "company",
+          "markdown": "Tyto IT",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Adelaide managed IT and AI solutions provider",
+          "category": "company",
+          "markdown": "Core IT Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Adelaide AI agents and software development consultancy",
+          "category": "company",
+          "markdown": "EITSAA",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Atria Systems",
+          "category": "local_business",
+          "markdown": "Atria Systems",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses",
+        "chat_gpt_table"
+      ],
+      "items_count": 19,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Best AI automation consultants in Adelaide for Microsoft Copilot Studio and AI agents\n\nFor a mid-market business in Adelaide, I'd shortlist consultancies that can do more than deploy Microsoft 365 Copilot: they should be able to build **custom Copilot Studio agents, automate end-to-end business workflows, integrate with existing systems, and put appropriate security and governance controls in place.**\n\nBased on my web research, these are the strongest candidates to investigate. I've prioritised firms with explicit evidence of Microsoft Copilot Studio, AI-agent development or practical workflow automation, rather than general AI strategy alone.\n\n## Recommended shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.resourceindustrynetwork.org.au/",
+              "alt": "Home",
+              "image_url": "https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize",
+              "markdown": "![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Frontrow Technology\n\n(Strong Microsoft specialist)\n\n**Best for\\:** Microsoft-first AI transformation with senior technical leadership.\n\nFrontrow explicitly offers Copilot Studio and Azure AI Foundry agent builds, Microsoft 365 Copilot rollout, data readiness, and governance. Its Adelaide AI lead, Daniel Brown, is described as a five-time Microsoft MVP and local Microsoft 365 and Copilot community leader. [frontrowtech.com.au](https://frontrowtech.com.au/ai-consultant-adelaide?utm_source=chatgpt.com)[frontrowtech.com.au](https://frontrowtech.com.au/applied-ai?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A strong fit if you want an experienced Microsoft specialist to assess your environment and deliver governed agents, not just run an AI workshop.\n\n[Website: Frontrow — Adelaide AI consulting](https://frontrowtech.com.au/ai-consultant-adelaide)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Consultant Adelaide — AI advisory, Copilot & agents",
+              "snippet": null,
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/ai-consultant-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Frontrow",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "AI that gives your team back their day | Frontrow Technology",
+              "snippet": null,
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/applied-ai?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Frontrow",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Frontrow — Adelaide AI consulting",
+              "snippet": null,
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/ai-consultant-adelaide",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Frontrow — Adelaide AI consulting](https://frontrowtech.com.au/ai-consultant-adelaide)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft partner and AI consultancy",
+              "category": "company",
+              "markdown": "Frontrow Technology",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Genefied](https://images.openai.com/static-rsc-4/2S3SPQ1UX-Zapz7_TxSuWIo1C48h8itgdyQwgZmjK_XrknYhK5rVcT21s909wSgi5AZgjnXXkGhIRhY5G58Z_kDh0hmrZf8WsUpRmNyMYaR47Bm-hBBI-T-RxuhZIOs0mOgcyUN0WVyPvP_UgX6tvqlP44sw41TlRNbd68jC3ETgAe7Pq8gBVR7yu8ZN8Bur?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://genefied.ai/",
+              "alt": "Genefied",
+              "image_url": "https://images.openai.com/static-rsc-4/2S3SPQ1UX-Zapz7_TxSuWIo1C48h8itgdyQwgZmjK_XrknYhK5rVcT21s909wSgi5AZgjnXXkGhIRhY5G58Z_kDh0hmrZf8WsUpRmNyMYaR47Bm-hBBI-T-RxuhZIOs0mOgcyUN0WVyPvP_UgX6tvqlP44sw41TlRNbd68jC3ETgAe7Pq8gBVR7yu8ZN8Bur?purpose=fullsize",
+              "markdown": "![Genefied](https://images.openai.com/static-rsc-4/2S3SPQ1UX-Zapz7_TxSuWIo1C48h8itgdyQwgZmjK_XrknYhK5rVcT21s909wSgi5AZgjnXXkGhIRhY5G58Z_kDh0hmrZf8WsUpRmNyMYaR47Bm-hBBI-T-RxuhZIOs0mOgcyUN0WVyPvP_UgX6tvqlP44sw41TlRNbd68jC3ETgAe7Pq8gBVR7yu8ZN8Bur?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Office Experts Group\n\n**Best for\\:** Practical Microsoft 365 automation and process improvement.\n\nThe firm explicitly advertises custom AI agents in Microsoft 365 and Copilot Studio, including shared-inbox triage, internal policy Q&amp;A, routine report drafting and process automation. It also covers Power Platform, document automation and Microsoft 365 configuration. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly relevant if your business has repetitive administrative work, document-heavy processes or manual handoffs between email, spreadsheets and approvals.\n\n[Website: Microsoft consultants in Adelaide](https://www.officeexperts.com.au/microsoft-consultants-adelaide)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Consultants Adelaide",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Office Experts Group",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Solutions & Consultation Adelaide | Practical AI for Business",
+              "snippet": null,
+              "domain": "www.coreit.com.au",
+              "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Core IT Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "IT Support & AI Solutions Adelaide",
+              "snippet": null,
+              "domain": "www.coreit.com.au",
+              "url": "https://www.coreit.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Core IT Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Microsoft consultants in Adelaide",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Microsoft consultants in Adelaide](https://www.officeexperts.com.au/microsoft-consultants-adelaide)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Office Experts Group",
+              "category": "company",
+              "markdown": "Office Experts Group",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![JASON ENGLISH, CHIEF ECOSYSTEM OFFICER, CG TECH – Innovations of the World](https://images.openai.com/static-rsc-4/KZ8fyD8R-GW2IM0MjSoycbJg10Yf34MqnOhcjjP49jixUmZXZR8xm_JP6h9iF-YCVouR_iVp7L04VEx578sjJ0R1HHgu4Hh4bKGbolOcEl7clPdSWvSTB_1VlK6dBBovXHxCR53YC7H-CIBKwcdzjK9LGumSwPzmkJIxg42O7qOUjdMrTkBLt4FNrpq_PuIC?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://innovationsoftheworld.com/jason-english-chief-ecosystem-officer-cg-tech/",
+              "alt": "JASON ENGLISH, CHIEF ECOSYSTEM OFFICER, CG TECH – Innovations of the World",
+              "image_url": "https://images.openai.com/static-rsc-4/KZ8fyD8R-GW2IM0MjSoycbJg10Yf34MqnOhcjjP49jixUmZXZR8xm_JP6h9iF-YCVouR_iVp7L04VEx578sjJ0R1HHgu4Hh4bKGbolOcEl7clPdSWvSTB_1VlK6dBBovXHxCR53YC7H-CIBKwcdzjK9LGumSwPzmkJIxg42O7qOUjdMrTkBLt4FNrpq_PuIC?purpose=fullsize",
+              "markdown": "![JASON ENGLISH, CHIEF ECOSYSTEM OFFICER, CG TECH – Innovations of the World](https://images.openai.com/static-rsc-4/KZ8fyD8R-GW2IM0MjSoycbJg10Yf34MqnOhcjjP49jixUmZXZR8xm_JP6h9iF-YCVouR_iVp7L04VEx578sjJ0R1HHgu4Hh4bKGbolOcEl7clPdSWvSTB_1VlK6dBBovXHxCR53YC7H-CIBKwcdzjK9LGumSwPzmkJIxg42O7qOUjdMrTkBLt4FNrpq_PuIC?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. CG TECH\n\n**Best for\\:** Mid-market businesses wanting AI agents and business-process automation.\n\nCG TECH works with Adelaide organisations remotely and describes serving businesses with approximately 50–500 staff. Its services include agentic and generative AI, Power Platform automation, Microsoft 365, sales and CRM solutions, and governance controls such as least-privilege access and human handoffs. [cgtech.com.au](https://cgtech.com.au/locations/adelaide/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Its stated customer size and combination of automation, AI and operational systems make it particularly relevant to the mid-market brief.\n\n[Website: CG TECH — Adelaide AI agents and automation](https://cgtech.com.au/locations/adelaide/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Agents and Automation for Adelaide Businesses",
+              "snippet": null,
+              "domain": "cgtech.com.au",
+              "url": "https://cgtech.com.au/locations/adelaide/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "CG TECH",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: CG TECH — Adelaide AI agents and automation",
+              "snippet": null,
+              "domain": "cgtech.com.au",
+              "url": "https://cgtech.com.au/locations/adelaide/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: CG TECH — Adelaide AI agents and automation](https://cgtech.com.au/locations/adelaide/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft, AI and automation consultancy",
+              "category": "company",
+              "markdown": "CG TECH",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Tyto IT\n\n**Best for\\:** Custom Copilot agents connected to everyday business systems.\n\nTyto describes building purpose-built agents in Copilot Studio for customer support and internal workflows, including agents that use company knowledge and escalate enquiries to staff when necessary. Its broader Microsoft 365 and Teams focus is useful when implementation and ongoing IT support need to work together. [www.tyto.net.au](https://www.tyto.net.au/ai-and-copilot?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Worth considering if you want custom agents alongside your Microsoft cloud environment, rather than an isolated AI proof of concept.\n\n[Website: Tyto IT — Microsoft Copilot and AI](https://www.tyto.net.au/ai-and-copilot)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft 365 Copilot & AI Solutions | Adelaide & Gold Coast",
+              "snippet": null,
+              "domain": "www.tyto.net.au",
+              "url": "https://www.tyto.net.au/ai-and-copilot?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Tyto IT",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Tyto IT — Microsoft Copilot and AI",
+              "snippet": null,
+              "domain": "www.tyto.net.au",
+              "url": "https://www.tyto.net.au/ai-and-copilot",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Tyto IT — Microsoft Copilot and AI](https://www.tyto.net.au/ai-and-copilot)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian managed IT and Microsoft cloud services provider",
+              "category": "company",
+              "markdown": "Tyto IT",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![IT Support & AI Solutions Adelaide | Core IT Solutions](https://images.openai.com/static-rsc-4/5OPdtyllFO3V56kq1tGVMLtW8rQ0HUhoN9LPtPKJn_do7m4NOG2ma9z-LmFLX2QcgXXUkVR_dpEEmxNwo7ZcbQbjYU6JAuLQoicFyxhZxproMnOWdN2jOu2l6PWf-gJdbt8fuUC2pd-oT_QQjGxViJzHgt3Ft2vtthLMOhjOf3l-NYLnLpyn0KjlsREnnmLA?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.coreit.com.au/",
+              "alt": "IT Support & AI Solutions Adelaide | Core IT Solutions",
+              "image_url": "https://images.openai.com/static-rsc-4/5OPdtyllFO3V56kq1tGVMLtW8rQ0HUhoN9LPtPKJn_do7m4NOG2ma9z-LmFLX2QcgXXUkVR_dpEEmxNwo7ZcbQbjYU6JAuLQoicFyxhZxproMnOWdN2jOu2l6PWf-gJdbt8fuUC2pd-oT_QQjGxViJzHgt3Ft2vtthLMOhjOf3l-NYLnLpyn0KjlsREnnmLA?purpose=fullsize",
+              "markdown": "![IT Support & AI Solutions Adelaide | Core IT Solutions](https://images.openai.com/static-rsc-4/5OPdtyllFO3V56kq1tGVMLtW8rQ0HUhoN9LPtPKJn_do7m4NOG2ma9z-LmFLX2QcgXXUkVR_dpEEmxNwo7ZcbQbjYU6JAuLQoicFyxhZxproMnOWdN2jOu2l6PWf-gJdbt8fuUC2pd-oT_QQjGxViJzHgt3Ft2vtthLMOhjOf3l-NYLnLpyn0KjlsREnnmLA?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Core IT Solutions\n\n**Best for\\:** A local partner combining AI automation, Microsoft 365 and cybersecurity.\n\nCore IT offers AI readiness assessments, Copilot deployment and adoption, workflow automation, internal assistants, document processing, integrations and ongoing support. Its positioning emphasises measurable time savings and secure adoption within existing IT environments. [www.coreit.com.au](https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com)[www.coreit.com.au](https://www.coreit.com.au/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** A sensible option if you want one Adelaide-based provider to help with both the IT foundations and the practical AI implementation.\n\n[Website: Core IT Solutions — AI consulting](https://www.coreit.com.au/ai-solutions-consultation-adelaide)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Solutions & Consultation Adelaide | Practical AI for Business",
+              "snippet": null,
+              "domain": "www.coreit.com.au",
+              "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Core IT Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "IT Support & AI Solutions Adelaide",
+              "snippet": null,
+              "domain": "www.coreit.com.au",
+              "url": "https://www.coreit.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Core IT Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: Core IT Solutions — AI consulting",
+              "snippet": null,
+              "domain": "www.coreit.com.au",
+              "url": "https://www.coreit.com.au/ai-solutions-consultation-adelaide",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: Core IT Solutions — AI consulting](https://www.coreit.com.au/ai-solutions-consultation-adelaide)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Adelaide managed IT and AI solutions provider",
+              "category": "company",
+              "markdown": "Core IT Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![NAIC AI Directory | ExpertEase AI](https://images.openai.com/static-rsc-4/5Nsb0xjnGgvIn-0cyEVLSmHvlkZ9Qna8iDbsXvmcTmVAch-wxUerD83miNCQJs7vtJsLylBfpM8q_v-R_CDwV7okRObkpgEoKkwtkLYHVeCkXrZESrtndH-CGkWt2sQ0T5YkxtukU6v-cfsPCGR_uv8Sq2ulDJer9qoWgeuJln2j_jVaN6Bn824ZV0FMFBpS?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://aidirectory.industry.gov.au/organisation/expertease-ai",
+              "alt": "NAIC AI Directory | ExpertEase AI",
+              "image_url": "https://images.openai.com/static-rsc-4/5Nsb0xjnGgvIn-0cyEVLSmHvlkZ9Qna8iDbsXvmcTmVAch-wxUerD83miNCQJs7vtJsLylBfpM8q_v-R_CDwV7okRObkpgEoKkwtkLYHVeCkXrZESrtndH-CGkWt2sQ0T5YkxtukU6v-cfsPCGR_uv8Sq2ulDJer9qoWgeuJln2j_jVaN6Bn824ZV0FMFBpS?purpose=fullsize",
+              "markdown": "![NAIC AI Directory | ExpertEase AI](https://images.openai.com/static-rsc-4/5Nsb0xjnGgvIn-0cyEVLSmHvlkZ9Qna8iDbsXvmcTmVAch-wxUerD83miNCQJs7vtJsLylBfpM8q_v-R_CDwV7okRObkpgEoKkwtkLYHVeCkXrZESrtndH-CGkWt2sQ0T5YkxtukU6v-cfsPCGR_uv8Sq2ulDJer9qoWgeuJln2j_jVaN6Bn824ZV0FMFBpS?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. EITSAA\n\n**Best for\\:** Custom agents where governance, integration and measurable outcomes matter.\n\nEITSAA lists Copilot Studio, Azure AI and other agent frameworks in its technology stack. It describes outcome-based delivery, regular working-software demonstrations, security controls and handover of source code and documentation. [eitsaa.com.au](https://eitsaa.com.au/services/ai-agents-chatbots/?utm_source=chatgpt.com)\n\n**Why shortlist it\\:** Particularly worth exploring for custom workflows, customer-facing agents or projects that need explicit security and operational handover requirements.\n\n[Website: EITSAA — AI agents and chatbots](https://eitsaa.com.au/services/ai-agents-chatbots/)\n\n## Additional Adelaide option worth checking\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "EITSAA",
+              "snippet": null,
+              "domain": "eitsaa.com.au",
+              "url": "https://eitsaa.com.au/services/ai-agents-chatbots/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "AI Agents & Chatbots Adelaide",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website: EITSAA — AI agents and chatbots",
+              "snippet": null,
+              "domain": "eitsaa.com.au",
+              "url": "https://eitsaa.com.au/services/ai-agents-chatbots/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website: EITSAA — AI agents and chatbots](https://eitsaa.com.au/services/ai-agents-chatbots/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Adelaide AI agents and software development consultancy",
+              "category": "company",
+              "markdown": "EITSAA",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "markdown": "![Atria Reviews 2026: Details, Pricing, & Features | G2](https://images.openai.com/static-rsc-4/IhnKKW4dozP31kZUNG-l5jOytZT56t1oPLBTmZfMqm01vM4fbxtZvKP6c_6NviOuX-dXpSoJFZZzUIwVIWbbrxRjOXhZMoDzc9-LvMGRyEqheKA3wHXRQx2NRVNC2U2swNLM3-gXG-CRmyjUfOeZzI6qZV1reBNx6L7KElhBFvjqfYQExH4GEOoQFohrSkvG?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.g2.com/products/atria/reviews",
+              "alt": "Atria Reviews 2026: Details, Pricing, & Features | G2",
+              "image_url": "https://images.openai.com/static-rsc-4/IhnKKW4dozP31kZUNG-l5jOytZT56t1oPLBTmZfMqm01vM4fbxtZvKP6c_6NviOuX-dXpSoJFZZzUIwVIWbbrxRjOXhZMoDzc9-LvMGRyEqheKA3wHXRQx2NRVNC2U2swNLM3-gXG-CRmyjUfOeZzI6qZV1reBNx6L7KElhBFvjqfYQExH4GEOoQFohrSkvG?purpose=fullsize",
+              "markdown": "![Atria Reviews 2026: Details, Pricing, & Features | G2](https://images.openai.com/static-rsc-4/IhnKKW4dozP31kZUNG-l5jOytZT56t1oPLBTmZfMqm01vM4fbxtZvKP6c_6NviOuX-dXpSoJFZZzUIwVIWbbrxRjOXhZMoDzc9-LvMGRyEqheKA3wHXRQx2NRVNC2U2swNLM3-gXG-CRmyjUfOeZzI6qZV1reBNx6L7KElhBFvjqfYQExH4GEOoQFohrSkvG?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\n\n**Atria Systems**\n\n**Best for\\:** Smaller and mid-sized organisations that want Microsoft automation alongside IT support and security.\n\nAtria's listed capabilities include Copilot Studio agents and Power Automate workflows for company-handbook questions, warranty lookups, enquiry routing and invoice-data extraction.\n\n112 Tynte Street, North Adelaide\n\nPhone: (08) 8379 4802\n\n",
+          "sources": null,
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Atria Systems",
+              "category": "local_business",
+              "markdown": "Atria Systems",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 16,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Frontrow Technology",
+              "description": "Computer support and services",
+              "address": "121 King William Street, Adelaide SA 5000, Australia",
+              "phone": "+61 1300 012 466",
+              "reviews_count": null,
+              "url": "https://www.frontrow.technology/?utm_source=chatgpt.com",
+              "domain": "www.frontrow.technology",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Atria Systems",
+              "description": "Computer support and services",
+              "address": "112 Tynte St, North Adelaide SA 5006, Australia",
+              "phone": "+61 8 8379 4802",
+              "reviews_count": 13,
+              "url": "https://atriasystems.com.au/",
+              "domain": "atriasystems.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 13,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Simpleit4U",
+              "description": "Computer support and services",
+              "address": "565-569 Tapleys Hill Rd, Fulham Gardens SA 5024, Australia",
+              "phone": "+61 426 972 982",
+              "reviews_count": 12,
+              "url": "https://simpleit4u.com.au/",
+              "domain": "simpleit4u.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 12,
+                "rating_max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "markdown": "\n\n## Who would I contact first?\n\nMy suggested order, based on the publicly described capabilities rather than independently verified project outcomes\\:\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 18,
+          "text": null,
+          "markdown": "| Your priority | Start with |\n|--------|--------|\n| Deep Microsoft Copilot Studio expertise | **Frontrow Technology** |\n| Automating everyday Microsoft 365 processes | **Office Experts Group** |\n| Mid-market AI agents and workflow transformation | **CG TECH** |\n| AI alongside local IT and cybersecurity support | **Core IT Solutions** |\n| Bespoke agent development and governance | **EITSAA** |\n| Microsoft automation with local IT support | **Atria Systems** |\n\n",
+          "table": {
+            "table_header": [
+              "Your priority",
+              "Start with"
+            ],
+            "table_content": [
+              [
+                "Deep Microsoft Copilot Studio expertise",
+                "**Frontrow Technology**"
+              ],
+              [
+                "Automating everyday Microsoft 365 processes",
+                "**Office Experts Group**"
+              ],
+              [
+                "Mid-market AI agents and workflow transformation",
+                "**CG TECH**"
+              ],
+              [
+                "AI alongside local IT and cybersecurity support",
+                "**Core IT Solutions**"
+              ],
+              [
+                "Bespoke agent development and governance",
+                "**EITSAA**"
+              ],
+              [
+                "Microsoft automation with local IT support",
+                "**Atria Systems**"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "markdown": "\n## How to distinguish a good consultant from a good sales pitch\n\nBefore choosing, ask each finalist to demonstrate a real workflow similar to one in your business. For example, an agent that reads incoming requests, retrieves approved information, updates a business system and escalates exceptions to a person.\n\nI would assess them on five criteria\\:\n\n- **Production experience\\:** Can they show deployed Copilot Studio agents, not just demos?\n- **Integration\\:** Can they connect to your ERP, CRM, SharePoint, email and line-of-business systems?\n- **Security\\:** Do they understand Microsoft Entra ID, permissions, data loss prevention, auditability and human approvals?\n- **Commercial practicality\\:** Will they scope a fixed-price pilot with clear acceptance criteria and measurable benefits?\n- **Ownership\\:** Will your team receive documentation, maintainable flows, support arrangements and a clear understanding of ongoing licensing costs?\n\nAsk for references from businesses of a similar size and complexity, and verify the claimed experience directly.\n\n## To narrow this to the best 2–3 firms\n\nThe most useful distinction is whether you need someone to build agents inside the Microsoft ecosystem or a broader automation partner who can work across multiple systems.\n\nWhich best describes your business?\n\n1\\. Business size\n\nUnder 50 employees\n\n50–250 employees\n\n250–1,000 employees\n\n---\n\n2\\. Main requirement\n\nCopilot Studio agents and Microsoft 365\n\nEnd-to-end workflow automation across business systems\n\nAI strategy plus hands-on implementation\n\n---\n\n3\\. Delivery preference\n\nLocal, face-to-face preferred\n\nRemote delivery is fine\n\nBest specialist regardless of location\n\n[Find my best-fit consultants]",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

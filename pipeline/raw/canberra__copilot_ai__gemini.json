@@ -1,0 +1,462 @@
+{
+  "slug": "canberra",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Canberra specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:02.565Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "While Canberra's IT consulting market is heavily geared toward federal government departments, several local consultancies and national Microsoft Solutions Partners with Canberra teams cater specifically to **mid-market businesses, industry associations, and commercial enterprises**.\n\nFor mid-market organizations seeking practical deployments of **Microsoft Copilot Studio**, **AI agents**, and **Power Platform workflow automation**, several reputable consultants with Canberra operations stand out:\n\n---\n\n### 1. Locally Rooted Consultancies & Mid-Market Specialists\n\n*   **Netier** (Canberra Airport ACT)\n    *   **Focus:** A major Canberra-headquartered managed service and digital transformation consultancy. \n    *   **AI Specialisation:** Netier has a dedicated **AI & Automation** practice. They focus on practical, high-ROI workflow automation—such as automated invoice processing, client intake, HR onboarding, and secure Microsoft 365 Copilot rollouts tailored to mid-market cost structures and security baselines.\n    *   **Best for:** Mid-market businesses looking for an end-to-end local technology partner who can deliver both managed IT and practical AI agent workflows.\n\n*   **Frontrow Technology** (Canberra-based)\n    *   **Focus:** A boutique, specialized Microsoft Partner led by local Microsoft MVPs.\n    *   **AI Specialisation:** Strong focus on **Applied AI and Copilot Studio**. They specialize in building custom Copilot Studio agents grounded in specific data repositories, integrating automated approval workflows, and ensuring tight information boundaries (using Microsoft Purview).\n    *   **Best for:** Regulated mid-market firms, associations, and government-adjacent contractors who need agile AI agent builds that still meet strict data-sovereignty and compliance standards.\n\n*   **Evocate** (Canberra Practice)\n    *   **Focus:** Mid-tier and enterprise cloud modernization consultancy.\n    *   **AI Specialisation:** Strong Power Platform and Copilot Studio practice. They help organizations streamline operational processes (e.g., HR workflows, CRM task automation, internal helpdesks) by linking low-code front-ends and AI bots directly to Power Automate backend flows.\n    *   **Best for:** Organizations that want to automate repetitive operational processes without commissioning expensive, slow bespoke software builds.\n\n---\n\n### 2. Tier-1 National Microsoft Partners with Canberra Delivery Teams\n\nIf your workflows require deeper integration with Azure AI, ERP platforms (Dynamics 365 / Salesforce), or complex multi-agent orchestration, consider these national specialists with Canberra consultants:\n\n*   **Engage Squared**\n    *   **Focus:** Multiple-time Microsoft Partner of the Year (Modern Work) with consultants based in Canberra.\n    *   **AI Specialisation:** Widely regarded as a premier authority in Australia for Copilot adoption and Copilot Studio development. They run rapid workshops (such as *Agent-in-a-Day*) and design custom autonomous agents inside Microsoft Teams to triage queries, summarize policy documents, and trigger approval automations.\n    *   **Best for:** Organizations wanting a strong change-management and employee-enablement methodology alongside the technical build.\n\n*   **Antares Solutions**\n    *   **Focus:** Data, Analytics, and AI Microsoft Solutions Partner delivering across the ACT.\n    *   **AI Specialisation:** Focuses on the convergence of **Copilot Studio, Azure OpenAI, and Power Platform**. They specialize in hybrid solutions—using Copilot Studio for chat-based agent interfaces while deploying Azure AI models for complex document intelligence and predictive workflow automation.\n    *   **Best for:** Mid-market companies with complex internal databases, custom CRM systems, or high-volume document triage requirements (e.g., legal, finance, logistics).\n\n*   **Data#3** (Canberra Office)\n    *   **Focus:** One of Australia’s largest Microsoft cloud and software providers.\n    *   **AI Specialisation:** Their Canberra-based Modern Workplace practice provides Copilot readiness assessments, Copilot Studio agent design, and automated pipeline configuration using Power Automate. \n    *   **Best for:** Mid-market businesses that want a single provider handling Microsoft licensing, cyber security audits, and agent deployment under one contract.\n\n---\n\n### Key Questions to Ask When Selecting a Canberra AI Consultant\n\nWhen evaluating partners for mid-market Copilot Studio work, ensure you ask:\n\n1. **How do you handle data governance before building agents?**\n   * *Why it matters:* Copilot Studio agents inherit user and repository permissions. If your SharePoint or Dataverse permissions are poorly configured, agents can inadvertently expose sensitive salary or board data to general staff. Look for consultants who audit your Microsoft Purview/permissions first.\n2. **Do you build with native Power Automate triggers or custom code?**\n   * *Why it matters:* For mid-market companies, low-code connectors (Power Automate) mean your internal IT team or a junior admin can maintain and modify the agent workflows after the consultant hands them over, avoiding vendor lock-in.\n3. **What is the typical time-to-value for a pilot agent?**\n   * *Why it matters:* Mid-market workflows (e.g., an onboarding assistant, procurement approval bot, or client intake triage) should not take 6 months to deploy. A capable partner should deliver a functional Proof-of-Concept in Copilot Studio within 2 to 4 weeks.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Platform%22+%22Copilot+Studio%22+Canberra+consultant&client=app-vertex-grounding&safesearch=active\">&quot;Power Platform&quot; &quot;Copilot Studio&quot; Canberra consultant</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+%22Copilot+Studio%22+Canberra&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; &quot;Copilot Studio&quot; Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+workflow+automation+consultants+Canberra+Copilot+Studio&client=app-vertex-grounding&safesearch=active\">AI workflow automation consultants Canberra Copilot Studio</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+partner+Copilot+Studio+AI+agents+Canberra&client=app-vertex-grounding&safesearch=active\">Microsoft partner Copilot Studio AI agents Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Netier%22+Copilot+Canberra&client=app-vertex-grounding&safesearch=active\">&quot;Netier&quot; Copilot Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Engage+Squared%22+%22Copilot+Studio%22+Canberra&client=app-vertex-grounding&safesearch=active\">&quot;Engage Squared&quot; &quot;Copilot Studio&quot; Canberra</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+consultants+Canberra+AI+automation+mid+market&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio consultants Canberra AI automation mid market</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-hjLm4pohq31GozXaxSMZZQP8HV8C9Dt00VE9Y4u2J9VS9cZ9iQm1cc5AwyEP5R_d9ENCEsxyhg7ETzpyDA2TeaiHF6Zb9dKgvwLyHfzpV9p37gqLq1vE8969A3NEq_NxaaMO-gPBYnTbaeQ_azqrbA==",
+                "title": "netier.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr5IlnYebylBFVynMMT0O1s298tbFMzAn4gF-4H7iZ4g-FGJXBLH3NzKBDkxo1HyfRggNNKoJX8fDA9CEJaKMrV0znfNFergxCPGiDmKmnp4t02n9V7vO49cmoYX2DAbH92DbTUffVFirWqkHUoaSY-w==",
+                "title": "netier.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyFVoAlcBwdzNy7uYska1HWstB7RiY71u0ZNBCyZJaYk5VV2Q45AyQYe4jtXjyIOvahw8vkdsmf8RlsAq7DeC174t5_L9T4nI4FjYD2jW-l36a7M0hD_tvnH18L_qsaBmgCcuo7r7V1eU7dxk=",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeiQ2n_iuYGa6lzQpv9sE0nIgFCCRNS_4v5nfj1frwESmo_tnOEuTp5XUb5OKqcKjHbfp3-UV83rDowoEGVnBjWHpMspgqSMAmlU08zf6Q-hTtx_iqdp6h7c81TuaXKXSii2eR",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkH4EyTWG5_dzabYH2wMYDrxbxqAHE7LVpebvpQYDV7D6vpE7i0khAj5z6sUrQwQWpCGEndj2-6ojzUEVjoSNc3ZdmpSPdVvrBY1ZQV5PqBGZDqythgTQJ3lePL-G4tutcilsBoSMshW3aC9C-N3Jzgf-W5FkkpI1mlp6t_Z-oVQJ870eJiXQ=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz0in_i3g51YZDdW8489CCYZzejOXjLJPQNvJEKqHgi3vgeJ-eFcOF_volg-y9Zfe3bFJI17QEQHgpFaYAq26H_x97k13KIRni_9GyC6a2UTp9YFB3D3fNq9tvFDHUfW_PRmrrCD_NkXL_TfHiFA0u2GjlGHtUoWaAhCR1r7Eb_GOlEe0RbzA=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsdGedyoUfY3nTU_ZNUc_WpbI1hMBMHZtYu57lextYWzsa1I4vMCn5XykE0-v-pffJqpQX995jihp7JZtrWoLgG8kZDSNCHOAGW2mmXmZQuvqujfACnuG2hnuwuEMLlXEZlYKRfTaeaeASTSIjVzY9gbdIjgr1ig=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQAZ1Yp-ijzx0V7N_WDIchEqwVpRlKymYwemrK4lVisJ-32zQDkLQp5iwYHc0Cp2dmVWdDdlL_y7OV2KhNaER0iDlSqFeU5yu3E87by0WwfnrHlEsImvL6x_BiGSb7Aw_pPMiquUG8r1rSVbwGs-OMGxE=",
+                "title": "officeproconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8iQJ8mhb4UFR3wwaVIn_3fcp7_7muy4i7NcDmwAFiw241p08DJ0h991eydOkud8Fkca8eYCpQxsOrD-wakVv3SxN2XrMb2jxo6ya6onOtVoLH73XOssYgb0Hfgsv19c6Gw==",
+                "title": "synapx.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH48_7lG6QOe_kvA5mg_sSeSiyMtcqkzUdkaAYvO_PN_5OHrdV79iqru5elN_EE9W1EbgyOnDqn0SezgLrZU9gwfHSlM9fp2hp-jseVwWo504AvB_EHZ_fj6Hx8XoHrZmGWuEk9P9b4hWrKwoCK947yvvYh1wCoVSKgntusEvs6-Y2aT3iD7nWO4pPB7F8xig==",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtK8aEiJf4p55yh9Obr_R9MqRHt8-4OQHiilcyYDON7vqiZryvqXLlYF2yhJUpci4EL05HFub2mTWr9jCQad_Yv-JW4BbAoO2WfGlAB9MKfnA-5zo8mB35q-wEzyOhh6hWaKlcqQ==",
+                "title": "synenza.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVZ-9-_bDwFFlKCHYknxSQYCgQVnev2mOtH9kZgIdVZpCM4j2KF7qsP0zSF_zERPKBA6MDMPdSFZ7awDyxoxzp3c2NZKfbMYipDWmNkI2R3HcajlR6QSShobOVQKT9wZnvY0LH8a5o63U=",
+                "title": "iotai.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qWuugQNgZVxnHV5t2cKwj47J5IEib97UBPAgiLC_3VGvd0xMIelaQAh9WRPBiNKrYFx1tpYQWfXMC65qTk-hPJHGOL9_AQv5leERwigfoyP2CS0zSSUMm3ryCpasjS96S6y0DTk=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNJy-sPUMYpXmDdI8IlqDwpo0W4Ls2fByP0-3ZoqoNRVrxbd47gqQEE_6Hbv8RVDUef96EJmjU85fBzYikLFWz75gtuRHSQ4UjfmMqTHV3nEe7UGr3PuG7Dt8xZ9LdOOJfdqWVN88MfhYFvt69vkt_y_gy-zpsNUmLmoGfoSjf2O7t33S39W1LBKzZA6-IoWqC01W1m_FVjVCwduVgwzbqkNAYHLDOOTKwMLenbQ==",
+                "title": "investing.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOLRQ3j7ZOHmNStuwlV7TIDdV_0y7s3EEXg4pG3KQr6XAHfH02CRPBJmWjb_6_NdH2g7wBcMGkrflMumWNO9RvxKHB0tUBFBJGFmVrns1NY_604AKsnGI8joy-aIB9XjeoJn8Bg6fTbFOZJFFanBgJFGkb2EbHRqcCr5DxMjwYzycxnS1DuGBKd5s=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSwOkNLnjLER6pekqTJmu2H0Y09u4A7OZ0kBvPUsxWixYgWXZFbH0-PN7bPG1QsU4JPsQxLjeliPC9ielYOTjNweQLj9sMgRfurvx3hXvuamh2bwRKROQCcLeLRTCfUQSbYA8FJgBbMEN3",
+                "title": "saasnine.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGetkJknEJLYYw5LexRHDRhwR_3p2u-Z2hkyp6uf9R_VBNtvBqhHlXvbCIy5GEk4wFiWbztOSfKWVcBIAMZfj7sZwtcpEO0TEov9kDiUYD4isZTkfLckVM1cmLvE13W5lfz_v6dy4jK1ApB6nhWv1YlKOJX_YV834IWRN_1YEMktNxipTWuO6mMLA==",
+                "title": "agentyis.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 575,
+                "endIndex": 608,
+                "text": "**Netier** (Canberra Airport ACT)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 617,
+                "endIndex": 713,
+                "text": "**Focus:** A major Canberra-headquartered managed service and digital transformation consultancy"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 724,
+                "endIndex": 798,
+                "text": "**AI Specialisation:** Netier has a dedicated **AI & Automation** practice"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 800,
+                "endIndex": 1027,
+                "text": "They focus on practical, high-ROI workflow automation—such as automated invoice processing, client intake, HR onboarding, and secure Microsoft 365 Copilot rollouts tailored to mid-market cost structures and security baselines"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1195,
+                "endIndex": 1235,
+                "text": "**Frontrow Technology** (Canberra-based)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1244,
+                "endIndex": 1324,
+                "text": "**Focus:** A boutique, specialized Microsoft Partner led by local Microsoft MVPs"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1334,
+                "endIndex": 1406,
+                "text": "**AI Specialisation:** Strong focus on **Applied AI and Copilot Studio**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1408,
+                "endIndex": 1614,
+                "text": "They specialize in building custom Copilot Studio agents grounded in specific data repositories, integrating automated approval workflows, and ensuring tight information boundaries (using Microsoft Purview)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1624,
+                "endIndex": 1811,
+                "text": "**Best for:** Regulated mid-market firms, associations, and government-adjacent contractors who need agile AI agent builds that still meet strict data-sovereignty and compliance standards"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1818,
+                "endIndex": 1849,
+                "text": "**Evocate** (Canberra Practice)"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1858,
+                "endIndex": 1924,
+                "text": "**Focus:** Mid-tier and enterprise cloud modernization consultancy"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1934,
+                "endIndex": 2006,
+                "text": "**AI Specialisation:** Strong Power Platform and Copilot Studio practice"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2008,
+                "endIndex": 2210,
+                "text": "They help organizations streamline operational processes (e.g., HR workflows, CRM task automation, internal helpdesks) by linking low-code front-ends and AI bots directly to Power Automate backend flows"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2220,
+                "endIndex": 2364,
+                "text": "**Best for:** Organizations that want to automate repetitive operational processes without commissioning expensive, slow bespoke software builds"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2680,
+                "endIndex": 2783,
+                "text": "**Focus:** Multiple-time Microsoft Partner of the Year (Modern Work) with consultants based in Canberra"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2793,
+                "endIndex": 2919,
+                "text": "**AI Specialisation:** Widely regarded as a premier authority in Australia for Copilot adoption and Copilot Studio development"
+              },
+              "groundingChunkIndices": [
+                4,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2921,
+                "endIndex": 3111,
+                "text": "They run rapid workshops (such as *Agent-in-a-Day*) and design custom autonomous agents inside Microsoft Teams to triage queries, summarize policy documents, and trigger approval automations"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3286,
+                "endIndex": 3374,
+                "text": "**Focus:** Data, Analytics, and AI Microsoft Solutions Partner delivering across the ACT"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3384,
+                "endIndex": 3489,
+                "text": "**AI Specialisation:** Focuses on the convergence of **Copilot Studio, Azure OpenAI, and Power Platform**"
+              },
+              "groundingChunkIndices": [
+                10,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3491,
+                "endIndex": 3682,
+                "text": "They specialize in hybrid solutions—using Copilot Studio for chat-based agent interfaces while deploying Azure AI models for complex document intelligence and predictive workflow automation"
+              },
+              "groundingChunkIndices": [
+                10,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3692,
+                "endIndex": 3857,
+                "text": "**Best for:** Mid-market companies with complex internal databases, custom CRM systems, or high-volume document triage requirements (e.g., legal, finance, logistics)"
+              },
+              "groundingChunkIndices": [
+                11,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3864,
+                "endIndex": 3892,
+                "text": "**Data#3** (Canberra Office)"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3901,
+                "endIndex": 3979,
+                "text": "**Focus:** One of Australia’s largest Microsoft cloud and software providers"
+              },
+              "groundingChunkIndices": [
+                13,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3989,
+                "endIndex": 4185,
+                "text": "**AI Specialisation:** Their Canberra-based Modern Workplace practice provides Copilot readiness assessments, Copilot Studio agent design, and automated pipeline configuration using Power Automate"
+              },
+              "groundingChunkIndices": [
+                14,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4196,
+                "endIndex": 4352,
+                "text": "**Best for:** Mid-market businesses that want a single provider handling Microsoft licensing, cyber security audits, and agent deployment under one contract"
+              },
+              "groundingChunkIndices": [
+                14,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4803,
+                "endIndex": 4874,
+                "text": "Look for consultants who audit your Microsoft Purview/permissions first"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4971,
+                "endIndex": 5184,
+                "text": "For mid-market companies, low-code connectors (Power Automate) mean your internal IT team or a junior admin can maintain and modify the agent workflows after the consultant hands them over, avoiding vendor lock-in"
+              },
+              "groundingChunkIndices": [
+                15,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5409,
+                "endIndex": 5509,
+                "text": "A capable partner should deliver a functional Proof-of-Concept in Copilot Studio within 2 to 4 weeks"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Power Platform\" \"Copilot Studio\" Canberra consultant",
+            "\"Data#3\" \"Copilot Studio\" Canberra",
+            "AI workflow automation consultants Canberra Copilot Studio",
+            "Microsoft partner Copilot Studio AI agents Canberra",
+            "\"Netier\" Copilot Canberra",
+            "\"Engage Squared\" \"Copilot Studio\" Canberra",
+            "Microsoft Copilot Studio consultants Canberra AI automation mid market"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 804,
+      "candidatesTokenCount": 1390,
+      "totalTokenCount": 3700,
+      "cachedContentTokenCount": 392,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 804
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 392
+        }
+      ],
+      "thoughtsTokenCount": 1506,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "88biaov5DO_Lv_gPuf-gsQs"
+  }
+}

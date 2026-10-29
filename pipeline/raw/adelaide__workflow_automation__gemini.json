@@ -1,0 +1,537 @@
+{
+  "slug": "adelaide",
+  "pk": "workflow_automation",
+  "plat": "gemini",
+  "text": "Which consultancies in Adelaide are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__workflow_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:05.621Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a consultancy in Adelaide for **business workflow automation** and **Microsoft Power Automate implementation**, the right fit depends largely on the size of your organisation, whether you need enterprise-level governance (Center of Excellence), and your integration requirements (e.g., SharePoint, Dynamics 365, or legacy ERPs).\n\nThe leading consultancies with a strong presence and proven track record in Adelaide include:\n\n---\n\n### 1. Dedicated Adelaide-Grown Consultancies & Specialists\n\n*   **Comunet**\n    *   **Focus:** Mid-market, local councils, healthcare, and enterprise business process digitisation.\n    *   **Why them:** Headquartered on South Terrace in Adelaide, Comunet has over 30 years of local history. They excel at Microsoft Modern Workplace transformations, using Power Automate, Power Apps, and SharePoint to replace manual paperwork, approval bottlenecks, and disconnected legacy routines. \n    *   **Best for:** Organisations wanting a local, hands-on partner for end-to-end process digitisation and practical workflow automation.\n\n*   **Chamonix (Synechron)**\n    *   **Focus:** Enterprise architecture, state government, utilities, and large-scale digital transformation.\n    *   **Why them:** Chamonix is an Adelaide-founded consulting powerhouse known for architecting large, complex solutions (regularly trusted by SA Water, SA Health, and other SA Government departments). If your workflow automation requires rigorous security frameworks, integration into complex data environments, or cloud architecture, their senior consultants are among the best in South Australia.\n    *   **Best for:** Complex, regulated environments and public sector organisations requiring enterprise-grade solution architecture.\n\n*   **Concept Data**\n    *   **Focus:** Small to mid-sized businesses (SMBs) and mid-market modern workplace automation.\n    *   **Why them:** Based in Eastwood and Mount Barker, Concept Data specialises in deploying practical Microsoft Power Platform solutions, including Power Automate flows, SharePoint structure design, and custom front-end apps. They focus on eliminating operational friction and routine manual data entry without over-engineering the solution.\n    *   **Best for:** Mid-tier commercial businesses looking for agile, direct-access consulting and fast turnaround times.\n\n---\n\n### 2. Major National Microsoft Partners with Strong Adelaide Offices\n\n*   **Data#3 (King William St, Adelaide)**\n    *   **Focus:** Enterprise, education, and government digital transformation.\n    *   **Why them:** As one of Microsoft’s largest and most accredited Solutions Partners in Australia, Data#3 has an extensive dedicated Business Applications and Modern Work team in Adelaide. They do more than just build individual flows; they help organisations implement **Center of Excellence (CoE)** governance models, manage Power Automate licensing, and deploy Robotic Process Automation (RPA) and AI Builder models.\n    *   **Best for:** Enterprise-wide automation rollouts where data loss prevention (DLP), governance, and licensing control are critical.\n\n*   **Datacom (Adelaide CBD & Modbury Hub)**\n    *   **Focus:** Large commercial, government, and council workflow modernisations.\n    *   **Why them:** Datacom has a significant footprint in South Australia. Their local Information Management and Intelligent Workplace consultants specialise in building robust automation pipelines—connecting Microsoft 365, Dataverse, Copilot Studio, and Power Automate to orchestrate multi-department processes.\n    *   **Best for:** Large organisations looking for high-capacity delivery and ongoing managed support.\n\n*   **Engage Squared (Adelaide & National presence)**\n    *   **Focus:** Employee experience, Modern Work, and collaboration-centric automation.\n    *   **Why them:** A premier Microsoft Modern Work partner across Australia, Engage Squared focuses heavily on human-centred workflow automation. If your workflow challenges centre around Microsoft Teams approvals, SharePoint records management, or employee lifecycle workflows, they are market leaders in driving actual user adoption.\n    *   **Best for:** People-driven workflows, approval chains, and governance-heavy document management systems.\n\n---\n\n### Key Questions to Ask When Selecting a Consultancy:\n\n1. **How do you handle Governance and Data Loss Prevention (DLP)?** \n   Unregulated Power Automate implementations can cause \"flow sprawl\" and shadow IT. Ensure they establish an Environment and DLP strategy from day one.\n2. **Will you build Cloud Flows, Desktop RPA, or both?**\n   If your workflows need to interact with modern APIs (like Xero, Salesforce, or Microsoft 365), Cloud Flows suffice. If you need to interact with legacy on-premise software without APIs, verify their experience with **Power Automate Desktop (RPA)**.\n3. **What is your handover and enablement model?**\n   The best consultancies will train your internal power users to maintain standard flows rather than locking you into expensive minor support retainers for simple logic adjustments.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Comunet%22+Adelaide+%22Power+Automate%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Comunet&quot; Adelaide &quot;Power Automate&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+partner+Adelaide+workflow+automation&client=app-vertex-grounding&safesearch=active\">Power Platform partner Adelaide workflow automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Datacom%22+Adelaide+Power+Automate+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Datacom&quot; Adelaide Power Automate OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Adelaide+%22Power+Automate%22+OR+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Adelaide &quot;Power Automate&quot; OR &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Engage+Squared%22+Adelaide+Power+Platform&client=app-vertex-grounding&safesearch=active\">&quot;Engage Squared&quot; Adelaide Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Automate+consultancy+Adelaide&client=app-vertex-grounding&safesearch=active\">Microsoft Power Automate consultancy Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Chamonix%22+Adelaide+Microsoft+Power+Platform+OR+%22Power+Automate%22&client=app-vertex-grounding&safesearch=active\">&quot;Chamonix&quot; Adelaide Microsoft Power Platform OR &quot;Power Automate&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Concept+Data%22+Adelaide+Power+Automate&client=app-vertex-grounding&safesearch=active\">&quot;Concept Data&quot; Adelaide Power Automate</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHJspy9XjTqMFYEC0A2o3Rir-JhYWZfSuUUDTAnbqbLLb4e0mLt0z1eiPYPvB27CgtFyvE43a82iVbFrCmg4edATW7qgtW4c-EkS53ZArbniIymtNjHF-zKjkCMuPUBPB6UO6ENX7do6-fQZVHdLCjEsazSxAuSyI655f_sfyb18Zhw5yLnYU=",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElkmJA5m9C_hrTZAowjumUq_TeerWUgYd4s-ONdYOCZ5K4dcXBQlQTjW8UC__MKSrpvlNosclk6VbEFwOzIukSnVWLPryYDjsrH0EyxfS-5lqKOntP9g4ptqE2Bo0R8OqbMG1wajQtfdpM3Wo=",
+                "title": "ambrit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrtXrUYBxJng-W6kBxBy6J_BUK-iChVJbw0-Ymfpt4NJITV8N32znWZl-EREunFVXxUvrQyYATSfBi-w5U-tIWVlIzDVbLAvEyg7i12_gfWKP9m7cynBhxSK0RvAypi8c_4V9uYYBqcrlkMXyv65UEuHNRLlJTVcOdTPUZZ7m",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_r-2HpkEGDBK6B211A5pN5CMms7pp0FhJhShyzIEp8WnDbQ4pLkj3dKHs1Tz-5IJyWN9Vy46ZDOtfcEjmMVH7Yi8WnpO1B-8q0bc5kg==",
+                "title": "comunet.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZRmvegTLY3g5a4zsE7BkZXyhFRbL89ZvTo09zv5jdFLahpERR5UKevZdyf1VCqYJ71Fb5SpFaZAugxNQQzvEMZqxNOGKvTUiM8uFVYZAKOhy0ITzAhZaLvH79Q4Ar72H8AN5bduL7suTDeEUNELQy7N0=",
+                "title": "comunet.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdSdFbBKFq6Uw53wh2PZDZEIDw5CHV45w2BXJcdtKHmNb8aHFXg0N4jimRQZTQdgNBqYJj_72ADKJvBGRPdy19qR0BhB-tIymalhXPXOxFslCbw2FsabHxIjv2l4-MrjEDsEVJaJ5GRYWKNtKUaJEDZt3t30=",
+                "title": "comunet.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExe8rgc_sCTu2jcdCHtW_vBGRSy7qW_n5KA760XZnjypcKtfZe68sI9Z1m94eOSPlnIou2SCOuvp8KJPGIKnyQceTXeWIU-7IbG-ewBPHl1ZF9ntAZGV8KeQF6jmx4Cmk3H2mZRg3429-Z9ELZUdBucWsGAYNr3j8xoFKq7X4TJRkXutFi_7dAPkDVoKK5Mcw=",
+                "title": "stantec.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUPLtORY2zOFen9jjhf0S4KimreapaaWXHw6nOm8n7l3vLDd6Z8m5HgUTW-Su0gWiV4SBSa2yc_0PYofWh9i_8r1HLY757JfJC4j0yH6tsMUGZJPDhE6xHCt8J_wyYjXsgo0r_AX6q3vAEwSxb7lwaPfM-prGAMituuJnQGmM3lBtGvJSqpkgThbc9VU5490Iro3rwA4WRkCglDzGlfqo=",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RIkrdtFLgcjTloyZqE5gONcMCTeH7_CH3RxsYpo6-iMNhhKf1XDi-VjHcGY3FbLyMjsI3jA701EbFZeis0qMcqeVQ7lnBjtCHs5LyRHmwOtQZJn-Xdu6KBk02Co8DJ5iviwagCOuFXvwy93Z2rPRgW2oPM9TdOIrUvXgonLgSfSi8I9gCPUQ5untCCbJdhTw916XQhjVnXseXRwyVKRO-w==",
+                "title": "dpc.sa.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7JLnF44Y7arwwCq8vyTEnc2YCo3mE--eYbwn606uWczg7n8LXqXxZUtRnukEYNFkGfDDm_1R9Kuwn8ADi4jQpXPp0YfyMLSEt4nnuGLGj2H6XgjqVRZm3lLIywG74WW0p4WM7zWOYgwE5XgD8hBQ7r1ogYaJSee6z6v2yTF4te_EDk9l1qZdOom_8ux1KzsauK9Cj3MUP6UkxwIFMnPlkQ4P5m1XcKX70665t84vSTf3oy7o3bGw",
+                "title": "sahealth.sa.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY-gpZ24gtQ5cVVRnsyM2yXI8aL45fbA556VSELzmyosqsQhe1iJH3fMbqB7xxhRlbQ8NwcNXUQmHOKF4fBBql7oYiT_P7VYUj6BVXSyVcXgYDVASyj_8AW3gjb73PHINcF-zfQqYtkhRhqub40OnoKlMMw4g=",
+                "title": "conceptdata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6QyxOgTDyuI4Uj8Ai3p68LA_EiYy1PAkkS77XnqL3KGbubXinWdfJyGwm7J7dSzxLE7lLGRAEW-yVib1NvI-AINGYUnx3_UvLRjmD5Fjc7f2NoB_fhBybJX_AiHH7b-K-7e7Q4HaIdTgu5T3kq3mlnmw1dqX51XJ8A-KdPy49lwOFsO91NJqY4Kucbg1VAuQEdGB_mOq7neL05jlzEg-pSH6f9Bczay5zcyaMDvGiQa8dEu_54eqzymgB93fIqQkgliSU",
+                "title": "globenewswire.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG85IF9unsdY0JyAn_TAGeLe_c2JxcHjMHaJ7opvMtaqWRQsctWzFSjPnJb3ERlOfdsWxEGwJv7vYpgIj-mDftBcg6uTiOTBqAMJbq4BLlT2EX_y-GRd4KVTg6DHNSRD1197HE51pn1WqR9E2eSllJjwhq8w9W1",
+                "title": "conceptdata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-5uLyokgC2QKNlIUCbFj1Ydk8CKObMLFoqhQS_6L_2N5BbwEWUB60V_FD3Ny_WI0Vs_BA8FmLBLJYh0c3qEQ6IK1OPsE2oS71uT-HHFZ4DA==",
+                "title": "conceptdata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIAPkDS8pbhIW0Mcatfn7hz3GQmNwEpFFTWTVG89DgkUSsVFyeUv_oUNEyTg_AVRKjX7IyBaihbGeSDi1JJ8X-boT0Hn8cQbo09aFRyy3shODjS0ioF3EDDCts",
+                "title": "conceptdata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFixzYNrHqFcuyaTFHUnrXNq9hJtKtG9QFlAzbbR0R0i2yaTHlWpiQgVVb749UaZDGQcy-9GfkupdEKS3yf5mioYuwNRKYR3hBsn_TVKHWNcG7exg1McA7k66vg1zC1y8kgm-MJ0D1R8Kwf_NeBiDkktlBhyvANsq2-HLIEep0UMm3RZyHX",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHy-jl-bshJIENEPYWu1qeT--8x2yR4wF6NTTFyzv7gYV8eAMLeujAPGQ6BaElsmKQxIL361RTBqgsJyh7rZMNZw-lO_PUaibzjGmhOFUn7Io1OZxs9sLqBL_wU8fDuieZx06n2qwP3hyR5k9BXqTct-M1iytPGbssNP3jV3kQ_j8B",
+                "title": "mycelium365.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMqrBSxG033zxfwPnR-Gmf4Yt3cRCgddsnrpup7zv4Ilxcdojbi81wTvcPTBUcv1fm3zhl-o2fA_n-7l3k3AATMa6zyDM3hRScV5ifJk9YlIMm05ayfMhW-lCAKnIx4hxrhyJ6OLtga_IRiHcbo_6-pw==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyPlEz6mZBa7aT1s7zqzrs-um7zC54mpCtS34LqSkvNwMx4QLHuc6oxAx4Qzse1OQaxPPxZ83E9X1B13WMfb3MKFbfstHiQQ7xW82RoF3NYQn0vIr1VpbF39H5d8lsBYVOWlWLh5v2z33SOftuhfKCoFsgZzWCjrQyA7KGdvf4cXE9zbOsNgewrFH4NduQrJS0FUGvrbKV-AzgLCZHIGkNGDDsvpN_qw9GOTK6",
+                "title": "workable.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VgSg-COS-mjFf17HyOxiVazN6BZ0Ub1gB_NT88QBGEPz-ZWIQLh3vgec9xel5JRCqhoM_temkkH90aEQe9_NDpJyFp8KKJlGRk5M7cZJWk6JyvjjAODL1fXnbOOmp_P-hkdbDjGdfvldKOKHKlX_IGNSt1k0NQP6XzBIxHAiard0-26q52s5DF9BqRnd3Xt_7OvQBQ==",
+                "title": "datacom.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFbwL2HXlwtrx-WCFvb-15q8X5TtK_zsDmTjvcT0j4F4k85swrn80xRx8uhOqh917Xbs-rMWMxY3KPb1r7fTxzc9SUABbltypMXpVELtTlEhPnVh2qrd0T0U1Gi7e-UHQbOcJZP0aHJeqxan4sDM=",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhvBu81gMpHeGDnw10rMMIwp8xEeAObilcxCW43JkKITZEFf9HdXvWwzGq1-doJp05b3VffuxJcU0W0CMXVLE-zH4jZMm_V1eQedPbQe2-58XW1uJAxKZ44tr4RA==",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcq8k76IDXDLE8ap2qcoPzzlmt-mf87wL3p5A4m58c1VpIf5w7JP2DpfYISnEmQy25bCnVji1UeheJ0vubCkReopwxtCYvtuuvhxpP6IwOogKJ-wAfArigJkwHl0I-p93ux9VpA57_pNBtn15JVfju9WU7VHrta51dYZMwxg7YpDhLapXC8PW4xyAR8co0OtagWhD6uOUxCptY9oMbiqJQTE0=",
+                "title": "scdadvisory.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESsxX7v0Xiy8RuGdeXRHgWxcccBqbJNe8FTbmY501khJ1mf083P9BKQuYUr822SHISZPLjfkr0SQmfy3NSVelDtL7VcoKbMdV9zMBOYOS1Bt8lpnas9ZPUZDs0NJPYVQwiHWXzLGYnlKLdWxaGFfbLaoGg0lR_UNY1mBQaEhqKFq33iGeq",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Kdqny32-gMmYhVjcnGXGNfVOXOqXWo7krKhhCkLNWhTOBcgXPcTbYYVnUA_3CLvUH8U8frHBKFiE6fynck4TbmjYqjQ05IWGYomZ8OMz_AYUFna1_KzIwPvzz2qfrG36mkAw3D2JqB2k3M2B7456dmRkWWZYcRLQdnxGeovRg18AWNC3",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCht-5FLhzRGz9teH2_W1EO6Q4exxuH0bMRJ9g3OvWjpypj2Tg5AaMWWWM4W1U8IDoCMx75XpZ_oBk2o0tDcrfAsMckrnRUevvRTXEmo-GIamUuYHvtPtjCgAVtkELum9uCy2XLIAC4pwQnw8sUsly7-KJX3Dd0-lTcbp9gi3jIbDJFMv4",
+                "title": "officeproconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqNiPwW1cjn4Yq4448fIbmHv0Msg9Rb6rB4XvCYiEuaHlq4NlrSkh5sjV7idt-g9SCiIOXH746ZNojPjo2wzeAdQb_Io2XiChhVkqGSLjhyEgF7JDVONicteEHqQx47deOs2jPX1Qyjt8WRVStDIgI",
+                "title": "engagesq.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 342,
+                "text": "When selecting a consultancy in Adelaide for **business workflow automation** and **Microsoft Power Automate implementation**, the right fit depends largely on the size of your organisation, whether you need enterprise-level governance (Center of Excellence), and your integration requirements (e.g., SharePoint, Dynamics 365, or legacy ERPs)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 530,
+                "endIndex": 625,
+                "text": "**Focus:** Mid-market, local councils, healthcare, and enterprise business process digitisation"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 635,
+                "endIndex": 735,
+                "text": "**Why them:** Headquartered on South Terrace in Adelaide, Comunet has over 30 years of local history"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 737,
+                "endIndex": 927,
+                "text": "They excel at Microsoft Modern Workplace transformations, using Power Automate, Power Apps, and SharePoint to replace manual paperwork, approval bottlenecks, and disconnected legacy routines"
+              },
+              "groundingChunkIndices": [
+                3,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 938,
+                "endIndex": 1069,
+                "text": "**Best for:** Organisations wanting a local, hands-on partner for end-to-end process digitisation and practical workflow automation"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1109,
+                "endIndex": 1212,
+                "text": "**Focus:** Enterprise architecture, state government, utilities, and large-scale digital transformation"
+              },
+              "groundingChunkIndices": [
+                6,
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1222,
+                "endIndex": 1417,
+                "text": "**Why them:** Chamonix is an Adelaide-founded consulting powerhouse known for architecting large, complex solutions (regularly trusted by SA Water, SA Health, and other SA Government departments)"
+              },
+              "groundingChunkIndices": [
+                6,
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1419,
+                "endIndex": 1615,
+                "text": "If your workflow automation requires rigorous security frameworks, integration into complex data environments, or cloud architecture, their senior consultants are among the best in South Australia"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1625,
+                "endIndex": 1751,
+                "text": "**Best for:** Complex, regulated environments and public sector organisations requiring enterprise-grade solution architecture"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1783,
+                "endIndex": 1873,
+                "text": "**Focus:** Small to mid-sized businesses (SMBs) and mid-market modern workplace automation"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1883,
+                "endIndex": 2103,
+                "text": "**Why them:** Based in Eastwood and Mount Barker, Concept Data specialises in deploying practical Microsoft Power Platform solutions, including Power Automate flows, SharePoint structure design, and custom front-end apps"
+              },
+              "groundingChunkIndices": [
+                12,
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2105,
+                "endIndex": 2219,
+                "text": "They focus on eliminating operational friction and routine manual data entry without over-engineering the solution"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2473,
+                "endIndex": 2544,
+                "text": "**Focus:** Enterprise, education, and government digital transformation"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2554,
+                "endIndex": 2741,
+                "text": "**Why them:** As one of Microsoft’s largest and most accredited Solutions Partners in Australia, Data#3 has an extensive dedicated Business Applications and Modern Work team in Adelaide"
+              },
+              "groundingChunkIndices": [
+                2,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2743,
+                "endIndex": 2972,
+                "text": "They do more than just build individual flows; they help organisations implement **Center of Excellence (CoE)** governance models, manage Power Automate licensing, and deploy Robotic Process Automation (RPA) and AI Builder models"
+              },
+              "groundingChunkIndices": [
+                0,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2982,
+                "endIndex": 3112,
+                "text": "**Best for:** Enterprise-wide automation rollouts where data loss prevention (DLP), governance, and licensing control are critical"
+              },
+              "groundingChunkIndices": [
+                16,
+                2,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3168,
+                "endIndex": 3244,
+                "text": "**Focus:** Large commercial, government, and council workflow modernisations"
+              },
+              "groundingChunkIndices": [
+                18,
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3254,
+                "endIndex": 3322,
+                "text": "**Why them:** Datacom has a significant footprint in South Australia"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3324,
+                "endIndex": 3563,
+                "text": "Their local Information Management and Intelligent Workplace consultants specialise in building robust automation pipelines—connecting Microsoft 365, Dataverse, Copilot Studio, and Power Automate to orchestrate multi-department processes"
+              },
+              "groundingChunkIndices": [
+                1,
+                20,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3573,
+                "endIndex": 3669,
+                "text": "**Best for:** Large organisations looking for high-capacity delivery and ongoing managed support"
+              },
+              "groundingChunkIndices": [
+                20,
+                21
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3734,
+                "endIndex": 3815,
+                "text": "**Focus:** Employee experience, Modern Work, and collaboration-centric automation"
+              },
+              "groundingChunkIndices": [
+                22,
+                23
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3825,
+                "endIndex": 3964,
+                "text": "**Why them:** A premier Microsoft Modern Work partner across Australia, Engage Squared focuses heavily on human-centred workflow automation"
+              },
+              "groundingChunkIndices": [
+                22,
+                24
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3966,
+                "endIndex": 4154,
+                "text": "If your workflow challenges centre around Microsoft Teams approvals, SharePoint records management, or employee lifecycle workflows, they are market leaders in driving actual user adoption"
+              },
+              "groundingChunkIndices": [
+                25,
+                26
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4164,
+                "endIndex": 4268,
+                "text": "**Best for:** People-driven workflows, approval chains, and governance-heavy document management systems"
+              },
+              "groundingChunkIndices": [
+                25,
+                26,
+                24
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4404,
+                "endIndex": 4484,
+                "text": "Unregulated Power Automate implementations can cause \"flow sprawl\" and shadow IT"
+              },
+              "groundingChunkIndices": [
+                16,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4486,
+                "endIndex": 4552,
+                "text": "Ensure they establish an Environment and DLP strategy from day one"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4614,
+                "endIndex": 4728,
+                "text": "If your workflows need to interact with modern APIs (like Xero, Salesforce, or Microsoft 365), Cloud Flows suffice"
+              },
+              "groundingChunkIndices": [
+                25
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4730,
+                "endIndex": 4861,
+                "text": "If you need to interact with legacy on-premise software without APIs, verify their experience with **Power Automate Desktop (RPA)**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Comunet\" Adelaide \"Power Automate\" OR \"Power Platform\"",
+            "Power Platform partner Adelaide workflow automation",
+            "\"Datacom\" Adelaide Power Automate OR \"Power Platform\"",
+            "\"Data#3\" Adelaide \"Power Automate\" OR \"Power Platform\"",
+            "\"Engage Squared\" Adelaide Power Platform",
+            "Microsoft Power Automate consultancy Adelaide",
+            "\"Chamonix\" Adelaide Microsoft Power Platform OR \"Power Automate\"",
+            "\"Concept Data\" Adelaide Power Automate"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 570,
+      "candidatesTokenCount": 1394,
+      "totalTokenCount": 3154,
+      "cachedContentTokenCount": 272,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 570
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 272
+        }
+      ],
+      "thoughtsTokenCount": 1190,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "fMbiarXJMvfyv_gPrsX1gQU"
+  }
+}

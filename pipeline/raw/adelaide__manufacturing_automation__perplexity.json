@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "manufacturing_automation",
+  "plat": "perplexity",
+  "text": "We are a manufacturer in Adelaide looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__manufacturing_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:40.370Z",
+  "cost": 0.006204,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 42,
+      "output_tokens": 562,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005604,
+      "datetime": "2026-10-29 04:07:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an Adelaide manufacturer wanting to **retain its ERP**, start with consultants that can integrate Power Platform with existing ERP, MES, devices and databases—not firms whose default solution is an ERP replacement.\n\n### Best-fit shortlist\n\n- **Inturing** — strongest apparent fit for your specific use case. It focuses on manufacturing, Power Platform and Azure integration over existing ERP/MES/PLM systems. Relevant capabilities include automated quote and order processing, Power Automate integrations, custom connectors, offline shop-floor apps, inspections, quality checks and non-conformance workflows.[2]\n\n- **AMBR IT** — Adelaide-based and experienced with advanced manufacturers in South Australia. It advertises shop-floor data capture, ISO 9001 quality workflows, supply-chain traceability, Power Automate and custom ERP integrations.[4]\n\n- **Codium** — Adelaide-based software developer suited to bespoke manufacturing applications and ERP-connected solutions. It covers work orders, bills of materials, production, quality, purchasing and invoicing, and states that it builds around the existing ERP rather than replacing it.[7]\n\n- **Power Platform Experts / Office Experts Group** — a specialist option for Power Apps, Power Automate, Power BI and Power Pages, with Adelaide delivery capability. Consider them particularly for workflow automation, operational apps, dashboards and ongoing Power Platform support; validate their manufacturing and shop-floor integration experience during qualification.[9][10]\n\n- **SimpleIT4U** — Adelaide-based Microsoft and Power Platform consultancy offering custom applications, automation, AI agents and integrations. It may suit a smaller initial project or discovery phase, although its manufacturing-specific credentials should be tested.[1]\n\n### How to approach them\n\nAsk each consultant to scope a short discovery around three pilot processes:\n\n1. **Order processing:** email, PDF or portal order capture; validation against customer, product and pricing data; ERP order creation; exception handling.\n2. **Shop-floor capture:** tablet or scanner-based job progress, material usage, inspections, quality issues and offline operation.\n3. **Operations visibility:** Power BI dashboards for order status, production throughput, late jobs, downtime, quality and inventory exceptions.\n\nRequire a proposed architecture showing how the consultant will preserve the ERP as the **system of record**, use APIs or supported connectors rather than direct database writes where possible, handle integration failures and retries, manage Power Platform licensing, and support the solution after go-live.\n\nA practical first call would be with **Inturing, AMBR IT and Codium**: Inturing for the most directly aligned manufacturing/Power Platform proposition, AMBR IT for Adelaide-based industrial and compliance experience, and Codium for custom shop-floor software and ERP integration. Add **Power Platform Experts** if the priority is a broader Microsoft low-code implementation.",
+              "annotations": [
+                {
+                  "title": "SimpleIT4U: Power Platform Consulting Services Australia",
+                  "url": "https://simpleit4u.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & AI for Manufacturing",
+                  "url": "https://inturing.com.au/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "IT Services & System Developers in Adelaide",
+                  "url": "https://www.ambrit.com.au/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses - CG TECH",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integration and Automation | Implementation & Services",
+                  "url": "https://www.abelsoftware.com/implementing-abel/integration-and-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Manufacturing - Technology Partner Adelaide | Codium",
+                  "url": "https://www.codium.com.au/industries/manufacturing",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About Us - Power Platform Experts",
+                  "url": "https://www.powerplatformexperts.com.au/about-us",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

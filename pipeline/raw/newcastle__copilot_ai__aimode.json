@@ -1,0 +1,217 @@
+{
+  "slug": "newcastle",
+  "pk": "copilot_ai",
+  "plat": "aimode",
+  "text": "Which AI automation consultants in Newcastle specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__copilot_ai__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:49.006Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Newcastle specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000255,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20AI%20automation%20consultants%20in%20Newcastle%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXXq9Y5oFHNrEUA_MxZofQEF",
+      "datetime": "2026-10-29 04:10:43 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Nettko** and **IOTAI** are primary AI and workflow automation consultants servicing the Newcastle and broader Australian mid-market that specialise in Microsoft Copilot Studio, custom AI agents, and secure Microsoft 365 process automation.[[1]](https://www.nettko.com.au/services/ai-business-automation/)[[2]](https://www.iotai.com.au/services/microsoft-copilot)\n\n### Overview of Specialists Serving Newcastle\n\n| Consultant / Firm | Primary Focus & Specialisation | Key Services & Capabilities | Typical Engagement |\n|---|---|---|---|\n| **Nettko** | Regional Newcastle-based AI & Microsoft 365 workflow automation, security, and governance. | Microsoft Copilot rollout, internal data permission hardening, custom workflow automations, and risk/compliance alignment (APRA/ASIC-aware). | AI Opportunity Assessments and phased workplace tech integration. |\n| **IOTAI** | Custom Microsoft Copilot Studio AI agents and cross-platform integrations. | No-code/low-code custom Copilot agents for HR, IT, sales, and operations inside Teams, Outlook, and SharePoint; custom connectors for Xero, MYOB, and Salesforce. | Development packages ranging from **$5,000 to $20,000** with 1–4 week deployments. |\n\n### Detailed Breakdown of Capabilities\n\n#### 1. Nettko (Newcastle & Regional NSW)\n\n- **Core Focus:** Pragmatic, security-first AI business consulting and Microsoft ecosystem integration tailored for established mid-market companies.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Microsoft Copilot & Automation Strengths:** Helps businesses configure and deploy Microsoft 365 Copilot safely without leaking confidential client data or mismanaging SharePoint/OneDrive permissions.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Governance & Risk:** Focuses heavily on eliminating shadow AI use (such as staff pasting sensitive company data into unmanaged public tools) and setting up compliant internal AI workflows.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Where to look:** Review their framework on the [Nettko AI Consulting Services](https://www.nettko.com.au/services/ai-business-automation/) page.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n\n#### 2. IOTAI (Australian-Wide / Remote & Multi-Region Deployment)\n\n- **Core Focus:** Dedicated design and deployment of custom Microsoft Copilot Studio agents.\n- **AI Agents & Workflows:** Builds domain-specific AI agents that operate across Teams, Outlook, SharePoint, and Dynamics 365 to handle repetitive tasks in HR, IT, and sales.\n- **Local Integrations:** Builds custom REST API connectors bridging Microsoft environments with Australian financial and operational platforms like **Xero and MYOB**.\n- **Where to look:** Explore their scope via the IOTAI Microsoft Copilot Services page.[[1]](https://www.iotai.com.au/services/microsoft-copilot)\n\nIf you'd like to narrow this down, let me know:\n\n- Your **industry or sector** (e.g., finance, logistics, professional services)\n- Your **current Microsoft 365 licensing tier** (e.g., Business Standard, E3, E5)\n- Whether you need **local face-to-face workshops** in Newcastle or remote deployment\n\nI can help you outline the right questions to ask these providers during an initial discovery call.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Nettko and IOTAI are primary AI and workflow automation consultants servicing the Newcastle and broader Australian mid-market that specialise in Microsoft Copilot Studio, custom AI agents, and secure Microsoft 365 process automation.",
+              "markdown": "**Nettko** and **IOTAI** are primary AI and workflow automation consultants servicing the Newcastle and broader Australian mid-market that specialise in Microsoft Copilot Studio, custom AI agents, and secure Microsoft 365 process automation.[[1]](https://www.nettko.com.au/services/ai-business-automation/)[[2]](https://www.iotai.com.au/services/microsoft-copilot)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.nettko.com.au",
+                  "domain": "www.nettko.com.au",
+                  "url": "https://www.nettko.com.au/services/ai-business-automation/",
+                  "title": "AI Consulting for Business & Automation Newcastle | Nettko",
+                  "text": "Want to streamline repetitive, manual tasks and reclaim valuable team capacity; Want to deploy Microsoft Copilot and M365 AI tools..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.iotai.com.au",
+                  "domain": "www.iotai.com.au",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+                  "text": "IOTAI designs and deploys custom Microsoft Copilot agents for Australian businesses on Microsoft 365, with development fees from $"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Overview of Specialists Serving Newcastle",
+              "text": null,
+              "markdown": "### Overview of Specialists Serving Newcastle",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Consultant / Firm | Primary Focus & Specialisation | Key Services & Capabilities | Typical Engagement |\n|---|---|---|---|\n| **Nettko** | Regional Newcastle-based AI & Microsoft 365 workflow automation, security, and governance. | Microsoft Copilot rollout, internal data permission hardening, custom workflow automations, and risk/compliance alignment (APRA/ASIC-aware). | AI Opportunity Assessments and phased workplace tech integration. |\n| **IOTAI** | Custom Microsoft Copilot Studio AI agents and cross-platform integrations. | No-code/low-code custom Copilot agents for HR, IT, sales, and operations inside Teams, Outlook, and SharePoint; custom connectors for Xero, MYOB, and Salesforce. | Development packages ranging from **$5,000 to $20,000** with 1–4 week deployments. |",
+              "table": {
+                "table_header": [
+                  "Consultant / Firm",
+                  "Primary Focus & Specialisation",
+                  "Key Services & Capabilities",
+                  "Typical Engagement"
+                ],
+                "table_content": [
+                  [
+                    "Nettko",
+                    "Regional Newcastle-based AI & Microsoft 365 workflow automation, security, and governance.",
+                    "Microsoft Copilot rollout, internal data permission hardening, custom workflow automations, and risk/compliance alignment (APRA/ASIC-aware).",
+                    "AI Opportunity Assessments and phased workplace tech integration."
+                  ],
+                  [
+                    "IOTAI",
+                    "Custom Microsoft Copilot Studio AI agents and cross-platform integrations.",
+                    "No-code/low-code custom Copilot agents for HR, IT, sales, and operations inside Teams, Outlook, and SharePoint; custom connectors for Xero, MYOB, and Salesforce.",
+                    "Development packages ranging from $5,000 to $20,000 with 1–4 week deployments."
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Detailed Breakdown of Capabilities",
+              "text": null,
+              "markdown": "### Detailed Breakdown of Capabilities",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "1. Nettko (Newcastle & Regional NSW)",
+              "text": "Core Focus: Pragmatic, security-first AI business consulting and Microsoft ecosystem integration tailored for established mid-market companies. Microsoft Copilot & Automation Strengths: Helps businesses configure and deploy Microsoft 365 Copilot safely without leaking confidential client data or mismanaging SharePoint/OneDrive permissions. Governance & Risk: Focuses heavily on eliminating shadow AI use (such as staff pasting sensitive company data into unmanaged public tools) and setting up compliant internal AI workflows. Where to look: Review their framework on the Nettko AI Consulting Services page.",
+              "markdown": "- **Core Focus:** Pragmatic, security-first AI business consulting and Microsoft ecosystem integration tailored for established mid-market companies.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Microsoft Copilot & Automation Strengths:** Helps businesses configure and deploy Microsoft 365 Copilot safely without leaking confidential client data or mismanaging SharePoint/OneDrive permissions.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Governance & Risk:** Focuses heavily on eliminating shadow AI use (such as staff pasting sensitive company data into unmanaged public tools) and setting up compliant internal AI workflows.[[1]](https://www.nettko.com.au/services/ai-business-automation/)\n- **Where to look:** Review their framework on the [Nettko AI Consulting Services](https://www.nettko.com.au/services/ai-business-automation/) page.[[1]](https://www.nettko.com.au/services/ai-business-automation/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Nettko AI Consulting Services",
+                  "description": null,
+                  "url": "https://www.nettko.com.au/services/ai-business-automation/",
+                  "domain": "www.nettko.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.nettko.com.au",
+                  "domain": "www.nettko.com.au",
+                  "url": "https://www.nettko.com.au/services/ai-business-automation/",
+                  "title": "AI Consulting for Business & Automation Newcastle | Nettko",
+                  "text": "repetitive, manual tasks … modern, tech-enabled workflows. build a safe, compliant plan to introduce AI automation to your business."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "2. IOTAI (Australian-Wide / Remote & Multi-Region Deployment)",
+              "text": "Core Focus: Dedicated design and deployment of custom Microsoft Copilot Studio agents. AI Agents & Workflows: Builds domain-specific AI agents that operate across Teams, Outlook, SharePoint, and Dynamics 365 to handle repetitive tasks in HR, IT, and sales. Local Integrations: Builds custom REST API connectors bridging Microsoft environments with Australian financial and operational platforms like Xero and MYOB. Where to look: Explore their scope via the IOTAI Microsoft Copilot Services page. IOTAI Microsoft Copilot Services",
+              "markdown": "- **Core Focus:** Dedicated design and deployment of custom Microsoft Copilot Studio agents.\n- **AI Agents & Workflows:** Builds domain-specific AI agents that operate across Teams, Outlook, SharePoint, and Dynamics 365 to handle repetitive tasks in HR, IT, and sales.\n- **Local Integrations:** Builds custom REST API connectors bridging Microsoft environments with Australian financial and operational platforms like **Xero and MYOB**.\n- **Where to look:** Explore their scope via the IOTAI Microsoft Copilot Services page.[[1]](https://www.iotai.com.au/services/microsoft-copilot)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.iotai.com.au",
+                  "domain": "www.iotai.com.au",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+                  "text": "Custom Copilot agents that automate HR, IT, sales, and operations across your Microsoft 365 environment. No code required. IOTAI designs and deploys custom Microso..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, let me know:",
+              "markdown": "If you'd like to narrow this down, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Your industry or sector (e.g., finance, logistics, professional services) Your current Microsoft 365 licensing tier (e.g., Business Standard, E3, E5) Whether you need local face-to-face workshops in Newcastle or remote deployment",
+              "markdown": "- Your **industry or sector** (e.g., finance, logistics, professional services)\n- Your **current Microsoft 365 licensing tier** (e.g., Business Standard, E3, E5)\n- Whether you need **local face-to-face workshops** in Newcastle or remote deployment",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you outline the right questions to ask these providers during an initial discovery call.",
+              "markdown": "I can help you outline the right questions to ask these providers during an initial discovery call.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.iotai.com.au",
+              "domain": "www.iotai.com.au",
+              "url": "https://www.iotai.com.au/services/microsoft-copilot",
+              "title": "Microsoft Copilot Services - AI Agents for Business - IOTAI",
+              "text": "Custom Copilot agents that automate HR, IT, sales, and operations across your Microsoft 365 environment. No code required. IOTAI designs and deploys custom Microso..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.nettko.com.au",
+              "domain": "www.nettko.com.au",
+              "url": "https://www.nettko.com.au/services/ai-business-automation/",
+              "title": "AI Consulting for Business & Automation Newcastle | Nettko",
+              "text": "repetitive, manual tasks … modern, tech-enabled workflows. build a safe, compliant plan to introduce AI automation to your business."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

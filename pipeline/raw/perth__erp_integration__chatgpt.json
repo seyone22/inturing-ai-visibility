@@ -1,0 +1,902 @@
+{
+  "slug": "perth",
+  "pk": "erp_integration",
+  "plat": "chatgpt",
+  "text": "Which system integration specialists in Perth are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__erp_integration__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:16.638Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which system integration specialists in Perth are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20system%20integration%20specialists%20in%20Perth%20are%20best%20for%20connecting%20ERP%2C%20CRM%2C%20MYOB%20Acumatica%2C%20SAP%2C%20and%20Microsoft%20365%20systems%3F&hints=search",
+      "datetime": "2026-10-29 04:07:10 +00:00",
+      "markdown": "# Best system integration specialists in Perth\n\nIf you need to connect ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I’d shortlist specialists based on their ability to integrate multiple vendors—not just implement one software platform.\n\nThe strongest candidates I found in Perth, Western Australia, fall into three groups: **multi-system integration consultancies, MYOB Acumatica specialists, and SAP enterprise integration partners.** No single provider’s published capabilities conclusively establish deep expertise in every system on your list, so it’s worth validating the exact integrations before choosing.\n\n## My top shortlist\n\n![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)\n\n## 1\\. Nano Solutions\n\n(Best overall fit to investigate)\n\nEnterprise systems integration · Perth\n\nAdvertises integration across ERP, CRM, SAP, MYOB, Microsoft 365 and legacy applications using APIs, middleware and event-driven architectures. This makes it the most directly aligned candidate on paper for a multi-vendor integration project. [nanosolutions.io](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting several existing systems without replacing them.\n\n[Website and enquiry](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa)\n\n---\n\n![Managed IT Services | Moncrieff Technology Solutions](https://images.openai.com/static-rsc-4/phdzoVMnzTZ1J94uNkxjt8rdS7qG03opbx7K06EGdlH4M7h3toVS7O_slp_arWmav7wl7gmpUwYywqYS4RT28q9XKQenQRQl-ivKFHc3aMJHIEfWi3rL1YZ9YTPJw3_Egx9Dn6tjLVTSPzEpnOZqvuZ3BXWscJ4m8Q2YvzPPGkCtev2Rj4WCDdRmEalPfTzX?purpose=fullsize)\n\n## 2\\. CRM Online\n\nEnterprise integration · CRM · Middleware\n\nPerth-based consultancy with experience in enterprise integration, workflow automation, CRM platforms and Dell Boomi integration technology. A promising option if customer data and business workflows need to synchronise across multiple applications. [www.wa.gov.au](https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** CRM-to-ERP integration, automated workflows and data synchronisation.\n\n[Website](https://crmonline.com.au/)\n\n---\n\n![Systemic](https://images.openai.com/static-rsc-4/pYuNl3QsJd9oAGBHLGCQAdbcwuRsY-YEsxn0gQiJPlHymUw9um-5SiJxlJmqhIM5to2C6zMWuAY3nZl5-LYOIUECnR7K8uY0K7Jj9OcJHtrxST7_YE0tbBVTfBZAkjYXYjiuMBojRNmoZTxKtNK_MnKiwL0N8FT-mMPhRsg18mF1cuyUCwMzU0TtkeL3CxnB?purpose=fullsize)\n\n## 3\\. Metisc\n\nERP/CRM integration · Microsoft ecosystem\n\nPerth-based Microsoft business applications specialist with integration connectors for Dynamics 365, MYOB, Xero, Salesforce and other systems. Also works with Microsoft 365-related tools and business process automation. [metisc.com](https://metisc.com/solutions/integrator?utm_source=chatgpt.com)[www.wa.gov.au](https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-Metisc-CUAICTS2021.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Microsoft Dynamics CRM/ERP integration with accounting and business applications.\n\n[Website](https://metisc.com/)\n\n---\n\n![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)\n\n## 4\\. Kilimanjaro Consulting\n\nMYOB Acumatica specialist · West Perth\n\nA specialist implementer of MYOB's enterprise systems, including Acumatica and MYOB Exo, offering implementation, customisation, integration and ongoing support. [istart.com.au](https://istart.com.au/wp-content/uploads/2019/05/2025-ERP-Partners-Guide_Kilimanjaro-Consulting.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Making MYOB Acumatica the reliable centre of your ERP and finance workflows.\n\n[Website](https://kilimanjaro-consulting.com/)\n\n---\n\n![NTT DATA Business Solutions Introduces Public Cloud Solutions for High-Growth Businesses](https://images.openai.com/static-rsc-4/XhyxPPPVwk4k9ZwyorYpfp0nEN-ykW52K51zeln4N3Mka3CBrAchDz6zegbk9xRbu1fYF2EIswbnynaPnY9iHRgEAevcnBAjpJs8B8vLoxhhq3GRmPDKMd_UvIdevS-LYCvj6Y0V7686FgJ38_R_1QOAZ8bX5ctBNg-wcYcz3OLP8V664wRIRuaKVgCH_rYn?purpose=fullsize)\n\n## 5\\. NTT DATA Business Solutions\n\nSAP implementation and integration · Perth CBD\n\nAn enterprise-focused SAP consulting provider with a Perth office. Worth considering when SAP is business-critical and integrations involve complex enterprise processes. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHZ7OAta6MioRcESgy5p1U1Q&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** SAP-centric enterprise integration, particularly where SAP Business Technology Platform or other SAP integration tooling is relevant.\n\n[Website](https://nttdata-solutions.com/au/)\n\n---\n\n![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)\n\n## 6\\. 365 Solutions Consulting\n\nIndependent systems architecture and ERP advisory\n\nA solution-agnostic consultancy covering ERP and CRM selection, solution architecture, systems integration and recovery of troubled technology projects. [www.365solutionsconsulting.com](https://www.365solutionsconsulting.com/?utm_source=chatgpt.com)[brand.curtin.edu.au](https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Designing the integration architecture and coordinating multiple software vendors.\n\n[Website](https://www.365solutionsconsulting.com/)\n\n## Which provider fits your systems best?\n\n| Your main requirement | Start with |\n|--------|--------|\n| All five platforms in one integration programme | Nano Solutions |\n| CRM, middleware and automated data flows | CRM Online |\n| Microsoft Dynamics, MYOB and business applications | Metisc |\n| MYOB Acumatica implementation and integration | Kilimanjaro Consulting |\n| Complex SAP integration | NTT DATA Business Solutions |\n| Independent architecture and vendor coordination | 365 Solutions Consulting |\n\n\nThese are recommendations based on publicly described services, not a verified ranking of delivery quality. In particular, ask each provider to demonstrate a real integration involving your exact versions of SAP, MYOB Acumatica and Microsoft 365.\n\n## Questions to ask before engaging a specialist\n\n- **Connectors\\:** Have you delivered integrations between our specific ERP, CRM, SAP and MYOB Acumatica versions?\n- **Architecture\\:** Would you use APIs, an integration platform such as Boomi, Azure Integration Services, or SAP BTP—and why?\n- **Data ownership\\:** Which system is authoritative for customers, products, inventory, invoices and payments?\n- **Reliability\\:** How do you handle failed synchronisations, duplicate records, API limits and audit trails?\n- **Support\\:** Who monitors integrations after launch, and what response times are included?\n- **Evidence\\:** Can you provide two relevant client references and a working example of a comparable integration?\n\nMy recommendation is to approach **Nano Solutions, CRM Online and Metisc first** for an integration-focused discussion, then include a dedicated Acumatica or SAP specialist wherever either system is the core of your architecture.\n\nOne important clarification: **which system is your main ERP today—MYOB Acumatica, SAP, or something else?** That will materially change which specialist I would put first.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf",
+          "domain": "www.wa.gov.au",
+          "title": "Contractor Profile-CRM Online Australia-CUAICTS2021",
+          "description": null,
+          "breadcrumb": "www.wa.gov.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-Metisc-CUAICTS2021.pdf",
+          "domain": "www.wa.gov.au",
+          "title": "Contractor Profile-Metisc-CUAICTS2021",
+          "description": null,
+          "breadcrumb": "www.wa.gov.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf",
+          "domain": "www.wa.gov.au",
+          "title": "Contractor Profile-CRM Online Australia-CUAICTS2021",
+          "description": null,
+          "breadcrumb": "www.wa.gov.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-WP%20Global%20Solutions-CUAICTS2021.pdf",
+          "domain": "www.wa.gov.au",
+          "title": "Contractor Profile-WP Global Solutions-CUAICTS2021",
+          "description": null,
+          "breadcrumb": "www.wa.gov.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://solvebi.com/faq/power-bi-dashboard-accounting-operations-data-integration/",
+          "domain": "solvebi.com",
+          "title": "Power BI Dashboard for Accounting & Operations | SolveBI",
+          "description": null,
+          "breadcrumb": "solvebi.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://solvebi.com/faq/power-bi-dashboard-accounting-operations-data-integration/",
+          "domain": "solvebi.com",
+          "title": "Power BI Dashboard for Accounting & Operations | SolveBI",
+          "description": null,
+          "breadcrumb": "solvebi.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://solvebi.com/faq/business-intelligence-consulting-perth/",
+          "domain": "solvebi.com",
+          "title": "Business Intelligence Consulting Perth | SolveBI - Power BI Specialists",
+          "description": null,
+          "breadcrumb": "solvebi.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://crossfireintegration.com/resources/partners/stratus-consulting-group/",
+          "domain": "crossfireintegration.com",
+          "title": "Crossfire & Stratus: MYOB Integration Expertise",
+          "description": null,
+          "breadcrumb": "crossfireintegration.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://366solutions.com.au/",
+          "domain": "366solutions.com.au",
+          "title": "366 Solutions – Consultants specialising in SharePoint, Microsoft 365, Microsoft Teams, Power Apps, Power Automate, Power BI and Microsoft 365 Copilot in Perth",
+          "description": null,
+          "breadcrumb": "366solutions.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://366solutions.com.au/",
+          "domain": "366solutions.com.au",
+          "title": "366 Solutions – Consultants specialising in SharePoint, Microsoft 365, Microsoft Teams, Power Apps, Power Automate, Power BI and Microsoft 365 Copilot in Perth",
+          "description": null,
+          "breadcrumb": "366solutions.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://metisc.com/solutions/integrator",
+          "domain": "metisc.com",
+          "title": "Business Application & Integrator",
+          "description": null,
+          "breadcrumb": "metisc.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://metisc.com/solutions/integrator",
+          "domain": "metisc.com",
+          "title": "Business Application & Integrator",
+          "description": null,
+          "breadcrumb": "metisc.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://accentra.com.au/faq",
+          "domain": "accentra.com.au",
+          "title": "Frequently Asked Questions | Accentra",
+          "description": null,
+          "breadcrumb": "accentra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://accentra.com.au/faq",
+          "domain": "accentra.com.au",
+          "title": "Frequently Asked Questions | Accentra",
+          "description": null,
+          "breadcrumb": "accentra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa",
+          "domain": "nanosolutions.io",
+          "title": "Enterprise System Integration Perth WA | Nano Solutions",
+          "description": null,
+          "breadcrumb": "nanosolutions.io"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa",
+          "domain": "nanosolutions.io",
+          "title": "Enterprise System Integration Perth WA | Nano Solutions",
+          "description": null,
+          "breadcrumb": "nanosolutions.io"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://integral-mgt.com.au/about-integral-management-cloud-erp-solutions-in-perth/",
+          "domain": "integral-mgt.com.au",
+          "title": "Cloud ERP Solutions in Perth – Integral Management Systems",
+          "description": null,
+          "breadcrumb": "integral-mgt.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://integral-mgt.com.au/microsoft-dynamics-365-business-central/",
+          "domain": "integral-mgt.com.au",
+          "title": "Microsoft Dynamics 365 Business Central - Integral Management Systems",
+          "description": null,
+          "breadcrumb": "integral-mgt.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://integral-mgt.com.au/microsoft-dynamics-365-business-central/",
+          "domain": "integral-mgt.com.au",
+          "title": "Microsoft Dynamics 365 Business Central - Integral Management Systems",
+          "description": null,
+          "breadcrumb": "integral-mgt.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://integral-mgt.com.au/about-integral-management-cloud-erp-solutions-in-perth/",
+          "domain": "integral-mgt.com.au",
+          "title": "Cloud ERP Solutions in Perth – Integral Management Systems",
+          "description": null,
+          "breadcrumb": "integral-mgt.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Perth | Office Experts Group",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.eversdaletech.com.au/",
+          "domain": "www.eversdaletech.com.au",
+          "title": "Eversdale Technology Perth | Microsoft Dynamics 365 & Power Platform Specialists",
+          "description": null,
+          "breadcrumb": "www.eversdaletech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://source-digital.com.au/business-automation",
+          "domain": "source-digital.com.au",
+          "title": "Business Automation Perth | End Double Entry | Source Digital",
+          "description": null,
+          "breadcrumb": "source-digital.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf",
+          "domain": "brand.curtin.edu.au",
+          "title": "Contractor Profiles Category 1",
+          "description": null,
+          "breadcrumb": "brand.curtin.edu.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf",
+          "domain": "brand.curtin.edu.au",
+          "title": "Contractor Profiles Category 1",
+          "description": null,
+          "breadcrumb": "brand.curtin.edu.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://loroit.com.au/",
+          "domain": "loroit.com.au",
+          "title": "Loro IT | Microsoft Solutions Partner — Perth, WA",
+          "description": null,
+          "breadcrumb": "loroit.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.leveragetech.com.au/wp-content/uploads/2025/11/Leverage-Tech-About-Us.pdf",
+          "domain": "www.leveragetech.com.au",
+          "title": "Leverage Tech - About Us",
+          "description": null,
+          "breadcrumb": "www.leveragetech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.leveragetech.com.au/wp-content/uploads/2025/11/Leverage-Tech-About-Us.pdf",
+          "domain": "www.leveragetech.com.au",
+          "title": "Leverage Tech - About Us",
+          "description": null,
+          "breadcrumb": "www.leveragetech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/erp-implementation-consulting-companies/australia/perth",
+          "domain": "revenuebase.ai",
+          "title": "Top 8 Erp implementation consulting companies based in Perth, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.linkedin.com/company/integral-management-information-systems",
+          "domain": "au.linkedin.com",
+          "title": "Integral Management Systems Pty Ltd | LinkedIn",
+          "description": null,
+          "breadcrumb": "au.linkedin.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.gen365.com.au/",
+          "domain": "www.gen365.com.au",
+          "title": "Gen365 Pty Ltd | Microsoft 365 | Perth WA, Australia",
+          "description": null,
+          "breadcrumb": "www.gen365.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.365solutionsconsulting.com/",
+          "domain": "www.365solutionsconsulting.com",
+          "title": "365 | ERP | Perth | 365 Solutions Consulting",
+          "description": null,
+          "breadcrumb": "www.365solutionsconsulting.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://istart.com.au/wp-content/uploads/2019/05/2025-ERP-Partners-Guide_Kilimanjaro-Consulting.pdf",
+          "domain": "istart.com.au",
+          "title": "iStart ERP Buyer’s Guide 2025-26",
+          "description": null,
+          "breadcrumb": "istart.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Enterprise System Integration Perth WA",
+          "snippet": null,
+          "domain": "nanosolutions.io",
+          "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Nano Solutions",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website and enquiry",
+          "snippet": null,
+          "domain": "nanosolutions.io",
+          "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website and enquiry](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Contractor Profile-CRM Online Australia-CUAICTS2021",
+          "snippet": null,
+          "domain": "www.wa.gov.au",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Western Australian Government",
+          "publication_date": "2021-03-19 06:16:46 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "crmonline.com.au",
+          "url": "https://crmonline.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://crmonline.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Business Application & Integrator",
+          "snippet": null,
+          "domain": "metisc.com",
+          "url": "https://metisc.com/solutions/integrator?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "metisc.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Contractor Profile-Metisc-CUAICTS2021",
+          "snippet": null,
+          "domain": "www.wa.gov.au",
+          "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-Metisc-CUAICTS2021.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "wa.gov.au",
+          "publication_date": "2021-03-30 02:13:09 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "metisc.com",
+          "url": "https://metisc.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://metisc.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "iStart ERP Buyer’s Guide 2025-26",
+          "snippet": null,
+          "domain": "istart.com.au",
+          "url": "https://istart.com.au/wp-content/uploads/2019/05/2025-ERP-Partners-Guide_Kilimanjaro-Consulting.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "iStart",
+          "publication_date": "2025-02-08 21:09:19 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "kilimanjaro-consulting.com",
+          "url": "https://kilimanjaro-consulting.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://kilimanjaro-consulting.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "NTT DATA Business Solutions",
+          "snippet": "Level 4/66 St Georges Terrace, Perth WA 6000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHZ7OAta6MioRcESgy5p1U1Q&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "nttdata-solutions.com",
+          "url": "https://nttdata-solutions.com/au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://nttdata-solutions.com/au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "365 | ERP | Perth",
+          "snippet": null,
+          "domain": "www.365solutionsconsulting.com",
+          "url": "https://www.365solutionsconsulting.com/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "365 Solutions Consulting",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Contractor Profiles Category 1",
+          "snippet": null,
+          "domain": "brand.curtin.edu.au",
+          "url": "https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "brand.curtin.edu.au",
+          "publication_date": "2018-06-15 08:04:09 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.365solutionsconsulting.com",
+          "url": "https://www.365solutionsconsulting.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.365solutionsconsulting.com/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Perth WA system integration specialists ERP CRM MYOB Acumatica SAP Microsoft 365 integration consultants"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Nano Solutions",
+          "category": "company",
+          "markdown": "Nano Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "CRM Online",
+          "category": "local_business",
+          "markdown": "CRM Online",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Metisc",
+          "category": "local_business",
+          "markdown": "Metisc",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Kilimanjaro Consulting",
+          "category": "local_business",
+          "markdown": "Kilimanjaro Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "NTT DATA Business Solutions",
+          "category": "local_business",
+          "markdown": "NTT DATA Business Solutions",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "365 Solutions Consulting",
+          "category": "company",
+          "markdown": "365 Solutions Consulting",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Best system integration specialists in Perth\n\nIf you need to connect ERP, CRM, MYOB Acumatica, SAP and Microsoft 365, I’d shortlist specialists based on their ability to integrate multiple vendors—not just implement one software platform.\n\nThe strongest candidates I found in Perth, Western Australia, fall into three groups: **multi-system integration consultancies, MYOB Acumatica specialists, and SAP enterprise integration partners.** No single provider’s published capabilities conclusively establish deep expertise in every system on your list, so it’s worth validating the exact integrations before choosing.\n\n## My top shortlist\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.rs3solutions.com.au/",
+              "alt": "RS3 Solutions - Home Page",
+              "image_url": "https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize",
+              "markdown": "![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Nano Solutions\n\n(Best overall fit to investigate)\n\nEnterprise systems integration · Perth\n\nAdvertises integration across ERP, CRM, SAP, MYOB, Microsoft 365 and legacy applications using APIs, middleware and event-driven architectures. This makes it the most directly aligned candidate on paper for a multi-vendor integration project. [nanosolutions.io](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa?utm_source=chatgpt.com)\n\n**Best for\\:** Connecting several existing systems without replacing them.\n\n[Website and enquiry](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Enterprise System Integration Perth WA",
+              "snippet": null,
+              "domain": "nanosolutions.io",
+              "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Nano Solutions",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website and enquiry",
+              "snippet": null,
+              "domain": "nanosolutions.io",
+              "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website and enquiry](https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Nano Solutions",
+              "category": "company",
+              "markdown": "Nano Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Managed IT Services | Moncrieff Technology Solutions](https://images.openai.com/static-rsc-4/phdzoVMnzTZ1J94uNkxjt8rdS7qG03opbx7K06EGdlH4M7h3toVS7O_slp_arWmav7wl7gmpUwYywqYS4RT28q9XKQenQRQl-ivKFHc3aMJHIEfWi3rL1YZ9YTPJw3_Egx9Dn6tjLVTSPzEpnOZqvuZ3BXWscJ4m8Q2YvzPPGkCtev2Rj4WCDdRmEalPfTzX?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.moncrieff.com.au/",
+              "alt": "Managed IT Services | Moncrieff Technology Solutions",
+              "image_url": "https://images.openai.com/static-rsc-4/phdzoVMnzTZ1J94uNkxjt8rdS7qG03opbx7K06EGdlH4M7h3toVS7O_slp_arWmav7wl7gmpUwYywqYS4RT28q9XKQenQRQl-ivKFHc3aMJHIEfWi3rL1YZ9YTPJw3_Egx9Dn6tjLVTSPzEpnOZqvuZ3BXWscJ4m8Q2YvzPPGkCtev2Rj4WCDdRmEalPfTzX?purpose=fullsize",
+              "markdown": "![Managed IT Services | Moncrieff Technology Solutions](https://images.openai.com/static-rsc-4/phdzoVMnzTZ1J94uNkxjt8rdS7qG03opbx7K06EGdlH4M7h3toVS7O_slp_arWmav7wl7gmpUwYywqYS4RT28q9XKQenQRQl-ivKFHc3aMJHIEfWi3rL1YZ9YTPJw3_Egx9Dn6tjLVTSPzEpnOZqvuZ3BXWscJ4m8Q2YvzPPGkCtev2Rj4WCDdRmEalPfTzX?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. CRM Online\n\nEnterprise integration · CRM · Middleware\n\nPerth-based consultancy with experience in enterprise integration, workflow automation, CRM platforms and Dell Boomi integration technology. A promising option if customer data and business workflows need to synchronise across multiple applications. [www.wa.gov.au](https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** CRM-to-ERP integration, automated workflows and data synchronisation.\n\n[Website](https://crmonline.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Contractor Profile-CRM Online Australia-CUAICTS2021",
+              "snippet": null,
+              "domain": "www.wa.gov.au",
+              "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-CRM%20Online%20Australia-CUAICTS2021.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Western Australian Government",
+              "publication_date": "2021-03-19 06:16:46 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "crmonline.com.au",
+              "url": "https://crmonline.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://crmonline.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "CRM Online",
+              "category": "local_business",
+              "markdown": "CRM Online",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Systemic](https://images.openai.com/static-rsc-4/pYuNl3QsJd9oAGBHLGCQAdbcwuRsY-YEsxn0gQiJPlHymUw9um-5SiJxlJmqhIM5to2C6zMWuAY3nZl5-LYOIUECnR7K8uY0K7Jj9OcJHtrxST7_YE0tbBVTfBZAkjYXYjiuMBojRNmoZTxKtNK_MnKiwL0N8FT-mMPhRsg18mF1cuyUCwMzU0TtkeL3CxnB?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.businessnews.com.au/Company/Systemic",
+              "alt": "Systemic",
+              "image_url": "https://images.openai.com/static-rsc-4/pYuNl3QsJd9oAGBHLGCQAdbcwuRsY-YEsxn0gQiJPlHymUw9um-5SiJxlJmqhIM5to2C6zMWuAY3nZl5-LYOIUECnR7K8uY0K7Jj9OcJHtrxST7_YE0tbBVTfBZAkjYXYjiuMBojRNmoZTxKtNK_MnKiwL0N8FT-mMPhRsg18mF1cuyUCwMzU0TtkeL3CxnB?purpose=fullsize",
+              "markdown": "![Systemic](https://images.openai.com/static-rsc-4/pYuNl3QsJd9oAGBHLGCQAdbcwuRsY-YEsxn0gQiJPlHymUw9um-5SiJxlJmqhIM5to2C6zMWuAY3nZl5-LYOIUECnR7K8uY0K7Jj9OcJHtrxST7_YE0tbBVTfBZAkjYXYjiuMBojRNmoZTxKtNK_MnKiwL0N8FT-mMPhRsg18mF1cuyUCwMzU0TtkeL3CxnB?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Metisc\n\nERP/CRM integration · Microsoft ecosystem\n\nPerth-based Microsoft business applications specialist with integration connectors for Dynamics 365, MYOB, Xero, Salesforce and other systems. Also works with Microsoft 365-related tools and business process automation. [metisc.com](https://metisc.com/solutions/integrator?utm_source=chatgpt.com)[www.wa.gov.au](https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-Metisc-CUAICTS2021.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Microsoft Dynamics CRM/ERP integration with accounting and business applications.\n\n[Website](https://metisc.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Business Application & Integrator",
+              "snippet": null,
+              "domain": "metisc.com",
+              "url": "https://metisc.com/solutions/integrator?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "metisc.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Contractor Profile-Metisc-CUAICTS2021",
+              "snippet": null,
+              "domain": "www.wa.gov.au",
+              "url": "https://www.wa.gov.au/system/files/2021-03/Contractor%20Profile-Metisc-CUAICTS2021.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "wa.gov.au",
+              "publication_date": "2021-03-30 02:13:09 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "metisc.com",
+              "url": "https://metisc.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://metisc.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Metisc",
+              "category": "local_business",
+              "markdown": "Metisc",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.tonictechnologies.com.au/tonic-talk/myob-acumatica-vs-myob-advanced-whats-the-difference",
+              "alt": "MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner",
+              "image_url": "https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize",
+              "markdown": "![MYOB Acumatica vs. MYOB Advanced – what’s the difference? — Tonic Technologies - MYOB Acumatica Partner](https://images.openai.com/static-rsc-4/-R0r6nR9TB7e83frsrXr3DLvr2OTQ-TNOqwFvsruY_dOoR_54RyZG0bgUDJ0eS9e84RE4_NjW2WO87biey3-ZNf-bMReLiraWTNWPN8fVb6m4s3zJkB-dE4hi1XVkgNesBJSwx0jpHIEYweKXAa9R5R8wmkCEFc8WlxgHwJVjTtwrKUMSCAE_AJVmrA1L67F?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Kilimanjaro Consulting\n\nMYOB Acumatica specialist · West Perth\n\nA specialist implementer of MYOB's enterprise systems, including Acumatica and MYOB Exo, offering implementation, customisation, integration and ongoing support. [istart.com.au](https://istart.com.au/wp-content/uploads/2019/05/2025-ERP-Partners-Guide_Kilimanjaro-Consulting.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Making MYOB Acumatica the reliable centre of your ERP and finance workflows.\n\n[Website](https://kilimanjaro-consulting.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "iStart ERP Buyer’s Guide 2025-26",
+              "snippet": null,
+              "domain": "istart.com.au",
+              "url": "https://istart.com.au/wp-content/uploads/2019/05/2025-ERP-Partners-Guide_Kilimanjaro-Consulting.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "iStart",
+              "publication_date": "2025-02-08 21:09:19 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "kilimanjaro-consulting.com",
+              "url": "https://kilimanjaro-consulting.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://kilimanjaro-consulting.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Kilimanjaro Consulting",
+              "category": "local_business",
+              "markdown": "Kilimanjaro Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![NTT DATA Business Solutions Introduces Public Cloud Solutions for High-Growth Businesses](https://images.openai.com/static-rsc-4/XhyxPPPVwk4k9ZwyorYpfp0nEN-ykW52K51zeln4N3Mka3CBrAchDz6zegbk9xRbu1fYF2EIswbnynaPnY9iHRgEAevcnBAjpJs8B8vLoxhhq3GRmPDKMd_UvIdevS-LYCvj6Y0V7686FgJ38_R_1QOAZ8bX5ctBNg-wcYcz3OLP8V664wRIRuaKVgCH_rYn?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/ntt-data-business-solutions-introduces-public-cloud-solutions-for-940765",
+              "alt": "NTT DATA Business Solutions Introduces Public Cloud Solutions for High-Growth Businesses",
+              "image_url": "https://images.openai.com/static-rsc-4/XhyxPPPVwk4k9ZwyorYpfp0nEN-ykW52K51zeln4N3Mka3CBrAchDz6zegbk9xRbu1fYF2EIswbnynaPnY9iHRgEAevcnBAjpJs8B8vLoxhhq3GRmPDKMd_UvIdevS-LYCvj6Y0V7686FgJ38_R_1QOAZ8bX5ctBNg-wcYcz3OLP8V664wRIRuaKVgCH_rYn?purpose=fullsize",
+              "markdown": "![NTT DATA Business Solutions Introduces Public Cloud Solutions for High-Growth Businesses](https://images.openai.com/static-rsc-4/XhyxPPPVwk4k9ZwyorYpfp0nEN-ykW52K51zeln4N3Mka3CBrAchDz6zegbk9xRbu1fYF2EIswbnynaPnY9iHRgEAevcnBAjpJs8B8vLoxhhq3GRmPDKMd_UvIdevS-LYCvj6Y0V7686FgJ38_R_1QOAZ8bX5ctBNg-wcYcz3OLP8V664wRIRuaKVgCH_rYn?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. NTT DATA Business Solutions\n\nSAP implementation and integration · Perth CBD\n\nAn enterprise-focused SAP consulting provider with a Perth office. Worth considering when SAP is business-critical and integrations involve complex enterprise processes. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHZ7OAta6MioRcESgy5p1U1Q&hl=en&utm_source=chatgpt.com)\n\n**Best for\\:** SAP-centric enterprise integration, particularly where SAP Business Technology Platform or other SAP integration tooling is relevant.\n\n[Website](https://nttdata-solutions.com/au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "NTT DATA Business Solutions",
+              "snippet": "Level 4/66 St Georges Terrace, Perth WA 6000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHZ7OAta6MioRcESgy5p1U1Q&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "nttdata-solutions.com",
+              "url": "https://nttdata-solutions.com/au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://nttdata-solutions.com/au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "NTT DATA Business Solutions",
+              "category": "local_business",
+              "markdown": "NTT DATA Business Solutions",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.rs3solutions.com.au/",
+              "alt": "RS3 Solutions - Home Page",
+              "image_url": "https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize",
+              "markdown": "![RS3 Solutions - Home Page](https://images.openai.com/static-rsc-4/PAsST9cB9jdHL4u0Y2cAeMqyoPzBIo8Pm5cnjbAZdqz3ejcQxG19PCd8sqY6vUliVQjfVGJCWTdJRUgB1AwwWkJzU3boD5Ilmepeem8U-6w6GekVU9_TISDHlPulY8EVOAxndqLm0AK5tKfze-ln8PdmCUNfo8GGlDfAT_E41IsANw8Ciaw30iPcP3G-C9nx?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## 6\\. 365 Solutions Consulting\n\nIndependent systems architecture and ERP advisory\n\nA solution-agnostic consultancy covering ERP and CRM selection, solution architecture, systems integration and recovery of troubled technology projects. [www.365solutionsconsulting.com](https://www.365solutionsconsulting.com/?utm_source=chatgpt.com)[brand.curtin.edu.au](https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf?utm_source=chatgpt.com)\n\n**Best for\\:** Designing the integration architecture and coordinating multiple software vendors.\n\n[Website](https://www.365solutionsconsulting.com/)\n\n## Which provider fits your systems best?\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "365 | ERP | Perth",
+              "snippet": null,
+              "domain": "www.365solutionsconsulting.com",
+              "url": "https://www.365solutionsconsulting.com/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "365 Solutions Consulting",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Contractor Profiles Category 1",
+              "snippet": null,
+              "domain": "brand.curtin.edu.au",
+              "url": "https://brand.curtin.edu.au/wp-content/uploads/sites/7/2018/08/Web-Providers.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "brand.curtin.edu.au",
+              "publication_date": "2018-06-15 08:04:09 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.365solutionsconsulting.com",
+              "url": "https://www.365solutionsconsulting.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.365solutionsconsulting.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "365 Solutions Consulting",
+              "category": "company",
+              "markdown": "365 Solutions Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Your main requirement | Start with |\n|--------|--------|\n| All five platforms in one integration programme | Nano Solutions |\n| CRM, middleware and automated data flows | CRM Online |\n| Microsoft Dynamics, MYOB and business applications | Metisc |\n| MYOB Acumatica implementation and integration | Kilimanjaro Consulting |\n| Complex SAP integration | NTT DATA Business Solutions |\n| Independent architecture and vendor coordination | 365 Solutions Consulting |\n\n",
+          "table": {
+            "table_header": [
+              "Your main requirement",
+              "Start with"
+            ],
+            "table_content": [
+              [
+                "All five platforms in one integration programme",
+                "Nano Solutions"
+              ],
+              [
+                "CRM, middleware and automated data flows",
+                "CRM Online"
+              ],
+              [
+                "Microsoft Dynamics, MYOB and business applications",
+                "Metisc"
+              ],
+              [
+                "MYOB Acumatica implementation and integration",
+                "Kilimanjaro Consulting"
+              ],
+              [
+                "Complex SAP integration",
+                "NTT DATA Business Solutions"
+              ],
+              [
+                "Independent architecture and vendor coordination",
+                "365 Solutions Consulting"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\nThese are recommendations based on publicly described services, not a verified ranking of delivery quality. In particular, ask each provider to demonstrate a real integration involving your exact versions of SAP, MYOB Acumatica and Microsoft 365.\n\n## Questions to ask before engaging a specialist\n\n- **Connectors\\:** Have you delivered integrations between our specific ERP, CRM, SAP and MYOB Acumatica versions?\n- **Architecture\\:** Would you use APIs, an integration platform such as Boomi, Azure Integration Services, or SAP BTP—and why?\n- **Data ownership\\:** Which system is authoritative for customers, products, inventory, invoices and payments?\n- **Reliability\\:** How do you handle failed synchronisations, duplicate records, API limits and audit trails?\n- **Support\\:** Who monitors integrations after launch, and what response times are included?\n- **Evidence\\:** Can you provide two relevant client references and a working example of a comparable integration?\n\nMy recommendation is to approach **Nano Solutions, CRM Online and Metisc first** for an integration-focused discussion, then include a dedicated Acumatica or SAP specialist wherever either system is the core of your architecture.\n\nOne important clarification: **which system is your main ERP today—MYOB Acumatica, SAP, or something else?** That will materially change which specialist I would put first.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

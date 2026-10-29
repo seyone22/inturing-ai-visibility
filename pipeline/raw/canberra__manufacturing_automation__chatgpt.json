@@ -1,0 +1,699 @@
+{
+  "slug": "canberra",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:18.646Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Canberra looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Canberra%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:09:13 +00:00",
+      "markdown": "For a Canberra manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d start with specialists who understand both Microsoft Power Platform and the practical realities of manufacturing operations.\n\nThe key is to connect Power Apps, Power Automate and your existing ERP so that orders, production updates, quality checks and approvals flow between systems, rather than creating another disconnected database.\n\n## My recommended shortlist\n\nThese are the consultants I’d approach first, prioritised by how closely their published capabilities match your requirements.\n\n\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nAustralian-wide delivery · Sydney-based team\n\nInturing explicitly targets manufacturers already running Microsoft 365 alongside ERP, MES or PLM systems. Its published services cover order and quote processing, shop-floor and inspection apps, supplier approvals, operational reporting, and AI-assisted document extraction. It also explicitly positions its approach around connecting existing systems rather than replacing the ERP. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** They are the closest match for your combined requirements, rather than just a general Power Platform development project.\n\n[Website and discovery call](https://inturing.com.au/)\n\n---\n\n![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)\n\n## 2\\. Office Experts Group\n\nCanberra service coverage · Microsoft specialist\n\nOffers Power Apps, Power Automate, Power BI, workflow automation, custom application development and integration within the Microsoft ecosystem. Its Canberra offering includes local support and on-site engagement where useful. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-canberra?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/locations?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-automate?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A practical local option for mobile data-capture apps, approval workflows, dashboards and connecting existing Microsoft tools to business systems.\n\n[Canberra consultants and services](https://www.officeexperts.com.au/microsoft-consultants-canberra)\n\n---\n\n\n\n## 3\\. Mojo Up\n\nKaleen, Canberra\n\nFocuses on Microsoft 365, Azure, Power Platform applications, process automation, and sustainable implementation with knowledge transfer. Its published examples include Power Apps pilots and business process improvement work. [www.mojoup.com.au](https://www.mojoup.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A local candidate if you want to build internal capability and have your own team maintain the apps and workflows after delivery.\n\n[Website](https://www.mojoup.com.au/)\n\n---\n\n![How Azure Synapse powers the Microsoft Fabric lakehouse platform](https://images.openai.com/static-rsc-4/W_BIlh5waPSCf7RB-16u6H0sdC6mG-lVpEO0w4eNSSZLgOZkJ4gJzxw4RX5VsbCOGpHsNNgPmCPFkM1P8ea7zHpdHXusFrqq2K2dyb3oQj6wz2GmehvUloCEW1gtkJ3UHYGzScrbJUs6C730uetyfxcweBDRRn8jm3mgWVi0SaG1BYEq_XP42V5m8M5gGaAj?purpose=fullsize)\n\n## 4\\. The Factor\n\nDickson, Canberra\n\nA local Power Platform consultancy with capabilities spanning Power Apps, Power Automate, Dataverse, Power BI and platform governance. Its published offering also includes ongoing application support and structured enhancement work.\n\n**Why speak to them\\:** Worth assessing for a governed, supportable Power Platform environment, particularly if you expect to develop several apps and workflows over time.\n\n[Website](https://thefactor.com.au/)\n\n---\n\n![Our Journey with Microsoft Azure Solution Partner](https://images.openai.com/static-rsc-4/NBA8SgC_o18u45l8xTNBySa8w4skJflXfJzbuBo_y2iut3zcKScmFbeJjgcaUUpJcokAuPpFQWNL8UBlWLCZ-A5ii8xE5CMlEP0wHZple7CtsA3z7ZZgCP9-aPqksS23pGkmacSHpAk9H1UVTX1O4Tik3h7lzY725vlB38S_UFlRDgdHUHgoXw1vlavTe0yq?purpose=fullsize)\n\n## 5\\. Teratek Digital\n\nCanberra CBD\n\nWorks across Microsoft Dynamics 365, Power Platform, Microsoft 365, Azure and system integration. Its Microsoft-centric focus makes it a potential candidate for connecting applications, data and workflows. [www.google.com](https://www.google.com/maps/place/Teratek+Digital/@-35.2761886,149.1251916,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d678e3fffff:0xe7f8f1590a4cc7c6!8m2!3d-35.2761886!4d149.1277665!16s%2Fg%2F11kktvv9xh?hl=en&entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why speak to them\\:** Especially worth evaluating if your ERP integration requires APIs, Azure services or custom software alongside low-code automation.\n\n[Website](https://teratek.com.au/)\n\n## Local Canberra options on the map\n\n\nAnother local candidate is Seers Digital\\. It delivers Dynamics 365, Power Platform, Azure and data/AI solutions. I’d include it if your project needs more substantial custom integration or document-processing capability, while asking for manufacturing-specific references. [www.google.com.mx](https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)[employmenthero.com](https://employmenthero.com/jobs/position/seers-group-australia-pty-ltd-senior-power-platform-and-dynamics-consultant-in-canberra-5q5u6/?utm_source=chatgpt.com)\n\n## What I would ask each consultant to demonstrate\n\nDon't select a partner based solely on how quickly they can build a Power App. Ask each to explain how they would implement these three workflows against your existing ERP.\n\n**1\\. Automated order processing**\n\nExtract order details from customer emails, PDFs or spreadsheets; validate customer and product information; flag exceptions for review; and create or update orders in the ERP without re-keying.\n\n---\n\n**2\\. Shop-floor data capture**\n\nProvide operators with tablet or kiosk interfaces for production quantities, job status, downtime, scrap, quality inspections and traceability, linked to the relevant ERP production orders.\n\n---\n\n**3\\. End-to-end operations automation**\n\nAutomate approvals, exception handling, purchasing handoffs and production alerts, with dashboards that give supervisors timely visibility into orders and operational performance.\n\nAsk them specifically how they will handle ERP API access, data validation, failed integrations, duplicate orders, offline shop-floor devices, licensing, security and ongoing support. Request a comparable customer reference and a working demonstration wherever possible.\n\n## My recommendation\n\nI would approach **Inturing first**, then compare it with **Office Experts Group** and **The Factor**\\. That gives you a manufacturing-focused automation specialist alongside Canberra-based Microsoft consultants.\n\nBefore booking discovery calls, one detail would help narrow the shortlist considerably\\:\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Acumatica, SAP, Epicor, Microsoft Dynamics, Infor, or a custom system.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Canberra",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/locations",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-automate",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Microsoft Power Automate & AI Builder Consulting | Power Platform Experts",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.cosmictech.com.au/",
+          "domain": "www.cosmictech.com.au",
+          "title": "Microsoft Dynamics 365, Power Platform & AI Solutions | Cleared Consultants | Cosmic Tech",
+          "description": null,
+          "breadcrumb": "www.cosmictech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.objectpoint.com.au/",
+          "domain": "www.objectpoint.com.au",
+          "title": "Object Point",
+          "description": null,
+          "breadcrumb": "www.objectpoint.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.mojoup.com.au/",
+          "domain": "www.mojoup.com.au",
+          "title": "Mojo Up",
+          "description": null,
+          "breadcrumb": "www.mojoup.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra",
+          "domain": "www.officeexperts.com.au",
+          "title": "Office Experts Group Canberra",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://infinitydevelopments.com.au/",
+          "domain": "infinitydevelopments.com.au",
+          "title": "Dynamics 365 & Power Platform Consultants | Infinity Developments",
+          "description": null,
+          "breadcrumb": "infinitydevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://employmenthero.com/jobs/position/seers-group-australia-pty-ltd-senior-power-platform-and-dynamics-consultant-in-canberra-5q5u6/",
+          "domain": "employmenthero.com",
+          "title": "Senior Power Platform and Dynamics consultant in Canberra Job at Seers Group Australia Pty Ltd",
+          "description": null,
+          "breadcrumb": "employmenthero.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website and discovery call",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website and discovery call](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Office Experts Group Canberra",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Office Experts Group",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Australia's Trusted Power Platform Consultants",
+          "snippet": null,
+          "domain": "www.powerplatformexperts.com.au",
+          "url": "https://www.powerplatformexperts.com.au/locations?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Find a Location",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Automate & AI Builder Consulting",
+          "snippet": null,
+          "domain": "www.powerplatformexperts.com.au",
+          "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-automate?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Power Platform Experts",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Canberra consultants and services",
+          "snippet": null,
+          "domain": "www.officeexperts.com.au",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Canberra consultants and services](https://www.officeexperts.com.au/microsoft-consultants-canberra)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Mojo Up",
+          "snippet": null,
+          "domain": "www.mojoup.com.au",
+          "url": "https://www.mojoup.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Mojo Up",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "www.mojoup.com.au",
+          "url": "https://www.mojoup.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://www.mojoup.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "thefactor.com.au",
+          "url": "https://thefactor.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://thefactor.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Teratek Digital",
+          "snippet": "Level 4 & 5/15 Moore St, Canberra ACT 2601, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/Teratek+Digital/@-35.2761886,149.1251916,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d678e3fffff:0xe7f8f1590a4cc7c6!8m2!3d-35.2761886!4d149.1277665!16s%2Fg%2F11kktvv9xh?hl=en&entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "teratek.com.au",
+          "url": "https://teratek.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://teratek.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Seers Digital",
+          "snippet": "Lvl 5/73 Northbourne Ave, Canberra ACT 2601, Australia",
+          "domain": "www.google.com.mx",
+          "url": "https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.mx",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Senior Power Platform and Dynamics consultant in Canberra Job at Seers Group Australia Pty Ltd",
+          "snippet": null,
+          "domain": "employmenthero.com",
+          "url": "https://employmenthero.com/jobs/position/seers-group-australia-pty-ltd-senior-power-platform-and-dynamics-consultant-in-canberra-5q5u6/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Employment Hero",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Canberra Australia Microsoft Power Platform consultants Power Automate manufacturing ERP integration shop floor automation consultants"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Power Platform and manufacturing automation consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft 365 and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Office Experts Group",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra Microsoft cloud and Power Platform consultancy",
+          "category": "company",
+          "markdown": "Mojo Up",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "The Factor",
+          "category": "local_business",
+          "markdown": "The Factor",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Teratek Digital",
+          "category": "local_business",
+          "markdown": "Teratek Digital",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Seers Digital",
+          "category": "local_business",
+          "markdown": "Seers Digital",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Canberra manufacturer that wants to automate order processing, capture shop-floor data and streamline operations **without replacing its existing ERP**, I’d start with specialists who understand both Microsoft Power Platform and the practical realities of manufacturing operations.\n\nThe key is to connect Power Apps, Power Automate and your existing ERP so that orders, production updates, quality checks and approvals flow between systems, rather than creating another disconnected database.\n\n## My recommended shortlist\n\nThese are the consultants I’d approach first, prioritised by how closely their published capabilities match your requirements.\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nAustralian-wide delivery · Sydney-based team\n\nInturing explicitly targets manufacturers already running Microsoft 365 alongside ERP, MES or PLM systems. Its published services cover order and quote processing, shop-floor and inspection apps, supplier approvals, operational reporting, and AI-assisted document extraction. It also explicitly positions its approach around connecting existing systems rather than replacing the ERP. [inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** They are the closest match for your combined requirements, rather than just a general Power Platform development project.\n\n[Website and discovery call](https://inturing.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website and discovery call",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website and discovery call](https://inturing.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Power Platform and manufacturing automation consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMicrosoft_Power_Platform_logo.svg",
+              "alt": "File:Microsoft Power Platform logo.svg - Wikimedia Commons",
+              "image_url": "https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize",
+              "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Office Experts Group\n\nCanberra service coverage · Microsoft specialist\n\nOffers Power Apps, Power Automate, Power BI, workflow automation, custom application development and integration within the Microsoft ecosystem. Its Canberra offering includes local support and on-site engagement where useful. [www.officeexperts.com.au](https://www.officeexperts.com.au/microsoft-consultants-canberra?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/locations?utm_source=chatgpt.com)[www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-automate?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A practical local option for mobile data-capture apps, approval workflows, dashboards and connecting existing Microsoft tools to business systems.\n\n[Canberra consultants and services](https://www.officeexperts.com.au/microsoft-consultants-canberra)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Office Experts Group Canberra",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Office Experts Group",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Australia's Trusted Power Platform Consultants",
+              "snippet": null,
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/locations?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Find a Location",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Automate & AI Builder Consulting",
+              "snippet": null,
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/services/microsoft-power-platform/microsoft-power-automate?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Power Platform Experts",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Canberra consultants and services",
+              "snippet": null,
+              "domain": "www.officeexperts.com.au",
+              "url": "https://www.officeexperts.com.au/microsoft-consultants-canberra",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Canberra consultants and services](https://www.officeexperts.com.au/microsoft-consultants-canberra)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft 365 and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Office Experts Group",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Mojo Up\n\nKaleen, Canberra\n\nFocuses on Microsoft 365, Azure, Power Platform applications, process automation, and sustainable implementation with knowledge transfer. Its published examples include Power Apps pilots and business process improvement work. [www.mojoup.com.au](https://www.mojoup.com.au/?utm_source=chatgpt.com)\n\n**Why speak to them\\:** A local candidate if you want to build internal capability and have your own team maintain the apps and workflows after delivery.\n\n[Website](https://www.mojoup.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Mojo Up",
+              "snippet": null,
+              "domain": "www.mojoup.com.au",
+              "url": "https://www.mojoup.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Mojo Up",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "www.mojoup.com.au",
+              "url": "https://www.mojoup.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://www.mojoup.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra Microsoft cloud and Power Platform consultancy",
+              "category": "company",
+              "markdown": "Mojo Up",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![How Azure Synapse powers the Microsoft Fabric lakehouse platform](https://images.openai.com/static-rsc-4/W_BIlh5waPSCf7RB-16u6H0sdC6mG-lVpEO0w4eNSSZLgOZkJ4gJzxw4RX5VsbCOGpHsNNgPmCPFkM1P8ea7zHpdHXusFrqq2K2dyb3oQj6wz2GmehvUloCEW1gtkJ3UHYGzScrbJUs6C730uetyfxcweBDRRn8jm3mgWVi0SaG1BYEq_XP42V5m8M5gGaAj?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.linkedin.com/pulse/how-azure-synapse-powers-microsoft-fabric-lakehouse-sastry-chirravuri",
+              "alt": "How Azure Synapse powers the Microsoft Fabric lakehouse platform",
+              "image_url": "https://images.openai.com/static-rsc-4/W_BIlh5waPSCf7RB-16u6H0sdC6mG-lVpEO0w4eNSSZLgOZkJ4gJzxw4RX5VsbCOGpHsNNgPmCPFkM1P8ea7zHpdHXusFrqq2K2dyb3oQj6wz2GmehvUloCEW1gtkJ3UHYGzScrbJUs6C730uetyfxcweBDRRn8jm3mgWVi0SaG1BYEq_XP42V5m8M5gGaAj?purpose=fullsize",
+              "markdown": "![How Azure Synapse powers the Microsoft Fabric lakehouse platform](https://images.openai.com/static-rsc-4/W_BIlh5waPSCf7RB-16u6H0sdC6mG-lVpEO0w4eNSSZLgOZkJ4gJzxw4RX5VsbCOGpHsNNgPmCPFkM1P8ea7zHpdHXusFrqq2K2dyb3oQj6wz2GmehvUloCEW1gtkJ3UHYGzScrbJUs6C730uetyfxcweBDRRn8jm3mgWVi0SaG1BYEq_XP42V5m8M5gGaAj?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. The Factor\n\nDickson, Canberra\n\nA local Power Platform consultancy with capabilities spanning Power Apps, Power Automate, Dataverse, Power BI and platform governance. Its published offering also includes ongoing application support and structured enhancement work.\n\n**Why speak to them\\:** Worth assessing for a governed, supportable Power Platform environment, particularly if you expect to develop several apps and workflows over time.\n\n[Website](https://thefactor.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "thefactor.com.au",
+              "url": "https://thefactor.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://thefactor.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "The Factor",
+              "category": "local_business",
+              "markdown": "The Factor",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Our Journey with Microsoft Azure Solution Partner](https://images.openai.com/static-rsc-4/NBA8SgC_o18u45l8xTNBySa8w4skJflXfJzbuBo_y2iut3zcKScmFbeJjgcaUUpJcokAuPpFQWNL8UBlWLCZ-A5ii8xE5CMlEP0wHZple7CtsA3z7ZZgCP9-aPqksS23pGkmacSHpAk9H1UVTX1O4Tik3h7lzY725vlB38S_UFlRDgdHUHgoXw1vlavTe0yq?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://sevenpeakssoftware.com/blog/seven-peaks-are-microsoft-azure-certified-partner",
+              "alt": "Our Journey with Microsoft Azure Solution Partner",
+              "image_url": "https://images.openai.com/static-rsc-4/NBA8SgC_o18u45l8xTNBySa8w4skJflXfJzbuBo_y2iut3zcKScmFbeJjgcaUUpJcokAuPpFQWNL8UBlWLCZ-A5ii8xE5CMlEP0wHZple7CtsA3z7ZZgCP9-aPqksS23pGkmacSHpAk9H1UVTX1O4Tik3h7lzY725vlB38S_UFlRDgdHUHgoXw1vlavTe0yq?purpose=fullsize",
+              "markdown": "![Our Journey with Microsoft Azure Solution Partner](https://images.openai.com/static-rsc-4/NBA8SgC_o18u45l8xTNBySa8w4skJflXfJzbuBo_y2iut3zcKScmFbeJjgcaUUpJcokAuPpFQWNL8UBlWLCZ-A5ii8xE5CMlEP0wHZple7CtsA3z7ZZgCP9-aPqksS23pGkmacSHpAk9H1UVTX1O4Tik3h7lzY725vlB38S_UFlRDgdHUHgoXw1vlavTe0yq?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Teratek Digital\n\nCanberra CBD\n\nWorks across Microsoft Dynamics 365, Power Platform, Microsoft 365, Azure and system integration. Its Microsoft-centric focus makes it a potential candidate for connecting applications, data and workflows. [www.google.com](https://www.google.com/maps/place/Teratek+Digital/@-35.2761886,149.1251916,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d678e3fffff:0xe7f8f1590a4cc7c6!8m2!3d-35.2761886!4d149.1277665!16s%2Fg%2F11kktvv9xh?hl=en&entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Why speak to them\\:** Especially worth evaluating if your ERP integration requires APIs, Azure services or custom software alongside low-code automation.\n\n[Website](https://teratek.com.au/)\n\n## Local Canberra options on the map\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Teratek Digital",
+              "snippet": "Level 4 & 5/15 Moore St, Canberra ACT 2601, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/Teratek+Digital/@-35.2761886,149.1251916,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d678e3fffff:0xe7f8f1590a4cc7c6!8m2!3d-35.2761886!4d149.1277665!16s%2Fg%2F11kktvv9xh?hl=en&entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "teratek.com.au",
+              "url": "https://teratek.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://teratek.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Teratek Digital",
+              "category": "local_business",
+              "markdown": "Teratek Digital",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "The Factor",
+              "description": "Consultant",
+              "address": "Level 3/490 Northbourne Ave, Dickson ACT 2602, Australia",
+              "phone": null,
+              "reviews_count": null,
+              "url": "http://thefactor.com.au/",
+              "domain": "thefactor.com.au",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Mojo Up",
+              "description": "Consultant",
+              "address": "1 Tweed Pl, Kaleen ACT 2617, Australia",
+              "phone": "+61 402 664 794",
+              "reviews_count": null,
+              "url": "https://www.mojoup.com.au/",
+              "domain": "www.mojoup.com.au",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Teratek Digital",
+              "description": "Software company",
+              "address": "Level 4 & 5/15 Moore St, Canberra ACT 2601, Australia",
+              "phone": "+61 431 100 908",
+              "reviews_count": null,
+              "url": "https://teratek.com.au/",
+              "domain": "teratek.com.au",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Seers Digital",
+              "description": "Automation company",
+              "address": "Lvl 5/73 Northbourne Ave, Canberra ACT 2601, Australia",
+              "phone": "+61 1300 885 782",
+              "reviews_count": null,
+              "url": "http://seers.net.au/",
+              "domain": "seers.net.au",
+              "rating": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\nAnother local candidate is Seers Digital\\. It delivers Dynamics 365, Power Platform, Azure and data/AI solutions. I’d include it if your project needs more substantial custom integration or document-processing capability, while asking for manufacturing-specific references. [www.google.com.mx](https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)[employmenthero.com](https://employmenthero.com/jobs/position/seers-group-australia-pty-ltd-senior-power-platform-and-dynamics-consultant-in-canberra-5q5u6/?utm_source=chatgpt.com)\n\n## What I would ask each consultant to demonstrate\n\nDon't select a partner based solely on how quickly they can build a Power App. Ask each to explain how they would implement these three workflows against your existing ERP.\n\n**1\\. Automated order processing**\n\nExtract order details from customer emails, PDFs or spreadsheets; validate customer and product information; flag exceptions for review; and create or update orders in the ERP without re-keying.\n\n---\n\n**2\\. Shop-floor data capture**\n\nProvide operators with tablet or kiosk interfaces for production quantities, job status, downtime, scrap, quality inspections and traceability, linked to the relevant ERP production orders.\n\n---\n\n**3\\. End-to-end operations automation**\n\nAutomate approvals, exception handling, purchasing handoffs and production alerts, with dashboards that give supervisors timely visibility into orders and operational performance.\n\nAsk them specifically how they will handle ERP API access, data validation, failed integrations, duplicate orders, offline shop-floor devices, licensing, security and ongoing support. Request a comparable customer reference and a working demonstration wherever possible.\n\n## My recommendation\n\nI would approach **Inturing first**, then compare it with **Office Experts Group** and **The Factor**\\. That gives you a manufacturing-focused automation specialist alongside Canberra-based Microsoft consultants.\n\nBefore booking discovery calls, one detail would help narrow the shortlist considerably\\:\n\n**Which ERP are you currently running?** For example, Pronto Xi, MYOB Acumatica, SAP, Epicor, Microsoft Dynamics, Infor, or a custom system.",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Seers Digital",
+              "snippet": "Lvl 5/73 Northbourne Ave, Canberra ACT 2601, Australia",
+              "domain": "www.google.com.mx",
+              "url": "https://www.google.com.mx/maps/place/Seers+Digital/@-35.2759999,149.1288878,17z/data=!3m1!4b1!4m6!3m5!1s0x6b164d67a3efffff:0xf753246ffa130c9e!8m2!3d-35.2759999!4d149.1288878!16s%2Fg%2F11y7cx178y?hl=en&entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com.mx",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Senior Power Platform and Dynamics consultant in Canberra Job at Seers Group Australia Pty Ltd",
+              "snippet": null,
+              "domain": "employmenthero.com",
+              "url": "https://employmenthero.com/jobs/position/seers-group-australia-pty-ltd-senior-power-platform-and-dynamics-consultant-in-canberra-5q5u6/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Employment Hero",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Seers Digital",
+              "category": "local_business",
+              "markdown": "Seers Digital",
+              "urls": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

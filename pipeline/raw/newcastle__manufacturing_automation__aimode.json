@@ -1,0 +1,200 @@
+{
+  "slug": "newcastle",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:06.766Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Newcastle looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000255,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Newcastle%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXXq9Y5oFHNrEUA_MxZofQEF",
+      "datetime": "2026-10-29 04:10:01 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "For a manufacturer in Newcastle looking to layer automation and the Microsoft Power Platform over your existing ERP (rather than ripping and replacing it), you want `specialists who understand both local industrial operations and secure data integration architecture` (APIs, data gateways, and custom connectors).\n\nThe regional and specialist consulting options well-suited to handle shop-floor data capture, order processing, and workflow automation without disrupting your core ERP include:\n\n- [WorkflowIQ](https://workflowiq.com.au/power-platform/) – **Local Newcastle-based specialists** focusing heavily on Microsoft 365, Power Automate, Power Apps, and compliance management systems. They excel at practical business process improvement and bridging gaps in operational efficiency without heavy-handed enterprise overhauls.[[1]](https://workflowiq.com.au/contact/)[[2]](https://workflowiq.com.au/power-platform/)[[3]](https://workflowiq.com.au/about/)\n- [Cloudhunter](https://cloudhunter.com.au/) – **Regional Microsoft Cloud Partners** based nearby on the Central Coast and actively servicing Newcastle and the Hunter Valley. They specialize in Power Platform, Azure integrations, SharePoint OCR/document automation, and connecting data layers alongside existing operational systems.[[1]](https://cloudhunter.com.au/)\n- [Inturing](https://www.inturing.com.au/manufacturing) – **Australian-wide manufacturing-focused Power Platform specialists** who explicitly design integration patterns between the Power Platform and existing shop-floor infrastructure, MES, or legacy ERP systems via custom APIs and gateways. They build tailored shop-floor mobile/tablet Power Apps and automated production reporting systems.[[1]](https://www.inturing.com.au/manufacturing)\n\nIf you'd like to narrow this down, please let me know:\n\n- What **ERP system** are you currently running?\n- Is the shop-floor data capture primarily **tablet/mobile-based** or hardware/barcode integrated?\n\nI can help outline a **targeted scoping checklist** or specific integration questions to ask these consultants.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a manufacturer in Newcastle looking to layer automation and the Microsoft Power Platform over your existing ERP (rather than ripping and replacing it), you want specialists who understand both local industrial operations and secure data integration architecture (APIs, data gateways, and custom connectors).",
+              "markdown": "For a manufacturer in Newcastle looking to layer automation and the Microsoft Power Platform over your existing ERP (rather than ripping and replacing it), you want `specialists who understand both local industrial operations and secure data integration architecture` (APIs, data gateways, and custom connectors).",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The regional and specialist consulting options well-suited to handle shop-floor data capture, order processing, and workflow automation without disrupting your core ERP include:",
+              "markdown": "The regional and specialist consulting options well-suited to handle shop-floor data capture, order processing, and workflow automation without disrupting your core ERP include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "WorkflowIQ – Local Newcastle-based specialists focusing heavily on Microsoft 365, Power Automate, Power Apps, and compliance management systems. They excel at practical business process improvement and bridging gaps in operational efficiency without heavy-handed enterprise overhauls. Cloudhunter – Regional Microsoft Cloud Partners based nearby on the Central Coast and actively servicing Newcastle and the Hunter Valley. They specialize in Power Platform, Azure integrations, SharePoint OCR/document automation, and connecting data layers alongside existing operational systems. Inturing – Australian-wide manufacturing-focused Power Platform specialists who explicitly design integration patterns between the Power Platform and existing shop-floor infrastructure, MES, or legacy ERP systems via custom APIs and gateways. They build tailored shop-floor mobile/tablet Power Apps and automated production reporting systems.",
+              "markdown": "- [WorkflowIQ](https://workflowiq.com.au/power-platform/) – **Local Newcastle-based specialists** focusing heavily on Microsoft 365, Power Automate, Power Apps, and compliance management systems. They excel at practical business process improvement and bridging gaps in operational efficiency without heavy-handed enterprise overhauls.[[1]](https://workflowiq.com.au/contact/)[[2]](https://workflowiq.com.au/power-platform/)[[3]](https://workflowiq.com.au/about/)\n- [Cloudhunter](https://cloudhunter.com.au/) – **Regional Microsoft Cloud Partners** based nearby on the Central Coast and actively servicing Newcastle and the Hunter Valley. They specialize in Power Platform, Azure integrations, SharePoint OCR/document automation, and connecting data layers alongside existing operational systems.[[1]](https://cloudhunter.com.au/)\n- [Inturing](https://www.inturing.com.au/manufacturing) – **Australian-wide manufacturing-focused Power Platform specialists** who explicitly design integration patterns between the Power Platform and existing shop-floor infrastructure, MES, or legacy ERP systems via custom APIs and gateways. They build tailored shop-floor mobile/tablet Power Apps and automated production reporting systems.[[1]](https://www.inturing.com.au/manufacturing)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "WorkflowIQ",
+                  "description": null,
+                  "url": "https://workflowiq.com.au/power-platform/",
+                  "domain": "workflowiq.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Cloudhunter",
+                  "description": null,
+                  "url": "https://cloudhunter.com.au/",
+                  "domain": "cloudhunter.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Inturing",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "domain": "www.inturing.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "workflowiq.com.au",
+                  "domain": "workflowiq.com.au",
+                  "url": "https://workflowiq.com.au/contact/",
+                  "title": "Contact WorkflowIQ Newcastle - 0240036200",
+                  "text": "WorkflowIQ are located in Newcastle, NSW, but … info@workflowiq.com.au. SharePoint/Microsoft 365 Power Platform Compliance Managem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "workflowiq.com.au",
+                  "domain": "workflowiq.com.au",
+                  "url": "https://workflowiq.com.au/power-platform/",
+                  "title": "Advanced Power Platform Solutions Newcastle - WorkflowIQ",
+                  "text": "Newcastle deliver expert Microsoft 365 Power Platform solutions including Power Automate, Power Apps, and Power BI to boost your b..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "workflowiq.com.au",
+                  "domain": "workflowiq.com.au",
+                  "url": "https://workflowiq.com.au/about/",
+                  "title": "About WorkflowIQ",
+                  "text": "WorkflowIQ offers a cost-effective solution for these businesses to receive expert, customised IT advice, without the ongoing expe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "cloudhunter.com.au",
+                  "domain": "cloudhunter.com.au",
+                  "url": "https://cloudhunter.com.au/",
+                  "title": "Cloudhunter – Microsoft Cloud Experts",
+                  "text": "Microsoft Cloud Partner based in Central Coast, NSW, Specialties: Microsoft CSP, Dynamics 365, Power Platform, Azure. SharePoint O..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Power Platform can integrate with ERP and manufacturing systems using connectors, gateways, APIs and database integration. Inturin..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What ERP system are you currently running? Is the shop-floor data capture primarily tablet/mobile-based or hardware/barcode integrated?",
+              "markdown": "- What **ERP system** are you currently running?\n- Is the shop-floor data capture primarily **tablet/mobile-based** or hardware/barcode integrated?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help outline a targeted scoping checklist or specific integration questions to ask these consultants.",
+              "markdown": "I can help outline a **targeted scoping checklist** or specific integration questions to ask these consultants.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "workflowiq.com.au",
+              "domain": "workflowiq.com.au",
+              "url": "https://workflowiq.com.au/contact/",
+              "title": "Contact WorkflowIQ Newcastle - 0240036200",
+              "text": "WorkflowIQ are located in Newcastle, NSW, but … info@workflowiq.com.au. SharePoint/Microsoft 365 Power Platform Compliance Management Systems."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "www.inturing.com.au",
+              "url": "https://www.inturing.com.au/manufacturing",
+              "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+              "text": "Power Platform can integrate with ERP and manufacturing systems using connectors, gateways, APIs and database integration. Inturing designs integration patterns ba..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "cloudhunter.com.au",
+              "domain": "cloudhunter.com.au",
+              "url": "https://cloudhunter.com.au/",
+              "title": "Cloudhunter – Microsoft Cloud Experts",
+              "text": "Microsoft Cloud Partner based in Central Coast, NSW, Specialties: Microsoft CSP, Dynamics 365, Power Platform, Azure. SharePoint Online/OneDrive (document manageme..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

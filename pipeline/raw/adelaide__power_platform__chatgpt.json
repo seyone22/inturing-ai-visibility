@@ -1,0 +1,955 @@
+{
+  "slug": "adelaide",
+  "pk": "power_platform",
+  "plat": "chatgpt",
+  "text": "Who are the best Microsoft Power Platform consultants in Adelaide? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_platform__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:40.004Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best Microsoft Power Platform consultants in Adelaide? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Who%20are%20the%20best%20Microsoft%20Power%20Platform%20consultants%20in%20Adelaide%3F%20Give%20me%20a%20shortlist%20of%20reputable%20Power%20Platform%20consulting%20partners%20with%20reasons.&hints=search",
+      "datetime": "2026-10-29 04:07:34 +00:00",
+      "markdown": "# Best Microsoft Power Platform consultants in Adelaide\n\nIf you're looking for a reputable Microsoft Power Platform consulting partner in Adelaide, I'd start with a shortlist that combines **demonstrable Power Platform expertise, a local South Australian presence, and the ability to support solutions beyond the initial build**\\.\n\nThe right partner depends on whether you need Power Apps, Power Automate, Power BI, Dataverse, enterprise governance, or integration with Dynamics 365 and Microsoft 365. I've prioritised firms with relevant service offerings and Adelaide delivery capability, rather than treating this as a definitive ranking of every consultant in the market.\n\n## Shortlist at a glance\n\n| Consultant | Best suited for | Why shortlist them |\n|--------|--------|--------|\n| **Power Platform Experts** | Dedicated low-code development | Specifically advertises Power Apps, Power Automate, Power BI and Power Pages, along with training and ongoing support. [www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com) |\n| **Mayasoft IT & Consulting Services \\(Mayasoft)** | Microsoft business applications and integration | Adelaide-based Microsoft consultancy offering Power Platform alongside Dynamics 365, Azure and API integration. It also identifies government, aged care and not-for-profit organisations among its clients. [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com) |\n| **Velrada \\(Velrada)** | Complex enterprise transformation | Adelaide presence and broader Microsoft cloud expertise across Power Platform, Dynamics 365, Azure and data/analytics. Worth considering for larger cross-system projects. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)[www.unisys.com](https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com) |\n| **Simpleit4U \\(Simpleit4U)** | Custom applications and workflow automation | A local provider whose listed services include Power Apps, Power Automate, Power BI and connected business solutions. Worth evaluating for practical automation and custom app development. [www.google.com.br](https://www.google.com.br/maps/place/Simpleit4U/@-34.9246714,138.514793,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0c5745b048dc5:0xd91dd67474d6fd2a!8m2!3d-34.9246714!4d138.5173679!16s%2Fg%2F11svx8xw46?hl=en&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com) |\n| **Data#3 - Adelaide \\(Data\\#3)** | Larger organisations and broader IT programs | Established national IT services provider with an Adelaide office and broader Microsoft capabilities. Consider it where Power Platform needs to fit into a larger enterprise technology program. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJDdrAN0bJsGoRKRdovGYbFbM&hl=en&utm_source=chatgpt.com)[www.beyondkey.com.au](https://www.beyondkey.com.au/blog/top-microsoft-business-partners-in-australia/?utm_source=chatgpt.com) |\n\n\nThese are a **research shortlist, not a verified league table**\\. I would ask each firm for named consultants, recent Adelaide-relevant case studies, and evidence of current Microsoft partner specialisations before making a final selection.\n\n## My recommendations by project type\n\n![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)\n\n**Best first call for a Power Platform-specific project**\n\nStart with [Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide) if your brief centres on building apps, automating workflows, or creating dashboards, rather than replacing a whole business system. Its Adelaide service page specifically covers the core Power Platform products. [www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com)\n\n---\n\n![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)\n\n**Best for Dynamics 365 integration**\n\n[Mayasoft](https://mayasoft.com.au/about.html) is worth approaching if your apps and automations need to integrate with CRM, Azure or existing business systems. Its Adelaide team and published client sectors are useful indicators of local delivery experience. [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com)\n\n---\n\n![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)\n\n**Best for a larger or more complex transformation**\n\n[Velrada](https://www.velrada.com/) is worth including where architecture, integration, data platforms, security and enterprise delivery matter as much as the individual Power Apps or flows. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)[www.unisys.com](https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com)[www.wiise.com](https://www.wiise.com/partner-velrada?utm_source=chatgpt.com)\n\n---\n\n![TOP SALUS](https://images.openai.com/static-rsc-4/pNeuHthxwWHAuiLWcZoKcf89PlJUof8JUVw9wSF3asAFDCKFQm5q2SDGSZ1_j9E6WPRnNU0j7bPu-QRLshMMutfGmJQf79X_y6yMtUFTw5GnGwZPfIqXBRsB-t3Go7FxPp8VZapTlPclwCDdFQP9__cMcrMwB2ncX6eanCt7jY5WjlsKTEgSSaKbR7VX4CwO?purpose=fullsize)\n\n**Best for a practical custom-app build**\n\n[Simpleit4U](https://simpleit4u.com.au/our-projects/) has published project examples involving Power Platform apps, job management, CRM and Power BI reporting. That makes it particularly worth assessing if you want evidence of actual delivered solutions before engaging. [simpleit4u.com.au](https://simpleit4u.com.au/our-projects/?utm_source=chatgpt.com)[simpleit4u.com.au](https://simpleit4u.com.au/services/microsoft-power-platform-solutions-australia/?utm_source=chatgpt.com)\n\n## Adelaide office locations\n\n\n## How I'd choose the right partner\n\nBefore requesting proposals, ask each shortlisted firm these five questions\\:\n\n1. **Relevant experience\\:** Can you demonstrate two or three comparable projects delivered in the last 18–24 months?\n2. **Technical capability\\:** Who will design the solution, and what experience do they have with Power Apps, Power Automate, Dataverse and Power BI as applicable?\n3. **Governance and security\\:** How will you manage environments, permissions, deployment pipelines, data loss prevention policies and licensing?\n4. **Ownership and handover\\:** Will we own the apps, flows, source code, documentation and service connections, and can our internal team maintain them?\n5. **Commercial model\\:** What are the estimated implementation costs, ongoing support fees, licensing costs and arrangements for changes outside the agreed scope?\n\nFor independent validation, use Microsoft's [Power Automate partner directory](https://www.microsoft.com/en/power-platform/products/power-automate/partners) and [Microsoft AppSource partner search](https://appsource.microsoft.com/)\\. Check current specialisations and relevant customer references rather than relying solely on a partner badge. [www.microsoft.com](https://www.microsoft.com/en/power-platform/products/power-automate/partners?utm_source=chatgpt.com)\n\n**My bottom line\\:** For a focused Power Platform implementation, compare Power Platform Experts, Mayasoft and Simpleit4U first. Add Velrada if the project involves enterprise-scale architecture or complex integrations.\n\nOne question would help narrow the list further: **Are you looking for a partner to build a specific solution, or for a strategic consulting partner to lead a broader Power Platform program?**",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants | Power Platform Experts",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/locations",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Adelaide",
+          "description": "Total lines: 1062\n",
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Power Platform Consultants | Power Platform Experts",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf",
+          "domain": "www.unisys.com",
+          "title": "Microsoft Cloud Ecosystem 2024",
+          "description": null,
+          "breadcrumb": "www.unisys.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf",
+          "domain": "www.unisys.com",
+          "title": "Microsoft Cloud Ecosystem 2024",
+          "description": null,
+          "breadcrumb": "www.unisys.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.planbconsulting.com.au/partners/",
+          "domain": "www.planbconsulting.com.au",
+          "title": "Partners - PlanB",
+          "description": null,
+          "breadcrumb": "www.planbconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia",
+          "domain": "revenuebase.ai",
+          "title": "Top 24 Microsoft power platform consultants based in Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-partners/australia",
+          "domain": "revenuebase.ai",
+          "title": "Top 24 Microsoft power platform partners based in Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia",
+          "domain": "revenuebase.ai",
+          "title": "Top 24 Microsoft power platform consultants based in Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia",
+          "domain": "revenuebase.ai",
+          "title": "Top 25 Microsoft power platform consulting companies based in Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-developers/australia",
+          "domain": "revenuebase.ai",
+          "title": "Top 25 Microsoft power platform developers based in Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners",
+          "domain": "www.microsoft.com",
+          "title": "Power Automate Partners | Microsoft Power Platform",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners",
+          "domain": "www.microsoft.com",
+          "title": "Power Automate Partners | Microsoft Power Platform",
+          "description": "Total lines: 158\n",
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf",
+          "domain": "www.telstra.com.au",
+          "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem - Australia 2022",
+          "description": null,
+          "breadcrumb": "www.telstra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Adelaide",
+          "description": "Total lines: 416\n",
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.officeexperts.com.au/microsoft-consultants-adelaide",
+          "domain": "www.officeexperts.com.au",
+          "title": "Microsoft Consultants Adelaide",
+          "description": null,
+          "breadcrumb": "www.officeexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://mayasoft.com.au/about.html",
+          "domain": "mayasoft.com.au",
+          "title": "About Mayasoft — Australian Microsoft Partner Since 2016",
+          "description": null,
+          "breadcrumb": "mayasoft.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://mayasoft.com.au/about.html",
+          "domain": "mayasoft.com.au",
+          "title": "About Mayasoft — Australian Microsoft Partner Since 2016",
+          "description": "Total lines: 203\n",
+          "breadcrumb": "mayasoft.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://mayasoft.com.au/about.html",
+          "domain": "mayasoft.com.au",
+          "title": "About Mayasoft — Australian Microsoft Partner Since 2016",
+          "description": null,
+          "breadcrumb": "mayasoft.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.beyondkey.com.au/blog/top-microsoft-business-partners-in-australia/",
+          "domain": "www.beyondkey.com.au",
+          "title": "Top 10 Microsoft Business Applications Partners in Australia",
+          "description": null,
+          "breadcrumb": "www.beyondkey.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.evocate.com.au/locations/adelaide/",
+          "domain": "www.evocate.com.au",
+          "title": "Adelaide Microsoft Consultants | Evocate",
+          "description": null,
+          "breadcrumb": "www.evocate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.evocate.com.au/locations/adelaide/",
+          "domain": "www.evocate.com.au",
+          "title": "Adelaide Microsoft Consultants | Evocate",
+          "description": "Total lines: 208\n",
+          "breadcrumb": "www.evocate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.pa.com.au/products/microsoft-power-platform/microsoft-power-apps/",
+          "domain": "www.pa.com.au",
+          "title": "Microsoft Power Apps from Professional Advantage Australia",
+          "description": null,
+          "breadcrumb": "www.pa.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.pa.com.au/products/microsoft-power-platform/microsoft-power-apps/",
+          "domain": "www.pa.com.au",
+          "title": "Microsoft Power Apps from Professional Advantage Australia",
+          "description": "Total lines: 475\n",
+          "breadcrumb": "www.pa.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.wiise.com/partner-velrada",
+          "domain": "www.wiise.com",
+          "title": "Velrada | Partner Profile | Wiise ERP",
+          "description": null,
+          "breadcrumb": "www.wiise.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.unisys.hu/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf",
+          "domain": "www.unisys.hu",
+          "title": "Microsoft Cloud",
+          "description": null,
+          "breadcrumb": "www.unisys.hu"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://simpleit4u.com.au/our-projects/",
+          "domain": "simpleit4u.com.au",
+          "title": "IT Projects Australia: 13 Trusted, Proven Case Studies from Adelaide",
+          "description": null,
+          "breadcrumb": "simpleit4u.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://simpleit4u.com.au/services/microsoft-power-platform-solutions-australia/",
+          "domain": "simpleit4u.com.au",
+          "title": "Microsoft Power Platform Solutions Australia: 6 Proven Tools, One Trusted Partner",
+          "description": null,
+          "breadcrumb": "simpleit4u.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://au.linkedin.com/in/suseel-chowdary-76894889",
+          "domain": "au.linkedin.com",
+          "title": "Suseel Chowdary - Velrada | LinkedIn",
+          "description": null,
+          "breadcrumb": "au.linkedin.com"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Consultants Adelaide",
+          "snippet": "Total lines: 1062",
+          "domain": "www.powerplatformexperts.com.au",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Power Platform Experts",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Mayasoft",
+          "snippet": "Total lines: 203",
+          "domain": "mayasoft.com.au",
+          "url": "https://mayasoft.com.au/about.html?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Microsoft Partner Since 2016",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Velrada",
+          "snippet": "7/101 Pirie St, Adelaide SA 5000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Cloud Ecosystem 2024",
+          "snippet": null,
+          "domain": "www.unisys.com",
+          "url": "https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "unisys.com",
+          "publication_date": "2024-03-29 18:15:11 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Simpleit4U",
+          "snippet": "565-569 Tapleys Hill Rd, Fulham Gardens SA 5024, Australia",
+          "domain": "www.google.com.br",
+          "url": "https://www.google.com.br/maps/place/Simpleit4U/@-34.9246714,138.514793,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0c5745b048dc5:0xd91dd67474d6fd2a!8m2!3d-34.9246714!4d138.5173679!16s%2Fg%2F11svx8xw46?hl=en&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com.br",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Data#3 - Adelaide",
+          "snippet": "Level 14/91 King William St, Adelaide SA 5000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJDdrAN0bJsGoRKRdovGYbFbM&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Top 10 Microsoft Business Applications Partners in Australia",
+          "snippet": null,
+          "domain": "www.beyondkey.com.au",
+          "url": "https://www.beyondkey.com.au/blog/top-microsoft-business-partners-in-australia/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "It consulting services",
+          "publication_date": "2026-08-25 00:00:00 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform Experts",
+          "snippet": null,
+          "domain": "www.powerplatformexperts.com.au",
+          "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Mayasoft",
+          "snippet": null,
+          "domain": "mayasoft.com.au",
+          "url": "https://mayasoft.com.au/about.html",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Mayasoft](https://mayasoft.com.au/about.html)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Velrada",
+          "snippet": null,
+          "domain": "www.velrada.com",
+          "url": "https://www.velrada.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Velrada](https://www.velrada.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Velrada | Partner Profile",
+          "snippet": null,
+          "domain": "www.wiise.com",
+          "url": "https://www.wiise.com/partner-velrada?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Wiise ERP",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Simpleit4U",
+          "snippet": null,
+          "domain": "simpleit4u.com.au",
+          "url": "https://simpleit4u.com.au/our-projects/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Simpleit4U](https://simpleit4u.com.au/our-projects/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "IT Projects Australia: 13 Trusted, Proven Case Studies from Adelaide",
+          "snippet": null,
+          "domain": "simpleit4u.com.au",
+          "url": "https://simpleit4u.com.au/our-projects/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "SimpleIT4U",
+          "publication_date": "2026-07-06 06:24:33 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Power Platform Solutions Australia: 6 Proven Tools, One Trusted Partner",
+          "snippet": null,
+          "domain": "simpleit4u.com.au",
+          "url": "https://simpleit4u.com.au/services/microsoft-power-platform-solutions-australia/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "SimpleIT4U",
+          "publication_date": "2019-02-05 06:55:01 +00:00",
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Automate partner directory",
+          "snippet": null,
+          "domain": "www.microsoft.com",
+          "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Power Automate partner directory](https://www.microsoft.com/en/power-platform/products/power-automate/partners)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft AppSource partner search",
+          "snippet": null,
+          "domain": "appsource.microsoft.com",
+          "url": "https://appsource.microsoft.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Microsoft AppSource partner search](https://appsource.microsoft.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Automate Partners",
+          "snippet": "Total lines: 158",
+          "domain": "www.microsoft.com",
+          "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Microsoft Power Platform",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consulting partners Adelaide Australia Power Apps Power Automate 2026",
+        "Microsoft Power Platform consultants",
+        "Microsoft Dynamics 365 and Power Platform consulting",
+        "Power Apps consultants"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Power Platform Experts",
+          "category": "business",
+          "markdown": "Power Platform Experts",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Mayasoft IT & Consulting Services",
+          "category": "local_business",
+          "markdown": "Mayasoft IT & Consulting Services",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Velrada",
+          "category": "local_business",
+          "markdown": "Velrada",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Simpleit4U",
+          "category": "local_business",
+          "markdown": "Simpleit4U",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Data#3 - Adelaide",
+          "category": "local_business",
+          "markdown": "Data#3 - Adelaide",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_table",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Best Microsoft Power Platform consultants in Adelaide\n\nIf you're looking for a reputable Microsoft Power Platform consulting partner in Adelaide, I'd start with a shortlist that combines **demonstrable Power Platform expertise, a local South Australian presence, and the ability to support solutions beyond the initial build**\\.\n\nThe right partner depends on whether you need Power Apps, Power Automate, Power BI, Dataverse, enterprise governance, or integration with Dynamics 365 and Microsoft 365. I've prioritised firms with relevant service offerings and Adelaide delivery capability, rather than treating this as a definitive ranking of every consultant in the market.\n\n## Shortlist at a glance\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "text": null,
+          "markdown": "| Consultant | Best suited for | Why shortlist them |\n|--------|--------|--------|\n| **Power Platform Experts** | Dedicated low-code development | Specifically advertises Power Apps, Power Automate, Power BI and Power Pages, along with training and ongoing support. [www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com) |\n| **Mayasoft IT & Consulting Services \\(Mayasoft)** | Microsoft business applications and integration | Adelaide-based Microsoft consultancy offering Power Platform alongside Dynamics 365, Azure and API integration. It also identifies government, aged care and not-for-profit organisations among its clients. [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com) |\n| **Velrada \\(Velrada)** | Complex enterprise transformation | Adelaide presence and broader Microsoft cloud expertise across Power Platform, Dynamics 365, Azure and data/analytics. Worth considering for larger cross-system projects. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)[www.unisys.com](https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com) |\n| **Simpleit4U \\(Simpleit4U)** | Custom applications and workflow automation | A local provider whose listed services include Power Apps, Power Automate, Power BI and connected business solutions. Worth evaluating for practical automation and custom app development. [www.google.com.br](https://www.google.com.br/maps/place/Simpleit4U/@-34.9246714,138.514793,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0c5745b048dc5:0xd91dd67474d6fd2a!8m2!3d-34.9246714!4d138.5173679!16s%2Fg%2F11svx8xw46?hl=en&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com) |\n| **Data#3 - Adelaide \\(Data\\#3)** | Larger organisations and broader IT programs | Established national IT services provider with an Adelaide office and broader Microsoft capabilities. Consider it where Power Platform needs to fit into a larger enterprise technology program. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJDdrAN0bJsGoRKRdovGYbFbM&hl=en&utm_source=chatgpt.com)[www.beyondkey.com.au](https://www.beyondkey.com.au/blog/top-microsoft-business-partners-in-australia/?utm_source=chatgpt.com) |\n\n",
+          "table": {
+            "table_header": [
+              "Consultant",
+              "Best suited for",
+              "Why shortlist them"
+            ],
+            "table_content": [
+              [
+                "**Power Platform Experts**",
+                "Dedicated low-code development",
+                "Specifically advertises Power Apps, Power Automate, Power BI and Power Pages, along with training and ongoing support. [www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com)"
+              ],
+              [
+                "**Mayasoft IT & Consulting Services \\(Mayasoft)**",
+                "Microsoft business applications and integration",
+                "Adelaide-based Microsoft consultancy offering Power Platform alongside Dynamics 365, Azure and API integration. It also identifies government, aged care and not-for-profit organisations among its clients. [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com)"
+              ],
+              [
+                "**Velrada \\(Velrada)**",
+                "Complex enterprise transformation",
+                "Adelaide presence and broader Microsoft cloud expertise across Power Platform, Dynamics 365, Azure and data/analytics. Worth considering for larger cross-system projects. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)[www.unisys.com](https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com)"
+              ],
+              [
+                "**Simpleit4U \\(Simpleit4U)**",
+                "Custom applications and workflow automation",
+                "A local provider whose listed services include Power Apps, Power Automate, Power BI and connected business solutions. Worth evaluating for practical automation and custom app development. [www.google.com.br](https://www.google.com.br/maps/place/Simpleit4U/@-34.9246714,138.514793,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0c5745b048dc5:0xd91dd67474d6fd2a!8m2!3d-34.9246714!4d138.5173679!16s%2Fg%2F11svx8xw46?hl=en&entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)"
+              ],
+              [
+                "**Data#3 - Adelaide \\(Data\\#3)**",
+                "Larger organisations and broader IT programs",
+                "Established national IT services provider with an Adelaide office and broader Microsoft capabilities. Consider it where Power Platform needs to fit into a larger enterprise technology program. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJDdrAN0bJsGoRKRdovGYbFbM&hl=en&utm_source=chatgpt.com)[www.beyondkey.com.au](https://www.beyondkey.com.au/blog/top-microsoft-business-partners-in-australia/?utm_source=chatgpt.com)"
+              ]
+            ]
+          },
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Power Platform Experts",
+              "category": "business",
+              "markdown": "Power Platform Experts",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Mayasoft IT & Consulting Services",
+              "category": "local_business",
+              "markdown": "Mayasoft IT & Consulting Services",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Velrada",
+              "category": "local_business",
+              "markdown": "Velrada",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Simpleit4U",
+              "category": "local_business",
+              "markdown": "Simpleit4U",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Data#3 - Adelaide",
+              "category": "local_business",
+              "markdown": "Data#3 - Adelaide",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\nThese are a **research shortlist, not a verified league table**\\. I would ask each firm for named consultants, recent Adelaide-relevant case studies, and evidence of current Microsoft partner specialisations before making a final selection.\n\n## My recommendations by project type\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 4,
+          "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMicrosoft_Power_Platform_logo.svg",
+              "alt": "File:Microsoft Power Platform logo.svg - Wikimedia Commons",
+              "image_url": "https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize",
+              "markdown": "![File:Microsoft Power Platform logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/f-cyKUORqPE1d9Hr8VJuCBnj0UsDk0QkW4b88F3PcvzYWVAPFEDVMIhFWtbZbbyBaL3EslLRPFW32x25XVEUHwasd5-3mCtZL50JxGMImnMOYz3ylrd6dVd_6N_8SMMSgHWMD_ovazUG8f0TE9lZ9AaDmflHrnY5CaaGhca4HCJQm7Wt16DmP2XFv2ggcEYC?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n**Best first call for a Power Platform-specific project**\n\nStart with [Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide) if your brief centres on building apps, automating workflows, or creating dashboards, rather than replacing a whole business system. Its Adelaide service page specifically covers the core Power Platform products. [www.powerplatformexperts.com.au](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Experts",
+              "snippet": null,
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Power Platform Experts](https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform Consultants Adelaide",
+              "snippet": "Total lines: 1062",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Power Platform Experts",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "markdown": "![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.crmforagedcare.com.au/",
+              "alt": "Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS",
+              "image_url": "https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize",
+              "markdown": "![Aged Care CRM Australia 2026 — Aged Care Act Ready | MACS](https://images.openai.com/static-rsc-4/UQGI4Pq6BVpmQsvlUEfggV8E4vlbVSPCtVK29CPYYzVxXBi_cmCA7tQBkMcLLz4NOsSyJ6ysucaY3luxUsNU9ZbmBW56qu0z_Nn5baUbCmhXRlq0ICSYsEwtFMMX9HA-CEoqMPzdV16ljS61yV9mwDZZ2KNmaFmm5Zd93YrVm0PRwkQrmcaIJtZ-mubN_G2h?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n**Best for Dynamics 365 integration**\n\n[Mayasoft](https://mayasoft.com.au/about.html) is worth approaching if your apps and automations need to integrate with CRM, Azure or existing business systems. Its Adelaide team and published client sectors are useful indicators of local delivery experience. [mayasoft.com.au](https://mayasoft.com.au/about.html?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Mayasoft",
+              "snippet": null,
+              "domain": "mayasoft.com.au",
+              "url": "https://mayasoft.com.au/about.html",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Mayasoft](https://mayasoft.com.au/about.html)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Mayasoft",
+              "snippet": "Total lines: 203",
+              "domain": "mayasoft.com.au",
+              "url": "https://mayasoft.com.au/about.html?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Microsoft Partner Since 2016",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "markdown": "![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://velratech.com/",
+              "alt": "Velratech | Technology Consultancy & Venture Studio",
+              "image_url": "https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize",
+              "markdown": "![Velratech | Technology Consultancy & Venture Studio](https://images.openai.com/static-rsc-4/dq05-y08bTCzhNeIBhI4Z2MsmqHK4rLUPzaIUTpOvc_2Nhk-ZAVWBUIGcgcfXThLSReDtthp8PVl3Mdxa-GqHMyYlH5oOg4fyNSJOoYoCytN--cL4gRTyJ8JifK919oQ1YYvGslRM5y1HfsgY_b9AxP8yTZ9H8Xts_kc7IiAb9jTMr9ckfl-sKJgsEr212Kk?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n**Best for a larger or more complex transformation**\n\n[Velrada](https://www.velrada.com/) is worth including where architecture, integration, data platforms, security and enterprise delivery matter as much as the individual Power Apps or flows. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com)[www.unisys.com](https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com)[www.wiise.com](https://www.wiise.com/partner-velrada?utm_source=chatgpt.com)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Velrada",
+              "snippet": null,
+              "domain": "www.velrada.com",
+              "url": "https://www.velrada.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Velrada](https://www.velrada.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Velrada",
+              "snippet": "7/101 Pirie St, Adelaide SA 5000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJ3TDYF9HOsGoRo1VfxSrC4TE&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Cloud Ecosystem 2024",
+              "snippet": null,
+              "domain": "www.unisys.com",
+              "url": "https://www.unisys.com/siteassets/collateral/analyst-report/ar-20240430-microsoft-cloud-ecosystem-australia.pdf?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "unisys.com",
+              "publication_date": "2024-03-29 18:15:11 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Velrada | Partner Profile",
+              "snippet": null,
+              "domain": "www.wiise.com",
+              "url": "https://www.wiise.com/partner-velrada?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Wiise ERP",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 10,
+          "markdown": "![TOP SALUS](https://images.openai.com/static-rsc-4/pNeuHthxwWHAuiLWcZoKcf89PlJUof8JUVw9wSF3asAFDCKFQm5q2SDGSZ1_j9E6WPRnNU0j7bPu-QRLshMMutfGmJQf79X_y6yMtUFTw5GnGwZPfIqXBRsB-t3Go7FxPp8VZapTlPclwCDdFQP9__cMcrMwB2ncX6eanCt7jY5WjlsKTEgSSaKbR7VX4CwO?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.mondofiducia.com/post/top-salus",
+              "alt": "TOP SALUS",
+              "image_url": "https://images.openai.com/static-rsc-4/pNeuHthxwWHAuiLWcZoKcf89PlJUof8JUVw9wSF3asAFDCKFQm5q2SDGSZ1_j9E6WPRnNU0j7bPu-QRLshMMutfGmJQf79X_y6yMtUFTw5GnGwZPfIqXBRsB-t3Go7FxPp8VZapTlPclwCDdFQP9__cMcrMwB2ncX6eanCt7jY5WjlsKTEgSSaKbR7VX4CwO?purpose=fullsize",
+              "markdown": "![TOP SALUS](https://images.openai.com/static-rsc-4/pNeuHthxwWHAuiLWcZoKcf89PlJUof8JUVw9wSF3asAFDCKFQm5q2SDGSZ1_j9E6WPRnNU0j7bPu-QRLshMMutfGmJQf79X_y6yMtUFTw5GnGwZPfIqXBRsB-t3Go7FxPp8VZapTlPclwCDdFQP9__cMcrMwB2ncX6eanCt7jY5WjlsKTEgSSaKbR7VX4CwO?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n**Best for a practical custom-app build**\n\n[Simpleit4U](https://simpleit4u.com.au/our-projects/) has published project examples involving Power Platform apps, job management, CRM and Power BI reporting. That makes it particularly worth assessing if you want evidence of actual delivered solutions before engaging. [simpleit4u.com.au](https://simpleit4u.com.au/our-projects/?utm_source=chatgpt.com)[simpleit4u.com.au](https://simpleit4u.com.au/services/microsoft-power-platform-solutions-australia/?utm_source=chatgpt.com)\n\n## Adelaide office locations\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Simpleit4U",
+              "snippet": null,
+              "domain": "simpleit4u.com.au",
+              "url": "https://simpleit4u.com.au/our-projects/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Simpleit4U](https://simpleit4u.com.au/our-projects/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "IT Projects Australia: 13 Trusted, Proven Case Studies from Adelaide",
+              "snippet": null,
+              "domain": "simpleit4u.com.au",
+              "url": "https://simpleit4u.com.au/our-projects/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "SimpleIT4U",
+              "publication_date": "2026-07-06 06:24:33 +00:00",
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Power Platform Solutions Australia: 6 Proven Tools, One Trusted Partner",
+              "snippet": null,
+              "domain": "simpleit4u.com.au",
+              "url": "https://simpleit4u.com.au/services/microsoft-power-platform-solutions-australia/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "SimpleIT4U",
+              "publication_date": "2019-02-05 06:55:01 +00:00",
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Mayasoft IT & Consulting Services",
+              "description": "Software company",
+              "address": "Unit 3/97 Pirie St, Adelaide SA 5000, Australia",
+              "phone": "+61 416 400 765",
+              "reviews_count": 4,
+              "url": "https://www.mayasoft.com.au/?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_term=mayasoft",
+              "domain": "www.mayasoft.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Simpleit4U",
+              "description": "Computer support and services",
+              "address": "565-569 Tapleys Hill Rd, Fulham Gardens SA 5024, Australia",
+              "phone": "+61 426 972 982",
+              "reviews_count": 12,
+              "url": "https://simpleit4u.com.au/",
+              "domain": "simpleit4u.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 12,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Velrada",
+              "description": "Business management consultant",
+              "address": "7/101 Pirie St, Adelaide SA 5000, Australia",
+              "phone": "+61 1300 835 723",
+              "reviews_count": 3,
+              "url": "https://velrada.com/",
+              "domain": "velrada.com",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 3.3,
+                "votes_count": 3,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Sensei Project Solutions",
+              "description": "Consultant",
+              "address": "Level 3/431 King William St, Adelaide SA 5000, Australia",
+              "phone": "+61 1300 736 734",
+              "reviews_count": 4,
+              "url": "https://www.senseiprojectsolutions.com.au/",
+              "domain": "www.senseiprojectsolutions.com.au",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## How I'd choose the right partner\n\nBefore requesting proposals, ask each shortlisted firm these five questions\\:\n\n1. **Relevant experience\\:** Can you demonstrate two or three comparable projects delivered in the last 18–24 months?\n2. **Technical capability\\:** Who will design the solution, and what experience do they have with Power Apps, Power Automate, Dataverse and Power BI as applicable?\n3. **Governance and security\\:** How will you manage environments, permissions, deployment pipelines, data loss prevention policies and licensing?\n4. **Ownership and handover\\:** Will we own the apps, flows, source code, documentation and service connections, and can our internal team maintain them?\n5. **Commercial model\\:** What are the estimated implementation costs, ongoing support fees, licensing costs and arrangements for changes outside the agreed scope?\n\nFor independent validation, use Microsoft's [Power Automate partner directory](https://www.microsoft.com/en/power-platform/products/power-automate/partners) and [Microsoft AppSource partner search](https://appsource.microsoft.com/)\\. Check current specialisations and relevant customer references rather than relying solely on a partner badge. [www.microsoft.com](https://www.microsoft.com/en/power-platform/products/power-automate/partners?utm_source=chatgpt.com)\n\n**My bottom line\\:** For a focused Power Platform implementation, compare Power Platform Experts, Mayasoft and Simpleit4U first. Add Velrada if the project involves enterprise-scale architecture or complex integrations.\n\nOne question would help narrow the list further: **Are you looking for a partner to build a specific solution, or for a strategic consulting partner to lead a broader Power Platform program?**",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Automate partner directory",
+              "snippet": null,
+              "domain": "www.microsoft.com",
+              "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Power Automate partner directory](https://www.microsoft.com/en/power-platform/products/power-automate/partners)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft AppSource partner search",
+              "snippet": null,
+              "domain": "appsource.microsoft.com",
+              "url": "https://appsource.microsoft.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Microsoft AppSource partner search](https://appsource.microsoft.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Automate Partners",
+              "snippet": "Total lines: 158",
+              "domain": "www.microsoft.com",
+              "url": "https://www.microsoft.com/en/power-platform/products/power-automate/partners?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Microsoft Power Platform",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

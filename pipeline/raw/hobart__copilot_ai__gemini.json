@@ -1,0 +1,355 @@
+{
+  "slug": "hobart",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Hobart specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:12:20.687Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For mid-market businesses in Hobart seeking consulting focused specifically on **Microsoft Copilot Studio**, **AI agents**, and **practical workflow automation**, options range from specialized boutique consultancies to established regional IT providers:\n\n---\n\n### 1. Dedicated Copilot Studio & Agentic AI Specialists\n\n* **FutureAbility**\n  * **Location:** Hobart-based (with local delivery in Hobart and Australia-wide support).\n  * **Focus:** FutureAbility is specifically focused on **Microsoft Copilot Studio, Power Platform, and AI agents** built directly inside a client’s Microsoft 365 tenant for **mid-market organizations**.\n  * **Why them:** They deliver official Microsoft *“Agent in a Day”* workshops and focus on taking AI beyond simple chat assistants into end-to-end, multi-agent business process automation (triage, document reading, cross-system orchestration, and replacing spreadsheet/email manual handoffs). They do not clip tickets on Microsoft licenses, focusing purely on delivery, adoption, and tenant-based IP.\n\n---\n\n### 2. Established Tasmanian Managed IT & Enterprise Partners\n\n* **Intuit Technologies**\n  * **Location:** Hobart (headquartered in Tasmania, with statewide coverage).\n  * **Focus:** One of Tasmania’s largest and most established Microsoft Cloud and IT services providers. \n  * **Capabilities:** Has dedicated practices in **Power Platform, Dynamics 365, and AI/Intelligent Automation**, actively implementing Copilot Studio and Power Automate workflows to connect CRM/ERP data with front-line business operations.\n  * **Best for:** Mid-market organizations that want broader infrastructure, cybersecurity, and managed IT services integrated with their AI automation rollouts.\n\n* **Frontrow Technology**\n  * **Location:** Hobart & Tasmania (remote-first with on-site availability).\n  * **Focus:** Microsoft Solutions Partner specializing in Microsoft 365 Copilot readiness, licensing setup, deployment, and practical organizational adoption. \n\n* **IT Strategic**\n  * **Location:** Hobart & Melbourne.\n  * **Focus:** IT advisory and transformation consultancy assisting SMEs, mid-market businesses, and not-for-profits with Microsoft Copilot integration, Power Platform automations, data security, and governance.\n\n* **Cyberhaven Technologies**\n  * **Location:** Hobart City.\n  * **Focus:** IT and cyber security firm offering guidance and integration support around Microsoft 365 Copilot and business automation.\n\n---\n\n### 3. National Consultancies Active in Hobart\n\n* **Rapid Circle**\n  * **Profile:** A tier-one Microsoft Solutions Partner that regularly hosts executive roundtables, modern work briefings, and agentic AI workshops in Hobart (often partnering with local groups like TasICT).\n  * **Capabilities:** Deep expertise in enterprise-grade Copilot Studio development, Power Platform Center of Excellence (CoE), custom Copilot agents, and Azure OpenAI integration.\n\n---\n\n### Key Questions for Mid-Market Businesses Evaluating Providers\n\nWhen vetting a consultant for Copilot Studio and AI agents, ask them to clarify:\n1. **In-Tenant Architecture:** Do they build agents directly inside your Microsoft Dataverse/Power Platform environment so you retain total ownership of the intellectual property?\n2. **Data Governance & Permissions:** Microsoft 365 Copilot and Copilot Studio index data based on existing user permissions; ensure the consultant includes an access-permission and data-hygiene audit prior to deployment.\n3. **Agent Scope:** Look for partners who prioritize *deterministic workflows* (rule-based handoffs in Power Automate) alongside *probabilistic agents* (Copilot Studio), rather than relying purely on generic conversational chat.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+%22ISW%22+Microsoft+Copilot&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; &quot;ISW&quot; Microsoft Copilot</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+%22Copilot+Studio%22+OR+%22Microsoft+Copilot%22+IT+consulting&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; &quot;Copilot Studio&quot; OR &quot;Microsoft Copilot&quot; IT consulting</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22FutureAbility%22+%22Hobart%22+%22Copilot+Studio%22&client=app-vertex-grounding&safesearch=active\">&quot;FutureAbility&quot; &quot;Hobart&quot; &quot;Copilot Studio&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+Microsoft+partner+AI+automation+OR+%22Copilot%22&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; Microsoft partner AI automation OR &quot;Copilot&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+automation+consultants+Hobart+Microsoft+Copilot+Studio&client=app-vertex-grounding&safesearch=active\">AI automation consultants Hobart Microsoft Copilot Studio</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Intuit+Technologies%22+%22Copilot+Studio%22+OR+%22Power+Platform%22+Hobart&client=app-vertex-grounding&safesearch=active\">&quot;Intuit Technologies&quot; &quot;Copilot Studio&quot; OR &quot;Power Platform&quot; Hobart</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+Hobart+Tasmania+IT+consulting&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio Hobart Tasmania IT consulting</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+consulting+services+Hobart+Tasmania+Copilot+workflow+automation&client=app-vertex-grounding&safesearch=active\">AI consulting services Hobart Tasmania Copilot workflow automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=IT+consulting+mid-market+%22Hobart%22+Power+Automate+%22Copilot+Studio%22&client=app-vertex-grounding&safesearch=active\">IT consulting mid-market &quot;Hobart&quot; Power Automate &quot;Copilot Studio&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDnL7uQ43AS3rBw-VTCjQ7J5OTxzprWFk2gpvsSNjDnuHGoY9njFGYz6QN1ghxiW6d6vXKLsuao49qmr0qZ4rNI7AxCRohEhL__P7_DOQmSrrLBG3afnf2",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY-wH4wklmyNZ0XoUEayZyeB1fwm2QpxqpTcH9LpqgNV5kWvt4XxVO_pBqFpAya0ujneJ1gt2Do3twsDyZKZxPvheMpRS-QEr8Z3Uf9s94sPybEC5ti2Aczg==",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-ph4v6p5cu6Itww2xAOhxDIeNRZjTpbtmD7m-jKNDmJASR1TLK7aNfg_UaOB0ylzgD4aIkUjoTgWkB-ssf4q6MkkdguCeiQilqwhAjflvXxC3kEyuqLfAg==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTBay9-EgWdmEohWMSJAtSiiCdzIgzN2cS8R2lXjFTqWGpgWOY34xZ2d-Vj6xmwXm375FvUIhC1MVKv8UFfIxA6v4H2A8QPyqWbPPOP3UQVG5REQaf8A==",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIYcjo2H1JCnNlvzclugeS9PXyXAzhO2HNSKGbR-7KtEpV4wRJ0K9jhxa0qZs6MDe9MyRNLDB3N5WEpL6nIojMa0QyF5uTduWd2MuYFK6q4qAls90r7uipnNmFN4VlmjrUq8aRljVVGKchdg==",
+                "title": "futureability.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-ph4v6p5cu6Itww2xAOhxDIeNRZjTpbtmD7m-jKNDmJASR1TLK7aNfg_UaOB0ylzgD4aIkUjoTgWkB-ssf4q6MkkdguCeiQilqwhAjflvXxC3kEyuqLfAg==",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEONXXznpZvYZwVf9ECbCLej56dLCI-1LIYaf0lZND-8Q-EW-pQrEr-KBfr0TyZQL_GgZP4BK-55bnYE91-18xK1XifRuT6TkweeKz8rE-0BRVZmQ1t48znhe8xXm2tuiMYoymb3gPanuKsMPYKeg==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL7h1Qm5sB0FeugJITuPV2yMmRLJ8dcMKVxkcDTS_buaSt6Vd3xyC_lwcqKFGI_QYc-QfkvIbUZc-z6KqhamWM1B7Sj0wh3FKLJxsS98tcvlelwupmFLi4Apmf4zMTdbS7KcjV-OdAjEux7mUVx9ddxz8=",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9dK0i4mD3PJX8t_M9Izq6-3CyRdp2TeyUb6582J0R9PQenrGXJkEwHdyljJyo5424q6O0rzxKmvHbRnSHPG0xhrPOyPtiOWTUwjtBoP52M5rqSxs-3WUFHvutPEO61ji435sen-p7W7rFM_b-tUu7FF78",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvm6GziwWxTyl47NXDRo-llC1Cfrxld9c6G8R-QNYBEWWxis6krxWPc724O1Io0gLTAL-ns-BtBWePKdlk3ATzvvjA1f48Lha-hoh8rxFGysrDZSSVG1oJ2gEo_7aQJQ==",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9YTzEgFGI9b-837fY2yBb1a8IttiA2phFMc9Eb82URzZcGRWORBbu1Lu5h3nvb_BJs9OqA358YiHQv55p1TQVcJGp6RAjUKHK49F7pjDxZ4k_XW_3gWDM_EzyDKl9hXW5AZ8Op3R3wdBC",
+                "title": "itstrategic.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl_XMaGLA_0GCLKflTtRpcoG83P8QXwoGjFDarIl_n4IDXNugOQDehuuaJmbSvHPf7st39sB_jrKDExR_QT27YknARBQgjjWe6ShhWcc305W_AWuCsZZK83LX5vo5ByG5mDLXBLYuqOqg=",
+                "title": "itstrategic.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbLVkvQ8vrnPrXZmX0tIuwHNVFUOM3MFLb0uiAzjJcYxcWppc0CDEm37Rwh9B-G9dcpYKJBgDf0b1IpyNMzZ-OHlzzfOpUSny7-7ygMEYPSl_FGYVdWfrWlFoCnObUPx7n5oKz4UaPElfLhRrbyUB0yy7CxC4FZYGGFcrTgMK8MPsI7dY=",
+                "title": "cyberhaven.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH33d6cZcpb3yTpjv1yRYPxa6Ssz3NbanKXR04li_UZudnquVVslyeJooO6P6ayBJ9jJVUlE9D5SNcYf1ml_eDV0NveeSlTwNGUU7OPFyQV7Gowwk_Y0rVsia18mRD2JCrBekDp7QXK1mW_3Whc0YusOjg=",
+                "title": "rapidcircle.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcwFhLVHMXxT1fwYFIUK3nIqQe2GhVHkqMFpfOH8Zu6yS42yMarCx6EnJ2B0t71yDBuk2qQqF9RNyW0_WCdAemXMY-WXYPKVbBUlE85ccD5QSYfKd-diyWA9fPhFEK8Si4PX2hP20x8ZNK_l8=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT9rW2W6EJDElsq2Shws1bWJO6MadsbL_KLx6_E9YCFXRVoSlY9ZTx8JESbHTtTEsvlXTvbqyM7vUhCkd9kVje8A5Z79l5FCu6A9eiBgw52gjAZwmcX_-oIy_0uJtBUTgLSm4=",
+                "title": "compusoftadvisors.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3dNRjgY4ppdUK7NTM4wyrVu1GvLq6F3lxwOVvt21pW052yrxlzhK9HGX_W61LDoX6gEt7drhh8tyfG30gWM5OzsL0_lUqODIcpAilnauobYP4V4RwhUdYYin619ys_zWr1eyU-KvNxzMGgAEOCw==",
+                "title": "officeproconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG5GOYKi0fdXd_Vit4cx9gsi4mJZMZrE33wB8Dr0uQsp2UlsYeWXO8qmQIiMMkgU-dQefTOtQbunCgqcQCBuOnpqSp8xnyzm86AcQKour7tJNRBYnJFaVjrai6IFzzPUzH39KGySNriw==",
+                "title": "customerscience.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAcqD-LPe2Jf8pWC2wOW5DweU0mTJllXyL-pMH09pcgYRnjSRCXYKCueNxhv6mSUP9OtbwWNRtrOSwFjX5I1PIDKVsSt21I1D7216ARGt4Fdtia6ak-kdhUIIwrDO5MYmWUOZFHbAh_47hSw==",
+                "title": "dastechconsulting.ca"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 343,
+                "endIndex": 428,
+                "text": "**Location:** Hobart-based (with local delivery in Hobart and Australia-wide support)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 434,
+                "endIndex": 634,
+                "text": "**Focus:** FutureAbility is specifically focused on **Microsoft Copilot Studio, Power Platform, and AI agents** built directly inside a client’s Microsoft 365 tenant for **mid-market organizations**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 640,
+                "endIndex": 932,
+                "text": "**Why them:** They deliver official Microsoft *“Agent in a Day”* workshops and focus on taking AI beyond simple chat assistants into end-to-end, multi-agent business process automation (triage, document reading, cross-system orchestration, and replacing spreadsheet/email manual handoffs)"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 934,
+                "endIndex": 1040,
+                "text": "They do not clip tickets on Microsoft licenses, focusing purely on delivery, adoption, and tenant-based IP"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1220,
+                "endIndex": 1321,
+                "text": "**Focus:** One of Tasmania’s largest and most established Microsoft Cloud and IT services providers"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1328,
+                "endIndex": 1563,
+                "text": "**Capabilities:** Has dedicated practices in **Power Platform, Dynamics 365, and AI/Intelligent Automation**, actively implementing Copilot Studio and Power Automate workflows to connect CRM/ERP data with front-line business operations"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1758,
+                "endIndex": 1830,
+                "text": "**Location:** Hobart & Tasmania (remote-first with on-site availability)"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1836,
+                "endIndex": 1990,
+                "text": "**Focus:** Microsoft Solutions Partner specializing in Microsoft 365 Copilot readiness, licensing setup, deployment, and practical organizational adoption"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2017,
+                "endIndex": 2049,
+                "text": "**Location:** Hobart & Melbourne"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2055,
+                "endIndex": 2261,
+                "text": "**Focus:** IT advisory and transformation consultancy assisting SMEs, mid-market businesses, and not-for-profits with Microsoft Copilot integration, Power Platform automations, data security, and governance"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2298,
+                "endIndex": 2323,
+                "text": "**Location:** Hobart City"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2329,
+                "endIndex": 2461,
+                "text": "**Focus:** IT and cyber security firm offering guidance and integration support around Microsoft 365 Copilot and business automation"
+              },
+              "groundingChunkIndices": [
+                2,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2540,
+                "endIndex": 2742,
+                "text": "**Profile:** A tier-one Microsoft Solutions Partner that regularly hosts executive roundtables, modern work briefings, and agentic AI workshops in Hobart (often partnering with local groups like TasICT)"
+              },
+              "groundingChunkIndices": [
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2748,
+                "endIndex": 2923,
+                "text": "**Capabilities:** Deep expertise in enterprise-grade Copilot Studio development, Power Platform Center of Excellence (CoE), custom Copilot agents, and Azure OpenAI integration"
+              },
+              "groundingChunkIndices": [
+                15,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3261,
+                "endIndex": 3478,
+                "text": "**Data Governance & Permissions:** Microsoft 365 Copilot and Copilot Studio index data based on existing user permissions; ensure the consultant includes an access-permission and data-hygiene audit prior to deployment"
+              },
+              "groundingChunkIndices": [
+                16,
+                17,
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3483,
+                "endIndex": 3707,
+                "text": "**Agent Scope:** Look for partners who prioritize *deterministic workflows* (rule-based handoffs in Power Automate) alongside *probabilistic agents* (Copilot Studio), rather than relying purely on generic conversational chat"
+              },
+              "groundingChunkIndices": [
+                16,
+                4
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Hobart\" \"ISW\" Microsoft Copilot",
+            "\"Hobart\" \"Copilot Studio\" OR \"Microsoft Copilot\" IT consulting",
+            "\"FutureAbility\" \"Hobart\" \"Copilot Studio\"",
+            "\"Hobart\" Microsoft partner AI automation OR \"Copilot\"",
+            "AI automation consultants Hobart Microsoft Copilot Studio",
+            "\"Intuit Technologies\" \"Copilot Studio\" OR \"Power Platform\" Hobart",
+            "Microsoft Copilot Studio Hobart Tasmania IT consulting",
+            "AI consulting services Hobart Tasmania Copilot workflow automation",
+            "IT consulting mid-market \"Hobart\" Power Automate \"Copilot Studio\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 708,
+      "candidatesTokenCount": 945,
+      "totalTokenCount": 2966,
+      "cachedContentTokenCount": 110,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 708
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 110
+        }
+      ],
+      "thoughtsTokenCount": 1313,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "gsfiauuoNf-z694Pj_j12Ac"
+  }
+}

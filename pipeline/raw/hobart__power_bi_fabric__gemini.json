@@ -1,0 +1,537 @@
+{
+  "slug": "hobart",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Hobart for operational reporting and data warehousing?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:12:18.408Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting top analytics consultants for **Microsoft Power BI** and **Microsoft Fabric** in Hobart, organisations typically choose between firms with an established physical office in Tasmania, boutique BI practices focused on local industry verticals, and national tier-1 Microsoft Solutions Partners.\n\n---\n\n### 1. Consultancies with a Physical Office & Local Teams in Hobart\n\n*   **Notitia**\n    *   **Hobart Presence:** Physical office in Hobart (expanded through a strategic partnership with long-time local Hobart advisory Rod Jager Consulting).\n    *   **Focus Areas:** Data warehousing, lakehouse implementation, data strategy, and end-to-end Microsoft platform delivery (Power BI, Azure, Fabric).\n    *   **Strengths:** Strong footprint across Tasmanian government, healthcare, utilities, and commercial enterprises. They excel at bridging data governance, UX/UI dashboard design, and enterprise data warehousing.\n*   **Data#3**\n    *   **Hobart Presence:** Local branch located on Murray Street, Hobart.\n    *   **Focus Areas:** Enterprise-grade cloud architecture, Microsoft Fabric, Azure Data Services, and Power BI implementations.\n    *   **Strengths:** One of Australia’s largest and most accredited Microsoft Partners. Ideal for larger Tasmanian organisations (such as state departments, education institutions, and utilities) that need certified architecture, procurement, and ongoing managed analytics.\n*   **Element Digital**\n    *   **Hobart Presence:** Hobart-based IT consultancy.\n    *   **Focus Areas:** Azure infrastructure, cloud platforms, security (Essential Eight), and systems integration.\n    *   **Strengths:** A reliable partner for small-to-mid-market businesses seeking foundational cloud connectivity, identity/governance, and data pipeline setup to feed Microsoft reporting environments.\n\n---\n\n### 2. Boutique Specialists Tailored to Hobart & Tasmanian Industry Verticals\n\n*   **Roar Data**\n    *   **Profile:** An Australian analytics boutique that offers fixed-scope engagements specifically built around Hobart's operational context.\n    *   **Focus Areas:** Power BI modeling, automated KPI suites, and operational reporting.\n    *   **Strengths:** Deep experience in solving spreadsheet sprawl for key Tasmanian industries, such as aquaculture (unifying production, environmental, and site data), hospitality/tourism (food and labor cost reporting), and public administration.\n*   **SQL Masters Consulting**\n    *   **Profile:** Dedicated Microsoft Data Platform and Fabric specialists servicing the Tasmanian market.\n    *   **Focus Areas:** Microsoft Fabric \"Kick Start\" implementations, Lakehouse & Data Warehouse engineering, Data Factory pipelines, and performance-tuned semantic models for Power BI.\n    *   **Strengths:** Deep database and data warehousing technical roots, making them suitable if migrating from legacy SQL Server environments to Fabric.\n\n---\n\n### 3. National Tier-1 & Enterprise Microsoft Partners Servicing Hobart\n\nFor large-scale data warehousing transformations and migrations to Microsoft Fabric, several prominent partners provide dedicated consultants on-site and remotely:\n\n*   **Big Four & Enterprise Consultancies (Deloitte, KPMG, PwC, EY):** All maintain physical offices in Hobart. Their technology and data practices frequently handle large public-sector and enterprise Fabric/Power BI architectures with formal governance models.\n*   **Antares Solutions / QMetrix / Tridant:** Accredited Microsoft Solutions Partners for Data & AI. They specialize in modernizing legacy reporting environments into unified Fabric lakehouses/warehouses and designing operational executive dashboards.\n\n---\n\n### How to Choose the Right Consultant for Your Project\n\n1. **For Mid-Market / Operational Dashboards (Aquaculture, Tourism, Local Services):**\n   * *Best fit:* **Roar Data** or **Notitia** — fast time-to-value, direct consultant engagement, and quick resolution of spreadsheet/reconciliation bottlenecks.\n2. **For End-to-End Modern Data Warehousing (Fabric OneLake, Lakehouse, ETL):**\n   * *Best fit:* **Notitia** or **SQL Masters Consulting** — deep hands-on expertise in setting up Medallion architecture (Bronze/Silver/Gold), Synapse/Fabric pipelines, and Direct Lake semantic models.\n3. **For Large Enterprise or Public Sector Governance:**\n   * *Best fit:* **Data#3** or the **Big Four (Deloitte/KPMG/PwC)** — established Tasmanian government vendor panels, enterprise compliance, and extensive support resources.",
+              "thoughtSignature": "Et8WCtwWAWkUfRM89J2Ys3nQ+HgoHWuedxvNA8ODcI4A/4zJUTtzpCynzkB4npzPLAqQpqkr8UTXnMB9r10T1jxU/MXnAuZ3AcAZhM23wtJRP5eimmPlHXxni4NEaGS3LboYNXwVSIYBB2v7j2bsPulZgyASQ+RI/pJ07EjmH2XgjBJ/uiYMizqLOfb+YzDIyVou9bOLw7UQnttn2NehrJLNNGZP5vvwH16Ssnb8K/WhGaCIyHhCz5ELiSQgiVss399o56CwhIITy/q+EXw63f2/BswSALYco26LHDyMsAYavxP0ntNE8HL6bo3AyxemqmjNhsFsp8ebj5iG3hbUOS+Ad43edQemXpxUg/kacU6Hpfg0azdloV1ShPIomYP/0wkRdwS1+GvCUnfR7UWlTsoX0+QgprH6cn/QRpeKuk2wXjwbGtlaxX/+To4R5JAFfYN73+NgSgg4OoovafxMeLK2Z8WLnsECvppBwc8PkhT3afsfZPiJ7+yUgMYeBBOwR43Jd0Ed+0gUa7c8KalGnTQ8A7+2wbgS7RbN26U/PfuhJlhQ+MUOjj1uhpd0k3qXJU8iZxTL0CBBqRgxzZL4+9YOFP3aKmdmrZ2RO9fl0y8a9a7xEMK+ht2PygaNAYP/g+dUMUkuLAPuR1OYk4NayUAWb+RSl8Tc+O3oooPlnefsnHPLB9YET5NQMFTo8fOVuAGZ1HOJYrleCHHG+/xaB3uarC6Dy5XQntYRLjJGFoA55UmF2HDC0J5hwD5rLmCXjtYYU4N3JK1R0j4hpvc+Q6MVNHqWWuSUQ770CS1ayqDGgc6Qnuv57UrZVaduhgLR5JlckHwtw0L5zk9a2asEktM+GOg2vLRdJZcfUAUv2w3vsvs855kV904/CKSDP4CsZF2cfF0EEgq58Yxk9IJoFoNbdWDxHC3t2e4kJ379tpmGVvWrRaKIaeFqRgFlh4m3XpsaP7ZTkgJz1Sxw/bIjwW5ZuZG0pG+6pLlpdId/yEi4C9oIdRSBWTs6wINBnKbQfc1R+EOE7KK4AoWOUQ3G/MQ6edXuM4SN0jVhRXOvJO6CDDXEfWFvsX52NWIRiCtNAHj8gPdREtzWa721bjBzkzSsq6NHcIWMrFX1bcRTVPzNwSknn4aUErJvHNSXhRZyAIlXckyIWXd7p/g0sVshKBzUgN5NMgZpLTZusi7f+9Nc35X/nf6b8ULyDBkdrL+2sDv04fdRliFmYweB1OA1izr5BbAQwkcQSnfZmOzFMLWXlDCOxiTYxoAV7jgnjprye2kZJipzqBTcsb6owmzHqrE90BVAJsCMU0nkYKPbUcSxRRdVXSKQzKYkm1Jzyyu42fA4tjpar3xV11S9ZJnt08LXrEIU4Djrf88OX65qZ6ukiwBYumAmZN4JyXs/YweAZSnF4+8D2geqGq7BjudwnTj0lKtHfcNWvDld35Z8lKqcAHOtjqRx4Y4nv1nPzPNrFY7JwU/DTqVfyUGre1cHCOMQ2GqfrbH5ERgYTLV4CisnGistrK51gBfNHpDmr/GjHfONjepOkwECwyWS5SgxaymD+zfBHgPOSH0N5f5pyG0l2P5mAqXVmmt0hv976J+IeSMrebqqsxnuPC8D5gFTmkE2LyO7thz8iyiOW28/JHkMC7xScY9qZu/Mnp2a/fXisE6cXpff+F0escvnxrX9tXa3EyaW8vr4x6eHyFq8mxf8ChkT9TXhXif1YwMmVOYVyhsIYwXYyYvDAwrTABLMH4asaRBTTHzqml9Y5fAtNxlBqnI+ibSJyHLpB+8bwwqwIdS9BcHxbtIl6QEknOyXt5euFtCPOjWIJq95TkX2tIeKAKUJqbA2/J7zv3VgtQvsyBTlB2BXbfqL6Obb+YwyfpS1Sef0hAjAuwD4wdGaq9XT+lbYJEiiVR7tk9E83b68tZoZiMHr4+y/zoXytvz3jutGhp+LmBBG1fZGVjH7JBZSmAFia7A8o4qVB281kKVbQVA/Zo5wB/wzsMYUS3b7k/+sClDdcWY8t4zcYRyjLpX41FgBBKTzbwKwhj1WVBkPtf5d3x6ZIHdM+yitFHQeXyUWqVyGkjXqE6ioXH8j3a61+K49HJpie/ARGbsnB7i09AnfzJNUCTxjcnbrTdwQGcbaKNvZh3t+3tEVmka6EgYuIGhIkxcLN9SERpuZ9vWBQu6QWbCanHQhIuunFsbY5SZx1ecngatZQqOzUNCFSaXtwEyKzoMncktK2qMG0uK0LfFTrwFdjI3T8s1steCZdDgyopQuSuiOi6F6EPwjQBWWKmngtqENEdz3KNsKM6a/NCjYgG0aNQ73tI6yzyFfHGR5Mb5PuO2ciHkKNfXRM1kCRzTrQmgwU0RwjcIrpadyRj+27pguRNnVsKwmkJGwnYVqjG17NMSBFnjd+Ou+IF2Ox9YDR8dk8BJelK3SKY6V9ISCuHwSAOvmerghMIUks+ffl73jc1+B2uZKt/XIDzLx5CaNX5FwInSkur4qFVktkHAQB6BfbfFbvceZt+3Ivb8Pv745d+AwoG96xwmCU0iI37ouI1u9TKwWV8yJw5xKOE8UksXBKWWUMEwbfUx6nHBnOEdQOkub2FHSlwZTD0LcFOC1MDRICKN+zaQlTk7WNtrGKKZTgq9K2IP3XvZrEO4625co+60pXrqe9R86uHKCdF4iyizaqLNNfJN0VG/bvhNkbX8XawB4ApHUj2XOLUVRL/D+m2kE5CMicChyHVhtAIP75HBajjHoV59hfTObs0iDPfLmYsurLg02LGQpEU8WKRsd3DGiRy+NiPbiq+pNi0vvtDNtBuE+xjZ10BtHjzJsXmpEWgWkbgjRoXI+CZc8iNp1l2kvnS4k4suWEMiItdD6Q7GEjH5iuPDzH42zK5Iz07kBCI0PXR/oAVbnM6SIUala/merz4OpKDiboMSPXGLFJUEgGzgBYlB8ZbWzVgGZZads46i6cKTRJUY61aAYCArYOXfH9SEBhk7IbwbX3U22e6a/BMudtKLBfkEgA70vd/zJNlWrkfOjZBCXy7YPx7wkCQ4SXgikSVqyAepOcF+kB7t8Ct+gMySQ7T/lHcGPj6HEB5jdRjnes4mQZO0qb2J1CKu5RriG8xIQQUROE/ZRvbUGyLf4TeCkKmFVKjbhj7dbjHs/1Sl0uUrB+w1vaUUAwNjlrqTN+0jepx1okrXQ2ITXI4R+DAjA2ep+nQ1dkVY+gFMAaGZ50GOdqlJQ0Hm3IUFDzBFQPvzRO8bSM34Q4Mgeb6+XtlNFKKMWVfv+73pOkshp7zUOXfy7saTZW6ghp0dm172Ir1LasNWLYxCdYBtf5neUIO+OtzIgdrqpy/j/rihyct1jItDCIp+QJ/6d6f0r/0J0dpA1Ad+v+akRxIk1rOUtIH3IWpQvRYF1EXhAPDba6GD0Gz19hARy5ew3oPdbEzJfB/9SCkAxag0OvOTnUbcp2HLDf3MhwiNBi1lmOXRwzOJ4GqPoQrpkj217tbswd5tHJnXKiYrCOEmpsNrL+bj+N0mKMuFdiFsBpQeDNIusqSztY6Ucl7TPPdhgp2kdQOhAve+i5+SzF/G0tfT7HVJXEyvgJI/bFXdW18m8EmIobiZNWIwi4eNYmyB3+Jd6uXuC6rW3YJcCSwMTp9wxzArhljYDyAjFX0OdPLV8u/JGSmIeCGOdnCcL3CF9w6VVKyYIeyQLRQqhOFB7ZzZsbfzL1Q0nIk4CgJVWTKy/xEJy2BOyOwcLd8w7PKY+jlppEBxpyLlzFZmcez+YW7gjJIQqqsDs9OWai6j+R0ix9EysdIlOJeyEdt3Bl1/k7sRybr2A/unHirBYAI15388NpBJ86PTN8XZLAIAbxvDoMBkRhT0rDQwiACvSrU9hvR8JLQ44u42Sv3OGDQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+data+platform+partner+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">Microsoft data platform partner Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+BI+Microsoft+Fabric+analytics+consultants+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">Microsoft Power BI Microsoft Fabric analytics consultants Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+BI%22+%22Hobart%22+consultancy+OR+consultant&client=app-vertex-grounding&safesearch=active\">&quot;Power BI&quot; &quot;Hobart&quot; consultancy OR consultant</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Notitia%22+Hobart+data+analytics&client=app-vertex-grounding&safesearch=active\">&quot;Notitia&quot; Hobart data analytics</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Tasmania+IT+consultancy+%22Power+BI%22+%22Microsoft+Fabric%22&client=app-vertex-grounding&safesearch=active\">Tasmania IT consultancy &quot;Power BI&quot; &quot;Microsoft Fabric&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22data+warehouse%22+%22Hobart%22+consultancy+Microsoft&client=app-vertex-grounding&safesearch=active\">&quot;data warehouse&quot; &quot;Hobart&quot; consultancy Microsoft</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=data+analytics+consulting+Hobart+Power+BI+data+warehousing&client=app-vertex-grounding&safesearch=active\">data analytics consulting Hobart Power BI data warehousing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; Hobart Tasmania</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFevS9SYDM4xjfjgQ1lZaGK7eJFFIXsXI4rkxx36QgwfPZSjbcDs42qkcgatVZBDKQVlaFqFJjsvIoPzDQQJT75FeG0fqg4aK8WCxC92PA0ZebkO68gtKfHj83DC-0azpJWo3Hu-PJteg==",
+                "title": "tridant.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMD_sITgFhjhx98EWfDDQ32Fgc_luZmu6oTGqR_wpL6JO7gNSDly996wIQefsHUPn_nQ0OvaIZIeGk6D9_4AL684BeaDlpV9MNys4XCzNqPZ7A4ezUOUwI4I-2FQ==",
+                "title": "notitia.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBrvxjIVUrLnVBzJDD9kB3X7Vi2Vf8fWlzKcnCI0pECkWjhcePM3OGVB_Mn0nOCtxBcbwdUIucSog4m_t3v4bxzc--5g_jrFyfLEiaWALo1vQY79wLkEl6YXg6WLAcs7uBcCEELMGW9lcYLxRFjSZCvJlq3StElKSsGfzgm3Fh3cu60lsIq0sCHqHtNUYCRESR_4Bj607_5p-V_9xlUBzVmbGA",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFASNfNdJfpAEjov1iVvBm6n37j-WkS_DjHe-2THwf-_bHvZgUJa3_PL5yf6-M7R8jGz6XB1H9cZ-1alKlgF_pF9kTBUaghmKligUOqA4LBv_EFddXI24sL-_b1uwSQxVX0hZUH3M=",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErm38rrw2aGCsDZBeCYd4woNdwyMB9O3ui6I7snhONrU0jrpwBKFSPVemj2-z0ZeEZZpcRD8pnA3HpBTUnpCCjFfBc4YtsbzaJUzUx2oUZwm9O5VX3Kct3DrRIA3tgB_XHluRNTno=",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0KTjil1gK9qhuTg3d39P09aF7srirXRKlwEbBvmKUz2UdWod4hY-lBsml0qqtDQOvsDuDrKrsnzM5nznr9ljZtO7YHWNG1axFLApwwiryFc39jSov5lRM",
+                "title": "notitia.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfby-4keOC0lIe60WYzrNA7T_YPniIlUkWMR-4IPkSmOL8AAfn2zK-ASRNY_jKrBWBcqvUFI6QSirLlY2hv5HLvLAUZQ26aFfgelFNl8zP0ZVbu-n-WwNx",
+                "title": "builtin.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWYzmO19SrQUHR8cJlMLVHK8xGi4WMLZRKA3ut2yasvK90P97RolKxc4u5n63snRygT3qfBjkG54flwjRkupJolWWz1iBinMDcOJjt3xzcdlnbr4nBxRenCeME6GlOUVmc186WYwVmAN344Ev3ArmqPLhDONrEVdkzZzHLVEI9CvVw",
+                "title": "localsearch.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMsQM0OoE9Vp2WrQRHj4LfqjHfIbwPj2xeHoXddfhXiIXw6IwoGs7Amx7vCfE_zj_2rCznj_UFV1V_62rjoc2Oos-cZClPt3qqHerX8aF3GHlChbca2IbExWjfYJT8vQ==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdXeQCYqE1ip6FmuUmR8IxfwFFaRjm95TrSO9e9iCy9C7W-lrH5S_uDLxQ0EXN5HemAU0lGDpgCtKDDivcFCfvMoAGcxKbCzZuYAx5ASSportwmBlNyTZhJb5SJF9WkZuknPcHNTUdRQNuw-Pe_vC9",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnkXOTyTTZTTvo4kt-K5IceLWjZjBYI7lqyGX5YqukTRJVKT6RzSdF-ITyvxS5nMhNOj-nUNoZy0n6t3t-Vddbo2IJflAAFdhaFuE6wvVnIWzi8prg5W4uulsQ5JZgMu5a-2A75tE3gHR27DLniEMjBCaUKwRpfVqXq5Kh0NnRI5P2iQ_qtCBg8rlWnXaX6qUFzXTUwhXQVVFsyeFh5hlPqZQGXcUS6jrXUCBfiAouoTlX9-ZbMn0Oi09KRV4WlsNqHUqJFAVi4sXxW_oEo-zw",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMHUJwbctcIk6MLGcg_2YoPg4LSVGIwyS3_M0N_-XBtKnjDrwIkXqaZdkkRnrmmwZ1A2bSpj_8yVEE2lxpHK6fB6f8RuH4C4tNpwxIG2_7ob8vgVVa5cxEJFT73GId_rXgvenvmYiwwmzivvVSVMa5Jg==",
+                "title": "mspcompanies.us"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaQs1efM7Ksci4yPloWA0nYG6C6PD0V1WD0-uUaLaxZOIf-dHSeeLEGcd_3bL5x7vayA4ZcjnU7pKiISE9OVbY3ULIhji3L-ewz8WLApU2EWlN1S-97Up7jUvTVHvShz9Zud9Ub06Zx111Hf0=",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2gPsmpAebrQdp98oWFE1rDVgVajmPqJq8BZ0DdtFbERt35I6AJvV_yj3tTpkbyaJQzuP0a6Bt7FpH5h1olWD17FN69XHakjuTh9l4ZgJ-l8ymKRPYUGuAQ0FmF4HgpgTC1uNyAp_5YEenBQ==",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMM4o70Kmi5XK9PWDbQ9zIEskO83QLFumr4mvW27hNk4IIlbOEpblZ9X0TUPKkRDg33JA8Xgv_FgFRFNiwqahT2q0HhHBCl1VKSvh_DL6uQfb6eELeYyARxHQtvumcbdmItxFLscc2My0jAtvgrA==",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtaA-SM0_s_H7mxYs_1Byuc2sJ38NTkns9wC-GORqHwptWAnpqd99-KWJbMVaQpuzuOKMl_2W23aE16dErNaCAwR_x-Z4ZB7nf_74d831pzpoAaq_1HYSf5p8v7lSxyckI92VIZ-lYXQH_xetjNqgQw42B30SONNVizRYS_rr7MXseJGNX89q4VFxE2xGSxA==",
+                "title": "sqlmastersconsulting.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZ3tNdycpyZbbiJC87Zcz7QIOZOAaQuVV7OZcPtja-NFqqJP-LQc7rGmVfWZ-89ymhOcBl96v1x8jBcj_4py6L_WaEcsnTAHZSIVWrj_5HH3RcFJHS6W5GETDmYdS_pUyfPYDqzAQ",
+                "title": "qmetrix.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtAoACxUc21xDdCeMltuIOOMMPIWdK-2N4hondk1iyVAN_QTT4Fv4TJZekSjD1voch_fnnZSNUWHpp0UKOP3OKkhLdanHO-o9PzG7CTd7Pt2LbIjmrSsFscGWdXZ3iHyN8B4yquj_GFWp3a6Zp7wqJJ-p8iFk7LGXTLDpi1mN69FcpU962GOxnlRP8y362iUw=",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrzjMSwrzYc0J_hX45pvVixk9aZT9-Kri-PaURXw_qnGH_i9S74wlD4_gPJwktjf2JTrUmf27W9jnyfnM0-zr_ZwOsaaVhm-Hx0QQcSWDh76CET1Lljzlg-pyzKMTHZPC2jHrnYFpWmuRc2m-4OJZe5bw3aKA7heoNpjyqZvA5",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHATK4K8nKvuiXnsmC9zCvKTy6dZXvOjIOFv_Sn3Sdjpw42v3nyPeVjcQ6BYALN91rXcke3zufBXivXRoJ3H23C9qv_k3VGYNkpUhvKC9Nb1bL2zm6p4V7yjyKpwy9JlrYoqvnIn4f",
+                "title": "notitia.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXHl1a4Lz5QBDEO4GsALx9iqxsagMfeMBYPbZwfe051qBLEqr4zd9DiYoTiq3e_8x8uQICCbWeOX64nudk9bd4GaoSG3JQSojZngxqAmlKjCxbdgVqYSi96tbk5NJUnYSP4xGO7_zuPBAl7GplBESjdfH5",
+                "title": "datamust.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-rScN1xf_hGMwd_iyOEAY3DDIpwe47riw58quuEdBI5UIVg6R_af-x1wyPm2-RjcTaeNb9zx-27VU5gwKV9OD43SPv_IstUr6HlS3ZW6NLaKpMg7jc59bna60urysSuqo5NLU-5xSH00=",
+                "title": "digitaledify.ai"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 386,
+                "endIndex": 397,
+                "text": "**Notitia**"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 406,
+                "endIndex": 452,
+                "text": "**Hobart Presence:** Physical office in Hobart"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 406,
+                "endIndex": 553,
+                "text": "**Hobart Presence:** Physical office in Hobart (expanded through a strategic partnership with long-time local Hobart advisory Rod Jager Consulting)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 563,
+                "endIndex": 707,
+                "text": "**Focus Areas:** Data warehousing, lakehouse implementation, data strategy, and end-to-end Microsoft platform delivery (Power BI, Azure, Fabric)"
+              },
+              "groundingChunkIndices": [
+                3,
+                4,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 717,
+                "endIndex": 827,
+                "text": "**Strengths:** Strong footprint across Tasmanian government, healthcare, utilities, and commercial enterprises"
+              },
+              "groundingChunkIndices": [
+                2,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 829,
+                "endIndex": 924,
+                "text": "They excel at bridging data governance, UX/UI dashboard design, and enterprise data warehousing"
+              },
+              "groundingChunkIndices": [
+                6,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 930,
+                "endIndex": 940,
+                "text": "**Data#3**"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 949,
+                "endIndex": 1015,
+                "text": "**Hobart Presence:** Local branch located on Murray Street, Hobart"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1025,
+                "endIndex": 1146,
+                "text": "**Focus Areas:** Enterprise-grade cloud architecture, Microsoft Fabric, Azure Data Services, and Power BI implementations"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1156,
+                "endIndex": 1238,
+                "text": "**Strengths:** One of Australia’s largest and most accredited Microsoft Partners"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1240,
+                "endIndex": 1424,
+                "text": "Ideal for larger Tasmanian organisations (such as state departments, education institutions, and utilities) that need certified architecture, procurement, and ongoing managed analytics"
+              },
+              "groundingChunkIndices": [
+                7,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1430,
+                "endIndex": 1449,
+                "text": "**Element Digital**"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1458,
+                "endIndex": 1506,
+                "text": "**Hobart Presence:** Hobart-based IT consultancy"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1516,
+                "endIndex": 1623,
+                "text": "**Focus Areas:** Azure infrastructure, cloud platforms, security (Essential Eight), and systems integration"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1633,
+                "endIndex": 1828,
+                "text": "**Strengths:** A reliable partner for small-to-mid-market businesses seeking foundational cloud connectivity, identity/governance, and data pipeline setup to feed Microsoft reporting environments"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1919,
+                "endIndex": 1932,
+                "text": "**Roar Data**"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1941,
+                "endIndex": 2077,
+                "text": "**Profile:** An Australian analytics boutique that offers fixed-scope engagements specifically built around Hobart's operational context"
+              },
+              "groundingChunkIndices": [
+                12,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2087,
+                "endIndex": 2170,
+                "text": "**Focus Areas:** Power BI modeling, automated KPI suites, and operational reporting"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2180,
+                "endIndex": 2422,
+                "text": "**Strengths:** Deep experience in solving spreadsheet sprawl for key Tasmanian industries, such as aquaculture (unifying production, environmental, and site data), hospitality/tourism (food and labor cost reporting), and public administration"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2428,
+                "endIndex": 2454,
+                "text": "**SQL Masters Consulting**"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2463,
+                "endIndex": 2563,
+                "text": "**Profile:** Dedicated Microsoft Data Platform and Fabric specialists servicing the Tasmanian market"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2573,
+                "endIndex": 2751,
+                "text": "**Focus Areas:** Microsoft Fabric \"Kick Start\" implementations, Lakehouse & Data Warehouse engineering, Data Factory pipelines, and performance-tuned semantic models for Power BI"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2761,
+                "endIndex": 2907,
+                "text": "**Strengths:** Deep database and data warehousing technical roots, making them suitable if migrating from legacy SQL Server environments to Fabric"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3419,
+                "endIndex": 3515,
+                "text": "**Antares Solutions / QMetrix / Tridant:** Accredited Microsoft Solutions Partners for Data & AI"
+              },
+              "groundingChunkIndices": [
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3517,
+                "endIndex": 3666,
+                "text": "They specialize in modernizing legacy reporting environments into unified Fabric lakehouses/warehouses and designing operational executive dashboards"
+              },
+              "groundingChunkIndices": [
+                18,
+                16,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3835,
+                "endIndex": 3848,
+                "text": "**Roar Data**"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3835,
+                "endIndex": 3863,
+                "text": "**Roar Data** or **Notitia**"
+              },
+              "groundingChunkIndices": [
+                19
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3835,
+                "endIndex": 3980,
+                "text": "**Roar Data** or **Notitia** — fast time-to-value, direct consultant engagement, and quick resolution of spreadsheet/reconciliation bottlenecks"
+              },
+              "groundingChunkIndices": [
+                18,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4079,
+                "endIndex": 4090,
+                "text": "**Notitia**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4079,
+                "endIndex": 4120,
+                "text": "**Notitia** or **SQL Masters Consulting**"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4079,
+                "endIndex": 4265,
+                "text": "**Notitia** or **SQL Masters Consulting** — deep hands-on expertise in setting up Medallion architecture (Bronze/Silver/Gold), Synapse/Fabric pipelines, and Direct Lake semantic models"
+              },
+              "groundingChunkIndices": [
+                20,
+                15,
+                21
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4341,
+                "endIndex": 4351,
+                "text": "**Data#3**"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft data platform partner Hobart Tasmania",
+            "Microsoft Power BI Microsoft Fabric analytics consultants Hobart Tasmania",
+            "\"Power BI\" \"Hobart\" consultancy OR consultant",
+            "\"Notitia\" Hobart data analytics",
+            "Tasmania IT consultancy \"Power BI\" \"Microsoft Fabric\"",
+            "\"data warehouse\" \"Hobart\" consultancy Microsoft",
+            "data analytics consulting Hobart Power BI data warehousing",
+            "\"Data#3\" Hobart Tasmania"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 725,
+      "candidatesTokenCount": 1241,
+      "totalTokenCount": 3211,
+      "cachedContentTokenCount": 514,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 725
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 514
+        }
+      ],
+      "thoughtsTokenCount": 1245,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "ecfiav6qNY-D694P8eG5gQU"
+  }
+}

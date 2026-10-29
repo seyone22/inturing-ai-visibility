@@ -1,0 +1,326 @@
+{
+  "slug": "perth",
+  "pk": "workflow_automation",
+  "plat": "claude",
+  "text": "Which consultancies in Perth are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__workflow_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:52.265Z",
+  "cost": 0.062587,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10304,
+      "output_tokens": 1405,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061987,
+      "datetime": "2026-10-29 04:06:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here's a rundown of some of the best consultancies in Perth for business workflow automation and Microsoft Power Automate implementation:\n\n---\n\n### 1. 🏢 **Austin Technology**\n📍 Level 2, 541 Hay Street, Subiaco WA 6008 | ☎ 1300 787 429\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Austin Technology specialises in business process automation in Perth using Power Automate and AI agents, secured on Microsoft 365. They focus on finding the manual work that eats into your team's week and automating it.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Power Automate flows across Outlook, Teams, SharePoint and business apps — from simple notifications to multi-step approvals.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A technical consultant will scope your processes and send a shortlist ranked by hours saved, along with a fixed quote for each.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They operate onsite across the Perth metro area and provide remote support across regional WA and Australia.",
+              "annotations": [
+                {
+                  "title": "AI and Automation Consultant Perth",
+                  "url": "https://austintechnology.com.au/ai-automation-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏢 **Vibe0**\n📍 Perth-based, working Australia-wide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Vibe0 offers Power Automate consulting for Australian businesses running Microsoft 365 that need approval workflows, SharePoint routing, and system integrations built and maintained.",
+              "annotations": [
+                {
+                  "title": "Power Automate Consultant Perth & Australia",
+                  "url": "https://www.vibe0.com.au/services/power-automate-consultant",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They design, build and maintain Power Automate flows including approval workflows, SharePoint routing, Teams notifications, scheduled reports and system-to-system connectors.",
+              "annotations": [
+                {
+                  "title": "Power Automate Consultant Perth & Australia",
+                  "url": "https://www.vibe0.com.au/services/power-automate-consultant",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are also transparent about when Power Automate might not be the right tool, offering comparisons with alternatives like n8n and Zapier for businesses that need to run automations outside the Microsoft 365 ecosystem.",
+              "annotations": [
+                {
+                  "title": "Power Automate Consultant Perth & Australia",
+                  "url": "https://www.vibe0.com.au/services/power-automate-consultant",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏢 **OfficePro Consulting**\n📍 Perth & Australia-wide (mostly remote, on-site when required)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting builds workflow automation for Australian businesses, replacing approvals, data entry and repetitive tasks with automated systems. They work across Power Automate, Azure Logic Apps, and custom code (Python, .NET, PowerShell), matching the right platform to your process.",
+              "annotations": [
+                {
+                  "title": "Business Automation Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They use Power Automate to build approval workflows, invoice processing, and data sync between Outlook, SharePoint, Teams, Dynamics 365 and third-party systems like Xero and MYOB.",
+              "annotations": [
+                {
+                  "title": "Business Automation Australia",
+                  "url": "https://officeproconsulting.com.au/services/business-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have automated 1,000+ workflows for Australian businesses.",
+              "annotations": [
+                {
+                  "title": "Business Automation and AI Consulting",
+                  "url": "https://officeproconsulting.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For Perth clients specifically, they deliver Microsoft 365 automation, Power Platform solutions and API integrations, with a defined scope, clean implementation and ongoing support after launch.",
+              "annotations": [
+                {
+                  "title": "Automation and Integrations Perth",
+                  "url": "https://officeproconsulting.com.au/service-area/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏢 **Office Experts Group**\n📍 Perth, WA | ☎ Available via website\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Office Experts Group has been in the industry since 2000 and covers the full Microsoft ecosystem — Excel automation, Word template development, Access databases, Power Platform solutions and more — developing fully integrated solutions that bring all operations into one cohesive unit.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Power Platform solutions include Power Apps, Power Automate and Power BI, building automated approval workflows, mobile-ready data collection apps for field teams, and live dashboards — particularly useful for organisations managing remote sites or FIFO operations.",
+              "annotations": [
+                {
+                  "title": "Microsoft Consultants Perth",
+                  "url": "https://www.officeexperts.com.au/microsoft-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏢 **Power Platform Experts Perth**\n📍 Perth, WA | ☎ 1300 122 038\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Described as Perth's leading Power Platform consultants, they have 25+ years of experience helping businesses streamline operations with Power BI, Power Apps, Power Pages, and Power Automate solutions.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their local team of Microsoft-certified specialists offer expertise in Power Automate workflows, Power Apps creation, Power BI data visualisation, and Power Pages deployment.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are renowned for business process optimisation, responsive technical support, innovative low-code solutions, customised training workshops, and comprehensive implementation services.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Consultancy:\n- **For SMBs on Microsoft 365** – Austin Technology or Vibe0 are strong choices for focused, practical Power Automate implementations.\n- **For complex, multi-system integrations** – OfficePro Consulting's breadth across Power Automate, Azure Logic Apps, and custom code makes them well-suited.\n- **For resource/mining/FIFO industries** – Office Experts Group has specific experience with WA's resource sector.\n- **For full Power Platform projects** (Power Apps + Automate + BI) – Power Platform Experts Perth is a dedicated specialist.\n\nWould you like more detail on any of these consultancies or help comparing them for your specific use case?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best consultancies Perth business workflow automation Microsoft Power Automate",
+        "Microsoft Power Automate implementation partners Perth Australia"
+      ]
+    }
+  ]
+}

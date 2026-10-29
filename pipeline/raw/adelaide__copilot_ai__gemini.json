@@ -1,0 +1,442 @@
+{
+  "slug": "adelaide",
+  "pk": "copilot_ai",
+  "plat": "gemini",
+  "text": "Which AI automation consultants in Adelaide specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__copilot_ai__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:49.061Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Several consulting firms operating in and around Adelaide specialise in the Microsoft ecosystem, specifically focusing on **Microsoft Copilot Studio**, **AI agent development**, and **practical workflow automation** tailored for mid-market organisations (50–500 seats). \n\n---\n\n### 1. Dedicated Local Specialists & Boutique AI Consultancies\n\n* **Frontrow Technology**  \n  * **Adelaide Presence:** Locally based; led by Daniel Brown (a multi-year Microsoft MVP and organiser of the Adelaide Microsoft 365 & Copilot User Group).\n  * **Specialisation:** Purpose-built **Copilot Studio agents** and agentic AI architectures. They focus on practical agent development grounded in proprietary line-of-business data, Microsoft 365 Copilot adoption, and critical security/governance (SharePoint permissions, Microsoft Purview data loss prevention, and agent review controls).\n  * **Mid-Market Fit:** Well-suited for businesses wanting hands-on architecture directly from senior specialists rather than cookie-cutter slide decks.\n\n* **Core IT Solutions**  \n  * **Adelaide Presence:** Based in Adelaide.\n  * **Specialisation:** Practical AI workflow automation, Microsoft Copilot deployments, and custom internal assistants. They bridge the gap between process mapping and technical delivery using Power Automate, Microsoft 365, and AI agents for document parsing, reporting, and operational handoffs.\n  * **Mid-Market Fit:** Focuses heavily on Adelaide SMBs and mid-tier companies seeking rapid-return workflow automation without over-engineering.\n\n* **Atria Systems**  \n  * **Adelaide Presence:** Local South Australian team (King William Rd / Adelaide metro).\n  * **Specialisation:** Targeted **Copilot Studio agents** designed for specific operational roles (e.g., triage of policy/procedure requests, quoting assistance, customer service workflows, and approval routing).\n  * **Mid-Market Fit:** Specialises in mid-sized firms looking for defined, practical use cases with strong permission and data-boundary validation.\n\n* **CG TECH**  \n  * **Adelaide Focus:** Actively delivers AI agent and Microsoft modern work projects across Adelaide and South Australia.\n  * **Specialisation:** Dedicated mid-market segment (typically 50–500 staff). They design custom Copilot Studio agents, build complex Power Automate backbones, and resolve unstructured data issues in SharePoint and Dataverse.\n  * **Mid-Market Fit:** Proven track record in South Australia across aged care, community services, logistics, and professional services.\n\n---\n\n### 2. Low-Code & Practical Automation Practices\n\n* **Office Experts Group (Adelaide)**  \n  * **Focus:** Deep hands-on development across the entire Microsoft stack. They build task-specific Copilot Studio agents (e.g., shared inbox triage, vendor document extraction, HR process guidance) and tightly pair them with Power Automate, Power Apps, and Microsoft 365 apps.\n  * **Best For:** Mid-market businesses running legacy spreadsheet or manual email workflows who want them replaced by native Microsoft automation.\n\n* **Evocate**  \n  * **Focus:** Process automation, Microsoft Cloud, and Copilot Studio implementation across South Australia (government, utilities, non-profits, and mid-market commercial).\n  * **Best For:** Organizations needing integrated workflow automation alongside ongoing governance and managed operations.\n\n---\n\n### 3. Larger Tier-1 Partners with Adelaide Delivery\n\nIf your mid-market business is expanding or requires deep enterprise-grade compliance, larger consultancies with dedicated Adelaide branches include:\n\n* **Data#3 (Adelaide Branch):** One of Australia’s premier Microsoft Solutions Partners with a significant presence on Grenfell St. Strong for end-to-end Copilot readiness, enterprise Power Platform Center of Excellence (CoE), and multi-system integrations.\n* **Brennan (incorporating Adelaide’s Nuago):** Provides full-stack Microsoft modern workplace capabilities, including Power Platform and Copilot enablement.\n\n---\n\n### What to Ask When Evaluating These Providers:\n\n1. **Data Security & \"Oversharing\":** Mid-market businesses often have lax SharePoint permissions. Ensure the consultant conducts a **Microsoft Purview & data permission readiness assessment** before deploying agents, so staff don't inadvertently surface sensitive payroll or HR records via Copilot.\n2. **Copilot Studio vs. Azure AI Foundry:** Make sure they help you identify when a low-code Copilot Studio agent is appropriate versus when a process requires deterministic Power Automate flows or a custom Azure OpenAI agent.\n3. **Connector Architecture:** Ask which systems the agent will trigger (e.g., Business Central, CRM, Salesforce, ERP). Practical automation comes from an agent's ability to execute *actions* (Power Automate cloud flows), not just answer conversational questions.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Platform%22+%22Copilot+Studio%22+Adelaide+consultancy+mid+market&client=app-vertex-grounding&safesearch=active\">&quot;Power Platform&quot; &quot;Copilot Studio&quot; Adelaide consultancy mid market</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+AI+agents+Copilot+Studio+consulting+Adelaide+South+Australia&client=app-vertex-grounding&safesearch=active\">Microsoft AI agents Copilot Studio consulting Adelaide South Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Nuago+Adelaide+Microsoft+Copilot+Studio+automation&client=app-vertex-grounding&safesearch=active\">Nuago Adelaide Microsoft Copilot Studio automation</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Copilot+Studio%22+Adelaide+consultants+mid-market&client=app-vertex-grounding&safesearch=active\">&quot;Copilot Studio&quot; Adelaide consultants mid-market</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Copilot+Studio+Adelaide+AI+automation+consultants&client=app-vertex-grounding&safesearch=active\">Microsoft Copilot Studio Adelaide AI automation consultants</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=AI+workflow+automation+Adelaide+Microsoft+partner+mid+market&client=app-vertex-grounding&safesearch=active\">AI workflow automation Adelaide Microsoft partner mid market</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQQTmPT3N4_9JNu2OcYU_Nj01AV9qAQ-6FtdFHVkfc_83AoTAMTTC7YvhhUF87cGPt7AFz3xwBy4MqgU_s6P9XQIJfLsp5lMsM_WknGa4vGGnAZ1WuY9aEbQ8miOmSaC9MlQ==",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPGpBGcYHdDcekL26E74DCDYhIJBogaHX1jyrTXRraJhgJugc4RAN_uD8jK7MFRVrVF7GuQtqx9cKBNSe_KJsm4lDlrkAlmr6zS7tdLOOlBbpaLHzUoEAjxwReGTy_UEm3-EUyDMDi",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKM6mEj9BuUTkICzSkGwMHbv2ZI1fWPuF4_3e2qYfY9N9cp2qzCTv6CV1uHZ8JJSRnbjFiT-RccW0T1jMJhwvEyPUZRpzZNfbBhQHN7YDykJ3UP_EOCQ1HMFBSNSJzZsGFdt9teu13GZxmrzUUx9sEf4ov_divyUh2Exe3757g0KXPr81UCEARXZgZ7OLjZwGREA==",
+                "title": "frontrowtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjwAAdWC_NMi5Hr8WgE63Y7qNw9P9gLMSQ7_M_8SFXqS69BiX6p4GEuImzxHqFy2xN4G-bG1xNMFcdDwl8RKUeT2ipWOh3bd2H2Yh2NuOC4IXidhBGNGUs91L1",
+                "title": "coreit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEDBwJ9XnIo0Am-Ki5DLBCVElnFWW0eAy7h9AcsYsr61dykxMmZBrDlJDw8K4GHVHdJ8ftEnZVU_edo0kpI6vgkfwHjILXdL53jLWsaJNkEeW5m3p2Eea4nQf7L_cuQg==",
+                "title": "atriasystems.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-NZYu0qC5RtreAGxQ-IihdoGmZ5uedqpya9IWVca480p7i8wxqEtYvdyHwjUJS6NBkFHvczier8vobUM_uUaP03LcIt9Zy66OWhkt0AeAdRp42lv8rH-gOlcGOpEpPA==",
+                "title": "cgtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-NZYu0qC5RtreAGxQ-IihdoGmZ5uedqpya9IWVca480p7i8wxqEtYvdyHwjUJS6NBkFHvczier8vobUM_uUaP03LcIt9Zy66OWhkt0AeAdRp42lv8rH-gOlcGOpEpPA==",
+                "title": "cgtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0wV2ba2HGlhH9xTMfboeOzApRV50vlZsJQYNHjsn-5WLJAZSQPAvmGlfEOqAYxnFYxqhYMkI-JpMQPMGsSh_b3piFvZf7kjVuK7qM",
+                "title": "cgtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9zqE5NxYeLRW9WLmgsKUiZFqAhrvdwC0ICwZUbuvPE_49VMTpc4GVaGxjk-LIOm1vaWMQzlA1sNa0Fk8zkbQAeNeHy_yV9eND9Bc-vmhlv-04iKxbx6XY4kSmmyLhTLmRlFGNMQ==",
+                "title": "synenza.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIqF0swD5ZwNq47f5S4tLxJMZy-KRsyfu0WOfqWSinztjCmfcnJ--0rvRR8p5PT372U7lSZ8Xk-Gof0Eqmbc8f7Vfg5nzzbKzX7vpiVVtC4x-6ZMqgGdxLiEfIm41t6Tx8bL8=",
+                "title": "cgtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbU1WPNQHiEI2ODQ8eR5BTWJyrf8AoyPBx4ZgIIFjygp4TnmjzOUMLq0RKunKl0csK4zY0waO1K880Fe06v53RfUsUrtmk_98CmrX8Vj4KdL1oo-fZQPhBBRQ43wDimA==",
+                "title": "cgtech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHigugN19iWn6szCEi3dZE2Qv4O3aEEeLX3PcL5TfEWy2FozwLn46J1uFBptjhEepYpu-8tbLgGFICD8z7iMOx_5FUmqUUNOn4wp_0GWUNGeeQftksGqPTxG3Obp4BhVTpTHO6H2VyAICLBXed-fEhMRkfzAo=",
+                "title": "officeexperts.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfP84ArzWEjptKRrIUTvczne2lrVuuSNnBhLnoSTmqk04SDTGzyRONldWrNxKiHAlQ5XxZJQuQNiIx4NmcYUFwjGHb_A7PIntInXAyxCLOguRUKdryeyQ3feseN3IX-vmuC2NB",
+                "title": "evocate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvZKR5P8cs84df_6FlyK6jF14JGsOx1EyXIutx4T-extZnYv0EJT4rEYabUwbQVDTxt2acstgH8Rh7zNP3gVE2x9IOYNyv29370rHAqsXiXrl1tu1NOsq8Mg==",
+                "title": "brennanit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeYi_8fuKpFqb4VkSXtYClBRYSt31glOCpi5OmLvyx57BeowZdZxuZpuINcXH3NbMRcRbHturZI_BMcTvF2GBpxhlMsT5KoyWBu906zpx3N9MHxdR0Jt65ThZ5O5lOez1DZLO8xGkPvktAHh52jM1oCjD4tUcuWEeA2hs6c7NzS4A1UNh_jiBpEA==",
+                "title": "agentyis.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJuFsEHXXPelMrTH6ApwhskIOStitQEIHQzV6fkFM_TwaGoxdtYCwGi3lbtPzZrvw6JvIHEnuNXI0yRHULeUZlStVCx7dzkoLJBEB_joSIX3UVjXkKoHQRGqTE_Izc1hq2Jd0_ZnNFO3B_yT5WwGGCzJeWv-GjAaaq4pgh9ZTb3d4L7MM2",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2rW6jiGPUgmqkYIWH-WMXBjL_NbsPgQS23SxUOvCcmwLC5r7cNaIA9eKKInMxLguxoHo32UxR5ykwMT0yF57NthTUayndqk8aweNb6HfpSOoIiw==",
+                "title": "sunrisetechs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1mQoxgSi6CSoTv2Z9mHy4X0eYXHeUztMZNgjqbfHVfGUl_t31RkliMMoZM4wQTdFcXjYrDxyAeEmGVCu7iNiHc-FFOLX9TCDVygPnn7mcs9-AOtJ6eqdsA6hayjlE-C2SCZNgEKxkr4frxNOz8H5LBlRhSOTduZsnFUpafPC-rzb",
+                "title": "mycelium365.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5lrjGxTqzRBOvacpaxxLx6567QsrwuYaRDC-AXJ6E9x5dWZipZryQHASr7D4YOBsZoW_7wzr00s-6R-nccdvrTSj3jJscgza4pDiqpyoTTlBlEuqJATc6CeRu3JEDzZw_x-uDTKyR-kaFUJdIoJ1-IDA=",
+                "title": "officeproconsulting.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 375,
+                "endIndex": 526,
+                "text": "**Adelaide Presence:** Locally based; led by Daniel Brown (a multi-year Microsoft MVP and organiser of the Adelaide Microsoft 365 & Copilot User Group)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 532,
+                "endIndex": 620,
+                "text": "**Specialisation:** Purpose-built **Copilot Studio agents** and agentic AI architectures"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 622,
+                "endIndex": 867,
+                "text": "They focus on practical agent development grounded in proprietary line-of-business data, Microsoft 365 Copilot adoption, and critical security/governance (SharePoint permissions, Microsoft Purview data loss prevention, and agent review controls)"
+              },
+              "groundingChunkIndices": [
+                0,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 873,
+                "endIndex": 1020,
+                "text": "**Mid-Market Fit:** Well-suited for businesses wanting hands-on architecture directly from senior specialists rather than cookie-cutter slide decks"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1053,
+                "endIndex": 1093,
+                "text": "**Adelaide Presence:** Based in Adelaide"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1099,
+                "endIndex": 1214,
+                "text": "**Specialisation:** Practical AI workflow automation, Microsoft Copilot deployments, and custom internal assistants"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1216,
+                "endIndex": 1391,
+                "text": "They bridge the gap between process mapping and technical delivery using Power Automate, Microsoft 365, and AI agents for document parsing, reporting, and operational handoffs"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1397,
+                "endIndex": 1538,
+                "text": "**Mid-Market Fit:** Focuses heavily on Adelaide SMBs and mid-tier companies seeking rapid-return workflow automation without over-engineering"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1567,
+                "endIndex": 1652,
+                "text": "**Adelaide Presence:** Local South Australian team (King William Rd / Adelaide metro)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1658,
+                "endIndex": 1866,
+                "text": "**Specialisation:** Targeted **Copilot Studio agents** designed for specific operational roles (e.g., triage of policy/procedure requests, quoting assistance, customer service workflows, and approval routing)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1872,
+                "endIndex": 2015,
+                "text": "**Mid-Market Fit:** Specialises in mid-sized firms looking for defined, practical use cases with strong permission and data-boundary validation"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2038,
+                "endIndex": 2155,
+                "text": "**Adelaide Focus:** Actively delivers AI agent and Microsoft modern work projects across Adelaide and South Australia"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2161,
+                "endIndex": 2236,
+                "text": "**Specialisation:** Dedicated mid-market segment (typically 50–500 staff)"
+              },
+              "groundingChunkIndices": [
+                5,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2238,
+                "endIndex": 2384,
+                "text": "They design custom Copilot Studio agents, build complex Power Automate backbones, and resolve unstructured data issues in SharePoint and Dataverse"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2390,
+                "endIndex": 2523,
+                "text": "**Mid-Market Fit:** Proven track record in South Australia across aged care, community services, logistics, and professional services"
+              },
+              "groundingChunkIndices": [
+                6,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2625,
+                "endIndex": 2695,
+                "text": "**Focus:** Deep hands-on development across the entire Microsoft stack"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2697,
+                "endIndex": 2898,
+                "text": "They build task-specific Copilot Studio agents (e.g., shared inbox triage, vendor document extraction, HR process guidance) and tightly pair them with Power Automate, Power Apps, and Microsoft 365 apps"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2904,
+                "endIndex": 3046,
+                "text": "**Best For:** Mid-market businesses running legacy spreadsheet or manual email workflows who want them replaced by native Microsoft automation"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3069,
+                "endIndex": 3237,
+                "text": "**Focus:** Process automation, Microsoft Cloud, and Copilot Studio implementation across South Australia (government, utilities, non-profits, and mid-market commercial)"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3243,
+                "endIndex": 3361,
+                "text": "**Best For:** Organizations needing integrated workflow automation alongside ongoing governance and managed operations"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3836,
+                "endIndex": 3992,
+                "text": "**Brennan (incorporating Adelaide’s Nuago):** Provides full-stack Microsoft modern workplace capabilities, including Power Platform and Copilot enablement"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4149,
+                "endIndex": 4348,
+                "text": "Ensure the consultant conducts a **Microsoft Purview & data permission readiness assessment** before deploying agents, so staff don't inadvertently surface sensitive payroll or HR records via Copilot"
+              },
+              "groundingChunkIndices": [
+                0,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4374,
+                "endIndex": 4575,
+                "text": "Azure AI Foundry:** Make sure they help you identify when a low-code Copilot Studio agent is appropriate versus when a process requires deterministic Power Automate flows or a custom Azure OpenAI agent"
+              },
+              "groundingChunkIndices": [
+                8,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4580,
+                "endIndex": 4695,
+                "text": "**Connector Architecture:** Ask which systems the agent will trigger (e.g., Business Central, CRM, Salesforce, ERP)"
+              },
+              "groundingChunkIndices": [
+                15,
+                16,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4697,
+                "endIndex": 4839,
+                "text": "Practical automation comes from an agent's ability to execute *actions* (Power Automate cloud flows), not just answer conversational questions"
+              },
+              "groundingChunkIndices": [
+                18,
+                17
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Power Platform\" \"Copilot Studio\" Adelaide consultancy mid market",
+            "Microsoft AI agents Copilot Studio consulting Adelaide South Australia",
+            "Nuago Adelaide Microsoft Copilot Studio automation",
+            "\"Copilot Studio\" Adelaide consultants mid-market",
+            "Microsoft Copilot Studio Adelaide AI automation consultants",
+            "AI workflow automation Adelaide Microsoft partner mid market"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 584,
+      "candidatesTokenCount": 1245,
+      "totalTokenCount": 3073,
+      "cachedContentTokenCount": 184,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 584
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 184
+        }
+      ],
+      "thoughtsTokenCount": 1244,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "r8biaufWNZmx694P1uCFmAo"
+  }
+}

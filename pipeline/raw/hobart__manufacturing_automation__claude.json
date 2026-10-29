@@ -1,0 +1,182 @@
+{
+  "slug": "hobart",
+  "pk": "manufacturing_automation",
+  "plat": "claude",
+  "text": "We are a manufacturer in Hobart looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__manufacturing_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:33.916Z",
+  "cost": 0.058531,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9942,
+      "output_tokens": 1207,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.057931,
+      "datetime": "2026-10-29 04:11:28 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Automating order processing, shop-floor data capture, and operations **without replacing your ERP** is a very achievable goal using tools like Microsoft Power Platform (Power Automate, Power Apps, Power BI), RPA, and industrial automation — layered on top of your existing system. Here are the types of consultants and specific firms you should consider speaking to:\n\n---\n\n## 🏭 Industrial & Shop-Floor Automation Consultants (Hobart/Tasmania-based)\n\n### 1. **SAGE Automation – Hobart**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SAGE Automation has a Hobart office at Ground Floor, 137 Harrington Street, Hobart TAS 7000 (Ph: 1300 00 7243).",
+              "annotations": [
+                {
+                  "title": "SAGE Automation Tasmania",
+                  "url": "https://gotosage.com/sage-automation-tasmania",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Tasmanian-based technicians have a strong focus on the food and beverage sector, completing wide-ranging automation and digital transformation projects for a range of industries and organisations in Tasmania.",
+              "annotations": [
+                {
+                  "title": "SAGE Automation Tasmania",
+                  "url": "https://gotosage.com/sage-automation-tasmania",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are well-suited for shop-floor data capture and operational automation that can feed into your existing ERP.\n\n---\n\n## 💻 Microsoft Power Platform & Workflow Automation Consultants (Australia-wide, remote-capable)\n\nThese firms specialise in automating business processes — including order processing and operations — **without replacing your ERP**, by building connectors, workflows, and apps on top of it.\n\n### 2. **OfficePro Consulting**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "OfficePro Consulting designs, builds, and supports Power Automate solutions for Australian businesses of all sizes.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power Automate is Microsoft's workflow automation platform — it lets you create automated processes between apps and services to synchronise files, collect data, approve requests, and more, connecting to over 1,000+ applications including SharePoint, Teams, Outlook, Salesforce, Xero, and hundreds of others.",
+              "annotations": [
+                {
+                  "title": "Power Platform & Power Automate Consulting Australia",
+                  "url": "https://officeproconsulting.com.au/services/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes it ideal for order processing automation alongside your ERP.\n\n### 3. **Avenue Group Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Avenue Group Australia leads transformation with a strategy-first Microsoft Power Platform consulting approach, assisting organisations in modernising operations, automating procedures, and developing data-driven solutions using low-code technology.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of Power Platform consultants, solution architects, and automation engineers provide scalable and future-ready business platforms across sectors.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 4. **Report Simple**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Report Simple transforms complex manual processes into streamlined, automated workflows, with Australian-based consultants specialising in designing scalable Power Automate solutions that integrate seamlessly with your existing Microsoft ecosystem, maximising ROI while minimising administrative overhead.",
+              "annotations": [
+                {
+                  "title": "Power Automate Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-automate-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly strong on the data and reporting side, which is valuable for shop-floor visibility.\n\n### 5. **Newpath**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Newpath positions itself as a trusted Microsoft Power Platform functional consultant, helping businesses establish governance for creating apps that are functionally brilliant while safeguarding important data and ensuring integrity.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.newpathweb.com.au/digital-services/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Things to Ask Any Consultant\n\nWhen you speak to these firms, make sure to ask:\n\n- **Can you connect to our existing ERP** (e.g., MYOB, SAP, Microsoft Dynamics, Pronto, Epicor) via API or connector?\n- **Do you have manufacturing or shop-floor experience** — e.g., barcode/RFID scanning, production tracking, or MES integration?\n- **Can you automate order intake** (e.g., from email, web forms, EDI) and push it into our ERP automatically?\n- **Do you offer Power Apps for mobile shop-floor data capture** (e.g., quality checks, job completions, inventory counts)?\n- **What does your support and training model look like** post-implementation?\n\n---\n\n## 📋 Recommended Approach\n\n| Need | Best Tool | Consultant Type |\n|---|---|---|\n| Order processing automation | Power Automate + ERP connector | Power Platform consultant |\n| Shop-floor data capture | Power Apps (mobile) + barcode/RFID | Power Platform + industrial automation |\n| Operations dashboards | Power BI | BI/Power Platform consultant |\n| Machine/process automation | PLC/SCADA integration | SAGE Automation (Hobart) |\n\nWould you like help shortlisting based on your specific ERP system, or drafting a brief to send to these consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Power Platform automation consultants manufacturers Hobart Tasmania",
+        "ERP integration automation consultants manufacturing Hobart Tasmania"
+      ]
+    }
+  ]
+}

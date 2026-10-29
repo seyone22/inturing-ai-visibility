@@ -1,0 +1,508 @@
+{
+  "slug": "adelaide",
+  "pk": "erp_integration",
+  "plat": "gemini",
+  "text": "Which system integration specialists in Adelaide are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__erp_integration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:29.172Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Connecting complex platforms like **MYOB Acumatica (formerly MYOB Advanced)**, **SAP (SAP Business One or S/4HANA)**, **CRMs (Salesforce, Dynamics 365, HubSpot)**, and the **Microsoft 365** ecosystem requires specialists who understand ERP workflows, API architecture (REST/OData), and middleware platforms (e.g., Azure Integration Services, Power Automate, or dedicated iPaaS).\n\nTop system integration specialists based in Adelaide, along with leading national integrators with strong local delivery, provide distinct capabilities across these platforms:\n\n---\n\n### 1. Locally Headquartered in Adelaide\n\n* **Solutions+ (Solutions Plus Partnership)**\n  * **Location:** King William Street, Adelaide.\n  * **Platform Coverage:** **SAP Business One**, **MYOB Acumatica**, and **Microsoft Dynamics 365 / Wiise**.\n  * **Why them:** Solutions+ is uniquely positioned for this combination because they are one of the few Adelaide-headquartered consulting firms that hold official partnerships with both **SAP** and **MYOB**, while also maintaining an active Microsoft practice. They specialize in business process optimization, data flow automation, and integrating ERPs with third-party CRM and reporting tools.\n  * **Best for:** Businesses looking for a local team capable of cross-ERP integration, multi-entity sync, or connecting SAP/MYOB backends with Microsoft 365 applications.\n\n* **COMITS Australia (Commercial IT Solutions)**\n  * **Location:** Prospect, Adelaide.\n  * **Platform Coverage:** **MYOB Acumatica**, custom ERP/CRM integrations, Microsoft environments.\n  * **Why them:** An established Adelaide-based MYOB Enterprise Partner since 2007. They possess in-house enterprise software developers who design custom API connectors and data bridges connecting MYOB Acumatica to front-end CRMs, warehouse tools, and Microsoft 365 workspaces.\n  * **Best for:** Adelaide businesses centered around MYOB Acumatica needing deep local technical support, API development, and CRM tie-ins.\n\n* **Astra Custom Software**\n  * **Location:** Adelaide.\n  * **Platform Coverage:** Bespoke enterprise system integration, API/middleware engineering.\n  * **Why them:** If pre-built software connectors are insufficient and you need custom middleware to mediate data transformations between SAP, MYOB Acumatica, and custom CRM systems, Astra focuses specifically on building reliable integration layers and automated data pipelines.\n  * **Best for:** Custom API development and syncing disparate platforms where no native plug-in exists.\n\n---\n\n### 2. National Integrators with Strong Adelaide & SA Presence\n\n* **Cloud Factory (formerly Inecom)**\n  * **Platform Coverage:** SAP Business One, Microsoft Dynamics 365 Business Central / M365, and MYOB Acumatica.\n  * **Why them:** They are one of Australia’s few multi-platform ERP specialists that actively consult and build integrations across all three major ecosystems: SAP, Microsoft, and Acumatica.\n  * **Best for:** Hybrid environments (e.g., holding companies operating SAP at the parent level and MYOB Acumatica in subsidiaries, connected via Microsoft 365).\n\n* **Leverage Technologies**\n  * **Platform Coverage:** SAP Business One, MYOB Acumatica, Sage, Microsoft Power Platform.\n  * **Why them:** Although based nationally, Leverage regularly services the South Australian market. They have an established development wing specialized in ERP customization, API bridging, and connecting core financial backends into CRM/M365 tools.\n  * **Best for:** Complex data migration, bi-directional sync between SAP/Acumatica, and robust enterprise workflows.\n\n* **MyIntegrator / SAAS Integrator**\n  * **Platform Coverage:** Cloud ERPs (SAP B1, MYOB Acumatica, NetSuite) to CRMs (HubSpot, Salesforce, Dynamics).\n  * **Why them:** Specialists in iPaaS (Integration Platform as a Service) architectures. Rather than writing code from scratch, they supply pre-tested connectors configured for continuous, real-time data sync across inventory, customer records, and orders.\n  * **Best for:** Fast deployment of standard bi-directional data synchronization between CRM and ERP systems.\n\n---\n\n### Recommended Next Steps for Selection\n\n1. **Map Your Architecture Pattern:**\n   * If using **Microsoft 365 / Teams / Power BI** as your operational hub, ensure the integrator has certified **Azure / Power Platform** expertise so integrations leverage native event triggers (Power Automate, Azure Service Bus).\n   * If connecting **SAP** and **MYOB Acumatica** simultaneously (e.g., dual-ERP setup or post-merger integration), shortlist **Solutions+** or **Cloud Factory**, as they hold direct partner accreditations in both systems.\n2. **Review API Limits:** Both SAP Business One (Service Layer) and MYOB Acumatica have distinct API rate limits and data models; request examples from the partner showing how they handle asynchronous batching and queue management to avoid performance bottlenecks.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=MYOB+Acumatica+partners+Adelaide&client=app-vertex-grounding&safesearch=active\">MYOB Acumatica partners Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22COMITS%22+Adelaide+%22MYOB%22&client=app-vertex-grounding&safesearch=active\">&quot;COMITS&quot; Adelaide &quot;MYOB&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integration+specialists+Adelaide+ERP+CRM+MYOB+Acumatica+SAP+Microsoft+365&client=app-vertex-grounding&safesearch=active\">system integration specialists Adelaide ERP CRM MYOB Acumatica SAP Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Solutions+Plus%22+Adelaide+ERP+OR+%22Solutions%2B%22+Adelaide&client=app-vertex-grounding&safesearch=active\">&quot;Solutions Plus&quot; Adelaide ERP OR &quot;Solutions+&quot; Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=ERP+system+integration+consultants+Adelaide&client=app-vertex-grounding&safesearch=active\">ERP system integration consultants Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integrators+Adelaide+ERP+CRM+MYOB+Advanced+SAP&client=app-vertex-grounding&safesearch=active\">system integrators Adelaide ERP CRM MYOB Advanced SAP</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYRRtZMX6TAjlGkDit33JGDHKZkbvzJ4A4KLCLDMzKcY828fO-_QoWV8jfiAUg36SG87cHJ2Zkf_dun9H_PrmhONcIi8YKW-hGGhHu9Rj2R0u4dksNOgANshNVgwLYtgWAYyCanTSbp3lvKxBiRCE8fSQf",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW3FlBVnEX4sy60NhZ9OtMzMXIVuswdS5pOK4ymM4gUAd2ZScUH-XKWSCb5QdtS1G4cTAnnFY9Ec6cURrekcG1q8PaORewZuIOWkthxL5qKkS1UZW3KlByIgjW",
+                "title": "comits.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw-C1yGsZu0TW04Q3t4N-K9rktjWcRm9t-Syf0CCvLtq0VksFyEK0NpFewgB-Gtv155mBrZ1w5fTgurA-sj9_qyKzeayVPjFJGJdenytMGVsxCu1EpxQ==",
+                "title": "myintegrator.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG0au3AowJJgbJefEj19UDeJ0Piv8Q1OcWOrzQHJPSb1oEIanUNXzNc7sOMEeSmE4oM8_4fLHiQDr5WF686PXjHs2u2Y03HbuwOT9La88obqt83s56qkdCJhauMPqWpW7ejyMToZyvZzxFMTsCkEE1q0GxqFTMHQJ2M9n5fA==",
+                "title": "sap.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Ybb6oefqtB9fJbwdPrukVYpJrFmTR2o_86ZyZh7BNI6ckr6S2122GmJ_SiiEVu7JGLrDwfCI0EebSLhkBWlQNJU-LSjqjpD6SOkSWUQkHj6WZzkVSHd9D4Elre0YaFXfPaAidierxCO4bbLiqagiyR4GHSsEm_BCOEzzW7XceJhUKkN552vWJ_RZxh4nAyKoJW-cxO1oTA5JGaQ79Vl91DIeg-VsmD3IqH0=",
+                "title": "solutionspluspartnership.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxCSyPeuIabgyHyS22KmnJy_ufbtkVov70NRVAeKyy3vzgv2IYfReTXQOaNEK20RitoBB6fbiBYuY6IGcsFcWp82v6wajKDdsBqXoKAbLIf9WWcr-VPcYmfOyYKGjdVuGGA==",
+                "title": "wiise.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvkYZO_B_h5Qw2voDePFmIkiXRklKH8vYPanWQVZzkZDV7DrFG4rrLg97DxAB8C8uuOiW5SZquv2Goz_iHvWTKNt9lh-l5PKdKLolVLxMcLeAuWTWfMSBxSpMrOr8QO1UAKaz9UhbZXVjNNe5z6h5wzzZdHnOfXeOSOpyAcpOq6EkgupJOhcLLvzlTVd8xLwrDgADb5zHvHf62R74YtPBhUuf1v0SovkXTYYg=",
+                "title": "solutionspluspartnership.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLxzCH_LNE0QZ-huX8uQYqHHarEpUitXkJjfiClQDa2v5cVsW4aecy15Z5uCl7O5ojvf5ZTolNe42ROidMctzJ97QNORIAuOL9o8GvCipKXzmdyQ2UmBZeNkz3rz3Mh81xs1JvNTGbe2hf4o4MTOVcynKZX_tw5rU1Brr7ooFNEaZog8U91pOXzVyrtUo8vizQE_ATbBzk",
+                "title": "techpartner.news"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfDwmXxoTBVrjQU91puAyZnKZmLvbI2pECW6gYw4J58_DEO3y4-c1b6yVFVF6rk5bB-zH4XE6zTG08hwoDmsMGXyiCQyrAT2CZ-h7YixQQaFT7fbckBlkzWZGlAipcg_WsPQaCu-RMKCWRJD3f4ck=",
+                "title": "adelaideexaminer.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP1zJTF9TZy4r7ZHj6IToSio5YCaIWncqlNw-DiP8BqluyuGVgczmtFtK_ph-DyQpW_6vq-7HSlHkJI4PlaqD72G2lIpT-Kjc_ZNGPPLPCsdhsd1spzvoDytf4",
+                "title": "comits.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuWWPeFRtLkCZd0_YnqRGwvVLR-cAhYIkfCQGHFJcZevI-VjC9jW7TKvA1S5nmaGcPTMKvJMVdxlvVu5aj51QYgzQm7g0nmT6hH0CgzxYylrQnkjiuRoS1QhNX2oIX",
+                "title": "comits.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW3FlBVnEX4sy60NhZ9OtMzMXIVuswdS5pOK4ymM4gUAd2ZScUH-XKWSCb5QdtS1G4cTAnnFY9Ec6cURrekcG1q8PaORewZuIOWkthxL5qKkS1UZW3KlByIgjW",
+                "title": "comits.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjgAsZrX0D5e3A_0Kol-Y259B8fxaJdyunqLGKjZ4oPzTJzIE5gch81G8eiYBohKhsU0smP9yQutmH93qGDA2JQingxUSDAr9M7sa18xJ3pv1WDG9wXO8rpE8uSnpD5dgZ5E6RBl-Pnn6ERC2O5JpC",
+                "title": "astracs.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaDNUB7J-qSrpab95ldRKqdjkbFY6TNES2If2WcwpmBJiSayd3EImckBTNRP-9GZJRVm81nGCJhez0HKCx8iLYTzPKUQlTU9L7eD3z9XhFC2eVNmklgzsi8pahVNdhkg==",
+                "title": "cloudfactory.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYRRtZMX6TAjlGkDit33JGDHKZkbvzJ4A4KLCLDMzKcY828fO-_QoWV8jfiAUg36SG87cHJ2Zkf_dun9H_PrmhONcIi8YKW-hGGhHu9Rj2R0u4dksNOgANshNVgwLYtgWAYyCanTSbp3lvKxBiRCE8fSQf",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuZg2k_KVtvOTk0WhvnSGLkb8l6Pgza0uFNdSoSt8YRtcJvckZTbTcQ9BUJDrpcPe_Iv_oaMhWCmsK_tTClUcNmNvYxvKXFOCxN2N0vnF_0xVwdMJM_9RgPSuxdYBX2JJlaeqDMdpumUdD2hkMSy8=",
+                "title": "saasintegrator.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 377,
+                "text": "Connecting complex platforms like **MYOB Acumatica (formerly MYOB Advanced)**, **SAP (SAP Business One or S/4HANA)**, **CRMs (Salesforce, Dynamics 365, HubSpot)**, and the **Microsoft 365** ecosystem requires specialists who understand ERP workflows, API architecture (REST/OData), and middleware platforms (e.g., Azure Integration Services, Power Automate, or dedicated iPaaS)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 606,
+                "endIndex": 649,
+                "text": "**Solutions+ (Solutions Plus Partnership)**"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 654,
+                "endIndex": 697,
+                "text": "**Location:** King William Street, Adelaide"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 703,
+                "endIndex": 806,
+                "text": "**Platform Coverage:** **SAP Business One**, **MYOB Acumatica**, and **Microsoft Dynamics 365 / Wiise**"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 812,
+                "endIndex": 1015,
+                "text": "**Why them:** Solutions+ is uniquely positioned for this combination because they are one of the few Adelaide-headquartered consulting firms that hold official partnerships with both **SAP** and **MYOB**"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 812,
+                "endIndex": 1068,
+                "text": "**Why them:** Solutions+ is uniquely positioned for this combination because they are one of the few Adelaide-headquartered consulting firms that hold official partnerships with both **SAP** and **MYOB**, while also maintaining an active Microsoft practice"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1070,
+                "endIndex": 1203,
+                "text": "They specialize in business process optimization, data flow automation, and integrating ERPs with third-party CRM and reporting tools"
+              },
+              "groundingChunkIndices": [
+                6,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1209,
+                "endIndex": 1375,
+                "text": "**Best for:** Businesses looking for a local team capable of cross-ERP integration, multi-entity sync, or connecting SAP/MYOB backends with Microsoft 365 applications"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1380,
+                "endIndex": 1426,
+                "text": "**COMITS Australia (Commercial IT Solutions)**"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1431,
+                "endIndex": 1463,
+                "text": "**Location:** Prospect, Adelaide"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1469,
+                "endIndex": 1563,
+                "text": "**Platform Coverage:** **MYOB Acumatica**, custom ERP/CRM integrations, Microsoft environments"
+              },
+              "groundingChunkIndices": [
+                1,
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1569,
+                "endIndex": 1647,
+                "text": "**Why them:** An established Adelaide-based MYOB Enterprise Partner since 2007"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1649,
+                "endIndex": 1842,
+                "text": "They possess in-house enterprise software developers who design custom API connectors and data bridges connecting MYOB Acumatica to front-end CRMs, warehouse tools, and Microsoft 365 workspaces"
+              },
+              "groundingChunkIndices": [
+                1,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1848,
+                "endIndex": 1983,
+                "text": "**Best for:** Adelaide businesses centered around MYOB Acumatica needing deep local technical support, API development, and CRM tie-ins"
+              },
+              "groundingChunkIndices": [
+                1,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1988,
+                "endIndex": 2013,
+                "text": "**Astra Custom Software**"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2018,
+                "endIndex": 2040,
+                "text": "**Location:** Adelaide"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2046,
+                "endIndex": 2134,
+                "text": "**Platform Coverage:** Bespoke enterprise system integration, API/middleware engineering"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2140,
+                "endIndex": 2415,
+                "text": "**Why them:** If pre-built software connectors are insufficient and you need custom middleware to mediate data transformations between SAP, MYOB Acumatica, and custom CRM systems, Astra focuses specifically on building reliable integration layers and automated data pipelines"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2421,
+                "endIndex": 2520,
+                "text": "**Best for:** Custom API development and syncing disparate platforms where no native plug-in exists"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2594,
+                "endIndex": 2629,
+                "text": "**Cloud Factory (formerly Inecom)**"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2634,
+                "endIndex": 2741,
+                "text": "**Platform Coverage:** SAP Business One, Microsoft Dynamics 365 Business Central / M365, and MYOB Acumatica"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2747,
+                "endIndex": 2935,
+                "text": "**Why them:** They are one of Australia’s few multi-platform ERP specialists that actively consult and build integrations across all three major ecosystems: SAP, Microsoft, and Acumatica"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3103,
+                "endIndex": 3128,
+                "text": "**Leverage Technologies**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3133,
+                "endIndex": 3220,
+                "text": "**Platform Coverage:** SAP Business One, MYOB Acumatica, Sage, Microsoft Power Platform"
+              },
+              "groundingChunkIndices": [
+                0,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3324,
+                "endIndex": 3472,
+                "text": "They have an established development wing specialized in ERP customization, API bridging, and connecting core financial backends into CRM/M365 tools"
+              },
+              "groundingChunkIndices": [
+                0,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3478,
+                "endIndex": 3590,
+                "text": "**Best for:** Complex data migration, bi-directional sync between SAP/Acumatica, and robust enterprise workflows"
+              },
+              "groundingChunkIndices": [
+                0,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3595,
+                "endIndex": 3629,
+                "text": "**MyIntegrator / SAAS Integrator**"
+              },
+              "groundingChunkIndices": [
+                2,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3634,
+                "endIndex": 3742,
+                "text": "**Platform Coverage:** Cloud ERPs (SAP B1, MYOB Acumatica, NetSuite) to CRMs (HubSpot, Salesforce, Dynamics)"
+              },
+              "groundingChunkIndices": [
+                2,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3748,
+                "endIndex": 3832,
+                "text": "**Why them:** Specialists in iPaaS (Integration Platform as a Service) architectures"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3834,
+                "endIndex": 4000,
+                "text": "Rather than writing code from scratch, they supply pre-tested connectors configured for continuous, real-time data sync across inventory, customer records, and orders"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4437,
+                "endIndex": 4572,
+                "text": "If connecting **SAP** and **MYOB Acumatica** simultaneously (e.g., dual-ERP setup or post-merger integration), shortlist **Solutions+**"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4437,
+                "endIndex": 4593,
+                "text": "If connecting **SAP** and **MYOB Acumatica** simultaneously (e.g., dual-ERP setup or post-merger integration), shortlist **Solutions+** or **Cloud Factory**"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4437,
+                "endIndex": 4653,
+                "text": "If connecting **SAP** and **MYOB Acumatica** simultaneously (e.g., dual-ERP setup or post-merger integration), shortlist **Solutions+** or **Cloud Factory**, as they hold direct partner accreditations in both systems"
+              },
+              "groundingChunkIndices": [
+                6,
+                13
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "MYOB Acumatica partners Adelaide",
+            "\"COMITS\" Adelaide \"MYOB\"",
+            "system integration specialists Adelaide ERP CRM MYOB Acumatica SAP Microsoft 365",
+            "\"Solutions Plus\" Adelaide ERP OR \"Solutions+\" Adelaide",
+            "ERP system integration consultants Adelaide",
+            "system integrators Adelaide ERP CRM MYOB Advanced SAP"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 591,
+      "candidatesTokenCount": 1404,
+      "totalTokenCount": 3303,
+      "cachedContentTokenCount": 243,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 591
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 243
+        }
+      ],
+      "thoughtsTokenCount": 1308,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "lcbiar7ZJfvC694P9t_Q8QU"
+  }
+}

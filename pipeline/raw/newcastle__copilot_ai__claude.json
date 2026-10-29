@@ -1,0 +1,146 @@
+{
+  "slug": "newcastle",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Newcastle specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:07.810Z",
+  "cost": 0.05869,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10960,
+      "output_tokens": 1014,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.05809,
+      "datetime": "2026-10-29 04:11:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! The search results returned mostly national and international firms rather than Newcastle-specific consultants. Here's what I can tell you based on the results, along with some practical guidance:\n\n---\n\n## 🔍 Newcastle-Specific Results\n\nUnfortunately, the search results did not surface any **Newcastle (UK)-based** AI automation consultants specifically specialising in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses. This is a niche area, and local specialists may not yet have strong online visibility.\n\n---\n\n## 🌐 What to Look For in a Specialist\n\nIf you're searching for a Newcastle-based consultant or are open to remote/national firms serving mid-market businesses, here's what the best firms in this space typically offer:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Readiness assessments, deployment, adoption and change management, custom Copilot Studio agent development, governance and security, data preparation, line-of-business integration, and ongoing optimisation.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Copilot Implementation Partners in 2026",
+                  "url": "https://www.talentmsh.com/insights/best-microsoft-copilot-implementation-partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Identifying and prioritising opportunities that drive the most business value, assessing technical readiness for AI and Copilot Agents including data security analysis, regulatory compliance requirements, user enablement, and licensing recommendations, plus deploying intelligent agents and chatbots across your Microsoft ecosystem with role-based AI Agent solutions built in Copilot Studio.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consulting, Advisory & Development",
+                  "url": "https://centricconsulting.com/technology-solutions/microsoft/microsoft-copilot-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Microsoft Copilot Studio has matured into a full agentic AI platform, now supporting multi-agent orchestration, autonomous task execution, deep Microsoft 365 and Teams integration, and connections to hundreds of enterprise systems via Power Platform connectors — with organisations using it to build departmental AI agents for HR, IT, Finance, and Customer Service, all governed centrally with enterprise security controls.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## ✅ Nationally Recognised Firms Serving Mid-Market (That May Serve Newcastle Remotely)\n\nIf you're open to UK-capable or remote-first consultants, here are some globally recognised mid-market-focused firms worth exploring:\n\n1. **Wipfli** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Best suited for regulated industries needing implementation plus optimisation, serving mid-market regulated organisations.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Copilot Implementation Partners in 2026",
+                  "url": "https://www.talentmsh.com/insights/best-microsoft-copilot-implementation-partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n2. **Centric Consulting** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Offers Copilot readiness and governance planning, use case ideation and ROI prioritisation, custom Copilot Studio agent development, and workforce training and structured adoption programmes.",
+              "annotations": [
+                {
+                  "title": "10 Best Microsoft Copilot Consulting Companies in 2026 - Copilot Experts",
+                  "url": "https://copilot-experts.com/microsoft-copilot-consulting-companies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n3. **SPR** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Specialises in custom Copilot Studio agents and integrations, ideal for teams already using Microsoft Copilot.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Copilot Implementation Partners in 2026",
+                  "url": "https://www.talentmsh.com/insights/best-microsoft-copilot-implementation-partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Recommendations for Finding Newcastle-Based Specialists\n\nSince local results are limited, here are the best ways to find a Newcastle-based consultant:\n\n1. **Microsoft Partner Directory** – Visit [Microsoft's official partner finder](https://partner.microsoft.com/en-gb/partnership/find-a-partner) and filter by **Newcastle**, **United Kingdom**, with specialisations in **Modern Work**, **Business Applications**, or **AI & Copilot**.\n2. **LinkedIn Search** – Search for \"Microsoft Copilot Studio consultant Newcastle\" or \"AI automation consultant Newcastle\" to find individuals and boutique agencies.\n3. **UK Microsoft Partner Network Events** – Attending regional Microsoft events in the North East can surface local specialists.\n4. **Clutch.co or G2** – Filter reviews by location and service type to find Newcastle-area firms.\n\nWould you like me to search for specific Microsoft Partners registered in the North East of England, or help you define a brief for evaluating potential consultants?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Newcastle Microsoft Copilot Studio AI agents mid-market businesses",
+        "Newcastle AI workflow automation consultancy Microsoft Copilot Studio specialists"
+      ]
+    }
+  ]
+}

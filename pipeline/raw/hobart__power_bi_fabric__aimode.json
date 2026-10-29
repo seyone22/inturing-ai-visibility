@@ -1,0 +1,189 @@
+{
+  "slug": "hobart",
+  "pk": "power_bi_fabric",
+  "plat": "aimode",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Hobart for operational reporting and data warehousing?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_bi_fabric__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:50.650Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Hobart for operational reporting and data warehousing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000480,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20top%20Microsoft%20Power%20BI%20and%20Microsoft%20Fabric%20analytics%20consultants%20in%20Hobart%20for%20operational%20reporting%20and%20data%20warehousing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCe3PLOWEdW6qETAV3tBNyQMF",
+      "datetime": "2026-10-29 04:11:45 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "In Hobart and the broader Tasmanian market, specialized enterprise data warehousing and Microsoft Fabric/Power BI consulting are typically delivered by a mix of `dedicated local data consultancies, long-standing Microsoft partners, and national firms with physical Hobart presences`.[[1]](https://www.notitia.com.au/locations/hobart-office)\n\nThe key providers active in the region for Microsoft-stack operational reporting and data warehousing include:\n\n- **Notitia (Hobart Office)** : Operating a dedicated local office on Macquarie Street, Hobart, Notitia is a prominent Australian data and digital transformation consultancy. They specialize in end-to-end data analytics, cloud analytics, data strategy, and managed BI services, frequently working with Tasmanian organizations across public administration, aquaculture, and regional services.[[1]](https://www.notitia.com.au/locations/hobart-office)\n- **Bremmar Consulting** : A specialized Microsoft partner with a strong operational footprint in Hobart. Bremmar heavily focuses on the Microsoft cloud and data ecosystem, utilizing Power BI alongside automated data workflows to structure and transform operational data—particularly for complex sectors like not-for-profits, disability services, and aged care.[[1]](https://bremmar.com.au/microsoft-power-bi-hobart/)\n- **Datawise Consulting** : Operating as a legacy Microsoft Certified Partner in Hobart since 2002, Datawise provides targeted database design, custom software, and SQL Server-backed data warehousing, business intelligence, and Power BI reporting implementations tailored to regional Tasmanian businesses.[[1]](https://datawise.com.au/services/)\n- **Roar Data** : An analytics provider delivering specialized Power BI implementation, KPI streamlining, and operational reporting support directly for Hobart and Tasmanian enterprises (spanning local government, tourism, and aquaculture).[[1]](https://www.roardata.com.au/power-bi-consultant-hobart)\n\n*Note: For large-scale Microsoft Fabric and multi-terabyte data lakehouse migrations (involving OneLake, Synapse engineering, and Direct Lake modeling), many mid-to-large Tasmanian enterprises also lean on national Tier-1/Tier-2 Microsoft partners who service Hobart remotely or via hybrid fly-in models.* \n\nIf you can share:\n\n- Your **source systems** (e.g., ERP, CRM, custom SQL databases)\n- The **approximate scale** of your data\n- Whether you prefer a **local Hobart-based team** for on-site workshops or are open to **hybrid/remote delivery** \n\nI can help you narrow down which of these options best fits your project scope.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Hobart and the broader Tasmanian market, specialized enterprise data warehousing and Microsoft Fabric/Power BI consulting are typically delivered by a mix of dedicated local data consultancies, long-standing Microsoft partners, and national firms with physical Hobart presences.",
+              "markdown": "In Hobart and the broader Tasmanian market, specialized enterprise data warehousing and Microsoft Fabric/Power BI consulting are typically delivered by a mix of `dedicated local data consultancies, long-standing Microsoft partners, and national firms with physical Hobart presences`.[[1]](https://www.notitia.com.au/locations/hobart-office)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.notitia.com.au",
+                  "domain": "www.notitia.com.au",
+                  "url": "https://www.notitia.com.au/locations/hobart-office",
+                  "title": "Data Analytics Consultants Hobart - Notitia",
+                  "text": "Hobart-based team helps organisations turn complex data into trusted insights, effective digital … clients across Hobart and regio..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The key providers active in the region for Microsoft-stack operational reporting and data warehousing include:",
+              "markdown": "The key providers active in the region for Microsoft-stack operational reporting and data warehousing include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Notitia (Hobart Office) : Operating a dedicated local office on Macquarie Street, Hobart, Notitia is a prominent Australian data and digital transformation consultancy. They specialize in end-to-end data analytics, cloud analytics, data strategy, and managed BI services, frequently working with Tasmanian organizations across public administration, aquaculture, and regional services. Bremmar Consulting : A specialized Microsoft partner with a strong operational footprint in Hobart. Bremmar heavily focuses on the Microsoft cloud and data ecosystem, utilizing Power BI alongside automated data workflows to structure and transform operational data—particularly for complex sectors like not-for-profits, disability services, and aged care. Datawise Consulting : Operating as a legacy Microsoft Certified Partner in Hobart since 2002, Datawise provides targeted database design, custom software, and SQL Server-backed data warehousing, business intelligence, and Power BI reporting implementations tailored to regional Tasmanian businesses. Roar Data : An analytics provider delivering specialized Power BI implementation, KPI streamlining, and operational reporting support directly for Hobart and Tasmanian enterprises (spanning local government, tourism, and aquaculture).",
+              "markdown": "- **Notitia (Hobart Office)** : Operating a dedicated local office on Macquarie Street, Hobart, Notitia is a prominent Australian data and digital transformation consultancy. They specialize in end-to-end data analytics, cloud analytics, data strategy, and managed BI services, frequently working with Tasmanian organizations across public administration, aquaculture, and regional services.[[1]](https://www.notitia.com.au/locations/hobart-office)\n- **Bremmar Consulting** : A specialized Microsoft partner with a strong operational footprint in Hobart. Bremmar heavily focuses on the Microsoft cloud and data ecosystem, utilizing Power BI alongside automated data workflows to structure and transform operational data—particularly for complex sectors like not-for-profits, disability services, and aged care.[[1]](https://bremmar.com.au/microsoft-power-bi-hobart/)\n- **Datawise Consulting** : Operating as a legacy Microsoft Certified Partner in Hobart since 2002, Datawise provides targeted database design, custom software, and SQL Server-backed data warehousing, business intelligence, and Power BI reporting implementations tailored to regional Tasmanian businesses.[[1]](https://datawise.com.au/services/)\n- **Roar Data** : An analytics provider delivering specialized Power BI implementation, KPI streamlining, and operational reporting support directly for Hobart and Tasmanian enterprises (spanning local government, tourism, and aquaculture).[[1]](https://www.roardata.com.au/power-bi-consultant-hobart)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.notitia.com.au",
+                  "domain": "www.notitia.com.au",
+                  "url": "https://www.notitia.com.au/locations/hobart-office",
+                  "title": "Data Analytics Consultants Hobart - Notitia",
+                  "text": "Hobart-based team helps organisations turn complex data into trusted insights, effective digital … clients across Hobart and regio..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bremmar",
+                  "domain": "bremmar.com.au",
+                  "url": "https://bremmar.com.au/microsoft-power-bi-hobart/",
+                  "title": "Microsoft Power BI Hobart - Bremmar Consulting",
+                  "text": "We are dedicated to providing technology leadership, business IT support services and solutions that enable your organisation to p..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "datawise.com.au",
+                  "domain": "datawise.com.au",
+                  "url": "https://datawise.com.au/services/",
+                  "title": "Services - Consulting, Software & Website Development",
+                  "text": "We specialise in Microsoft products and became a Microsoft Certified Partner in 2002. We provide a variety of managed services suc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Roar Data",
+                  "domain": "www.roardata.com.au",
+                  "url": "https://www.roardata.com.au/power-bi-consultant-hobart",
+                  "title": "Power BI Consultant Hobart, TAS | Roar Data",
+                  "text": "Power BI, Excel, and reporting support for Hobart. We work with Hobart leadership and finance teams to reduce reporting friction, ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Note: For large-scale Microsoft Fabric and multi-terabyte data lakehouse migrations (involving OneLake, Synapse engineering, and Direct Lake modeling), many mid-to-large Tasmanian enterprises also lean on national Tier-1/Tier-2 Microsoft partners who service Hobart remotely or via hybrid fly-in models.",
+              "markdown": "*Note: For large-scale Microsoft Fabric and multi-terabyte data lakehouse migrations (involving OneLake, Synapse engineering, and Direct Lake modeling), many mid-to-large Tasmanian enterprises also lean on national Tier-1/Tier-2 Microsoft partners who service Hobart remotely or via hybrid fly-in models.*",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share:",
+              "markdown": "If you can share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Your source systems (e.g., ERP, CRM, custom SQL databases) The approximate scale of your data Whether you prefer a local Hobart-based team for on-site workshops or are open to hybrid/remote delivery",
+              "markdown": "- Your **source systems** (e.g., ERP, CRM, custom SQL databases)\n- The **approximate scale** of your data\n- Whether you prefer a **local Hobart-based team** for on-site workshops or are open to **hybrid/remote delivery**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you narrow down which of these options best fits your project scope.",
+              "markdown": "I can help you narrow down which of these options best fits your project scope.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Bremmar",
+              "domain": "bremmar.com.au",
+              "url": "https://bremmar.com.au/microsoft-power-bi-hobart/",
+              "title": "Microsoft Power BI Hobart - Bremmar Consulting",
+              "text": "We are dedicated to providing technology leadership, business IT support services and solutions that enable your organisation to perform at a higher level."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "datawise.com.au",
+              "domain": "datawise.com.au",
+              "url": "https://datawise.com.au/services/",
+              "title": "Services - Consulting, Software & Website Development",
+              "text": "We specialise in Microsoft products and became a Microsoft Certified Partner in 2002. We provide a variety of managed services such as network monitoring and troub..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Roar Data",
+              "domain": "www.roardata.com.au",
+              "url": "https://www.roardata.com.au/power-bi-consultant-hobart",
+              "title": "Power BI Consultant Hobart, TAS | Roar Data",
+              "text": "Power BI, Excel, and reporting support for Hobart. We work with Hobart leadership and finance teams to reduce reporting friction, improve KPI consistency"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

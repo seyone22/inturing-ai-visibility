@@ -1,0 +1,326 @@
+{
+  "slug": "adelaide",
+  "pk": "power_bi_fabric",
+  "plat": "claude",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Adelaide for operational reporting and data warehousing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_bi_fabric__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:40.845Z",
+  "cost": 0.062818,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9696,
+      "output_tokens": 1542,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.062218,
+      "datetime": "2026-10-29 04:08:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a roundup of some of the top Microsoft Power BI and Microsoft Fabric analytics consultants serving Adelaide for operational reporting and data warehousing:\n\n---\n\n### 1. 🏆 **Report Simple**\n**Website:** reportsimple.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Report Simple's consultants in Adelaide help you build end-to-end solutions that connect Power BI, Synapse, and more into a unified data experience.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Adelaide for Unified Analytics",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their services span:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "End-to-End Microsoft Fabric Setup, Unified Lakehouse Architecture, Security/Access & Compliance, Fabric Pipelines & Notebooks, and Power BI Optimisation.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consulting Adelaide for Unified Analytics",
+                  "url": "https://www.reportsimple.com.au/consulting/microsoft-fabric-consulting-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Data modelling (star-schema models), advanced DAX development for operational insights, and ETL pipelines using Power Query and Microsoft Fabric to automate data extraction, transformation, and loading.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nThey serve Adelaide as part of a national practice, with ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a 78% client return rate that demonstrates their ability to deliver lasting strategic value.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia",
+                  "url": "https://www.reportsimple.com.au/consulting/power-bi-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏆 **InterIntra**\n**Website:** interintra.com.au\n\nInterIntra is a locally based Adelaide firm. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide business intelligence and reporting for Adelaide businesses, including Power BI dashboards, automated reports, and data consolidation from existing systems.",
+              "annotations": [
+                {
+                  "title": "Data & Reporting Services Adelaide",
+                  "url": "https://interintra.com.au/ai-services/data-reporting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Power BI is their core reporting platform, and they handle licensing assessment, data connections, and dashboard builds so leadership teams have a single, live view of the business.",
+              "annotations": [
+                {
+                  "title": "Data & Reporting Services Adelaide",
+                  "url": "https://interintra.com.au/ai-services/data-reporting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also take a practical approach to data architecture: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "for simpler reporting needs, Power BI can connect directly to source systems without a formal data warehouse, but a warehouse becomes worthwhile when you have multiple systems with conflicting data, high query volumes, or compliance requirements around data retention and auditability.",
+              "annotations": [
+                {
+                  "title": "Data & Reporting Services Adelaide",
+                  "url": "https://interintra.com.au/ai-services/data-reporting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🏆 **AGER BI**\n**Website:** agerbi.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AGER BI provides specialist Power BI consulting services across Australia, helping organisations move from fragmented spreadsheets and disconnected reporting to trusted, interactive analytics.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia - Data Analytics Experts",
+                  "url": "https://agerbi.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are certified specialists in Microsoft platforms such as Power BI, Fabric, Azure Data Factory, Azure SQL Database, Azure Synapse Analytics, and Azure Databricks.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia - Data Analytics Experts",
+                  "url": "https://agerbi.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " On the data warehousing side, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "their experienced data warehouse consultants work across Microsoft Fabric, Azure, and modern cloud data platforms, helping organisations integrate fragmented data, improve performance, and build reliable data architectures.",
+              "annotations": [
+                {
+                  "title": "Data Warehouse Consulting Australia",
+                  "url": "https://agerbi.com.au/data-warehouse-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AGER BI provides end-to-end Power BI consulting and implementation services — from initial strategy and solution architecture through data integration, modelling, dashboard development, security, deployment, and ongoing support — and can integrate Power BI with Microsoft Fabric and the wider Microsoft Azure data platform.",
+              "annotations": [
+                {
+                  "title": "Power BI Consulting Australia - Data Analytics Experts",
+                  "url": "https://agerbi.com.au/power-bi-consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🏆 **Agile Insights**\n**Website:** agile-insights.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agile Insights is a Microsoft Advanced Specialisation partner providing data and AI consulting, project delivery, training, and managed services to mid-to-large organisations and the public sector across Australia.",
+              "annotations": [
+                {
+                  "title": "Agile Insights",
+                  "url": "https://www.agile-insights.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer comprehensive services for data & AI strategy, platform integration, analytics, tailored Power BI, Microsoft Fabric, and Azure AI workshops, as well as ongoing managed services to keep systems operational and optimised.",
+              "annotations": [
+                {
+                  "title": "Agile Insights",
+                  "url": "https://www.agile-insights.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🏆 **A1 Technologies**\n**Website:** a1t.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their certified Microsoft Fabric Consultants help Australian organisations connect, analyse, and act on their data with confidence.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-azure-cloud/microsoft-fabric-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a Microsoft Solutions Partner with five Microsoft designations, including Data & AI, Azure Infrastructure, and Digital & App Innovation — meaning their consultants are held to a high standard by Microsoft on every engagement.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-azure-cloud/microsoft-fabric-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nFor data warehousing specifically, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Microsoft Fabric's data warehouse capabilities give organisations a single source of truth, and A1 Technologies helps design and deploy a scalable warehouse that supports fast, accurate reporting and analytics across the business.",
+              "annotations": [
+                {
+                  "title": "Microsoft Fabric Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-azure-cloud/microsoft-fabric-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### Summary Table\n\n| Consultant | Adelaide-Based | Power BI | Microsoft Fabric | Data Warehousing |\n|---|---|---|---|---|\n| **Report Simple** | ✅ (serves Adelaide) | ✅ | ✅ | ✅ |\n| **InterIntra** | ✅ (local Adelaide) | ✅ | ✅ | ✅ |\n| **AGER BI** | ✅ (serves Adelaide) | ✅ | ✅ | ✅ |\n| **Agile Insights** | ✅ (serves Adelaide) | ✅ | ✅ | ✅ |\n| **A1 Technologies** | ✅ (serves Adelaide) | ✅ | ✅ | ✅ |\n\nFor operational reporting and data warehousing in Adelaide, **InterIntra** stands out as a locally based option, while **Report Simple**, **AGER BI**, **Agile Insights**, and **A1 Technologies** are strong national specialists with proven Adelaide delivery capability. It's recommended to reach out to a few for scoping conversations to find the best fit for your specific needs.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "Microsoft Power BI Fabric analytics consultants Adelaide operational reporting data warehousing",
+        "top Power BI consultants Adelaide Australia"
+      ]
+    }
+  ]
+}

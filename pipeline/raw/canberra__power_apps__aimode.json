@@ -1,0 +1,198 @@
+{
+  "slug": "canberra",
+  "pk": "power_apps",
+  "plat": "aimode",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Canberra for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__power_apps__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:15.139Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading Microsoft Power Apps and Dataverse consultants in Canberra for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000142,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20Microsoft%20Power%20Apps%20and%20Dataverse%20consultants%20in%20Canberra%20for%20building%20custom%20operational%20business%20apps%20for%20warehouse%2C%20shop-floor%2C%20or%20field%20teams%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCSGQXLBpTRZrEWBWaadu6gAF",
+      "datetime": "2026-10-29 04:09:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "When looking for Microsoft Power Apps and Dataverse consultants in Canberra to build tailored operational tools—such as offline-capable warehouse scanners, shop-floor data capture, or field-service applications—`local expertise that understands both low-code architecture and rigorous compliance (especially for ACT/Federal or enterprise supply chains) is essential`.\n\nThe prominent consultancies and specialists operating in the Canberra region explicitly focusing on Power Apps, Dataverse, and frontline operational deployments include:\n\n- **Inturing:** Known specifically for replacing legacy paper forms and shared spreadsheets with purpose-built operational [Inturing Business Apps](https://inturing.com.au/solutions/business-apps) tailored for shop-floor, warehouse, and field teams. They focus heavily on structured Dataverse modeling, offline/field readiness, and ergonomic single-purpose app design with large touch targets for frontline workers. You can review their full suite of services on the [Inturing Power Apps Implementation](https://www.inturing.com.au/power-apps) page.[[1]](https://www.inturing.com.au/power-apps)[[2]](https://inturing.com.au/solutions/business-apps)\n- **Evocate:** Operating a dedicated local practice out of Fyshwick (Canberra), Evocate focuses heavily on the local ecosystem, providing [Canberra Microsoft Consultants](https://www.evocate.com.au/locations/canberra/) who understand security frameworks, compliance, and structured [Power Platform for Government and enterprise](https://www.evocate.com.au/locations/canberra/) deployment. They specialize in internal process modernization, Dataverse configuration, and ongoing secured environment management.[[1]](https://www.evocate.com.au/locations/canberra/)\n- **Power Platform Experts Canberra:** A dedicated regional consultancy specializing in low-code custom application development, workflow automation, and Dataverse architecture. They deliver interactive business applications integrated with the broader Microsoft ecosystem (Power Automate, Power BI, and Power Apps) tailored to local business process optimisation.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)\n\nIf you'd like to narrow this down, please let me know:\n\n- Are these apps required to function **completely offline** in remote or low-connectivity zones?\n- Do you need integration with an **existing ERP/WMS** (like SAP, Dynamics 365, or TechOne)?\n- Do you operate under specific **Commonwealth/ACT security or compliance** frameworks?\n\nI can help tailor this recommendation or outline key technical architecture questions for your tender.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for Microsoft Power Apps and Dataverse consultants in Canberra to build tailored operational tools—such as offline-capable warehouse scanners, shop-floor data capture, or field-service applications— local expertise that understands both low-code architecture and rigorous compliance (especially for ACT/Federal or enterprise supply chains) is essential.",
+              "markdown": "When looking for Microsoft Power Apps and Dataverse consultants in Canberra to build tailored operational tools—such as offline-capable warehouse scanners, shop-floor data capture, or field-service applications—`local expertise that understands both low-code architecture and rigorous compliance (especially for ACT/Federal or enterprise supply chains) is essential`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The prominent consultancies and specialists operating in the Canberra region explicitly focusing on Power Apps, Dataverse, and frontline operational deployments include:",
+              "markdown": "The prominent consultancies and specialists operating in the Canberra region explicitly focusing on Power Apps, Dataverse, and frontline operational deployments include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Inturing : Known specifically for replacing legacy paper forms and shared spreadsheets with purpose-built operational Inturing Business Apps tailored for shop-floor, warehouse, and field teams. They focus heavily on structured Dataverse modeling, offline/field readiness, and ergonomic single-purpose app design with large touch targets for frontline workers. You can review their full suite of services on the Inturing Power Apps Implementation page. Inturing : Evocate : Operating a dedicated local practice out of Fyshwick (Canberra), Evocate focuses heavily on the local ecosystem, providing Canberra Microsoft Consultants who understand security frameworks, compliance, and structured Power Platform for Government and enterprise deployment. They specialize in internal process modernization, Dataverse configuration, and ongoing secured environment management. Evocate : Evocate Operating a dedicated local practice out of Fyshwick (Canberra), Evocate focuses heavily on the local ecosystem, providing Evocate Power Platform Experts Canberra : A dedicated regional consultancy specializing in low-code custom application development, workflow automation, and Dataverse architecture. They deliver interactive business applications integrated with the broader Microsoft ecosystem (Power Automate, Power BI, and Power Apps) tailored to local business process optimisation. Power Platform Experts Canberra :",
+              "markdown": "- **Inturing:** Known specifically for replacing legacy paper forms and shared spreadsheets with purpose-built operational [Inturing Business Apps](https://inturing.com.au/solutions/business-apps) tailored for shop-floor, warehouse, and field teams. They focus heavily on structured Dataverse modeling, offline/field readiness, and ergonomic single-purpose app design with large touch targets for frontline workers. You can review their full suite of services on the [Inturing Power Apps Implementation](https://www.inturing.com.au/power-apps) page.[[1]](https://www.inturing.com.au/power-apps)[[2]](https://inturing.com.au/solutions/business-apps)\n- **Evocate:** Operating a dedicated local practice out of Fyshwick (Canberra), Evocate focuses heavily on the local ecosystem, providing [Canberra Microsoft Consultants](https://www.evocate.com.au/locations/canberra/) who understand security frameworks, compliance, and structured [Power Platform for Government and enterprise](https://www.evocate.com.au/locations/canberra/) deployment. They specialize in internal process modernization, Dataverse configuration, and ongoing secured environment management.[[1]](https://www.evocate.com.au/locations/canberra/)\n- **Power Platform Experts Canberra:** A dedicated regional consultancy specializing in low-code custom application development, workflow automation, and Dataverse architecture. They deliver interactive business applications integrated with the broader Microsoft ecosystem (Power Automate, Power BI, and Power Apps) tailored to local business process optimisation.[[1]](https://www.powerplatformexperts.com.au/power-platform-consultants-canberra)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Inturing Business Apps",
+                  "description": null,
+                  "url": "https://inturing.com.au/solutions/business-apps",
+                  "domain": "inturing.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Inturing Power Apps Implementation",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/power-apps",
+                  "domain": "www.inturing.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Canberra Microsoft Consultants",
+                  "description": null,
+                  "url": "https://www.evocate.com.au/locations/canberra/",
+                  "domain": "www.evocate.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power Platform for Government and enterprise",
+                  "description": null,
+                  "url": "https://www.evocate.com.au/locations/canberra/",
+                  "domain": "www.evocate.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/power-apps",
+                  "title": "Power Apps Implementation | Australia — Your Site Title",
+                  "text": "Inturing delivers Power Apps consulting, design, and application development services to help organisations build secure, scalable..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "inturing.com.au",
+                  "url": "https://inturing.com.au/solutions/business-apps",
+                  "title": "Operational Business Apps with Power Apps",
+                  "text": "Focused app design One app for one job. Large touch targets, minimal typing, works on the devices your team already carries. * 02 ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.evocate.com.au",
+                  "domain": "www.evocate.com.au",
+                  "url": "https://www.evocate.com.au/locations/canberra/",
+                  "title": "Canberra Microsoft Consultants - Evocate",
+                  "text": "Call 1300 386 228 or email sales@evocate.com.au to speak with our Canberra team at 12 Albany Street, Fyshwick. Phone: 1300 386 228..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Power Platform Experts",
+                  "domain": "www.powerplatformexperts.com.au",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+                  "title": "Power Platform Consultants Canberra",
+                  "text": "Power Platform Experts Canberra specialise in business automation solutions and custom application development."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are these apps required to function completely offline in remote or low-connectivity zones? Do you need integration with an existing ERP/WMS (like SAP, Dynamics 365, or TechOne)? Do you operate under specific Commonwealth/ACT security or compliance frameworks?",
+              "markdown": "- Are these apps required to function **completely offline** in remote or low-connectivity zones?\n- Do you need integration with an **existing ERP/WMS** (like SAP, Dynamics 365, or TechOne)?\n- Do you operate under specific **Commonwealth/ACT security or compliance** frameworks?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor this recommendation or outline key technical architecture questions for your tender.",
+              "markdown": "I can help tailor this recommendation or outline key technical architecture questions for your tender.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "www.inturing.com.au",
+              "url": "https://www.inturing.com.au/power-apps",
+              "title": "Power Apps Implementation | Australia — Your Site Title",
+              "text": "Inturing delivers Power Apps consulting, design, and application development services to help organisations build secure, scalable, low-code applications"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.evocate.com.au",
+              "domain": "www.evocate.com.au",
+              "url": "https://www.evocate.com.au/locations/canberra/",
+              "title": "Canberra Microsoft Consultants - Evocate",
+              "text": "Call 1300 386 228 or email sales@evocate.com.au to speak with our Canberra team at 12 Albany Street, Fyshwick. Phone: 1300 386 228. Hours: Monday–Friday, 9:00 AM"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Power Platform Experts",
+              "domain": "www.powerplatformexperts.com.au",
+              "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-canberra",
+              "title": "Power Platform Consultants Canberra",
+              "text": "Power Platform Experts Canberra specialise in business automation solutions and custom application development."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "slug": "canberra",
+  "pk": "copilot_ai",
+  "plat": "chatgpt",
+  "text": "Which AI automation consultants in Canberra specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__copilot_ai__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:46.064Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which AI automation consultants in Canberra specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=Which%20AI%20automation%20consultants%20in%20Canberra%20specialise%20in%20Microsoft%20Copilot%20Studio%2C%20AI%20agents%2C%20and%20practical%20AI%20workflow%20automation%20for%20mid-market%20businesses%3F&hints=search",
+      "datetime": "2026-10-29 04:09:40 +00:00",
+      "markdown": "For a Canberra mid-market business looking to implement **Microsoft Copilot Studio, AI agents and practical workflow automation**, I’d start with specialists who can move beyond AI strategy and deliver working automations integrated with existing business systems.\n\nMy shortlist separates Microsoft-first consultancies from broader AI automation firms. The key distinction is whether you want agents built natively in the Microsoft ecosystem, or the flexibility to automate processes across multiple platforms.\n\n## Best-fit consultants to investigate\n\n![AI Readiness Diagnostic - where does your organisation really stand? | FutureAbility](https://images.openai.com/static-rsc-4/gGNVfmAfNiYGEFU-ZvDhZ2IO1d-9c_8I91j-_ybfWs6-VQFHr0iB93cJmMrUIjHbY1EpPzj1xqo4Vp2KEcbJh4V0zQy-U98zPi7A1CPuvcr2jzqKpLCqpjILD72-3bMeCKmya4yX_VC12T00u_JMQTw4ksz8XwlaGM_m8fjk8MI_yQLH5bRLrGOmJFTSM2PM?purpose=fullsize)\n\n**1\\. FutureAbility — strongest overall match**\n\n(Top match)\n\nAustralian-wide · Microsoft-first · Mid-market\n\nSpecialises in Power Platform, Copilot Studio and AI agents, with a delivery approach built around live workflows rather than standalone chatbot demos. Offers proof-of-concept projects, fixed-scope builds and ongoing advisory. Its website identifies it as a Power Platform Partner and Microsoft Cloud &amp; AI Platforms Solutions Partner. [futureability.com](https://futureability.com/?utm_source=chatgpt.com)\n\n**Best for\\:** A mid-market business wanting a structured path from a business problem to a working agent in its Microsoft tenant.\n\n[Website and contact](https://futureability.com/)\n\n---\n\n![Digital Transformation Consultants Canberra — ReSimplify](https://images.openai.com/static-rsc-4/XMM_kxLpfmiVhfYi0Fv-eDJltU2Ue-pslBivN7yFKlTGJqSuuQkcc0AY7eBItvnL7EibJfGrzzNydAtqXROQDgJzoOuIIMyOYxZgaZfOCCChJIiVw_UxTJeVtqUY6AKnBJKhMMQuPrlFu_NYg2X6rl3LX2qBqXJF_sOARBLA6Y9YUpR9aEMtK5mcKtah0RbE?purpose=fullsize)\n\n**2\\. ReSimplify — local hands-on automation**\n\nCanberra · Custom AI and integrations\n\nAdvertises custom copilots and agents, embedded AI workflows, document processing and integration between business systems. It emphasises giving clients tools they can operate and extend themselves. [resimplify.com.au](https://resimplify.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** A local business that wants repetitive administrative work automated across its existing applications.\n\n**Qualification\\:** Confirm that Copilot Studio and Power Automate are the proposed implementation platforms, rather than assuming all its AI work uses Microsoft.\n\n[Website](https://resimplify.com.au/)\n\n---\n\n![IT Support, Cyber Security & IT Strategy in Melbourne & Hobart | IT Strategic](https://images.openai.com/static-rsc-4/YCaCCQBuYf_oKzXqJ87gF0cSIH8NJUq5PUsqKqhhK9B8toDFr_AkzH9qG5Yvl0F0ABqKp3BMEjrrGfwN35e7tb_ytUF-k8X49mIanozdSazy43aVbrbJDSvUOp1IG43JXSFUNienm0YzQAmGVKlG2OBWGuneslTkpmtQJjQYZaf790LvCm7iyZB_cLCFS10d?purpose=fullsize)\n\n**3\\. I.T.S Canberra — AI adoption and ongoing support**\n\nCanberra · Microsoft 365 · Security\n\nOffers AI opportunity assessments, Microsoft 365 data and Copilot readiness, AI agents, workflow automation, governance and ongoing support. [itscanberra.com.au](https://itscanberra.com.au/ai-cyber-security?utm_source=chatgpt.com)\n\n**Best for\\:** An established business that needs help identifying suitable workflows, deploying AI safely and supporting the solution after launch.\n\n[AI and automation services](https://itscanberra.com.au/ai-cyber-security)\n\n---\n\n![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)\n\n**4\\. Frontrow Technology — Microsoft and security governance**\n\nCanberra delivery · Microsoft Partner\n\nOffers Copilot Studio agents, Microsoft 365 deployment and security-conscious AI implementation, with attention to data permissions, information classification and governance. It also provides managed IT and security services. [frontrowtech.com.au](https://frontrowtech.com.au/microsoft-partner-canberra?utm_source=chatgpt.com)\n\n**Best for\\:** Businesses handling sensitive information or operating in government-adjacent, regulated environments.\n\n[Canberra Microsoft services](https://frontrowtech.com.au/microsoft-partner-canberra)\n\n---\n\n![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)\n\n**5\\. Eagle360 Consulting — production-grade business automation**\n\nSydney and Melbourne · National mid-market focus\n\nBuilds Copilot Studio agents and Power Platform applications, with a particular focus on Microsoft Dynamics 365 Business Central integrations, approvals, governance and replacing spreadsheet-based processes. Its published fixed-price engagements start at A\\$25,000. [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com)\n\n**Best for\\:** A business needing deeper integration with its ERP, finance, inventory or operational systems.\n\n**Qualification\\:** Confirm Canberra delivery arrangements and whether the proposed project fits its pricing model.\n\n[Power Platform and Copilot services](https://eagle360.consulting/power-platform-copilot/)\n\n---\n\n![Walkinshaw TWG Racing / Think Technology](https://images.openai.com/static-rsc-4/MvsrvIF0LX2s8Fyaazphx7TdhYp8NGf8w9bIiqhBCwQ3K4eU8t3owlZqF67gJac3drVv_gDnG9JrP-_bLCMy7fstz31ZlWENDGtcjlTjDXUqaCe4O34k3bffUWD2JM3w6wHdEbQ5TlJUd_rGUHTsWxl7vKNp468T-ZgBlLzofO-re7yAyaFoDBvkw1KGGUuX?purpose=fullsize)\n\n**6\\. Think Technology Australia — practical AI implementation**\n\nCanberra services · Business AI adoption\n\nPromotes practical AI consulting focused on finding high-value use cases, choosing tools, deploying them securely and reducing repetitive administration. It is a useful additional candidate for discovery and implementation planning. [www.thinktechnology.com.au](https://www.thinktechnology.com.au/ai-consulting-canberra/?utm_source=chatgpt.com)\n\n**Best for\\:** A business wanting to identify and prioritise achievable AI projects before committing to a larger build.\n\n[Canberra AI consulting](https://www.thinktechnology.com.au/ai-consulting-canberra/)\n\n## How I would shortlist them\n\n| Your main requirement | Start with |\n|--------|--------|\n| Copilot Studio agents and Power Platform expertise | FutureAbility |\n| Canberra-based workflow automation | ReSimplify |\n| Microsoft 365 readiness, security and ongoing support | I.T.S Canberra |\n| Sensitive data and strict governance | Frontrow Technology |\n| ERP integration and complex business processes | Eagle360 |\n| Use-case discovery and practical AI adoption | Think Technology Australia |\n\n\nThese are research-based matches, not a verified ranking of delivery quality. FutureAbility is particularly relevant to your stated mid-market focus; the Canberra firms are worth assessing for local delivery and support.\n\n## What to ask before engaging\n\nRequest a short discovery session and ask each candidate to demonstrate\\:\n\n- **A live Copilot Studio agent** connected to business data and able to complete a real business task.\n- **A complete workflow**, including Power Automate, exception handling, approvals and integration with your existing systems.\n- **Security and governance controls**, including permissions, auditability, data handling and human oversight.\n- **A measurable business case\\:** expected hours saved, implementation cost, licensing costs and ongoing support.\n- **A reference project** for a business of similar size and complexity.\n\nI would initially seek proposals for one bounded workflow, such as processing incoming enquiries, extracting information from documents, automating internal approvals or answering staff questions from approved company knowledge.\n\n## Next step\n\nI can help you narrow this down further\\:\n\n[Compare the top 3] [Prepare an RFP brief]",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://resimplify.com.au/",
+          "domain": "resimplify.com.au",
+          "title": "ReSimplify — AI & Automation Consultants Canberra",
+          "description": null,
+          "breadcrumb": "resimplify.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://resimplify.com.au/",
+          "domain": "resimplify.com.au",
+          "title": "ReSimplify — AI & Automation Consultants Canberra",
+          "description": "Total lines: 0\n",
+          "breadcrumb": "resimplify.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "domain": "eagle360.consulting",
+          "title": "Power Platform & Copilot",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "domain": "eagle360.consulting",
+          "title": "eagle360.consulting",
+          "description": "Total lines: 581\n",
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.techbrain.com.au/ai-workflow-automation/",
+          "domain": "www.techbrain.com.au",
+          "title": "AI Workflow Automation Services Australia | TechBrain",
+          "description": null,
+          "breadcrumb": "www.techbrain.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://itscanberra.com.au/ai-cyber-security",
+          "domain": "itscanberra.com.au",
+          "title": "AI & Automation for Canberra Businesses | Workflow Automation & Cyber Security | I.T.S Canberra",
+          "description": null,
+          "breadcrumb": "itscanberra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://itscanberra.com.au/ai-cyber-security",
+          "domain": "itscanberra.com.au",
+          "title": "AI & Cyber Security Canberra | I.T.S Canberra",
+          "description": "Total lines: 218\n",
+          "breadcrumb": "itscanberra.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/",
+          "domain": "www.thinktechnology.com.au",
+          "title": "AI Consulting Canberra | Think Technology Australia",
+          "description": null,
+          "breadcrumb": "www.thinktechnology.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/",
+          "domain": "www.thinktechnology.com.au",
+          "title": "AI Consulting Canberra | Think Technology Australia",
+          "description": "Total lines: 281\n",
+          "breadcrumb": "www.thinktechnology.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://axelconsulting.com.au/",
+          "domain": "axelconsulting.com.au",
+          "title": "Microsoft Business Application & Software Development Experts | AXEL Consulting",
+          "description": null,
+          "breadcrumb": "axelconsulting.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://spruik.co/canberra/ai-implementation/",
+          "domain": "spruik.co",
+          "title": "AI Implementation Canberra | AI Build & Integration | Spruik",
+          "description": null,
+          "breadcrumb": "spruik.co"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://futureability.com/",
+          "domain": "futureability.com",
+          "title": "AI Agents & Power Platform Specialists Australia | FutureAbility",
+          "description": null,
+          "breadcrumb": "futureability.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://futureability.com/",
+          "domain": "futureability.com",
+          "title": "AI Agents & Power Platform Specialists Australia | FutureAbility",
+          "description": "Total lines: 68\n",
+          "breadcrumb": "futureability.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://frontrowtech.com.au/microsoft-partner-canberra",
+          "domain": "frontrowtech.com.au",
+          "title": "Microsoft Partner Canberra — government-aware M365, Copilot and Cyber delivery | Frontrow",
+          "description": null,
+          "breadcrumb": "frontrowtech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://frontrowtech.com.au/microsoft-partner-canberra",
+          "domain": "frontrowtech.com.au",
+          "title": "Microsoft Partner Canberra — government-aware M365, Copilot and Cyber delivery | Frontrow Technology",
+          "description": "Total lines: 166\n",
+          "breadcrumb": "frontrowtech.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.mojoup.com.au/",
+          "domain": "www.mojoup.com.au",
+          "title": "Mojo Up",
+          "description": null,
+          "breadcrumb": "www.mojoup.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot",
+          "domain": "www.microsoft.com",
+          "title": "GET AI runs its business on agents built with Microsoft Copilot Studio | Microsoft Customer Stories",
+          "description": null,
+          "breadcrumb": "www.microsoft.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://outcomegreen.com.au/ai-copilot",
+          "domain": "outcomegreen.com.au",
+          "title": "AI & Copilot Solutions — Outcome Green Consulting",
+          "description": null,
+          "breadcrumb": "outcomegreen.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "AI Agents & Power Platform Specialists Australia",
+          "snippet": "Total lines: 68",
+          "domain": "futureability.com",
+          "url": "https://futureability.com/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "FutureAbility",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website and contact",
+          "snippet": null,
+          "domain": "futureability.com",
+          "url": "https://futureability.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website and contact](https://futureability.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ReSimplify",
+          "snippet": null,
+          "domain": "resimplify.com.au",
+          "url": "https://resimplify.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "AI & Automation Consultants Canberra",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Website",
+          "snippet": null,
+          "domain": "resimplify.com.au",
+          "url": "https://resimplify.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Website](https://resimplify.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI & Cyber Security Canberra",
+          "snippet": "Total lines: 218",
+          "domain": "itscanberra.com.au",
+          "url": "https://itscanberra.com.au/ai-cyber-security?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "I.T.S Canberra",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI and automation services",
+          "snippet": null,
+          "domain": "itscanberra.com.au",
+          "url": "https://itscanberra.com.au/ai-cyber-security",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[AI and automation services](https://itscanberra.com.au/ai-cyber-security)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft Partner Canberra — government-aware M365, Copilot and Cyber delivery",
+          "snippet": "Total lines: 166",
+          "domain": "frontrowtech.com.au",
+          "url": "https://frontrowtech.com.au/microsoft-partner-canberra?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Frontrow Technology",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Canberra Microsoft services",
+          "snippet": null,
+          "domain": "frontrowtech.com.au",
+          "url": "https://frontrowtech.com.au/microsoft-partner-canberra",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Canberra Microsoft services](https://frontrowtech.com.au/microsoft-partner-canberra)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": null,
+          "snippet": "Total lines: 581",
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Eagle360 Consulting",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Platform and Copilot services",
+          "snippet": null,
+          "domain": "eagle360.consulting",
+          "url": "https://eagle360.consulting/power-platform-copilot/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Power Platform and Copilot services](https://eagle360.consulting/power-platform-copilot/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "AI Consulting Canberra",
+          "snippet": null,
+          "domain": "www.thinktechnology.com.au",
+          "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Think Technology Australia",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Canberra AI consulting",
+          "snippet": null,
+          "domain": "www.thinktechnology.com.au",
+          "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Canberra AI consulting](https://www.thinktechnology.com.au/ai-consulting-canberra/)"
+        }
+      ],
+      "fan_out_queries": [
+        "Canberra Australia Microsoft Copilot Studio AI agents workflow automation consultants mid-market business"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform and Copilot Studio consultancy",
+          "category": "organization",
+          "markdown": "FutureAbility",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra AI and workflow automation consultancy",
+          "category": "organization",
+          "markdown": "ReSimplify",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Canberra IT managed services and AI consultancy",
+          "category": "organization",
+          "markdown": "I.T.S Canberra",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft partner and cybersecurity consultancy",
+          "category": "organization",
+          "markdown": "Frontrow Technology",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Microsoft Power Platform and Copilot consultancy",
+          "category": "organization",
+          "markdown": "Eagle360 Consulting",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian IT services and AI consulting provider",
+          "category": "organization",
+          "markdown": "Think Technology Australia",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_table"
+      ],
+      "items_count": 15,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a Canberra mid-market business looking to implement **Microsoft Copilot Studio, AI agents and practical workflow automation**, I’d start with specialists who can move beyond AI strategy and deliver working automations integrated with existing business systems.\n\nMy shortlist separates Microsoft-first consultancies from broader AI automation firms. The key distinction is whether you want agents built natively in the Microsoft ecosystem, or the flexibility to automate processes across multiple platforms.\n\n## Best-fit consultants to investigate\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![AI Readiness Diagnostic - where does your organisation really stand? | FutureAbility](https://images.openai.com/static-rsc-4/gGNVfmAfNiYGEFU-ZvDhZ2IO1d-9c_8I91j-_ybfWs6-VQFHr0iB93cJmMrUIjHbY1EpPzj1xqo4Vp2KEcbJh4V0zQy-U98zPi7A1CPuvcr2jzqKpLCqpjILD72-3bMeCKmya4yX_VC12T00u_JMQTw4ksz8XwlaGM_m8fjk8MI_yQLH5bRLrGOmJFTSM2PM?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.futureability.com/diagnostic",
+              "alt": "AI Readiness Diagnostic - where does your organisation really stand? | FutureAbility",
+              "image_url": "https://images.openai.com/static-rsc-4/gGNVfmAfNiYGEFU-ZvDhZ2IO1d-9c_8I91j-_ybfWs6-VQFHr0iB93cJmMrUIjHbY1EpPzj1xqo4Vp2KEcbJh4V0zQy-U98zPi7A1CPuvcr2jzqKpLCqpjILD72-3bMeCKmya4yX_VC12T00u_JMQTw4ksz8XwlaGM_m8fjk8MI_yQLH5bRLrGOmJFTSM2PM?purpose=fullsize",
+              "markdown": "![AI Readiness Diagnostic - where does your organisation really stand? | FutureAbility](https://images.openai.com/static-rsc-4/gGNVfmAfNiYGEFU-ZvDhZ2IO1d-9c_8I91j-_ybfWs6-VQFHr0iB93cJmMrUIjHbY1EpPzj1xqo4Vp2KEcbJh4V0zQy-U98zPi7A1CPuvcr2jzqKpLCqpjILD72-3bMeCKmya4yX_VC12T00u_JMQTw4ksz8XwlaGM_m8fjk8MI_yQLH5bRLrGOmJFTSM2PM?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n**1\\. FutureAbility — strongest overall match**\n\n(Top match)\n\nAustralian-wide · Microsoft-first · Mid-market\n\nSpecialises in Power Platform, Copilot Studio and AI agents, with a delivery approach built around live workflows rather than standalone chatbot demos. Offers proof-of-concept projects, fixed-scope builds and ongoing advisory. Its website identifies it as a Power Platform Partner and Microsoft Cloud &amp; AI Platforms Solutions Partner. [futureability.com](https://futureability.com/?utm_source=chatgpt.com)\n\n**Best for\\:** A mid-market business wanting a structured path from a business problem to a working agent in its Microsoft tenant.\n\n[Website and contact](https://futureability.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Agents & Power Platform Specialists Australia",
+              "snippet": "Total lines: 68",
+              "domain": "futureability.com",
+              "url": "https://futureability.com/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "FutureAbility",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website and contact",
+              "snippet": null,
+              "domain": "futureability.com",
+              "url": "https://futureability.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website and contact](https://futureability.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform and Copilot Studio consultancy",
+              "category": "organization",
+              "markdown": "FutureAbility",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Digital Transformation Consultants Canberra — ReSimplify](https://images.openai.com/static-rsc-4/XMM_kxLpfmiVhfYi0Fv-eDJltU2Ue-pslBivN7yFKlTGJqSuuQkcc0AY7eBItvnL7EibJfGrzzNydAtqXROQDgJzoOuIIMyOYxZgaZfOCCChJIiVw_UxTJeVtqUY6AKnBJKhMMQuPrlFu_NYg2X6rl3LX2qBqXJF_sOARBLA6Y9YUpR9aEMtK5mcKtah0RbE?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://resimplify.com.au/digital-transformation/",
+              "alt": "Digital Transformation Consultants Canberra — ReSimplify",
+              "image_url": "https://images.openai.com/static-rsc-4/XMM_kxLpfmiVhfYi0Fv-eDJltU2Ue-pslBivN7yFKlTGJqSuuQkcc0AY7eBItvnL7EibJfGrzzNydAtqXROQDgJzoOuIIMyOYxZgaZfOCCChJIiVw_UxTJeVtqUY6AKnBJKhMMQuPrlFu_NYg2X6rl3LX2qBqXJF_sOARBLA6Y9YUpR9aEMtK5mcKtah0RbE?purpose=fullsize",
+              "markdown": "![Digital Transformation Consultants Canberra — ReSimplify](https://images.openai.com/static-rsc-4/XMM_kxLpfmiVhfYi0Fv-eDJltU2Ue-pslBivN7yFKlTGJqSuuQkcc0AY7eBItvnL7EibJfGrzzNydAtqXROQDgJzoOuIIMyOYxZgaZfOCCChJIiVw_UxTJeVtqUY6AKnBJKhMMQuPrlFu_NYg2X6rl3LX2qBqXJF_sOARBLA6Y9YUpR9aEMtK5mcKtah0RbE?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n**2\\. ReSimplify — local hands-on automation**\n\nCanberra · Custom AI and integrations\n\nAdvertises custom copilots and agents, embedded AI workflows, document processing and integration between business systems. It emphasises giving clients tools they can operate and extend themselves. [resimplify.com.au](https://resimplify.com.au/?utm_source=chatgpt.com)\n\n**Best for\\:** A local business that wants repetitive administrative work automated across its existing applications.\n\n**Qualification\\:** Confirm that Copilot Studio and Power Automate are the proposed implementation platforms, rather than assuming all its AI work uses Microsoft.\n\n[Website](https://resimplify.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "ReSimplify",
+              "snippet": null,
+              "domain": "resimplify.com.au",
+              "url": "https://resimplify.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "AI & Automation Consultants Canberra",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Website",
+              "snippet": null,
+              "domain": "resimplify.com.au",
+              "url": "https://resimplify.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Website](https://resimplify.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra AI and workflow automation consultancy",
+              "category": "organization",
+              "markdown": "ReSimplify",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![IT Support, Cyber Security & IT Strategy in Melbourne & Hobart | IT Strategic](https://images.openai.com/static-rsc-4/YCaCCQBuYf_oKzXqJ87gF0cSIH8NJUq5PUsqKqhhK9B8toDFr_AkzH9qG5Yvl0F0ABqKp3BMEjrrGfwN35e7tb_ytUF-k8X49mIanozdSazy43aVbrbJDSvUOp1IG43JXSFUNienm0YzQAmGVKlG2OBWGuneslTkpmtQJjQYZaf790LvCm7iyZB_cLCFS10d?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.itstrategic.com.au/",
+              "alt": "IT Support, Cyber Security & IT Strategy in Melbourne & Hobart | IT Strategic",
+              "image_url": "https://images.openai.com/static-rsc-4/YCaCCQBuYf_oKzXqJ87gF0cSIH8NJUq5PUsqKqhhK9B8toDFr_AkzH9qG5Yvl0F0ABqKp3BMEjrrGfwN35e7tb_ytUF-k8X49mIanozdSazy43aVbrbJDSvUOp1IG43JXSFUNienm0YzQAmGVKlG2OBWGuneslTkpmtQJjQYZaf790LvCm7iyZB_cLCFS10d?purpose=fullsize",
+              "markdown": "![IT Support, Cyber Security & IT Strategy in Melbourne & Hobart | IT Strategic](https://images.openai.com/static-rsc-4/YCaCCQBuYf_oKzXqJ87gF0cSIH8NJUq5PUsqKqhhK9B8toDFr_AkzH9qG5Yvl0F0ABqKp3BMEjrrGfwN35e7tb_ytUF-k8X49mIanozdSazy43aVbrbJDSvUOp1IG43JXSFUNienm0YzQAmGVKlG2OBWGuneslTkpmtQJjQYZaf790LvCm7iyZB_cLCFS10d?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n**3\\. I.T.S Canberra — AI adoption and ongoing support**\n\nCanberra · Microsoft 365 · Security\n\nOffers AI opportunity assessments, Microsoft 365 data and Copilot readiness, AI agents, workflow automation, governance and ongoing support. [itscanberra.com.au](https://itscanberra.com.au/ai-cyber-security?utm_source=chatgpt.com)\n\n**Best for\\:** An established business that needs help identifying suitable workflows, deploying AI safely and supporting the solution after launch.\n\n[AI and automation services](https://itscanberra.com.au/ai-cyber-security)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI & Cyber Security Canberra",
+              "snippet": "Total lines: 218",
+              "domain": "itscanberra.com.au",
+              "url": "https://itscanberra.com.au/ai-cyber-security?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "I.T.S Canberra",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "AI and automation services",
+              "snippet": null,
+              "domain": "itscanberra.com.au",
+              "url": "https://itscanberra.com.au/ai-cyber-security",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[AI and automation services](https://itscanberra.com.au/ai-cyber-security)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Canberra IT managed services and AI consultancy",
+              "category": "organization",
+              "markdown": "I.T.S Canberra",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.resourceindustrynetwork.org.au/",
+              "alt": "Home",
+              "image_url": "https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize",
+              "markdown": "![Home](https://images.openai.com/static-rsc-4/-CL0qeLUyz5TH93D15uFDlYb8_ZboS6fcYCW_v8QoHGmPXZavF5RDvvoF66HsXtIySAaNjL78dzLYWf4ZTVWLaEzORfNPihEhExpDSpKelglrpNA8hLUaD3MtOSokZsAPgeGExUrzLcJpZcy0H610ffi2z6B4iyQU5KopCRSAiEFbtUPMRkuQx3MyE9rGc1Q?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n**4\\. Frontrow Technology — Microsoft and security governance**\n\nCanberra delivery · Microsoft Partner\n\nOffers Copilot Studio agents, Microsoft 365 deployment and security-conscious AI implementation, with attention to data permissions, information classification and governance. It also provides managed IT and security services. [frontrowtech.com.au](https://frontrowtech.com.au/microsoft-partner-canberra?utm_source=chatgpt.com)\n\n**Best for\\:** Businesses handling sensitive information or operating in government-adjacent, regulated environments.\n\n[Canberra Microsoft services](https://frontrowtech.com.au/microsoft-partner-canberra)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft Partner Canberra — government-aware M365, Copilot and Cyber delivery",
+              "snippet": "Total lines: 166",
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/microsoft-partner-canberra?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Frontrow Technology",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Canberra Microsoft services",
+              "snippet": null,
+              "domain": "frontrowtech.com.au",
+              "url": "https://frontrowtech.com.au/microsoft-partner-canberra",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Canberra Microsoft services](https://frontrowtech.com.au/microsoft-partner-canberra)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft partner and cybersecurity consultancy",
+              "category": "organization",
+              "markdown": "Frontrow Technology",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.myob.com/au/implementation-partners/eagle360-consulting",
+              "alt": "Eagle360 Consulting MYOB Partner Profile",
+              "image_url": "https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize",
+              "markdown": "![Eagle360 Consulting MYOB Partner Profile](https://images.openai.com/static-rsc-4/8Kc1pUNuIpJm8R_IOZ8kI9qgziN0OPH_vhUcoC1Rg0PKMBPDoWmIQ-iV2YXNeR3SGlm7KiUN1y5Z-WS-bkXlfDY_0IcL-wV94sfDjPPDkcbVpnAEmxgPeP_c7MQXENNgXoWfnEwIZmc9GL9ptMGeIZgPmyHJheW9puCOUDZZj-9phZMfTMPVBXzSCcWtO6zI?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n**5\\. Eagle360 Consulting — production-grade business automation**\n\nSydney and Melbourne · National mid-market focus\n\nBuilds Copilot Studio agents and Power Platform applications, with a particular focus on Microsoft Dynamics 365 Business Central integrations, approvals, governance and replacing spreadsheet-based processes. Its published fixed-price engagements start at A\\$25,000. [eagle360.consulting](https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com)\n\n**Best for\\:** A business needing deeper integration with its ERP, finance, inventory or operational systems.\n\n**Qualification\\:** Confirm Canberra delivery arrangements and whether the proposed project fits its pricing model.\n\n[Power Platform and Copilot services](https://eagle360.consulting/power-platform-copilot/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": null,
+              "snippet": "Total lines: 581",
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/power-platform-copilot/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Eagle360 Consulting",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Platform and Copilot services",
+              "snippet": null,
+              "domain": "eagle360.consulting",
+              "url": "https://eagle360.consulting/power-platform-copilot/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Power Platform and Copilot services](https://eagle360.consulting/power-platform-copilot/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Microsoft Power Platform and Copilot consultancy",
+              "category": "organization",
+              "markdown": "Eagle360 Consulting",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "markdown": "![Walkinshaw TWG Racing / Think Technology](https://images.openai.com/static-rsc-4/MvsrvIF0LX2s8Fyaazphx7TdhYp8NGf8w9bIiqhBCwQ3K4eU8t3owlZqF67gJac3drVv_gDnG9JrP-_bLCMy7fstz31ZlWENDGtcjlTjDXUqaCe4O34k3bffUWD2JM3w6wHdEbQ5TlJUd_rGUHTsWxl7vKNp468T-ZgBlLzofO-re7yAyaFoDBvkw1KGGUuX?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.walkinshawtwgracing.com.au/team/partner/think%20technology/",
+              "alt": "Walkinshaw TWG Racing / Think Technology",
+              "image_url": "https://images.openai.com/static-rsc-4/MvsrvIF0LX2s8Fyaazphx7TdhYp8NGf8w9bIiqhBCwQ3K4eU8t3owlZqF67gJac3drVv_gDnG9JrP-_bLCMy7fstz31ZlWENDGtcjlTjDXUqaCe4O34k3bffUWD2JM3w6wHdEbQ5TlJUd_rGUHTsWxl7vKNp468T-ZgBlLzofO-re7yAyaFoDBvkw1KGGUuX?purpose=fullsize",
+              "markdown": "![Walkinshaw TWG Racing / Think Technology](https://images.openai.com/static-rsc-4/MvsrvIF0LX2s8Fyaazphx7TdhYp8NGf8w9bIiqhBCwQ3K4eU8t3owlZqF67gJac3drVv_gDnG9JrP-_bLCMy7fstz31ZlWENDGtcjlTjDXUqaCe4O34k3bffUWD2JM3w6wHdEbQ5TlJUd_rGUHTsWxl7vKNp468T-ZgBlLzofO-re7yAyaFoDBvkw1KGGUuX?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n**6\\. Think Technology Australia — practical AI implementation**\n\nCanberra services · Business AI adoption\n\nPromotes practical AI consulting focused on finding high-value use cases, choosing tools, deploying them securely and reducing repetitive administration. It is a useful additional candidate for discovery and implementation planning. [www.thinktechnology.com.au](https://www.thinktechnology.com.au/ai-consulting-canberra/?utm_source=chatgpt.com)\n\n**Best for\\:** A business wanting to identify and prioritise achievable AI projects before committing to a larger build.\n\n[Canberra AI consulting](https://www.thinktechnology.com.au/ai-consulting-canberra/)\n\n## How I would shortlist them\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "AI Consulting Canberra",
+              "snippet": null,
+              "domain": "www.thinktechnology.com.au",
+              "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Think Technology Australia",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Canberra AI consulting",
+              "snippet": null,
+              "domain": "www.thinktechnology.com.au",
+              "url": "https://www.thinktechnology.com.au/ai-consulting-canberra/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Canberra AI consulting](https://www.thinktechnology.com.au/ai-consulting-canberra/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian IT services and AI consulting provider",
+              "category": "organization",
+              "markdown": "Think Technology Australia",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_table",
+          "rank_group": 1,
+          "rank_absolute": 14,
+          "text": null,
+          "markdown": "| Your main requirement | Start with |\n|--------|--------|\n| Copilot Studio agents and Power Platform expertise | FutureAbility |\n| Canberra-based workflow automation | ReSimplify |\n| Microsoft 365 readiness, security and ongoing support | I.T.S Canberra |\n| Sensitive data and strict governance | Frontrow Technology |\n| ERP integration and complex business processes | Eagle360 |\n| Use-case discovery and practical AI adoption | Think Technology Australia |\n\n",
+          "table": {
+            "table_header": [
+              "Your main requirement",
+              "Start with"
+            ],
+            "table_content": [
+              [
+                "Copilot Studio agents and Power Platform expertise",
+                "FutureAbility"
+              ],
+              [
+                "Canberra-based workflow automation",
+                "ReSimplify"
+              ],
+              [
+                "Microsoft 365 readiness, security and ongoing support",
+                "I.T.S Canberra"
+              ],
+              [
+                "Sensitive data and strict governance",
+                "Frontrow Technology"
+              ],
+              [
+                "ERP integration and complex business processes",
+                "Eagle360"
+              ],
+              [
+                "Use-case discovery and practical AI adoption",
+                "Think Technology Australia"
+              ]
+            ]
+          },
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "markdown": "\nThese are research-based matches, not a verified ranking of delivery quality. FutureAbility is particularly relevant to your stated mid-market focus; the Canberra firms are worth assessing for local delivery and support.\n\n## What to ask before engaging\n\nRequest a short discovery session and ask each candidate to demonstrate\\:\n\n- **A live Copilot Studio agent** connected to business data and able to complete a real business task.\n- **A complete workflow**, including Power Automate, exception handling, approvals and integration with your existing systems.\n- **Security and governance controls**, including permissions, auditability, data handling and human oversight.\n- **A measurable business case\\:** expected hours saved, implementation cost, licensing costs and ongoing support.\n- **A reference project** for a business of similar size and complexity.\n\nI would initially seek proposals for one bounded workflow, such as processing incoming enquiries, extracting information from documents, automating internal approvals or answering staff questions from approved company knowledge.\n\n## Next step\n\nI can help you narrow this down further\\:\n\n[Compare the top 3] [Prepare an RFP brief]",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

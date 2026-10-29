@@ -1,0 +1,201 @@
+{
+  "slug": "newcastle",
+  "pk": "power_platform",
+  "plat": "claude",
+  "text": "Who are the best Microsoft Power Platform consultants in Newcastle? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_platform__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:05.059Z",
+  "cost": 0.076672,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 16369,
+      "output_tokens": 1131,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.076072,
+      "datetime": "2026-10-29 04:09:59 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of reputable Microsoft Power Platform consulting partners with a presence in or serving the Newcastle area, based on available information:\n\n---\n\n## 🏆 Best Microsoft Power Platform Consultants in Newcastle\n\n---\n\n### 1. **SR1 Development**\n🌍 *Based in Newcastle upon Tyne*\n**Website:** sr1development.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SR1 Development is a small, tight-knit group of consultants and developers who have been working together in Newcastle upon Tyne since 2011, originally offering SharePoint and Office 365 consultancy and support.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have since expanded into Power Platform services. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "By combining Power Platform tools, they can quickly digitise business processes — and recent implementations for clients include leave management systems, expense submissions, PO approvals, supplier management, and stage-gate process management.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Locally based in Newcastle, long-standing track record, and hands-on experience with real-world business process automation.\n\n---\n\n### 2. **Crimson**\n🌍 *UK-wide, with experience working with Newcastle-based organisations*\n**Website:** crimson.co.uk\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As Microsoft Power Platform consultants, Crimson helps accelerate business transformation using this low-code/no-code platform.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.crimson.co.uk/microsoft-solutions/microsoft-power-platform-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have worked with Newcastle University, transforming its student admissions process using Microsoft Power Platform.",
+              "annotations": [
+                {
+                  "title": "Microsoft Power Platform Consultants",
+                  "url": "https://www.crimson.co.uk/microsoft-solutions/microsoft-power-platform-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Proven track record with major Newcastle institutions, strong Microsoft partnership, and a focus on business transformation.\n\n---\n\n### 3. **Transparity**\n🌍 *UK-wide Microsoft Partner*\n**Website:** transparity.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Transparity is described as the UK's most accredited Microsoft Power Platform consultancy.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy",
+                  "url": "https://www.transparity.com/app-innovation/power-platform-consultancy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As Microsoft Power Platform specialists and a recognised Microsoft Power Platform partner, they deliver Power Platform consulting, Power Apps development, and Power Automate services to organisations across the UK.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy",
+                  "url": "https://www.transparity.com/app-innovation/power-platform-consultancy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Highly accredited, broad Microsoft expertise, and able to serve Newcastle businesses remotely or on-site across the UK.\n\n---\n\n### 4. **Concetto Labs**\n🌍 *Newcastle-listed Power Platform development company*\n**Website:** concettolabs.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Concetto Labs is a Microsoft Power Platform Development Company in Newcastle.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Newcastle",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-newcastle/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deliver seamless Power Platform services, supporting automation and process improvement and ensuring secure, efficient solutions.",
+              "annotations": [
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Newcastle",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-newcastle/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Focused on low-code/no-code development, automation, and process improvement for Newcastle businesses.\n\n---\n\n### 5. **Pragmatiq**\n🌍 *UK-wide Microsoft Partner*\n**Website:** pragmatiq.co.uk\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Pragmatiq helps organisations achieve their goals through digital transformation by maximising the impact of Microsoft technologies like the Power Platform. Their Power Platform Consultancy package is designed to provide expert guidance and flexible support, ensuring technology works to drive real business outcomes.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultancy",
+                  "url": "https://www.pragmatiq.co.uk/power-platform-consultancy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Strong focus on strategic outcomes, flexible support packages, and a well-regarded UK Microsoft partner.\n\n---\n\n## 💡 Tips for Choosing the Right Partner\n\n- **Check Microsoft Partner status** – Look for firms with the Microsoft Solutions Partner designation for Business Applications.\n- **Ask for local case studies** – Firms like Crimson have demonstrable Newcastle-area experience.\n- **Consider size fit** – SR1 Development suits SMEs needing personal service; Transparity or Crimson may suit larger enterprises.\n- **Evaluate support offerings** – Ensure they offer ongoing support, not just implementation.\n\n> ⚠️ *Note: The Microsoft Partner directory (partner.microsoft.com) is the best official source to verify accreditations and find certified partners in your area.*",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best Microsoft Power Platform consultants Newcastle UK",
+        "Microsoft Power Platform consulting partners Newcastle",
+        "Power Platform consulting firms based Newcastle upon Tyne reviews"
+      ]
+    }
+  ]
+}

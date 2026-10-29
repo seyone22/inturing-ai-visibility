@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Brisbane specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:59.489Z",
+  "cost": 0.006278,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 644,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005678,
+      "datetime": "2026-10-29 04:05:54 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane-based or Brisbane-serving consultancies fit that brief:\n\n| Consultant | Best fit | Relevant capability |\n|---|---|---|\n| **Frontrow Technology** | Mid-market organisations wanting strategy through production deployment | Microsoft 365 Copilot, Copilot Studio agents, Azure AI Foundry, governance, and implementation designed for daily operational use.[2] |\n| **Team 400** | Custom AI-agent engineering and complex automation | Production AI agents for document processing, customer service, compliance, and data extraction, with strong Azure OpenAI, Azure AI Foundry, and Copilot Studio capability.[3] |\n| **XCD IT** | Small and mid-sized Microsoft 365 businesses | Microsoft Copilot deployment, Copilot Studio assistants and agents, Power Automate workflows, licensing, governance, and staff onboarding.[1] |\n| **Grassroots IT** | Operationally complex or compliance-focused organisations | Brisbane-based Microsoft specialist offering Copilot readiness, custom Copilot Studio agents, integrations, testing, deployment, training, and ongoing refinement.[8] |\n| **Autonify** | Businesses seeking purpose-built Copilot Studio agents | Builds and ships Microsoft Copilot Studio agents for Brisbane, Gold Coast, and Ipswich businesses, explicitly serving SMB, mid-market, and enterprise clients.[5] |\n| **IOTAI** | Fast, practical workflow automation and internal tools | Brisbane delivery of AI agents, Microsoft Copilot, n8n automation, Retool apps, and integrations, typically targeting 50–200-employee organisations.[9] |\n| **JTIT** | Microsoft-centric businesses prioritising governance and ROI | Copilot rollouts, Copilot Studio and Power Automate process automation, AI governance, document processing, classification, and retrieval-based assistants.[4] |\n| **AI Agency Brisbane** | Fixed-scope, process-specific implementations | Microsoft 365 Copilot agents, Copilot Studio workflows, chat, voice, document and operations automation, with testing, human approval points, and support.[7] |\n\n**Strongest shortlist for the stated requirements:**\n\n1. **Frontrow Technology** — best apparent fit for a Brisbane mid-market business wanting Copilot Studio, AI agents, governance, and practical deployment.[2]  \n2. **Team 400** — strongest option where custom software engineering and production-grade agents are central.[3]  \n3. **XCD IT or Grassroots IT** — suitable when the priority is Microsoft 365 adoption, Copilot rollout, and workflow automation within an existing IT environment.[1][8]  \n4. **Autonify** — a focused choice for building Microsoft Copilot Studio agents specifically.[5]  \n5. **IOTAI** — attractive for rapid, measurable automation using n8n, Retool, integrations, and Copilot.[9]  \n\nBefore selecting one, ask for a paid discovery or pilot covering a single measurable workflow—such as document intake, sales follow-up, customer-service triage, approvals, or internal knowledge retrieval—and confirm who owns security, human escalation, monitoring, and post-launch optimisation.",
+              "annotations": [
+                {
+                  "title": "AI Solutions & Implementation in Brisbane - XCD IT",
+                  "url": "https://xcdit.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Brisbane — AI advisory, Copilot & agents | Frontrow",
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultants in Brisbane: What They Do &amp",
+                  "url": "https://xcdit.com.au/ai-consultants-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consulting Brisbane | Copilot & AI Strategy | JTIT",
+                  "url": "https://jtit.com.au/ai-consulting-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Autonify | Microsoft AI Copilot Studio Agent Developers for Business ...",
+                  "url": "https://www.autonify.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "How To Choose The Right Ai...",
+                  "url": "https://xcdit.com.au/best-ai-consulting-companies-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agency Brisbane | Business AI Agents & Automation",
+                  "url": "https://aiagencybrisbane.net/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot | Grassroots IT",
+                  "url": "https://www.grassrootsit.com.au/digital-solutions/copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consulting Brisbane - AI & Automation Consultancy | IOTAI",
+                  "url": "https://www.iotai.com.au/ai-consulting-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Automation Agency Australia | AI Agents",
+                  "url": "https://factoryjet.com/au/ai-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

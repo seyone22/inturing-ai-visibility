@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Hobart are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:53.541Z",
+  "cost": 0.005934,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 26,
+      "output_tokens": 308,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005334,
+      "datetime": "2026-10-29 04:10:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Hobart, the strongest apparent options are:\n\n- **OfficePro Consulting** — Best fit for practical Microsoft Power Platform work. Its Hobart offering covers Power Automate approvals, reminders, task routing, Power Apps, Power BI, role-based access and audit-friendly logging.[10]\n- **Alphavima** — Best for larger or data-heavy implementations. It describes a structured process covering process mapping, configuration, testing and deployment across Power Apps, Power Automate, Power BI, Power Pages and Microsoft Fabric.[1]\n- **TECHOM Systems** — Best for organisations wanting broader Microsoft 365, security and adoption support alongside automation. Its services include custom Power Automate workflows, training, governance and Copilot integration, although the available pages are regional service pages rather than clearly Hobart-specific offices.[2][3]\n\n**Recommended shortlist:** Start with OfficePro for a focused workflow-automation project, Alphavima for an integrated data and Power Platform programme, and TECHOM Systems if Microsoft 365 governance, Copilot or enterprise security are central requirements.\n\nBefore selecting one, ask each consultancy for:\n\n- Two comparable Australian client examples\n- A fixed-price discovery or process-mapping phase\n- Experience with your connectors—such as SharePoint, Dynamics 365, Xero, MYOB, Teams or line-of-business systems\n- Licensing, environment strategy, security and support costs\n- Documentation, training and post-launch monitoring\n- Ownership and maintainability of the Power Automate flows and solutions",
+              "annotations": [
+                {
+                  "title": "Reliable onelake consulting for Hobart, Tasmania Enterprises",
+                  "url": "https://alphavima.com/data-engineering/onelake-consulting-in-hobart-tasmania/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Downlands 7320",
+                  "url": "https://techomsystems.com.au/locations/tas/downlands/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot for Microsoft 365 Consulting in Bathurst Street Po, TAS 7000",
+                  "url": "https://techomsystems.com.au/locations/tas/bathurst-street-po/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot for Microsoft 365 Consulting in East Devonport, TAS 7310",
+                  "url": "https://techomsystems.com.au/locations/tas/east-devonport/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Eggs And Bacon Bay 7112",
+                  "url": "https://techomsystems.com.au/locations/tas/eggs-and-bacon-bay/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Colebrook 7027",
+                  "url": "https://techomsystems.com.au/locations/tas/colebrook/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Central Plateau 7304",
+                  "url": "https://techomsystems.com.au/locations/tas/central-plateau/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Eddystone 7264",
+                  "url": "https://techomsystems.com.au/locations/tas/eddystone/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate & Copilot Integration in Parklands 7320",
+                  "url": "https://techomsystems.com.au/locations/tas/parklands/microsoft-365-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Automation & AI Solutions Hobart | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/service-area/hobart/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

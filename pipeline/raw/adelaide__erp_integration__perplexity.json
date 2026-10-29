@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Adelaide are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:53.787Z",
+  "cost": 0.006305,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 670,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005705,
+      "datetime": "2026-10-29 04:07:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For an Adelaide organisation needing to connect **ERP, CRM, MYOB Acumatica, SAP and Microsoft 365**, the strongest shortlist is:\n\n1. **Cloud Factory** — Best overall for ERP-led integration. It specialises in **MYOB Acumatica, SAP Business One and Microsoft Dynamics 365 Business Central**, and designs integrations with CRM, warehouse, e-commerce, reporting and other business systems.[2][6]  \n2. **Solutions+ Australia** — Strong option for SMEs wanting one partner across **SAP, MYOB Acumatica, Microsoft Business Central and Microsoft Dynamics 365 Sales**. It is headquartered in Adelaide and provides integration and technology advisory services.[8]  \n3. **AMBR IT** — Best fit for Adelaide organisations in **wine, health, space and advanced manufacturing**. Its stated capabilities cover SAP Business One, Microsoft Dynamics 365, Business Central, Salesforce, HubSpot, Power Platform, SharePoint and Power BI.[5][7]  \n4. **Mayasoft** — Strong Microsoft/Azure integration specialist for connecting **Dynamics 365 and Microsoft 365-adjacent services** with SAP, MYOB, legacy systems, SharePoint, SQL databases and custom applications.[3]  \n5. **OneKloudX** — Worth considering when **MYOB Acumatica integration** is central, particularly for CRM, e-commerce, warehouse, payroll and banking connections. It also lists SAP and Microsoft Dynamics among supported ERP platforms.[1]  \n6. **Bright Labs** — Suitable for complex digital, API or legacy integration projects involving **SAP, Microsoft Dynamics, MYOB, Salesforce and HubSpot**. Its public profile appears more technology-integration focused than Adelaide-local ERP consulting.[9]  \n7. **Expeed Technology** — A local Adelaide software-development option for bespoke APIs, CRM/ERP applications and MYOB integrations, but it does not publicly demonstrate the same depth across SAP and Acumatica as the ERP specialists above.[4]\n\n### Recommended choice\n\n- **Choose Cloud Factory** if MYOB Acumatica or SAP Business One is the core ERP and you want structured ERP implementation plus integration.\n- **Choose Solutions+** if you want an Adelaide-based SME partner spanning SAP, Acumatica and Microsoft platforms.\n- **Choose AMBR IT** if your business operates in a regulated or specialised Adelaide industry.\n- **Choose Mayasoft** if the project is primarily an Azure, Microsoft 365, Dynamics 365 or API-integration programme.\n- **Include OneKloudX or Leverage Technologies** in the tender if MYOB Acumatica expertise is the deciding factor; Leverage specifically advertises Acumatica implementation, integration, cloud deployment and support.[10]\n\nBefore appointing a provider, ask for a demonstrated reference architecture covering **customer master data, contacts, products, inventory, orders, invoices, payments, identity/SSO, Microsoft 365 data and error monitoring** across the exact versions of SAP, Acumatica, CRM and Microsoft 365 you use. Also verify whether the proposed work is delivered by an Adelaide team or remotely, and request fixed integration ownership, support SLAs and API/data-governance documentation.",
+              "annotations": [
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integration Services Australia | Azure",
+                  "url": "https://mayasoft.com.au/services/integration-services.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Custom Software Development Australia | Expeed Technology",
+                  "url": "https://expeed.com.au/services/custom-software",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "System Developers in Adelaide",
+                  "url": "https://www.ambrit.com.au/adelaide/system-developers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cloud Factory: ERP Solutions Australia | Cloud ERP Experts",
+                  "url": "https://www.cloudfactory.co/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Implementation in Adelaide",
+                  "url": "https://www.ambrit.com.au/adelaide/erp-implementation",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Solutions+ Australia: Your Solution for Business Optimisation",
+                  "url": "https://solutionspluspartnership.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.brightlabs.com.au › services › crm-erp-integrationCRM & ERP integration | Bright Labs",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "A Trusted Australian ERP Software Partner & Reseller",
+                  "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

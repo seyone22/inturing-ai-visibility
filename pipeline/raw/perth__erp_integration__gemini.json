@@ -1,0 +1,420 @@
+{
+  "slug": "perth",
+  "pk": "erp_integration",
+  "plat": "gemini",
+  "text": "Which system integration specialists in Perth are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__erp_integration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:24.449Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Connecting an ecosystem that spans **MYOB Acumatica**, **SAP**, dedicated **CRM platforms** (like Salesforce, HubSpot, or Dynamics 365), and **Microsoft 365** requires specialists who understand both mid-market and enterprise architectures, as well as modern iPaaS (Integration Platform as a Service) middleware such as Boomi or Azure Integration Services.\n\nThe leading system integration consultancies in Perth with direct expertise in these environments are categorized below based on their primary platform strengths:\n\n---\n\n### 1. Atturra (Perth Office)\n* **Best for:** Enterprise-grade middleware, complex SAP integrations, and multi-system iPaaS.\n* **Overview:** Atturra (ASX: ATA) is one of Australia’s premier data and system integration providers. They are the top Boomi partner in the Asia-Pacific region and hold top-tier Microsoft partner credentials. \n* **Relevant Strengths:** If your architecture involves orchestrating high-volume transactions between **SAP**, **CRM platforms**, and **Microsoft 365 / Azure**, Atturra has the deepest onshore technical team in Perth to deploy governed, scalable middleware (Boomi, Azure Logic Apps, and API Management).\n\n### 2. Stratus Consulting Group (incorporating Horizon Business Systems)\n* **Best for:** MYOB Acumatica core ERP integrations and CRM sync.\n* **Overview:** Stratus Group was formed in part by Perth-based **Horizon Business Systems**, one of Western Australia’s longest-standing ERP partners. They are a perennial MYOB Diamond Partner and ANZ Partner of the Year winner.\n* **Relevant Strengths:** They are specialists in **MYOB Acumatica** implementations and custom integrations. If MYOB Acumatica is the hub of your business, Stratus specializes in connecting its REST APIs to external CRMs (Salesforce, HubSpot), Microsoft 365, and downstream operational software.\n\n### 3. Velrada (an NRI Company)\n* **Best for:** Microsoft-centric ecosystems, Dynamics 365 CRM, and SAP-to-Azure connectivity.\n* **Overview:** Headquartered in Perth, Velrada is one of Australia’s most celebrated Microsoft Solutions Partners.\n* **Relevant Strengths:** Velrada specializes in using **Microsoft 365, Power Platform, Azure Logic Apps, and Dynamics 365** as the central nervous system of an organization. They regularly deliver enterprise projects integrating Microsoft cloud tools with core ERP engines like **SAP** (both ECC and S/4HANA).\n\n### 4. Leverage Technologies\n* **Best for:** Multi-ERP cross-competence (SAP Business One + MYOB Acumatica).\n* **Overview:** Leverage Technologies is unique in Australia for running tier-1 implementation and development practices across **both SAP (specifically SAP Business One) and MYOB Acumatica**.\n* **Relevant Strengths:** If your business is running both SAP and MYOB Acumatica (e.g., across separate subsidiaries, divisions, or supply chains) and needs them aligned with common CRM and Microsoft 365 workflows, Leverage Technologies has native expertise in both ecosystems without needing two separate vendors.\n\n### 5. Metisc (Perth)\n* **Best for:** Mid-market Microsoft 365 / Dynamics CRM integrations with external ERPs.\n* **Overview:** A Perth-based consultancy with over 25 years of experience specializing in Microsoft Cloud solutions, Dynamics 365, and application integration.\n* **Relevant Strengths:** Metisc builds pre-configured and custom API connectors to bridge **Microsoft 365 / Dynamics CRM** with local accounting and ERP engines like MYOB and external SQL/ERP databases.\n\n---\n\n### How to Choose Among Them\n\n| Primary Scenario | Recommended Partner |\n| :--- | :--- |\n| **You run SAP + complex CRM/cloud pipelines** and need a dedicated middleware solution (Boomi / MuleSoft / Azure). | **Atturra** |\n| **MYOB Acumatica is your primary ERP**, and you need it integrated into CRM and M365 without custom code fragility. | **Stratus Consulting Group** |\n| **Microsoft 365 / Power Platform / Dynamics is your driver**, and you need to feed it data from an existing SAP system. | **Velrada** |\n| **You operate a hybrid environment** using both SAP Business One and MYOB Acumatica across business units. | **Leverage Technologies** |\n\n**Key architectural tip:** Because MYOB Acumatica, SAP, and modern CRMs operate at differing API rate limits and data models, ensure your selected partner assesses whether you need an **iPaaS / message bus (like Azure Service Bus or Boomi)** to prevent sync locks and failed transactions between your financial and customer systems.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integration+specialists+Perth+ERP+CRM+SAP+MYOB+Microsoft&client=app-vertex-grounding&safesearch=active\">system integration specialists Perth ERP CRM SAP MYOB Microsoft</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=MYOB+Advanced+Acumatica+partners+Perth+integration&client=app-vertex-grounding&safesearch=active\">MYOB Advanced Acumatica partners Perth integration</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integration+companies+Perth+Boomi+Azure+Logic+Apps+SAP+ERP+CRM&client=app-vertex-grounding&safesearch=active\">system integration companies Perth Boomi Azure Logic Apps SAP ERP CRM</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Atturra%22+Perth+integration+ERP+Boomi&client=app-vertex-grounding&safesearch=active\">&quot;Atturra&quot; Perth integration ERP Boomi</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Velrada%22+Perth+Microsoft+integration+SAP+CRM&client=app-vertex-grounding&safesearch=active\">&quot;Velrada&quot; Perth Microsoft integration SAP CRM</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Horizon+Business+Systems%22+Perth+MYOB+Acumatica&client=app-vertex-grounding&safesearch=active\">&quot;Horizon Business Systems&quot; Perth MYOB Acumatica</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtkaGLnnIK9QqLjYDpL1BW1-HyN1gJu2VPCohJOSsvw0JPafHgOvg8vNLxEhJ14OpPwlkxy63nwmfhNPooTt4ImfIFPoNBzVkFLQtca_veor4VSUw0o5vc5OjYog7cc0A6IjcFZVgK2kkHoAuGVx38f2DS",
+                "title": "erpresearch.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgYBIPToF_pW5PIAtbQ-XlzsJLHHZjXaEVIZKW7Oozg1ApEuQ0GrBKZP_2PH9KNMcMqAVev5c5yV7wxnsngNJhcSpNMlxR3wXosW2KeKieBRSUBRIAqHzdXwrzQlWbo9E_aeCvSQ==",
+                "title": "yenlo.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVYOzi33f1BQG0d0xt1knX8Za7PzSg4-6Lfwr8VGQv3uKzOy2bGQmPPMWHJMXZpS68dnOZu_dKfGekmbpq7dGbnRmYWk99vziW57cni65RFf6loNuItLshWUXaVuVX9w==",
+                "title": "boomi.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkm7-0DaiXXmT2REtCA1i0Ifdkzwve_o4eOr4vuNOK_aGpmd8RQITlL8qWXFg68znQoG4dnMf9eH0UCFL7kQ_zCMXjuCDH5WjoEyK0CQ0BgLPN0b1Ja2rHkJgDNMU_EzWaraGmlT0YePs82z72KxWynMJau81zxin765S0N7IaujR5OtLn9s=",
+                "title": "investorhub.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGay3rui6ZRk063xKFVQN68HkUZQsetD32yKU8lexZAuujIpTGsAuYzNdfOd23IYxrpwOSWzLdkrHhk2NnIEHRLK-2wv8t6SWDRxG_mO63Oz033uen7bwpzC2ujCfMkMNlJrNH--fXwN3kPF0Vnq1nmsQtiSWMD_X_DzRkYCWHDuLTTSVa84w==",
+                "title": "stratusgroup.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEocXdSSIWtbUsXgqys7flzzDng2ABCeP1VjB1WJOe3w3R--YEoorRJL6El7BrD53ynd39nILnfnRYqd5Bun0CooFbyAX_k6T4RsBfNPk0GZhPVjNp4Z19XXbacIuyJw-Z-JkJdpMIDRRDnL32nSYw3HB0=",
+                "title": "myob.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSAw1Na5ojwRXZAa8WtEJwx_mXSM4VZ4n1NRNM22gw-Y8OrDZgNIxlT6IhjxT51sDtLwFIDwCKvdCG1Z3dxQijXeDDvEDgH4qv4apQeuHqTawj9m4Ovw==",
+                "title": "stratusgroup.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvtpr7cwNSGZyNUyJHjvj-umuNY4-M9i6ugI0WEH95H3sFEivsoLyka1AFtoWyLYzO9wVOEgS33U6hCjtodsC--iwoyfYgvv6P674Zt3TG_4G-PbDfOFuULUNKt4EkzihBQ9T80sXyFJ0SzSobGQqDVC7IbUQdnTYOdA==",
+                "title": "onekloudx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHst2n2Tit2skkecmWEC4K8h_MLJdYrv_HuHeJp4SqNjU6QCF_btFfQUbyb4HtQIapBtGvNCl7Y9BIGEMfmQ99pIfd6XzYhUd96",
+                "title": "velrada.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA5p2tBJRmd_-ksqvN3U16OOL6CPph12VUgD2f95PD8yWCGIMYFUICTBijArL5xSzbvk7ql8HtmoZYpyDEKRrIPZ8L-5BcVbAgx7k4aBOHmCxvh89Tn9nMpL2y7f0zTKwcyInLDw6qqFddrWToKVj2rxFImOqlQGAPvbS9CSvpwh2OUS7f9z2llZAmgkGE27aF2UPR_2vR5z4Wm4QxHY8GiYLs",
+                "title": "dxc.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpfvwWDsUBl_N8sUzVCrvV3xsKTSPYtl9S5jQxu4WKSjLckxmCg5jSnayYbzI8hniS0qHt9FU2gerpWCxcoJVsmjRuXuTEVS2gh_MesEy4ZxRdzDBGBi_UP9xwxXYyOIPiB6vRhsUwGJ2c5kH5Im_F4i9pzNPcWOWsjqu4C0wufBOmjMcT",
+                "title": "curtin.edu.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9yx3gwrXTvfL-NCOQ4zSN7MgKm3az4qnAHn5SOgHmH-dqtY19s2vVGeUNaTy8iAxmhEXsvF4kJx95guIgNJpMq3vFvsa8DFdxUyIIswzVw51BJzCgha0X-fgpHa9qZSlGjua3wNLE",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9DURDMQ9_q9BW2uo-AazXIAa0DoboYYSOws8XCIFn_gtCMOygOFOJ5nMUGZbHY_RrcNdi1UVH2Usv6Q9JAEiRkJ7MZg1yqBQzimZJWaam_EQYgFduWu17q8RIWu1pbhy6TvymkBtF4RwfmDvknSJ9N-KJ_1XLB_100HaxZw==",
+                "title": "zynextechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL6AHI9MRZeaigmaJN361kkIC6XZ1676hEP8ra_Mz-VII3-dpR_SPBtZ2IhEgymRSGA3bClBC2Z5GzmbpeNp8g2MA1COMo-l8BOT294wEv2lchFtWQl_rn24qR6iXZKSjBDeQ=",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2eP4AQIyGyWIl2-JJCJ-ukOS3Nx_vy1jBJvOphuGemXc4fUhMHBeEtDaJ7NPSyKmGC2InBNxzv84_xM6vFl4D1dGH5f4KUJnnbf76W0ysOAYNIqHxLiHXj7hjRQ==",
+                "title": "metisc.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEajzBJ21Gt5RIooOlzXi2SFRPeFPbMhcbHpYRmkUlnnYZ7Hx9MNF-SudKdVvbaY_I1LGpK9WSoGJMY_5Sg3YsrL7JX9y5HhX4JJK-93m5FnScs7sxlcoEpo-0AfZ7BNqmx-59Aqq-s28RbVfc=",
+                "title": "axisoneconsultancy.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 355,
+                "text": "Connecting an ecosystem that spans **MYOB Acumatica**, **SAP**, dedicated **CRM platforms** (like Salesforce, HubSpot, or Dynamics 365), and **Microsoft 365** requires specialists who understand both mid-market and enterprise architectures, as well as modern iPaaS (Integration Platform as a Service) middleware such as Boomi or Azure Integration Services"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 559,
+                "endIndex": 650,
+                "text": "**Best for:** Enterprise-grade middleware, complex SAP integrations, and multi-system iPaaS"
+              },
+              "groundingChunkIndices": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 654,
+                "endIndex": 756,
+                "text": "**Overview:** Atturra (ASX: ATA) is one of Australia’s premier data and system integration providers"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 758,
+                "endIndex": 863,
+                "text": "They are the top Boomi partner in the Asia-Pacific region and hold top-tier Microsoft partner credentials"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 868,
+                "endIndex": 1169,
+                "text": "**Relevant Strengths:** If your architecture involves orchestrating high-volume transactions between **SAP**, **CRM platforms**, and **Microsoft 365 / Azure**, Atturra has the deepest onshore technical team in Perth to deploy governed, scalable middleware (Boomi, Azure Logic Apps, and API Management)"
+              },
+              "groundingChunkIndices": [
+                0,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1247,
+                "endIndex": 1310,
+                "text": "**Best for:** MYOB Acumatica core ERP integrations and CRM sync"
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1314,
+                "endIndex": 1464,
+                "text": "**Overview:** Stratus Group was formed in part by Perth-based **Horizon Business Systems**, one of Western Australia’s longest-standing ERP partners"
+              },
+              "groundingChunkIndices": [
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1466,
+                "endIndex": 1542,
+                "text": "They are a perennial MYOB Diamond Partner and ANZ Partner of the Year winner"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1546,
+                "endIndex": 1652,
+                "text": "**Relevant Strengths:** They are specialists in **MYOB Acumatica** implementations and custom integrations"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1654,
+                "endIndex": 1839,
+                "text": "If MYOB Acumatica is the hub of your business, Stratus specializes in connecting its REST APIs to external CRMs (Salesforce, HubSpot), Microsoft 365, and downstream operational software"
+              },
+              "groundingChunkIndices": [
+                7,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1876,
+                "endIndex": 1967,
+                "text": "**Best for:** Microsoft-centric ecosystems, Dynamics 365 CRM, and SAP-to-Azure connectivity"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1971,
+                "endIndex": 2085,
+                "text": "**Overview:** Headquartered in Perth, Velrada is one of Australia’s most celebrated Microsoft Solutions Partners"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2089,
+                "endIndex": 2260,
+                "text": "**Relevant Strengths:** Velrada specializes in using **Microsoft 365, Power Platform, Azure Logic Apps, and Dynamics 365** as the central nervous system of an organization"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2262,
+                "endIndex": 2396,
+                "text": "They regularly deliver enterprise projects integrating Microsoft cloud tools with core ERP engines like **SAP** (both ECC and S/4HANA)"
+              },
+              "groundingChunkIndices": [
+                12,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2430,
+                "endIndex": 2506,
+                "text": "**Best for:** Multi-ERP cross-competence (SAP Business One + MYOB Acumatica)"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2510,
+                "endIndex": 2699,
+                "text": "**Overview:** Leverage Technologies is unique in Australia for running tier-1 implementation and development practices across **both SAP (specifically SAP Business One) and MYOB Acumatica**"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2703,
+                "endIndex": 3015,
+                "text": "**Relevant Strengths:** If your business is running both SAP and MYOB Acumatica (e.g., across separate subsidiaries, divisions, or supply chains) and needs them aligned with common CRM and Microsoft 365 workflows, Leverage Technologies has native expertise in both ecosystems without needing two separate vendors"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3042,
+                "endIndex": 3127,
+                "text": "**Best for:** Mid-market Microsoft 365 / Dynamics CRM integrations with external ERPs"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3131,
+                "endIndex": 3288,
+                "text": "**Overview:** A Perth-based consultancy with over 25 years of experience specializing in Microsoft Cloud solutions, Dynamics 365, and application integration"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3292,
+                "endIndex": 3492,
+                "text": "**Relevant Strengths:** Metisc builds pre-configured and custom API connectors to bridge **Microsoft 365 / Dynamics CRM** with local accounting and ERP engines like MYOB and external SQL/ERP databases"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3706,
+                "endIndex": 3719,
+                "text": "| **Atturra**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3840,
+                "endIndex": 3870,
+                "text": "| **Stratus Consulting Group**"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3995,
+                "endIndex": 4008,
+                "text": "| **Velrada**"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4120,
+                "endIndex": 4147,
+                "text": "| **Leverage Technologies**"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4151,
+                "endIndex": 4482,
+                "text": "**Key architectural tip:** Because MYOB Acumatica, SAP, and modern CRMs operate at differing API rate limits and data models, ensure your selected partner assesses whether you need an **iPaaS / message bus (like Azure Service Bus or Boomi)** to prevent sync locks and failed transactions between your financial and customer systems"
+              },
+              "groundingChunkIndices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "system integration specialists Perth ERP CRM SAP MYOB Microsoft",
+            "MYOB Advanced Acumatica partners Perth integration",
+            "system integration companies Perth Boomi Azure Logic Apps SAP ERP CRM",
+            "\"Atturra\" Perth integration ERP Boomi",
+            "\"Velrada\" Perth Microsoft integration SAP CRM",
+            "\"Horizon Business Systems\" Perth MYOB Acumatica"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 906,
+      "candidatesTokenCount": 1267,
+      "totalTokenCount": 4036,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 906
+        }
+      ],
+      "thoughtsTokenCount": 1863,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "VcbiasDQKLjD694PvfjM8Qc"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "perth",
+  "pk": "power_bi_fabric",
+  "plat": "aimode",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_bi_fabric__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:09.945Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20top%20Microsoft%20Power%20BI%20and%20Microsoft%20Fabric%20analytics%20consultants%20in%20Perth%20for%20operational%20reporting%20and%20data%20warehousing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:07:04 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When looking for top-tier Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for **operational reporting** and **data warehousing**, `a mix of specialized boutique data firms and prominent enterprise IT consultancies` operate in the local market.\n\nThe leading options servicing Perth organizations for end-to-end data architecture, data engineering, and advanced operational dashboards include:\n\n- **Ager BI:** A specialist data platform and analytics consultancy headquartered in Perth with a dedicated focus on Microsoft Fabric consulting and [Data Warehouse consulting](https://agerbi.com.au/data-warehouse-consulting/) . They excel at unifying fragmented operational sources, building modern lakehouse/data warehouse architectures on Fabric/Azure, and engineering robust data pipelines tied directly to enterprise Power BI reporting.[[1]](https://agerbi.com.au/microsoft-fabric-consulting/)[[2]](https://agerbi.com.au/data-warehouse-consulting/)\n- **OptiCloud:** A Perth-based cloud and data advisory firm that delivers targeted [Power BI Consulting and Dashboard Development in Perth](https://opticloud.com.au/solutions/power-bi/) . They specialize in transforming operational spreadsheets and disparate silos into governed, single-source-of-truth data models and embedding operational rhythms directly into Microsoft Teams and organizational workflows.[[1]](https://opticloud.com.au/solutions/power-bi/)\n- **Data#3:** As one of Australia's premier Microsoft Gold/Solutions Partners, Data#3 has a substantial footprint in Perth and handles large-scale enterprise data estate modernizations, Azure cloud data warehousing, and enterprise-grade Power BI rollouts. They are well-positioned for organizations requiring broad governance, security, and change management alongside technical data architecture.\n- **DXC Technology (Perth):** Possessing a major operational base in Western Australia, DXC delivers heavy-hitting enterprise data analytics, data integration, and enterprise resource planning (ERP) reporting integrations. They are ideal for large mining, oil & gas, or government entities requiring deep operational reporting tied to complex legacy backends.\n- **Evolvous:** A Microsoft partner offering structured [Power BI Consulting Services in Perth](https://evolvous.com/best-power-bi-consulting-services-perth/) . Their focus spans data integration, complex DAX data modelling, custom operational dashboards, and user adoption training.[[1]](https://evolvous.com/best-power-bi-consulting-services-perth/)\n\nIf you'd like to narrow this down, please let me know:\n\n- Your **industry** (e.g., mining, logistics, finance, government)\n- The **scale of your data sources** (e.g., local SQL servers, SAP, multiple cloud apps)\n- Whether you prefer a **specialist boutique firm** or a **large enterprise tier-1 partner** \n\nI can help tailor this recommendation to your specific operational requirements.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When looking for top-tier Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for operational reporting and data warehousing, a mix of specialized boutique data firms and prominent enterprise IT consultancies operate in the local market.",
+              "markdown": "When looking for top-tier Microsoft Power BI and Microsoft Fabric analytics consultants in Perth for **operational reporting** and **data warehousing**, `a mix of specialized boutique data firms and prominent enterprise IT consultancies` operate in the local market.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The leading options servicing Perth organizations for end-to-end data architecture, data engineering, and advanced operational dashboards include:",
+              "markdown": "The leading options servicing Perth organizations for end-to-end data architecture, data engineering, and advanced operational dashboards include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ager BI: A specialist data platform and analytics consultancy headquartered in Perth with a dedicated focus on Microsoft Fabric consulting and Data Warehouse consulting. They excel at unifying fragmented operational sources, building modern lakehouse/data warehouse architectures on Fabric/Azure, and engineering robust data pipelines tied directly to enterprise Power BI reporting. Microsoft Fabric consulting OptiCloud: A Perth-based cloud and data advisory firm that delivers targeted Power BI Consulting and Dashboard Development in Perth. They specialize in transforming operational spreadsheets and disparate silos into governed, single-source-of-truth data models and embedding operational rhythms directly into Microsoft Teams and organizational workflows. Data#3: As one of Australia's premier Microsoft Gold/Solutions Partners, Data#3 has a substantial footprint in Perth and handles large-scale enterprise data estate modernizations, Azure cloud data warehousing, and enterprise-grade Power BI rollouts. They are well-positioned for organizations requiring broad governance, security, and change management alongside technical data architecture. DXC Technology (Perth): Possessing a major operational base in Western Australia, DXC delivers heavy-hitting enterprise data analytics, data integration, and enterprise resource planning (ERP) reporting integrations. They are ideal for large mining, oil & gas, or government entities requiring deep operational reporting tied to complex legacy backends. Evolvous: A Microsoft partner offering structured Power BI Consulting Services in Perth. Their focus spans data integration, complex DAX data modelling, custom operational dashboards, and user adoption training.",
+              "markdown": "- **Ager BI:** A specialist data platform and analytics consultancy headquartered in Perth with a dedicated focus on Microsoft Fabric consulting and [Data Warehouse consulting](https://agerbi.com.au/data-warehouse-consulting/) . They excel at unifying fragmented operational sources, building modern lakehouse/data warehouse architectures on Fabric/Azure, and engineering robust data pipelines tied directly to enterprise Power BI reporting.[[1]](https://agerbi.com.au/microsoft-fabric-consulting/)[[2]](https://agerbi.com.au/data-warehouse-consulting/)\n- **OptiCloud:** A Perth-based cloud and data advisory firm that delivers targeted [Power BI Consulting and Dashboard Development in Perth](https://opticloud.com.au/solutions/power-bi/) . They specialize in transforming operational spreadsheets and disparate silos into governed, single-source-of-truth data models and embedding operational rhythms directly into Microsoft Teams and organizational workflows.[[1]](https://opticloud.com.au/solutions/power-bi/)\n- **Data#3:** As one of Australia's premier Microsoft Gold/Solutions Partners, Data#3 has a substantial footprint in Perth and handles large-scale enterprise data estate modernizations, Azure cloud data warehousing, and enterprise-grade Power BI rollouts. They are well-positioned for organizations requiring broad governance, security, and change management alongside technical data architecture.\n- **DXC Technology (Perth):** Possessing a major operational base in Western Australia, DXC delivers heavy-hitting enterprise data analytics, data integration, and enterprise resource planning (ERP) reporting integrations. They are ideal for large mining, oil & gas, or government entities requiring deep operational reporting tied to complex legacy backends.\n- **Evolvous:** A Microsoft partner offering structured [Power BI Consulting Services in Perth](https://evolvous.com/best-power-bi-consulting-services-perth/) . Their focus spans data integration, complex DAX data modelling, custom operational dashboards, and user adoption training.[[1]](https://evolvous.com/best-power-bi-consulting-services-perth/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Data Warehouse consulting",
+                  "description": null,
+                  "url": "https://agerbi.com.au/data-warehouse-consulting/",
+                  "domain": "agerbi.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power BI Consulting and Dashboard Development in Perth",
+                  "description": null,
+                  "url": "https://opticloud.com.au/solutions/power-bi/",
+                  "domain": "opticloud.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Power BI Consulting Services in Perth",
+                  "description": null,
+                  "url": "https://evolvous.com/best-power-bi-consulting-services-perth/",
+                  "domain": "evolvous.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "AGER BI",
+                  "domain": "agerbi.com.au",
+                  "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+                  "title": "Microsoft Fabric Consulting & Data Integration Experts | AGER BI",
+                  "text": "AGER BI provides specialist Microsoft Fabric consulting services across Australia, helping organisations design, implement, migrat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "AGER BI",
+                  "domain": "agerbi.com.au",
+                  "url": "https://agerbi.com.au/data-warehouse-consulting/",
+                  "title": "Data Warehouse Consulting Australia - AGER BI",
+                  "text": "AGER BI provides specialist data warehouse consulting services to organisations across Australia. We help businesses design, build..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "opticloud.com.au",
+                  "domain": "opticloud.com.au",
+                  "url": "https://opticloud.com.au/solutions/power-bi/",
+                  "title": "Power BI Consultants & Dashboard Development in Perth",
+                  "text": "Our Perth Power BI consultants design and build the data models and dashboards. Hundreds of visualisation options, built-in AI ins..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Evolvous",
+                  "domain": "evolvous.com",
+                  "url": "https://evolvous.com/best-power-bi-consulting-services-perth/",
+                  "title": "Best Power BI Consultant in Perth",
+                  "text": "Our Perth Australia Power BI Consultant can help you with dashboard creation, report development, data modeling, data visualizatio..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Your industry (e.g., mining, logistics, finance, government) The scale of your data sources (e.g., local SQL servers, SAP, multiple cloud apps) Whether you prefer a specialist boutique firm or a large enterprise tier-1 partner",
+              "markdown": "- Your **industry** (e.g., mining, logistics, finance, government)\n- The **scale of your data sources** (e.g., local SQL servers, SAP, multiple cloud apps)\n- Whether you prefer a **specialist boutique firm** or a **large enterprise tier-1 partner**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor this recommendation to your specific operational requirements.",
+              "markdown": "I can help tailor this recommendation to your specific operational requirements.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "AGER BI",
+              "domain": "agerbi.com.au",
+              "url": "https://agerbi.com.au/microsoft-fabric-consulting/",
+              "title": "Microsoft Fabric Consulting & Data Integration Experts | AGER BI",
+              "text": "AGER BI provides specialist Microsoft Fabric consulting services across Australia, helping organisations design, implement, migrate and optimise modern data platfo..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Evolvous",
+              "domain": "evolvous.com",
+              "url": "https://evolvous.com/best-power-bi-consulting-services-perth/",
+              "title": "Best Power BI Consultant in Perth",
+              "text": "Our Perth Australia Power BI Consultant can help you with dashboard creation, report development, data modeling, data visualization, analytics, training and much m..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "AGER BI",
+              "domain": "agerbi.com.au",
+              "url": "https://agerbi.com.au/data-warehouse-consulting/",
+              "title": "Data Warehouse Consulting Australia - AGER BI",
+              "text": "AGER BI provides specialist data warehouse consulting services to organisations across Australia. We help businesses design, build and modernise scalable data ware..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

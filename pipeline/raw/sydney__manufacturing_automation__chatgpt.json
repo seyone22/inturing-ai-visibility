@@ -1,0 +1,701 @@
+{
+  "slug": "sydney",
+  "pk": "manufacturing_automation",
+  "plat": "chatgpt",
+  "text": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__manufacturing_automation__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:13.492Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=We%20are%20a%20manufacturer%20in%20Sydney%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hints=search",
+      "datetime": "2026-10-29 04:03:08 +00:00",
+      "markdown": "# Sydney consultants for manufacturing automation without replacing your ERP\n\nFor a Sydney manufacturer wanting to automate order processing, capture shop-floor data and streamline operations while keeping its existing ERP, I’d start with **specialist Power Platform and systems-integration consultancies**, rather than firms whose primary business is replacing ERP systems.\n\nThe right partner should connect Microsoft Power Apps, Power Automate and Power BI to your current ERP, so orders, production updates, inspections and operational reporting flow between systems without unnecessary re-keying. These are practical use cases for the Power Platform, provided the integration is designed around your ERP’s APIs, data model and controls. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n## My shortlist\n\n![Microsoft Power Platform | Inspirit365](https://images.openai.com/static-rsc-4/Ba36MpHGWNfGXZHrmxJ-h8QCNZC-LcqEkXCv-I8PAdHq6xOYV-stwMv0IXqPMUJowWRmvryiISyq5JcIsjQ9KM_Z1mkTDc5nWle47SY2tlzeGpopnw9wmTlwn8t6ipE5PzV86rStsLAqTQnlL0Cb65gK0t4ZEObmC3sVN0-T1LM4oCkWcjqd0uwmgxP1YLbB?purpose=fullsize)\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing explicitly targets manufacturers already running Microsoft 365 alongside ERP, MES and engineering systems. Its stated services include automated quote and order processing, shop-floor and inspection apps, supplier workflows, document extraction and operational dashboards. It specifically positions its approach around integrating existing systems without replacing them. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Ask them about\\:** Automating emailed purchase orders, extracting order details from PDFs, validating them against ERP records, and creating mobile production or quality-inspection capture apps.\n\n---\n\n\n\n## 2\\. Norbrik\n\nWebsite: [norbrik.com](https://www.norbrik.com/)\n\nSydney-based, with experience in Microsoft 365, Power Platform, process automation and custom operational applications. Norbrik publishes a manufacturing case study involving a performance-management application for an ASX-listed building-products manufacturer. It is worth considering if your needs extend beyond simple approval flows into custom operational processes. [www.norbrik.com](https://www.norbrik.com/?utm_source=chatgpt.com)\n\n**Ask them about\\:** Building operational apps, eliminating spreadsheet-based handoffs, capturing production information and connecting workflows to your ERP.\n\n---\n\n![Power Platform / Power Automate Developers | C9](https://images.openai.com/static-rsc-4/EO6XgeciQvih2MXTqDtBgJHxvg3VFQGrNot-qrCEi7PK4KsSrurWAqqb4sZqJvrpHRnXzvXXiOjpL41x6Lsk_qcJ7IN7D9y_VE0lK6twt1AokWDSfbFHzYCsNIuDxSUqO2rH9JCfkYgAwhbS9Jhc9w0e16u1yvJoxMzU83d9rHWdfcDFVgihvjI0hnUhFiB3?purpose=fullsize)\n\n## 3\\. TechRam\n\nWebsite: [techram.com.au](https://techram.com.au/microsoft/power-platform/)\n\nTechRam builds Sydney business automation using Power Platform and Azure, selecting the technology according to the process's complexity. Its published approach considers operational ownership, audit trails and what happens when automations fail—not just how quickly a workflow can be built. [techram.com.au](https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com)[techram.com.au](https://techram.com.au/microsoft/?utm_source=chatgpt.com)\n\n**Ask them about\\:** Reliable, high-volume ERP integration, exception handling, production data capture and how critical automations are monitored and recovered.\n\n---\n\n![Monovi | Solution Partners](https://images.openai.com/static-rsc-4/4Mtn5cbU9wvgDpapfogF6N4oI9dnN31aBbMBtE29jmgTXxSPQXCajZRSEPvw-RuCfoCE0l8C-TSQAsYRrQSOXvYwORlqdJvTinIaawii8zpmEOgCIredNZAD7M86FWTtGVdWouhurlk-Y0qwv-7vmOtfKH7QPmy7zQQaGErvxvwzol7GoAbmY3r0KuzB74wn?purpose=fullsize)\n\n## 4\\. Walkerscott\n\nWebsite: [walkerscott.com.au](https://www.walkerscott.com.au/)\n\nA Sydney-based Microsoft technology consultancy with Power Platform, business applications, cloud integration and data/reporting capabilities. Consider them if the project requires more substantial integration architecture, governance or enterprise-grade reporting alongside app development. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Ask them about\\:** Integrating your existing ERP with Power Apps and Power Automate, plus designing a maintainable data and reporting layer.\n\n---\n\n![Modern, Professional, It Company Logo Design for Ecleva by ahmadesigns | Design #11784981](https://images.openai.com/static-rsc-4/nIQjsATz3zNKj4S3rw1I_AjnOKjFNw1UVgyAiyDUgW4-sLpncMfltEl_YOv-R1eqN6huEy1lGCdepa_t8xCRYcl4kBmo29_zpCOQtUv-Y50dYutpAxN2I9T8vRhRgblmCMOhIsfK10QxpuU3BJMdSpl1FoTicB2jCi2qAeib3XLtKgVbN_Dk7hR4VsQ-_ktv?purpose=fullsize)\n\n## 5\\. ECLEVA\n\nWebsite: [ecleva.com.au](https://ecleva.com.au/)\n\nA North Sydney technology consultancy working across Microsoft business applications, Power Platform, Azure and data/AI. It is a useful additional candidate if you want to combine workflow automation with broader integration and operational reporting. Validate its recent manufacturing-specific project experience before shortlisting. [www.google.com](https://www.google.com/maps/place/ECLEVA/@-33.8367106,151.2080678,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12afb202020ec3:0xf17bdb688ea4daa0!8m2!3d-33.8367106!4d151.2080678!16s%2Fg%2F11j7d015mw?hl=en&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** Connecting shop-floor applications and operational workflows to your existing ERP without introducing a competing source of truth.\n\n## Who I would contact first\n\nMy recommended order is\\:\n\n1. **Inturing** — closest match to your exact combination of manufacturing, order automation, shop-floor apps and retaining the existing ERP.\n2. **Norbrik** — particularly interesting for custom operational applications and process automation.\n3. **TechRam** — worth speaking to if reliability, auditability and long-term ownership of integrations are major concerns.\n\nThese are fit-based recommendations from published service descriptions, not a ranking based on independently verified project outcomes.\n\n\n\n## What to ask in the first meeting\n\nI'd send each consultant the same brief and ask them to demonstrate how they would handle three workflows\\:\n\n**1\\. Order processing**\n\nReceive customer orders from email, PDF, EDI or spreadsheets; extract and validate the details; flag exceptions; and create or update orders in the existing ERP.\n\n---\n\n**2\\. Shop-floor data capture**\n\nCapture job progress, labour, material consumption, downtime, scrap and quality checks on tablets or scanners, with data flowing back into the ERP where appropriate.\n\n---\n\n**3\\. Operations visibility**\n\nBuild dashboards for order status, production output, bottlenecks and exceptions, without creating a separate, conflicting source of truth.\n\nAsk each firm to explain its proposed ERP connector or API approach, licensing costs, error handling, offline shop-floor capability, security and ongoing support. Also request a reference from a manufacturer using a comparable ERP.\n\n## One detail that would sharpen this shortlist\n\n**Which ERP are you running today?**\n\nFor example, SAP, Epicor, Infor, Pronto Xi, MYOB, Microsoft Dynamics, NetSuite or a custom/on-premises system.\n\nThat will help distinguish consultants with relevant integration experience from general Power Platform developers, and identify the strongest candidates for your specific environment.",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/about",
+          "domain": "inturing.com.au",
+          "title": "About Inturing | Australian Power Platform Consultancy",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://inturing.com.au/",
+          "domain": "inturing.com.au",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "description": null,
+          "breadcrumb": "inturing.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.powerplatformexperts.com.au/locations",
+          "domain": "www.powerplatformexperts.com.au",
+          "title": "Australia's Trusted Power Platform Consultants | Find a Location",
+          "description": null,
+          "breadcrumb": "www.powerplatformexperts.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://eagle360.consulting/",
+          "domain": "eagle360.consulting",
+          "title": "Eagle360 Consulting",
+          "description": null,
+          "breadcrumb": "eagle360.consulting"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.norbrik.com/",
+          "domain": "www.norbrik.com",
+          "title": "Norbrik: Process automation and AI, Sydney",
+          "description": null,
+          "breadcrumb": "www.norbrik.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.norbrik.com/",
+          "domain": "www.norbrik.com",
+          "title": "Norbrik: Process automation and AI, Sydney",
+          "description": "Total lines: 103\n",
+          "breadcrumb": "www.norbrik.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 23 Microsoft power platform consultants based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://revenuebase.ai/companies/microsoft-erp-implementation-consultants/australia/sydney",
+          "domain": "revenuebase.ai",
+          "title": "Top 24 Microsoft erp implementation consultants based in Sydney, Australia",
+          "description": null,
+          "breadcrumb": "revenuebase.ai"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/power-platform/",
+          "domain": "techram.com.au",
+          "title": "Power Apps & Power Automate Consultants, Sydney | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/",
+          "domain": "techram.com.au",
+          "title": "Microsoft 365, Azure, Power Platform & Foundry | TechRam",
+          "description": null,
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://techram.com.au/microsoft/power-platform/",
+          "domain": "techram.com.au",
+          "title": "Power Apps & Power Automate Consultants, Sydney | TechRam",
+          "description": "Total lines: 170\n",
+          "breadcrumb": "techram.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://msppie.com/specialists/microsoft-partner/new-south-wales/sydney",
+          "domain": "msppie.com",
+          "title": "Microsoft specialists in Sydney NSW | MSP Pie",
+          "description": null,
+          "breadcrumb": "msppie.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://sydneydynamics.com/",
+          "domain": "sydneydynamics.com",
+          "title": "SydneyDynamics — Data Migration Consulting",
+          "description": null,
+          "breadcrumb": "sydneydynamics.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://infinitydevelopments.com.au/",
+          "domain": "infinitydevelopments.com.au",
+          "title": "Dynamics 365 & Power Platform Consultants | Infinity Developments",
+          "description": null,
+          "breadcrumb": "infinitydevelopments.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.telstra.com.au/content/dam/shared-component-assets/tecom/cloud/cloud/isg-provider-lens-microsoft-ecosystem-2022.pdf",
+          "domain": "www.telstra.com.au",
+          "title": "ISG Provider Lens™ Quadrant Report - Microsoft Ecosystem - Australia 2022",
+          "description": null,
+          "breadcrumb": "www.telstra.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "inturing.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "About Inturing",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Australian Power Platform Consultancy",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "inturing.com.au",
+          "snippet": null,
+          "domain": "inturing.com.au",
+          "url": "https://inturing.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[inturing.com.au](https://inturing.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "norbrik.com",
+          "snippet": null,
+          "domain": "www.norbrik.com",
+          "url": "https://www.norbrik.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[norbrik.com](https://www.norbrik.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Norbrik: Process automation and AI, Sydney",
+          "snippet": null,
+          "domain": "www.norbrik.com",
+          "url": "https://www.norbrik.com/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Norbrik",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "techram.com.au",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/microsoft/power-platform/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[techram.com.au](https://techram.com.au/microsoft/power-platform/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Power Apps & Power Automate Consultants, Sydney",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "TechRam",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Microsoft 365, Azure, Power Platform & Foundry",
+          "snippet": null,
+          "domain": "techram.com.au",
+          "url": "https://techram.com.au/microsoft/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "TechRam",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "walkerscott.com.au",
+          "snippet": null,
+          "domain": "www.walkerscott.com.au",
+          "url": "https://www.walkerscott.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[walkerscott.com.au](https://www.walkerscott.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Walkerscott Pty Ltd",
+          "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ecleva.com.au",
+          "snippet": null,
+          "domain": "ecleva.com.au",
+          "url": "https://ecleva.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[ecleva.com.au](https://ecleva.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "ECLEVA",
+          "snippet": "level 11/56 Berry St, North Sydney NSW 2060, Australia",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/maps/place/ECLEVA/@-33.8367106,151.2080678,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12afb202020ec3:0xf17bdb688ea4daa0!8m2!3d-33.8367106!4d151.2080678!16s%2Fg%2F11j7d015mw?hl=en&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "google.com",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Sydney Australia Microsoft Power Platform consultants manufacturing ERP integration shop floor data capture automation consultants"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Australian Power Platform and manufacturing automation consultancy",
+          "category": "company",
+          "markdown": "Inturing",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sydney process automation and Microsoft 365 consultancy",
+          "category": "company",
+          "markdown": "Norbrik",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sydney Microsoft Power Platform and Azure consultancy",
+          "category": "company",
+          "markdown": "TechRam",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Walkerscott",
+          "category": "local_business",
+          "markdown": "Walkerscott",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "ECLEVA",
+          "category": "local_business",
+          "markdown": "ECLEVA",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images",
+        "chat_gpt_local_businesses"
+      ],
+      "items_count": 13,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "# Sydney consultants for manufacturing automation without replacing your ERP\n\nFor a Sydney manufacturer wanting to automate order processing, capture shop-floor data and streamline operations while keeping its existing ERP, I’d start with **specialist Power Platform and systems-integration consultancies**, rather than firms whose primary business is replacing ERP systems.\n\nThe right partner should connect Microsoft Power Apps, Power Automate and Power BI to your current ERP, so orders, production updates, inspections and operational reporting flow between systems without unnecessary re-keying. These are practical use cases for the Power Platform, provided the integration is designed around your ERP’s APIs, data model and controls. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n## My shortlist\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Microsoft Power Platform | Inspirit365](https://images.openai.com/static-rsc-4/Ba36MpHGWNfGXZHrmxJ-h8QCNZC-LcqEkXCv-I8PAdHq6xOYV-stwMv0IXqPMUJowWRmvryiISyq5JcIsjQ9KM_Z1mkTDc5nWle47SY2tlzeGpopnw9wmTlwn8t6ipE5PzV86rStsLAqTQnlL0Cb65gK0t4ZEObmC3sVN0-T1LM4oCkWcjqd0uwmgxP1YLbB?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://inspirit365.com/dk/teknologi/power-platform",
+              "alt": "Microsoft Power Platform | Inspirit365",
+              "image_url": "https://images.openai.com/static-rsc-4/Ba36MpHGWNfGXZHrmxJ-h8QCNZC-LcqEkXCv-I8PAdHq6xOYV-stwMv0IXqPMUJowWRmvryiISyq5JcIsjQ9KM_Z1mkTDc5nWle47SY2tlzeGpopnw9wmTlwn8t6ipE5PzV86rStsLAqTQnlL0Cb65gK0t4ZEObmC3sVN0-T1LM4oCkWcjqd0uwmgxP1YLbB?purpose=fullsize",
+              "markdown": "![Microsoft Power Platform | Inspirit365](https://images.openai.com/static-rsc-4/Ba36MpHGWNfGXZHrmxJ-h8QCNZC-LcqEkXCv-I8PAdHq6xOYV-stwMv0IXqPMUJowWRmvryiISyq5JcIsjQ9KM_Z1mkTDc5nWle47SY2tlzeGpopnw9wmTlwn8t6ipE5PzV86rStsLAqTQnlL0Cb65gK0t4ZEObmC3sVN0-T1LM4oCkWcjqd0uwmgxP1YLbB?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Inturing\n\n(Best overall fit)\n\nWebsite: [inturing.com.au](https://inturing.com.au/)\n\nInturing explicitly targets manufacturers already running Microsoft 365 alongside ERP, MES and engineering systems. Its stated services include automated quote and order processing, shop-floor and inspection apps, supplier workflows, document extraction and operational dashboards. It specifically positions its approach around integrating existing systems without replacing them. [inturing.com.au](https://inturing.com.au/?utm_source=chatgpt.com)[inturing.com.au](https://inturing.com.au/about?utm_source=chatgpt.com)\n\n**Ask them about\\:** Automating emailed purchase orders, extracting order details from PDFs, validating them against ERP records, and creating mobile production or quality-inspection capture apps.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "inturing.com.au",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[inturing.com.au](https://inturing.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "inturing.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "About Inturing",
+              "snippet": null,
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/about?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Australian Power Platform Consultancy",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Australian Power Platform and manufacturing automation consultancy",
+              "category": "company",
+              "markdown": "Inturing",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": null,
+          "items": null
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Norbrik\n\nWebsite: [norbrik.com](https://www.norbrik.com/)\n\nSydney-based, with experience in Microsoft 365, Power Platform, process automation and custom operational applications. Norbrik publishes a manufacturing case study involving a performance-management application for an ASX-listed building-products manufacturer. It is worth considering if your needs extend beyond simple approval flows into custom operational processes. [www.norbrik.com](https://www.norbrik.com/?utm_source=chatgpt.com)\n\n**Ask them about\\:** Building operational apps, eliminating spreadsheet-based handoffs, capturing production information and connecting workflows to your ERP.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "norbrik.com",
+              "snippet": null,
+              "domain": "www.norbrik.com",
+              "url": "https://www.norbrik.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[norbrik.com](https://www.norbrik.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Norbrik: Process automation and AI, Sydney",
+              "snippet": null,
+              "domain": "www.norbrik.com",
+              "url": "https://www.norbrik.com/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Norbrik",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sydney process automation and Microsoft 365 consultancy",
+              "category": "company",
+              "markdown": "Norbrik",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![Power Platform / Power Automate Developers | C9](https://images.openai.com/static-rsc-4/EO6XgeciQvih2MXTqDtBgJHxvg3VFQGrNot-qrCEi7PK4KsSrurWAqqb4sZqJvrpHRnXzvXXiOjpL41x6Lsk_qcJ7IN7D9y_VE0lK6twt1AokWDSfbFHzYCsNIuDxSUqO2rH9JCfkYgAwhbS9Jhc9w0e16u1yvJoxMzU83d9rHWdfcDFVgihvjI0hnUhFiB3?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.c9.com.au/Platforms-Technologies/Process-Automation/Power-Platform-Power-Automate-Developers",
+              "alt": "Power Platform / Power Automate Developers | C9",
+              "image_url": "https://images.openai.com/static-rsc-4/EO6XgeciQvih2MXTqDtBgJHxvg3VFQGrNot-qrCEi7PK4KsSrurWAqqb4sZqJvrpHRnXzvXXiOjpL41x6Lsk_qcJ7IN7D9y_VE0lK6twt1AokWDSfbFHzYCsNIuDxSUqO2rH9JCfkYgAwhbS9Jhc9w0e16u1yvJoxMzU83d9rHWdfcDFVgihvjI0hnUhFiB3?purpose=fullsize",
+              "markdown": "![Power Platform / Power Automate Developers | C9](https://images.openai.com/static-rsc-4/EO6XgeciQvih2MXTqDtBgJHxvg3VFQGrNot-qrCEi7PK4KsSrurWAqqb4sZqJvrpHRnXzvXXiOjpL41x6Lsk_qcJ7IN7D9y_VE0lK6twt1AokWDSfbFHzYCsNIuDxSUqO2rH9JCfkYgAwhbS9Jhc9w0e16u1yvJoxMzU83d9rHWdfcDFVgihvjI0hnUhFiB3?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. TechRam\n\nWebsite: [techram.com.au](https://techram.com.au/microsoft/power-platform/)\n\nTechRam builds Sydney business automation using Power Platform and Azure, selecting the technology according to the process's complexity. Its published approach considers operational ownership, audit trails and what happens when automations fail—not just how quickly a workflow can be built. [techram.com.au](https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com)[techram.com.au](https://techram.com.au/microsoft/?utm_source=chatgpt.com)\n\n**Ask them about\\:** Reliable, high-volume ERP integration, exception handling, production data capture and how critical automations are monitored and recovered.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "techram.com.au",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/microsoft/power-platform/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[techram.com.au](https://techram.com.au/microsoft/power-platform/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Power Apps & Power Automate Consultants, Sydney",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/microsoft/power-platform/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "TechRam",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Microsoft 365, Azure, Power Platform & Foundry",
+              "snippet": null,
+              "domain": "techram.com.au",
+              "url": "https://techram.com.au/microsoft/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "TechRam",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sydney Microsoft Power Platform and Azure consultancy",
+              "category": "company",
+              "markdown": "TechRam",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Monovi | Solution Partners](https://images.openai.com/static-rsc-4/4Mtn5cbU9wvgDpapfogF6N4oI9dnN31aBbMBtE29jmgTXxSPQXCajZRSEPvw-RuCfoCE0l8C-TSQAsYRrQSOXvYwORlqdJvTinIaawii8zpmEOgCIredNZAD7M86FWTtGVdWouhurlk-Y0qwv-7vmOtfKH7QPmy7zQQaGErvxvwzol7GoAbmY3r0KuzB74wn?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://monovi.com.tr/solution-partners",
+              "alt": "Monovi | Solution Partners",
+              "image_url": "https://images.openai.com/static-rsc-4/4Mtn5cbU9wvgDpapfogF6N4oI9dnN31aBbMBtE29jmgTXxSPQXCajZRSEPvw-RuCfoCE0l8C-TSQAsYRrQSOXvYwORlqdJvTinIaawii8zpmEOgCIredNZAD7M86FWTtGVdWouhurlk-Y0qwv-7vmOtfKH7QPmy7zQQaGErvxvwzol7GoAbmY3r0KuzB74wn?purpose=fullsize",
+              "markdown": "![Monovi | Solution Partners](https://images.openai.com/static-rsc-4/4Mtn5cbU9wvgDpapfogF6N4oI9dnN31aBbMBtE29jmgTXxSPQXCajZRSEPvw-RuCfoCE0l8C-TSQAsYRrQSOXvYwORlqdJvTinIaawii8zpmEOgCIredNZAD7M86FWTtGVdWouhurlk-Y0qwv-7vmOtfKH7QPmy7zQQaGErvxvwzol7GoAbmY3r0KuzB74wn?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Walkerscott\n\nWebsite: [walkerscott.com.au](https://www.walkerscott.com.au/)\n\nA Sydney-based Microsoft technology consultancy with Power Platform, business applications, cloud integration and data/reporting capabilities. Consider them if the project requires more substantial integration architecture, governance or enterprise-grade reporting alongside app development. [www.google.com](https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com)\n\n**Ask them about\\:** Integrating your existing ERP with Power Apps and Power Automate, plus designing a maintainable data and reporting layer.\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "walkerscott.com.au",
+              "snippet": null,
+              "domain": "www.walkerscott.com.au",
+              "url": "https://www.walkerscott.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[walkerscott.com.au](https://www.walkerscott.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Walkerscott Pty Ltd",
+              "snippet": "Level 6/89 York St, Sydney NSW 2000, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/?q=place_id%3AChIJHchqvECuEmsRsWxFn67Fcy8&hl=en&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Walkerscott",
+              "category": "local_business",
+              "markdown": "Walkerscott",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Modern, Professional, It Company Logo Design for Ecleva by ahmadesigns | Design #11784981](https://images.openai.com/static-rsc-4/nIQjsATz3zNKj4S3rw1I_AjnOKjFNw1UVgyAiyDUgW4-sLpncMfltEl_YOv-R1eqN6huEy1lGCdepa_t8xCRYcl4kBmo29_zpCOQtUv-Y50dYutpAxN2I9T8vRhRgblmCMOhIsfK10QxpuU3BJMdSpl1FoTicB2jCi2qAeib3XLtKgVbN_Dk7hR4VsQ-_ktv?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://www.designcrowd.com/design/11784981",
+              "alt": "Modern, Professional, It Company Logo Design for Ecleva by ahmadesigns | Design #11784981",
+              "image_url": "https://images.openai.com/static-rsc-4/nIQjsATz3zNKj4S3rw1I_AjnOKjFNw1UVgyAiyDUgW4-sLpncMfltEl_YOv-R1eqN6huEy1lGCdepa_t8xCRYcl4kBmo29_zpCOQtUv-Y50dYutpAxN2I9T8vRhRgblmCMOhIsfK10QxpuU3BJMdSpl1FoTicB2jCi2qAeib3XLtKgVbN_Dk7hR4VsQ-_ktv?purpose=fullsize",
+              "markdown": "![Modern, Professional, It Company Logo Design for Ecleva by ahmadesigns | Design #11784981](https://images.openai.com/static-rsc-4/nIQjsATz3zNKj4S3rw1I_AjnOKjFNw1UVgyAiyDUgW4-sLpncMfltEl_YOv-R1eqN6huEy1lGCdepa_t8xCRYcl4kBmo29_zpCOQtUv-Y50dYutpAxN2I9T8vRhRgblmCMOhIsfK10QxpuU3BJMdSpl1FoTicB2jCi2qAeib3XLtKgVbN_Dk7hR4VsQ-_ktv?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. ECLEVA\n\nWebsite: [ecleva.com.au](https://ecleva.com.au/)\n\nA North Sydney technology consultancy working across Microsoft business applications, Power Platform, Azure and data/AI. It is a useful additional candidate if you want to combine workflow automation with broader integration and operational reporting. Validate its recent manufacturing-specific project experience before shortlisting. [www.google.com](https://www.google.com/maps/place/ECLEVA/@-33.8367106,151.2080678,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12afb202020ec3:0xf17bdb688ea4daa0!8m2!3d-33.8367106!4d151.2080678!16s%2Fg%2F11j7d015mw?hl=en&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com)\n\n**Ask them about\\:** Connecting shop-floor applications and operational workflows to your existing ERP without introducing a competing source of truth.\n\n## Who I would contact first\n\nMy recommended order is\\:\n\n1. **Inturing** — closest match to your exact combination of manufacturing, order automation, shop-floor apps and retaining the existing ERP.\n2. **Norbrik** — particularly interesting for custom operational applications and process automation.\n3. **TechRam** — worth speaking to if reliability, auditability and long-term ownership of integrations are major concerns.\n\nThese are fit-based recommendations from published service descriptions, not a ranking based on independently verified project outcomes.\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "ecleva.com.au",
+              "snippet": null,
+              "domain": "ecleva.com.au",
+              "url": "https://ecleva.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[ecleva.com.au](https://ecleva.com.au/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "ECLEVA",
+              "snippet": "level 11/56 Berry St, North Sydney NSW 2060, Australia",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/maps/place/ECLEVA/@-33.8367106,151.2080678,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12afb202020ec3:0xf17bdb688ea4daa0!8m2!3d-33.8367106!4d151.2080678!16s%2Fg%2F11j7d015mw?hl=en&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D&utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "google.com",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "ECLEVA",
+              "category": "local_business",
+              "markdown": "ECLEVA",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_local_businesses",
+          "rank_group": 1,
+          "rank_absolute": 12,
+          "markdown": null,
+          "items": [
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Norbrik",
+              "description": "Corporate office",
+              "address": "Level 1, 63–73 Ann Street, Surry Hills NSW 2010, Australia",
+              "phone": null,
+              "reviews_count": null,
+              "url": "http://avertro.com/?utm_source=chatgpt.com",
+              "domain": "avertro.com",
+              "rating": null
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "Walkerscott Pty Ltd",
+              "description": "Business management consultant",
+              "address": "Level 6/89 York St, Sydney NSW 2000, Australia",
+              "phone": "+61 1300 490 795",
+              "reviews_count": 6,
+              "url": "http://www.walkerscott.co/?utm_source=Google&utm_medium=GMB&utm_campaign=Map/Sydney",
+              "domain": "www.walkerscott.co",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 6,
+                "rating_max": 5
+              }
+            },
+            {
+              "type": "chat_gpt_local_businesses_element",
+              "title": "ECLEVA",
+              "description": "Consultant",
+              "address": "level 11/56 Berry St, North Sydney NSW 2060, Australia",
+              "phone": "+61 2 9467 9300",
+              "reviews_count": 5,
+              "url": "https://www.ecleva.com/",
+              "domain": "www.ecleva.com",
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 5,
+                "rating_max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "markdown": "\n\n## What to ask in the first meeting\n\nI'd send each consultant the same brief and ask them to demonstrate how they would handle three workflows\\:\n\n**1\\. Order processing**\n\nReceive customer orders from email, PDF, EDI or spreadsheets; extract and validate the details; flag exceptions; and create or update orders in the existing ERP.\n\n---\n\n**2\\. Shop-floor data capture**\n\nCapture job progress, labour, material consumption, downtime, scrap and quality checks on tablets or scanners, with data flowing back into the ERP where appropriate.\n\n---\n\n**3\\. Operations visibility**\n\nBuild dashboards for order status, production output, bottlenecks and exceptions, without creating a separate, conflicting source of truth.\n\nAsk each firm to explain its proposed ERP connector or API approach, licensing costs, error handling, offline shop-floor capability, security and ongoing support. Also request a reference from a manufacturer using a comparable ERP.\n\n## One detail that would sharpen this shortlist\n\n**Which ERP are you running today?**\n\nFor example, SAP, Epicor, Infor, Pronto Xi, MYOB, Microsoft Dynamics, NetSuite or a custom/on-premises system.\n\nThat will help distinguish consultants with relevant integration experience from general Power Platform developers, and identify the strongest candidates for your specific environment.",
+          "sources": null,
+          "brand_entities": null
+        }
+      ]
+    }
+  ]
+}

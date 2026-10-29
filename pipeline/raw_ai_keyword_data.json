@@ -1,0 +1,1048 @@
+{
+  "version": "0.1.20261022",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "1.2785 sec.",
+  "cost": 0.0115,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "10290415-2877-0619-0000-453191fa95ec",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "1.2507 sec.",
+      "cost": 0.0115,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "ai_keyword_data",
+        "keywords_search_volume",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "keywords_search_volume",
+        "keywords": [
+          "power platform consultant",
+          "power bi consultant",
+          "power automate",
+          "workflow automation",
+          "ai automation",
+          "business process automation",
+          "microsoft power platform",
+          "power apps",
+          "copilot studio",
+          "microsoft fabric",
+          "erp integration",
+          "ai automation agency",
+          "manufacturing automation",
+          "power bi",
+          "microsoft copilot"
+        ],
+        "location_code": 2036,
+        "language_code": "en"
+      },
+      "result": [
+        {
+          "location_code": 2036,
+          "language_code": "en",
+          "items_count": 15,
+          "items": [
+            {
+              "keyword": "power platform consultant",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "power bi consultant",
+              "ai_search_volume": 4,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 13
+                }
+              ]
+            },
+            {
+              "keyword": "power automate",
+              "ai_search_volume": 338,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 338
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 285
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 279
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 293
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 332
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 337
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 336
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 335
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 337
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 360
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 318
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 348
+                }
+              ]
+            },
+            {
+              "keyword": "workflow automation",
+              "ai_search_volume": 46,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 46
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 39
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 50
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 47
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 63
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 54
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 66
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 68
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 87
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 88
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 78
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 83
+                }
+              ]
+            },
+            {
+              "keyword": "ai automation",
+              "ai_search_volume": 143,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 143
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 109
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 103
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 119
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 140
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 138
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 154
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 154
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 180
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 177
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 154
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 142
+                }
+              ]
+            },
+            {
+              "keyword": "business process automation",
+              "ai_search_volume": 10,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 14
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 17
+                }
+              ]
+            },
+            {
+              "keyword": "microsoft power platform",
+              "ai_search_volume": 21,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 20
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 17
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 14
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 15
+                }
+              ]
+            },
+            {
+              "keyword": "power apps",
+              "ai_search_volume": 399,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 399
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 374
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 320
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 359
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 397
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 440
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 420
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 443
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 435
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 465
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 396
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 473
+                }
+              ]
+            },
+            {
+              "keyword": "copilot studio",
+              "ai_search_volume": 117,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 117
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 80
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 79
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 74
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 96
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 94
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 85
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 89
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 93
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 99
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 78
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 85
+                }
+              ]
+            },
+            {
+              "keyword": "microsoft fabric",
+              "ai_search_volume": 79,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 79
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 68
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 65
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 71
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 77
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 90
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 106
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 101
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 97
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 96
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 84
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 101
+                }
+              ]
+            },
+            {
+              "keyword": "erp integration",
+              "ai_search_volume": 16,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 27
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 20
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 31
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 38
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 54
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 50
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 58
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 63
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 76
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 57
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 31
+                }
+              ]
+            },
+            {
+              "keyword": "ai automation agency",
+              "ai_search_volume": 23,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 23
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 7
+                }
+              ]
+            },
+            {
+              "keyword": "manufacturing automation",
+              "ai_search_volume": 1,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 4
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 11
+                }
+              ]
+            },
+            {
+              "keyword": "power bi",
+              "ai_search_volume": 1670,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 1670
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 1550
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 1635
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1779
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 2235
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 2406
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 2444
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 2269
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 2463
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 2714
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 2498
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 2796
+                }
+              ]
+            },
+            {
+              "keyword": "microsoft copilot",
+              "ai_search_volume": 551,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 551
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 443
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 467
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 522
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 617
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 594
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 606
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 624
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 633
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 667
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 571
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 600
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

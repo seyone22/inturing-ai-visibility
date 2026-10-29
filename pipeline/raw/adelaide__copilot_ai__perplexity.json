@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Adelaide specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:08:20.103Z",
+  "cost": 0.006133,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 499,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005533,
+      "datetime": "2026-10-29 04:08:15 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Adelaide-relevant options are:\n\n- **CG TECH** — A good fit for mid-market organisations seeking practical Microsoft automation. It works with businesses of roughly **50–500 staff**, combining Microsoft 365, Copilot, Power Platform, custom AI agents and governance. Its Adelaide examples include Copilot Studio agents for volunteer matching and policy/form assistance.[1]\n\n- **Frontrow Technology** — Adelaide-based, with an office on King William Street. It offers Copilot readiness and rollout, Copilot Studio and Azure AI Foundry agent builds, SharePoint and Purview preparation, and governance controls for human oversight.[4]\n\n- **Ential** — Focuses on Microsoft Copilot adoption and Copilot Studio agents for Microsoft 365-based workflows. Its stated target sectors include professional services, agencies, brokers, real estate, trades and consultants, making it particularly relevant to operationally focused mid-market firms.[2]\n\n- **Synenza** — Suitable for organisations needing more substantial Microsoft architecture or integrations. It builds Copilot Studio, Dynamics 365 and Azure AI agents, connecting them with Power Automate, Dataverse, Power Apps, Power Pages and business systems.[3]\n\n- **Evocate** — An Australian delivery firm with a practical production focus. It builds Copilot Studio agents connected to SharePoint, Dynamics 365, SQL, REST APIs and custom systems, including multi-step workflows with escalation and human-in-the-loop controls.[6][7]\n\n### Best shortlist by likely need\n\n| Need | Best starting points |\n|---|---|\n| Adelaide-based Microsoft Copilot strategy and governance | **Frontrow Technology**, **CG TECH** |\n| Practical workflow automation for a 50–500-person business | **CG TECH**, **Ential** |\n| Copilot Studio agents connected to business systems | **Synenza**, **Evocate** |\n| Copilot adoption, training and use-case implementation | **Ential**, **Frontrow Technology** |\n| Complex Dynamics 365, Azure or enterprise integrations | **Synenza**, **Evocate** |\n\nFor a typical Adelaide mid-market business, **CG TECH, Frontrow Technology and Ential** appear to be the most directly aligned shortlist: all emphasise Microsoft Copilot, practical automation and business adoption rather than AI experimentation alone.[1][2][4] Confirm local availability, relevant case studies, Microsoft certifications and the proposed delivery model before appointing a consultant.",
+              "annotations": [
+                {
+                  "title": "AI Agents and Automation for Adelaide Businesses - CG TECH",
+                  "url": "https://cgtech.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot Specialists in Adelaide · Ential",
+                  "url": "https://www.ential.com/copilot-specialist-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Consulting — Synenza",
+                  "url": "https://www.synenza.com.au/services/copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Frontrow Technology — Microsoft 365, Copilot & Applied AI",
+                  "url": "https://frontrowtech.com.au/ai-consultant-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Affinity MSP: AI Agents & Copilot Studio Consulting Australia",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agents & Business Automation | Evocate Australia",
+                  "url": "https://www.evocate.com.au/ai-implementation/ai-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Copilot Studio Consulting Australia | Evocate",
+                  "url": "https://www.evocate.com.au/ai-implementation/copilot-studio/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultant Adelaide | Business Automation & AI Agents",
+                  "url": "https://flowtivity.ai/ai-consultant/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI First Partners | Home",
+                  "url": "https://aifirstpartners.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agent Solutions | Training and Consulting for Copilot Studio",
+                  "url": "https://pragmaticworks.com/copilot-studio",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

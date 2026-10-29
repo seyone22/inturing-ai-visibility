@@ -1,0 +1,2013 @@
+{
+  "generatedAt": "2026-10-29T04:20:28.341Z",
+  "totalAnswers": 280,
+  "totalSerps": 56,
+  "mtMentioned": 31,
+  "mtRatePct": 11.1,
+  "mtTop3": 27,
+  "mtTop3Pct": 9.6,
+  "mtNum1": 21,
+  "mtNum1Pct": 7.5,
+  "mtCited": 35,
+  "mtCitedPct": 12.5,
+  "wfMentioned": 31,
+  "wfRatePct": 11.1,
+  "wfTop3": 27,
+  "wfTop3Pct": 9.6,
+  "wfNum1": 21,
+  "wfNum1Pct": 7.5,
+  "wfCited": 35,
+  "wfCitedPct": 12.5,
+  "serpTop10Count": 0,
+  "serpTop20Count": 0,
+  "byPlat": {
+    "chatgpt": {
+      "total": 56,
+      "mentioned": 11,
+      "ratePct": 19.6,
+      "top3": 10,
+      "top3Pct": 17.9,
+      "num1": 8,
+      "cited": 12,
+      "avgChars": 9576,
+      "avgCitations": 27.5
+    },
+    "perplexity": {
+      "total": 56,
+      "mentioned": 8,
+      "ratePct": 14.3,
+      "top3": 8,
+      "top3Pct": 14.3,
+      "num1": 6,
+      "cited": 8,
+      "avgChars": 2915,
+      "avgCitations": 10
+    },
+    "aimode": {
+      "total": 56,
+      "mentioned": 8,
+      "ratePct": 14.3,
+      "top3": 8,
+      "top3Pct": 14.3,
+      "num1": 7,
+      "cited": 8,
+      "avgChars": 5839,
+      "avgCitations": 3.4
+    },
+    "gemini": {
+      "total": 56,
+      "mentioned": 4,
+      "ratePct": 7.1,
+      "top3": 1,
+      "top3Pct": 1.8,
+      "num1": 0,
+      "cited": 7,
+      "avgChars": 4974,
+      "avgCitations": 15.9
+    },
+    "claude": {
+      "total": 56,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "cited": 0,
+      "avgChars": 4728,
+      "avgCitations": 7.8
+    }
+  },
+  "byCity": {
+    "sydney": {
+      "name": "Sydney",
+      "displayLoc": "Sydney (HQ)",
+      "state": "NSW",
+      "total": 35,
+      "mentioned": 4,
+      "ratePct": 11.4,
+      "top3": 4,
+      "top3Pct": 11.4,
+      "num1": 4,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Eagle360 Consulting",
+          "count": 15,
+          "pct": 42.9
+        },
+        {
+          "name": "Barhead Solutions",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Team 400",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Avanade",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Antares Solutions",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Velrada",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Accenture",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "melbourne": {
+      "name": "Melbourne",
+      "displayLoc": "Melbourne",
+      "state": "VIC",
+      "total": 35,
+      "mentioned": 5,
+      "ratePct": 14.3,
+      "top3": 5,
+      "top3Pct": 14.3,
+      "num1": 3,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Team 400",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Eagle360 Consulting",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Engage Squared",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Velrada",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Avanade",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Alphavima",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 6,
+          "pct": 17.1
+        }
+      ]
+    },
+    "brisbane": {
+      "name": "Brisbane",
+      "displayLoc": "Brisbane",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 5,
+      "ratePct": 14.3,
+      "top3": 4,
+      "top3Pct": 11.4,
+      "num1": 2,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Team 400",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Data#3",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Alphavima",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Strategik",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Frontrow Technology",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Velrada",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Inturing",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "perth": {
+      "name": "Perth",
+      "displayLoc": "Perth",
+      "state": "WA",
+      "total": 35,
+      "mentioned": 2,
+      "ratePct": 5.7,
+      "top3": 1,
+      "top3Pct": 2.9,
+      "num1": 1,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Velrada",
+          "count": 14,
+          "pct": 40
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Ultron Developments",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "iCatalyst",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Data#3",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Austin Technology",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "SolveBI",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "AGER BI",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "adelaide": {
+      "name": "Adelaide",
+      "displayLoc": "Adelaide",
+      "state": "SA",
+      "total": 35,
+      "mentioned": 3,
+      "ratePct": 8.6,
+      "top3": 2,
+      "top3Pct": 5.7,
+      "num1": 1,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Power Platform Experts",
+          "count": 18,
+          "pct": 51.4
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Evocate",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Data#3",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "CG TECH",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "A1 Technologies",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Velrada",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Eagle360 Consulting",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    },
+    "canberra": {
+      "name": "Canberra",
+      "displayLoc": "Canberra",
+      "state": "ACT",
+      "total": 35,
+      "mentioned": 4,
+      "ratePct": 11.4,
+      "top3": 3,
+      "top3Pct": 8.6,
+      "num1": 3,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Power Platform Experts",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Evocate",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Data#3",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "MOJO Up",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Atturra",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Barhead Solutions",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Avanade",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    },
+    "newcastle": {
+      "name": "Newcastle",
+      "displayLoc": "Newcastle",
+      "state": "NSW",
+      "total": 35,
+      "mentioned": 4,
+      "ratePct": 11.4,
+      "top3": 4,
+      "top3Pct": 11.4,
+      "num1": 3,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "SR1 Development",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Marra",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Evocate",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Inturing",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Alphavima",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 3,
+          "pct": 8.6
+        },
+        {
+          "name": "Agile Insights",
+          "count": 3,
+          "pct": 8.6
+        },
+        {
+          "name": "Frontrow Technology",
+          "count": 3,
+          "pct": 8.6
+        }
+      ]
+    },
+    "hobart": {
+      "name": "Hobart",
+      "displayLoc": "Hobart",
+      "state": "TAS",
+      "total": 35,
+      "mentioned": 4,
+      "ratePct": 11.4,
+      "top3": 4,
+      "top3Pct": 11.4,
+      "num1": 4,
+      "serpTop10": 0,
+      "serpTop20": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 0,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Intuit Technologies",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Alphavima",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "FutureAbility",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Datawise",
+          "count": 6,
+          "pct": 17.1
+        },
+        {
+          "name": "Barhead Solutions",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Report Simple",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "Data#3",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Antares Solutions",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    }
+  },
+  "byCat": {
+    "power_platform": {
+      "category": "Microsoft Power Platform Consulting",
+      "title": "Power Platform Consultants",
+      "template": "Who are the best Microsoft Power Platform consultants in {city}? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Power Platform Experts",
+          "count": 24,
+          "pct": 60
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 16,
+          "pct": 40
+        },
+        {
+          "name": "Barhead Solutions",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Velrada",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "SSW",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Engage Squared",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Data#3",
+          "count": 9,
+          "pct": 22.5
+        }
+      ]
+    },
+    "workflow_automation": {
+      "category": "Workflow Automation & Power Automate",
+      "title": "Workflow & Power Automate",
+      "template": "Which consultancies in {city} are best for business workflow automation and Microsoft Power Automate implementation?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "OfficePro Consulting",
+          "count": 18,
+          "pct": 45
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Alphavima",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Data#3",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Avanade",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Engage Squared",
+          "count": 6,
+          "pct": 15
+        }
+      ]
+    },
+    "manufacturing_automation": {
+      "category": "Manufacturing Operations & Process Automation",
+      "title": "Manufacturing Process Automation",
+      "template": "We are a manufacturer in {city} looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "total": 40,
+      "mentioned": 23,
+      "ratePct": 57.5,
+      "top3": 20,
+      "num1": 16,
+      "topFirms": [
+        {
+          "name": "Inturing",
+          "count": 23,
+          "pct": 57.5
+        },
+        {
+          "name": "Power Platform Experts",
+          "count": 19,
+          "pct": 47.5
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Eagle360 Consulting",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Barhead Solutions",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Alphavima",
+          "count": 8,
+          "pct": 20
+        }
+      ]
+    },
+    "power_apps": {
+      "category": "Operational Business Apps (Power Apps & Dataverse)",
+      "title": "Custom Business Apps (Power Apps)",
+      "template": "Who are the leading Microsoft Power Apps and Dataverse consultants in {city} for building custom operational business apps for warehouse, shop-floor, or field teams?",
+      "total": 40,
+      "mentioned": 8,
+      "ratePct": 20,
+      "top3": 7,
+      "num1": 5,
+      "topFirms": [
+        {
+          "name": "Power Platform Experts",
+          "count": 26,
+          "pct": 65
+        },
+        {
+          "name": "Office Experts Group",
+          "count": 20,
+          "pct": 50
+        },
+        {
+          "name": "Ultron Developments",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Alphavima",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "OfficePro Consulting",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Velrada",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Inturing",
+          "count": 8,
+          "pct": 20
+        }
+      ]
+    },
+    "erp_integration": {
+      "category": "ERP, CRM & System Integration",
+      "title": "ERP & System Integration",
+      "template": "Which system integration specialists in {city} are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Leverage Technologies",
+          "count": 25,
+          "pct": 62.5
+        },
+        {
+          "name": "Cloud Factory",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "OneKloudX",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "MYOB Enterprise Partners",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Bright Labs",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Eagle360 Consulting",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "AMBR IT",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Wiise",
+          "count": 5,
+          "pct": 12.5
+        }
+      ]
+    },
+    "power_bi_fabric": {
+      "category": "Operational Analytics (Power BI & Microsoft Fabric)",
+      "title": "Power BI & Microsoft Fabric",
+      "template": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in {city} for operational reporting and data warehousing?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Agile Insights",
+          "count": 26,
+          "pct": 65
+        },
+        {
+          "name": "AGER BI",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Professional Advantage",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Report Simple",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Data#3",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Avanade",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Roar Data",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "Antares Solutions",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    },
+    "copilot_ai": {
+      "category": "Practical AI & Microsoft Copilot Studio",
+      "title": "AI Agents & Copilot Studio",
+      "template": "Which AI automation consultants in {city} specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Frontrow Technology",
+          "count": 27,
+          "pct": 67.5
+        },
+        {
+          "name": "CG TECH",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Team 400",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "IOTAI",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Eagle360 Consulting",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Synenza",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "Evocate",
+          "count": 8,
+          "pct": 20
+        },
+        {
+          "name": "TechBrain",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    }
+  },
+  "leaderboard": [
+    {
+      "name": "Power Platform Experts",
+      "mentions": 86,
+      "top3": 64,
+      "num1": 28,
+      "byPlat": {
+        "chatgpt": 23,
+        "perplexity": 18,
+        "aimode": 18,
+        "gemini": 3,
+        "claude": 24
+      },
+      "byCity": {
+        "sydney": 10,
+        "melbourne": 8,
+        "brisbane": 12,
+        "perth": 13,
+        "adelaide": 18,
+        "canberra": 17,
+        "newcastle": 5,
+        "hobart": 3
+      },
+      "byCat": {
+        "power_platform": 24,
+        "workflow_automation": 17,
+        "manufacturing_automation": 19,
+        "power_apps": 26
+      },
+      "sharePct": 30.7,
+      "top3Pct": 22.9
+    },
+    {
+      "name": "Office Experts Group",
+      "mentions": 71,
+      "top3": 56,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 23,
+        "perplexity": 10,
+        "aimode": 10,
+        "gemini": 5,
+        "claude": 23
+      },
+      "byCity": {
+        "sydney": 6,
+        "melbourne": 6,
+        "brisbane": 10,
+        "perth": 12,
+        "adelaide": 17,
+        "canberra": 16,
+        "newcastle": 4
+      },
+      "byCat": {
+        "power_platform": 16,
+        "workflow_automation": 13,
+        "manufacturing_automation": 12,
+        "power_apps": 20,
+        "erp_integration": 4,
+        "power_bi_fabric": 3,
+        "copilot_ai": 3
+      },
+      "sharePct": 25.4,
+      "top3Pct": 20
+    },
+    {
+      "name": "Professional Advantage",
+      "mentions": 54,
+      "top3": 37,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 20,
+        "perplexity": 11,
+        "aimode": 1,
+        "gemini": 20,
+        "claude": 2
+      },
+      "byCity": {
+        "sydney": 11,
+        "melbourne": 8,
+        "brisbane": 5,
+        "perth": 6,
+        "adelaide": 6,
+        "canberra": 9,
+        "newcastle": 3,
+        "hobart": 6
+      },
+      "byCat": {
+        "power_platform": 12,
+        "workflow_automation": 6,
+        "manufacturing_automation": 9,
+        "power_apps": 10,
+        "erp_integration": 1,
+        "power_bi_fabric": 14,
+        "copilot_ai": 2
+      },
+      "sharePct": 19.3,
+      "top3Pct": 13.2
+    },
+    {
+      "name": "OfficePro Consulting",
+      "mentions": 43,
+      "top3": 29,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 12,
+        "aimode": 1,
+        "gemini": 8,
+        "claude": 17
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 8,
+        "brisbane": 4,
+        "perth": 2,
+        "adelaide": 6,
+        "canberra": 9,
+        "newcastle": 2,
+        "hobart": 7
+      },
+      "byCat": {
+        "workflow_automation": 18,
+        "power_apps": 10,
+        "manufacturing_automation": 9,
+        "power_platform": 1,
+        "copilot_ai": 3,
+        "erp_integration": 2
+      },
+      "sharePct": 15.4,
+      "top3Pct": 10.4
+    },
+    {
+      "name": "Data#3",
+      "mentions": 43,
+      "top3": 28,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 0,
+        "aimode": 11,
+        "gemini": 28,
+        "claude": 1
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 2,
+        "brisbane": 10,
+        "perth": 6,
+        "adelaide": 8,
+        "canberra": 7,
+        "newcastle": 1,
+        "hobart": 4
+      },
+      "byCat": {
+        "workflow_automation": 7,
+        "manufacturing_automation": 6,
+        "power_bi_fabric": 11,
+        "power_apps": 6,
+        "power_platform": 9,
+        "erp_integration": 1,
+        "copilot_ai": 3
+      },
+      "sharePct": 15.4,
+      "top3Pct": 10
+    },
+    {
+      "name": "Velrada",
+      "mentions": 39,
+      "top3": 26,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 13,
+        "perplexity": 3,
+        "aimode": 7,
+        "gemini": 16,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 8,
+        "brisbane": 5,
+        "perth": 14,
+        "adelaide": 4,
+        "canberra": 1,
+        "newcastle": 2
+      },
+      "byCat": {
+        "power_platform": 13,
+        "workflow_automation": 3,
+        "manufacturing_automation": 5,
+        "power_apps": 10,
+        "erp_integration": 4,
+        "power_bi_fabric": 2,
+        "copilot_ai": 2
+      },
+      "sharePct": 13.9,
+      "top3Pct": 9.3
+    },
+    {
+      "name": "Eagle360 Consulting",
+      "mentions": 39,
+      "top3": 21,
+      "num1": 4,
+      "byPlat": {
+        "chatgpt": 13,
+        "perplexity": 15,
+        "aimode": 2,
+        "gemini": 9,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 15,
+        "melbourne": 10,
+        "brisbane": 2,
+        "adelaide": 4,
+        "canberra": 4,
+        "newcastle": 2,
+        "hobart": 2
+      },
+      "byCat": {
+        "power_platform": 5,
+        "manufacturing_automation": 9,
+        "power_apps": 7,
+        "erp_integration": 8,
+        "power_bi_fabric": 2,
+        "copilot_ai": 8
+      },
+      "sharePct": 13.9,
+      "top3Pct": 7.5
+    },
+    {
+      "name": "Alphavima",
+      "mentions": 39,
+      "top3": 15,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 18,
+        "aimode": 0,
+        "gemini": 0,
+        "claude": 13
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 7,
+        "brisbane": 8,
+        "perth": 3,
+        "canberra": 3,
+        "newcastle": 4,
+        "hobart": 9
+      },
+      "byCat": {
+        "power_platform": 5,
+        "workflow_automation": 8,
+        "manufacturing_automation": 8,
+        "power_apps": 13,
+        "power_bi_fabric": 5
+      },
+      "sharePct": 13.9,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "Barhead Solutions",
+      "mentions": 37,
+      "top3": 26,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 2,
+        "aimode": 2,
+        "gemini": 26,
+        "claude": 1
+      },
+      "byCity": {
+        "sydney": 12,
+        "melbourne": 5,
+        "brisbane": 4,
+        "perth": 3,
+        "adelaide": 2,
+        "canberra": 4,
+        "newcastle": 2,
+        "hobart": 5
+      },
+      "byCat": {
+        "power_platform": 14,
+        "workflow_automation": 3,
+        "manufacturing_automation": 9,
+        "power_apps": 6,
+        "power_bi_fabric": 2,
+        "copilot_ai": 3
+      },
+      "sharePct": 13.2,
+      "top3Pct": 9.3
+    },
+    {
+      "name": "Team 400",
+      "mentions": 36,
+      "top3": 18,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 7,
+        "aimode": 2,
+        "gemini": 5,
+        "claude": 14
+      },
+      "byCity": {
+        "sydney": 9,
+        "melbourne": 11,
+        "brisbane": 13,
+        "perth": 1,
+        "canberra": 1,
+        "hobart": 1
+      },
+      "byCat": {
+        "power_platform": 7,
+        "workflow_automation": 6,
+        "power_apps": 2,
+        "power_bi_fabric": 6,
+        "copilot_ai": 12,
+        "manufacturing_automation": 3
+      },
+      "sharePct": 12.9,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "Inturing",
+      "mentions": 31,
+      "top3": 27,
+      "num1": 21,
+      "byPlat": {
+        "chatgpt": 11,
+        "perplexity": 8,
+        "aimode": 8,
+        "gemini": 4,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 4,
+        "melbourne": 5,
+        "brisbane": 5,
+        "perth": 2,
+        "adelaide": 3,
+        "canberra": 4,
+        "newcastle": 4,
+        "hobart": 4
+      },
+      "byCat": {
+        "manufacturing_automation": 23,
+        "power_apps": 8
+      },
+      "sharePct": 11.1,
+      "top3Pct": 9.6
+    },
+    {
+      "name": "Ultron Developments",
+      "mentions": 31,
+      "top3": 22,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 11,
+        "perplexity": 11,
+        "aimode": 0,
+        "gemini": 0,
+        "claude": 9
+      },
+      "byCity": {
+        "sydney": 2,
+        "melbourne": 4,
+        "brisbane": 4,
+        "perth": 12,
+        "adelaide": 3,
+        "canberra": 3,
+        "hobart": 3
+      },
+      "byCat": {
+        "power_apps": 17,
+        "manufacturing_automation": 6,
+        "power_platform": 3,
+        "workflow_automation": 3,
+        "copilot_ai": 2
+      },
+      "sharePct": 11.1,
+      "top3Pct": 7.9
+    },
+    {
+      "name": "Frontrow Technology",
+      "mentions": 30,
+      "top3": 24,
+      "num1": 19,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 5,
+        "aimode": 4,
+        "gemini": 6,
+        "claude": 7
+      },
+      "byCity": {
+        "sydney": 3,
+        "melbourne": 3,
+        "brisbane": 6,
+        "perth": 3,
+        "adelaide": 4,
+        "canberra": 4,
+        "newcastle": 3,
+        "hobart": 4
+      },
+      "byCat": {
+        "copilot_ai": 27,
+        "power_platform": 2,
+        "workflow_automation": 1
+      },
+      "sharePct": 10.7,
+      "top3Pct": 8.6
+    },
+    {
+      "name": "Evocate",
+      "mentions": 29,
+      "top3": 13,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 5,
+        "aimode": 7,
+        "gemini": 6,
+        "claude": 2
+      },
+      "byCity": {
+        "melbourne": 4,
+        "brisbane": 3,
+        "perth": 1,
+        "adelaide": 9,
+        "canberra": 7,
+        "newcastle": 4,
+        "hobart": 1
+      },
+      "byCat": {
+        "power_platform": 7,
+        "workflow_automation": 6,
+        "erp_integration": 2,
+        "copilot_ai": 8,
+        "power_apps": 3,
+        "power_bi_fabric": 3
+      },
+      "sharePct": 10.4,
+      "top3Pct": 4.6
+    },
+    {
+      "name": "Agile Insights",
+      "mentions": 28,
+      "top3": 21,
+      "num1": 13,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 8,
+        "aimode": 2,
+        "gemini": 4,
+        "claude": 6
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 4,
+        "brisbane": 4,
+        "perth": 1,
+        "adelaide": 4,
+        "canberra": 4,
+        "newcastle": 3,
+        "hobart": 3
+      },
+      "byCat": {
+        "power_bi_fabric": 26,
+        "copilot_ai": 1,
+        "power_platform": 1
+      },
+      "sharePct": 10,
+      "top3Pct": 7.5
+    },
+    {
+      "name": "Avanade",
+      "mentions": 26,
+      "top3": 12,
+      "num1": 0,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 2,
+        "aimode": 6,
+        "gemini": 15,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 7,
+        "melbourne": 7,
+        "brisbane": 4,
+        "perth": 2,
+        "adelaide": 1,
+        "canberra": 4,
+        "newcastle": 1
+      },
+      "byCat": {
+        "power_platform": 5,
+        "workflow_automation": 6,
+        "erp_integration": 2,
+        "power_bi_fabric": 10,
+        "manufacturing_automation": 1,
+        "power_apps": 2
+      },
+      "sharePct": 9.3,
+      "top3Pct": 4.3
+    },
+    {
+      "name": "Report Simple",
+      "mentions": 26,
+      "top3": 13,
+      "num1": 4,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 11,
+        "aimode": 0,
+        "gemini": 0,
+        "claude": 11
+      },
+      "byCity": {
+        "sydney": 3,
+        "melbourne": 2,
+        "brisbane": 3,
+        "perth": 3,
+        "adelaide": 4,
+        "canberra": 3,
+        "newcastle": 3,
+        "hobart": 5
+      },
+      "byCat": {
+        "power_apps": 8,
+        "power_bi_fabric": 11,
+        "power_platform": 3,
+        "workflow_automation": 2,
+        "manufacturing_automation": 2
+      },
+      "sharePct": 9.3,
+      "top3Pct": 4.6
+    },
+    {
+      "name": "Leverage Technologies",
+      "mentions": 25,
+      "top3": 20,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 7,
+        "aimode": 2,
+        "gemini": 7,
+        "claude": 3
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 3,
+        "brisbane": 3,
+        "perth": 3,
+        "adelaide": 3,
+        "canberra": 2,
+        "newcastle": 3,
+        "hobart": 3
+      },
+      "byCat": {
+        "erp_integration": 25
+      },
+      "sharePct": 8.9,
+      "top3Pct": 7.1
+    },
+    {
+      "name": "Antares Solutions",
+      "mentions": 23,
+      "top3": 8,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 0,
+        "aimode": 1,
+        "gemini": 15,
+        "claude": 3
+      },
+      "byCity": {
+        "sydney": 6,
+        "melbourne": 5,
+        "brisbane": 1,
+        "adelaide": 2,
+        "canberra": 4,
+        "newcastle": 1,
+        "hobart": 4
+      },
+      "byCat": {
+        "power_platform": 8,
+        "power_bi_fabric": 7,
+        "copilot_ai": 3,
+        "manufacturing_automation": 2,
+        "power_apps": 1,
+        "workflow_automation": 2
+      },
+      "sharePct": 8.2,
+      "top3Pct": 2.9
+    },
+    {
+      "name": "CG TECH",
+      "mentions": 21,
+      "top3": 18,
+      "num1": 8,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 8,
+        "aimode": 2,
+        "gemini": 1,
+        "claude": 4
+      },
+      "byCity": {
+        "sydney": 4,
+        "melbourne": 3,
+        "brisbane": 4,
+        "perth": 4,
+        "adelaide": 6
+      },
+      "byCat": {
+        "copilot_ai": 15,
+        "workflow_automation": 3,
+        "manufacturing_automation": 3
+      },
+      "sharePct": 7.5,
+      "top3Pct": 6.4
+    },
+    {
+      "name": "Engage Squared",
+      "mentions": 20,
+      "top3": 15,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 1,
+        "aimode": 3,
+        "gemini": 12,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 4,
+        "melbourne": 9,
+        "brisbane": 1,
+        "perth": 1,
+        "adelaide": 1,
+        "canberra": 3,
+        "newcastle": 1
+      },
+      "byCat": {
+        "power_platform": 9,
+        "workflow_automation": 6,
+        "power_apps": 3,
+        "copilot_ai": 2
+      },
+      "sharePct": 7.1,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "Accenture",
+      "mentions": 20,
+      "top3": 8,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 0,
+        "perplexity": 1,
+        "aimode": 7,
+        "gemini": 12,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 5,
+        "melbourne": 5,
+        "brisbane": 4,
+        "perth": 1,
+        "canberra": 4,
+        "newcastle": 1
+      },
+      "byCat": {
+        "power_platform": 5,
+        "workflow_automation": 4,
+        "power_bi_fabric": 7,
+        "power_apps": 1,
+        "erp_integration": 3
+      },
+      "sharePct": 7.1,
+      "top3Pct": 2.9
+    },
+    {
+      "name": "AGER BI",
+      "mentions": 20,
+      "top3": 8,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 1,
+        "perplexity": 5,
+        "aimode": 2,
+        "gemini": 6,
+        "claude": 6
+      },
+      "byCity": {
+        "sydney": 1,
+        "melbourne": 3,
+        "brisbane": 2,
+        "perth": 5,
+        "adelaide": 2,
+        "canberra": 3,
+        "newcastle": 1,
+        "hobart": 3
+      },
+      "byCat": {
+        "power_bi_fabric": 17,
+        "power_platform": 3
+      },
+      "sharePct": 7.1,
+      "top3Pct": 2.9
+    },
+    {
+      "name": "Cloud Factory",
+      "mentions": 17,
+      "top3": 17,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 2,
+        "perplexity": 6,
+        "aimode": 1,
+        "gemini": 3,
+        "claude": 5
+      },
+      "byCity": {
+        "sydney": 1,
+        "melbourne": 4,
+        "brisbane": 2,
+        "perth": 2,
+        "adelaide": 2,
+        "canberra": 2,
+        "newcastle": 3,
+        "hobart": 1
+      },
+      "byCat": {
+        "erp_integration": 17
+      },
+      "sharePct": 6.1,
+      "top3Pct": 6.1
+    },
+    {
+      "name": "SSW",
+      "mentions": 16,
+      "top3": 10,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 8,
+        "aimode": 1,
+        "gemini": 4,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 3,
+        "melbourne": 1,
+        "brisbane": 4,
+        "perth": 1,
+        "adelaide": 1,
+        "canberra": 1,
+        "newcastle": 3,
+        "hobart": 2
+      },
+      "byCat": {
+        "power_platform": 11,
+        "workflow_automation": 2,
+        "power_apps": 2,
+        "power_bi_fabric": 1
+      },
+      "sharePct": 5.7,
+      "top3Pct": 3.6
+    },
+    {
+      "name": "OneKloudX",
+      "mentions": 13,
+      "top3": 11,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 0,
+        "perplexity": 7,
+        "aimode": 2,
+        "gemini": 3,
+        "claude": 1
+      },
+      "byCity": {
+        "sydney": 2,
+        "melbourne": 2,
+        "brisbane": 2,
+        "perth": 1,
+        "adelaide": 2,
+        "canberra": 1,
+        "newcastle": 2,
+        "hobart": 1
+      },
+      "byCat": {
+        "erp_integration": 13
+      },
+      "sharePct": 4.6,
+      "top3Pct": 3.9
+    },
+    {
+      "name": "FutureAbility",
+      "mentions": 13,
+      "top3": 7,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 7,
+        "perplexity": 2,
+        "aimode": 0,
+        "gemini": 4,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 1,
+        "brisbane": 1,
+        "adelaide": 1,
+        "canberra": 1,
+        "newcastle": 1,
+        "hobart": 8
+      },
+      "byCat": {
+        "copilot_ai": 3,
+        "power_apps": 6,
+        "power_platform": 3,
+        "manufacturing_automation": 1
+      },
+      "sharePct": 4.6,
+      "top3Pct": 2.5
+    },
+    {
+      "name": "DXC Technology",
+      "mentions": 11,
+      "top3": 6,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 0,
+        "aimode": 3,
+        "gemini": 3,
+        "claude": 0
+      },
+      "byCity": {
+        "sydney": 1,
+        "melbourne": 1,
+        "perth": 3,
+        "adelaide": 2,
+        "canberra": 1,
+        "newcastle": 1,
+        "hobart": 2
+      },
+      "byCat": {
+        "power_platform": 3,
+        "power_apps": 2,
+        "erp_integration": 2,
+        "power_bi_fabric": 2,
+        "manufacturing_automation": 2
+      },
+      "sharePct": 3.9,
+      "top3Pct": 2.1
+    },
+    {
+      "name": "IOTAI",
+      "mentions": 11,
+      "top3": 7,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 0,
+        "perplexity": 2,
+        "aimode": 3,
+        "gemini": 4,
+        "claude": 2
+      },
+      "byCity": {
+        "sydney": 2,
+        "melbourne": 3,
+        "brisbane": 2,
+        "canberra": 2,
+        "newcastle": 1,
+        "hobart": 1
+      },
+      "byCat": {
+        "copilot_ai": 11
+      },
+      "sharePct": 3.9,
+      "top3Pct": 2.5
+    },
+    {
+      "name": "Dynamic Aspect",
+      "mentions": 10,
+      "top3": 3,
+      "num1": 0,
+      "byPlat": {
+        "chatgpt": 0,
+        "perplexity": 2,
+        "aimode": 0,
+        "gemini": 0,
+        "claude": 8
+      },
+      "byCity": {
+        "sydney": 4,
+        "melbourne": 1,
+        "brisbane": 1,
+        "adelaide": 3,
+        "canberra": 1
+      },
+      "byCat": {
+        "power_platform": 1,
+        "workflow_automation": 3,
+        "manufacturing_automation": 4,
+        "erp_integration": 1,
+        "power_apps": 1
+      },
+      "sharePct": 3.6,
+      "top3Pct": 1.1
+    }
+  ],
+  "irls": {
+    "n": 280,
+    "positives": 31,
+    "iterations": 30,
+    "coefficients": [
+      {
+        "name": "Intercept (β₀)",
+        "beta": -3.793,
+        "se": 0.582,
+        "z": -6.51,
+        "or": null,
+        "ci95": null,
+        "pValue": "<0.001"
+      },
+      {
+        "name": "Named Operational Stack & Case Study Proof (X₁)",
+        "beta": 0.803,
+        "se": 0.413,
+        "z": 1.94,
+        "or": 2.23,
+        "ci95": [
+          0.99,
+          5.02
+        ],
+        "pValue": "0.0520"
+      },
+      {
+        "name": "Live Web-Search Grounding Engine (X₂)",
+        "beta": 1.76,
+        "se": 0.559,
+        "z": 3.15,
+        "or": 5.81,
+        "ci95": [
+          1.94,
+          17.39
+        ],
+        "pValue": "0.0016"
+      },
+      {
+        "name": "East-Coast Enterprise & Manufacturing Hub (X₃)",
+        "beta": 0.378,
+        "se": 0.396,
+        "z": 0.95,
+        "or": 1.46,
+        "ci95": [
+          0.67,
+          3.17
+        ],
+        "pValue": "0.3399"
+      }
+    ]
+  }
+}

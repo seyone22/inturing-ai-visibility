@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Newcastle for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:09.749Z",
+  "cost": 0.006196,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 560,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005596,
+      "datetime": "2026-10-29 04:10:04 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Newcastle upon Tyne, UK**, the strongest apparent local options are:\n\n- **Marra** — Based at Newcastle Helix, Marra builds custom Power Apps using Power Apps, Power Automate, Power Pages and Power BI. Its offering is a good fit for internal operational apps that connect processes, data and reporting.[1]\n- **SR1 Development** — Provides Power Platform consultancy in Newcastle and cites implementations including supplier management, purchase-order approvals, expense submissions and stage-gate processes.[8]\n- **Tenth Revolution Group / Nigel Frank** — Newcastle-based Microsoft business-applications specialists covering Power Apps, Dataverse, Power Automate, Power BI and Dynamics 365. This appears particularly suitable when you need specialist staffing, a delivery team or larger-scale transformation support.[3]\n- **Report Simple** — Markets Power Apps consulting specifically to Newcastle organisations and describes canvas and model-driven apps for logistics, manufacturing, mining and public-sector workflows. Examples include freight tracking, driver schedules, equipment issues, production quality, downtime and maintenance requests.[10]\n\nFor a **warehouse, shop-floor or field-team app**, the first calls would likely be **Marra** and **Report Simple** for locally relevant delivery, with **SR1** worth considering for a focused workflow or approval solution. Tenth Revolution is more naturally a choice for sourcing specialist Microsoft talent or assembling a larger implementation team.\n\nIf “Newcastle” means **Newcastle, New South Wales**, the shortlist changes:\n\n- **Alphavima** — Targets Newcastle NSW and describes canvas and model-driven apps for inspections, approvals, inventory and field data collection, alongside Dataverse, Fabric, Azure and Power BI services.[4]\n- **Rishabh Software** — Offers end-to-end Power Apps consulting and development, including Dataverse model-driven apps, mobile field-service apps, inventory and warehouse systems, inspection apps and operational workflows.[2]\n- **Star Knowledge** — Builds mobile canvas apps and Dataverse-based model-driven solutions for inspections, offline field data capture, inventory, asset tracking, barcode scanning and distribution operations.[5]\n\n### What to verify before selecting\n\n- **Dataverse architecture:** tables, relationships, security roles, environments and ALM.\n- **Offline/mobile capability:** essential for warehouses, plant areas and field locations with poor connectivity.\n- **Operational integrations:** ERP, WMS, finance, barcode scanners, SharePoint, SQL and APIs.\n- **Shop-floor usability:** rugged-device support, fast data entry, photo capture, scanning and minimal navigation.\n- **Evidence:** ask for anonymised examples involving inventory, inspections, maintenance, logistics or field service.\n- **Support model:** post-launch monitoring, user training, licensing advice and ongoing change delivery.",
+              "annotations": [
+                {
+                  "title": "Our Low-Code Solutions | Marra",
+                  "url": "https://marra.co.uk/our-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps development services - Rishabh Software",
+                  "url": "https://www.rishabhsoft.com/microsoft-powerapps-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Biz Apps",
+                  "url": "https://www.tenthrevolution.com/our-expertise/enterprise-software/biz-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "microsoft data platform consulting in Newcastle, NSW",
+                  "url": "https://alphavima.com/data-engineering/microsoft-data-platform-consulting-in-newcastle-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting for Custom Business Apps",
+                  "url": "https://star-knowledge.com/power-apps-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Newcastle | Concetto Labs",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-newcastle/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consultancy - Microsoft Marketplace",
+                  "url": "https://marketplace.microsoft.com/en-us/product/pargeyazilimdanismanlikticas.power_apps_consulting?product=powerapps&page=2&country=US",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting and Development",
+                  "url": "https://solutions.microsoft.xtivia.com/services/microsoft-power-platform-consulting-development-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting Newcastle",
+                  "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

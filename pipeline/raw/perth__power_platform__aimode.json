@@ -1,0 +1,149 @@
+{
+  "slug": "perth",
+  "pk": "power_platform",
+  "plat": "aimode",
+  "text": "Who are the best Microsoft Power Platform consultants in Perth? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_platform__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:18.097Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best Microsoft Power Platform consultants in Perth? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20Microsoft%20Power%20Platform%20consultants%20in%20Perth%3F%20Give%20me%20a%20shortlist%20of%20reputable%20Power%20Platform%20consulting%20partners%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-29 04:06:12 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Here is a shortlist of reputable Microsoft Power Platform consulting partners operating in Perth, Western Australia, known for their `delivery across Power Apps, Power Automate, Power BI, and Copilot Studio/AI integration`:\n\n- **Velrada** \n\t- **Overview:** Headquartered in Perth with a large global and national footprint, Velrada is a premier, award-winning Microsoft Cloud Solution Partner.\n\t- **Why them:** They have extensive enterprise-grade experience deploying large-scale digital transformations. They excel at integrating the full Microsoft stack (Power Platform, Dynamics 365, and Azure) and are well-regarded for heavy industry, government, and large corporate deployments in WA. You can explore their capabilities on the Velrada site.[[1]](https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia)\n- **Bremmar** \n\t- **Overview:** A prominent Perth-based IT and Microsoft cloud consultancy with a strong focus on mid-sized businesses, not-for-profits, aged care, and community service sectors.\n\t- **Why them:** Bremmar focuses heavily on change enablement, process digitisation, and operational efficiency using Power Platform and Microsoft 365. They are a great match if you need a partner who can align low-code automation and apps closely with everyday team collaboration and user adoption. Learn more via Bremmar Consulting.[[1]](https://bremmar.com.au/microsoft-power-platform-perth/)\n- **Monarch360** \n\t- **Overview:** A specialized Microsoft partner delivering robust Power Platform solutions (Power Apps, Power Automate, Power BI, and Power Pages) across Australia, including a dedicated Perth presence.\n\t- **Why them:** They focus squarely on streamlining workflows, eliminating manual data entry, and building tailored business intelligence or operational apps for enterprise and government clients. Check out their specific offerings on Monarch360 Microsoft Power Platform Services.[[1]](https://www.monarch360.com.au/microsoft-power-platform)\n- **Opticloud Solutions** \n\t- **Overview:** A nimble Perth-based consultancy specializing in modern Microsoft cloud solutions, end-to-end Power Platform development, and cutting-edge AI integrations.\n\t- **Why them:** Aside from standard low-code apps and Power Automate workflows, Opticloud has a strong emphasis on emerging tech like custom Copilot Studio AI agents and advanced analytics, making them ideal if you want to infuse AI directly into your data processes. Discover more at Opticloud Solutions.[[1]](https://opticloud.com.au/solutions/)\n\nTo help narrow down which of these consultants fits best, tell me:\n\n- What is your **primary goal** (e.g., custom mobile apps, workflow automation, complex Power BI reporting, or AI/Copilot integration)?\n- What is the **scale of your organization** (SMB, enterprise, or government)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Here is a shortlist of reputable Microsoft Power Platform consulting partners operating in Perth, Western Australia, known for their delivery across Power Apps, Power Automate, Power BI, and Copilot Studio/AI integration :",
+              "markdown": "Here is a shortlist of reputable Microsoft Power Platform consulting partners operating in Perth, Western Australia, known for their `delivery across Power Apps, Power Automate, Power BI, and Copilot Studio/AI integration`:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Velrada Overview: Headquartered in Perth with a large global and national footprint, Velrada is a premier, award-winning Microsoft Cloud Solution Partner. Why them: They have extensive enterprise-grade experience deploying large-scale digital transformations. They excel at integrating the full Microsoft stack (Power Platform, Dynamics 365, and Azure) and are well-regarded for heavy industry, government, and large corporate deployments in WA. You can explore their capabilities on the Velrada site. Velrada Bremmar Overview: A prominent Perth-based IT and Microsoft cloud consultancy with a strong focus on mid-sized businesses, not-for-profits, aged care, and community service sectors. Why them: Bremmar focuses heavily on change enablement, process digitisation, and operational efficiency using Power Platform and Microsoft 365. They are a great match if you need a partner who can align low-code automation and apps closely with everyday team collaboration and user adoption. Learn more via Bremmar Consulting. Bremmar Consulting Monarch360 Overview: A specialized Microsoft partner delivering robust Power Platform solutions (Power Apps, Power Automate, Power BI, and Power Pages) across Australia, including a dedicated Perth presence. Why them: They focus squarely on streamlining workflows, eliminating manual data entry, and building tailored business intelligence or operational apps for enterprise and government clients. Check out their specific offerings on Monarch360 Microsoft Power Platform Services. Monarch360 Microsoft Power Platform Services Opticloud Solutions Overview: A nimble Perth-based consultancy specializing in modern Microsoft cloud solutions, end-to-end Power Platform development, and cutting-edge AI integrations. Why them: Aside from standard low-code apps and Power Automate workflows, Opticloud has a strong emphasis on emerging tech like custom Copilot Studio AI agents and advanced analytics, making them ideal if you want to infuse AI directly into your data processes. Discover more at Opticloud Solutions. Opticloud Solutions",
+              "markdown": "- **Velrada** \n\t- **Overview:** Headquartered in Perth with a large global and national footprint, Velrada is a premier, award-winning Microsoft Cloud Solution Partner.\n\t- **Why them:** They have extensive enterprise-grade experience deploying large-scale digital transformations. They excel at integrating the full Microsoft stack (Power Platform, Dynamics 365, and Azure) and are well-regarded for heavy industry, government, and large corporate deployments in WA. You can explore their capabilities on the Velrada site.[[1]](https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia)\n- **Bremmar** \n\t- **Overview:** A prominent Perth-based IT and Microsoft cloud consultancy with a strong focus on mid-sized businesses, not-for-profits, aged care, and community service sectors.\n\t- **Why them:** Bremmar focuses heavily on change enablement, process digitisation, and operational efficiency using Power Platform and Microsoft 365. They are a great match if you need a partner who can align low-code automation and apps closely with everyday team collaboration and user adoption. Learn more via Bremmar Consulting.[[1]](https://bremmar.com.au/microsoft-power-platform-perth/)\n- **Monarch360** \n\t- **Overview:** A specialized Microsoft partner delivering robust Power Platform solutions (Power Apps, Power Automate, Power BI, and Power Pages) across Australia, including a dedicated Perth presence.\n\t- **Why them:** They focus squarely on streamlining workflows, eliminating manual data entry, and building tailored business intelligence or operational apps for enterprise and government clients. Check out their specific offerings on Monarch360 Microsoft Power Platform Services.[[1]](https://www.monarch360.com.au/microsoft-power-platform)\n- **Opticloud Solutions** \n\t- **Overview:** A nimble Perth-based consultancy specializing in modern Microsoft cloud solutions, end-to-end Power Platform development, and cutting-edge AI integrations.\n\t- **Why them:** Aside from standard low-code apps and Power Automate workflows, Opticloud has a strong emphasis on emerging tech like custom Copilot Studio AI agents and advanced analytics, making them ideal if you want to infuse AI directly into your data processes. Discover more at Opticloud Solutions.[[1]](https://opticloud.com.au/solutions/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RevenueBase",
+                  "domain": "revenuebase.ai",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consultants/australia",
+                  "title": "Top 24 Microsoft power platform consultants based in Australia",
+                  "text": "We're Velrada, a global Microsoft Cloud Solution Partner with deep expertise across the full Microsoft stack.” an award-winning co..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bremmar",
+                  "domain": "bremmar.com.au",
+                  "url": "https://bremmar.com.au/microsoft-power-platform-perth/",
+                  "title": "Microsoft Power Platform Perth - Bremmar Consulting",
+                  "text": "helps Aged Care providers optimise their level of care. Disability Services Bremmar IT solutions are designed to bring your team t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Monarch360",
+                  "domain": "www.monarch360.com.au",
+                  "url": "https://www.monarch360.com.au/microsoft-power-platform",
+                  "title": "Microsoft Power Platform Services Perth - Monarch360",
+                  "text": "Monarch360 provides expert Microsoft Power Platform Services in Perth, helping organisations automate processes, improve reporting..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "opticloud.com.au",
+                  "domain": "opticloud.com.au",
+                  "url": "https://opticloud.com.au/solutions/",
+                  "title": "Power Platform Development & Consulting in Perth",
+                  "text": "Opticloud Solutions delivers Power Platform development and consulting in Perth, from automation and custom applications to AI age..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these consultants fits best, tell me:",
+              "markdown": "To help narrow down which of these consultants fits best, tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "What is your primary goal (e.g., custom mobile apps, workflow automation, complex Power BI reporting, or AI/Copilot integration)? What is the scale of your organization (SMB, enterprise, or government)?",
+              "markdown": "- What is your **primary goal** (e.g., custom mobile apps, workflow automation, complex Power BI reporting, or AI/Copilot integration)?\n- What is the **scale of your organization** (SMB, enterprise, or government)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Monarch360",
+              "domain": "www.monarch360.com.au",
+              "url": "https://www.monarch360.com.au/microsoft-power-platform",
+              "title": "Microsoft Power Platform Services Perth - Monarch360",
+              "text": "Monarch360 provides expert Microsoft Power Platform Services in Perth, helping organisations automate processes, improve reporting, and build custom business appli..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "opticloud.com.au",
+              "domain": "opticloud.com.au",
+              "url": "https://opticloud.com.au/solutions/",
+              "title": "Power Platform Development & Consulting in Perth",
+              "text": "Opticloud Solutions delivers Power Platform development and consulting in Perth, from automation and custom applications to AI agents and analytics."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Bremmar",
+              "domain": "bremmar.com.au",
+              "url": "https://bremmar.com.au/microsoft-power-platform-perth/",
+              "title": "Microsoft Power Platform Perth - Bremmar Consulting",
+              "text": "helps Aged Care providers optimise their level of care. Disability Services Bremmar IT solutions are designed to bring your team together."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

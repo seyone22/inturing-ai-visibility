@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Brisbane are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:56.467Z",
+  "cost": 0.0062,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 575,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.0056,
+      "datetime": "2026-10-29 04:04:51 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Brisbane shortlist is **CG TECH, Secure Minded, Essential Tech, and Strategik**. **Alphavima** and **Concetto Labs** are additional options, particularly for larger or more formal Power Platform implementations.\n\n- **CG TECH — best overall for Microsoft-centric automation and transformation.** Brisbane-based, a Microsoft Solutions Partner certified across Microsoft 365, Azure and Power Platform. Its documented work includes Power Apps, SharePoint and Power Automate solutions for incident management and large-scale contract generation.[1]\n- **Secure Minded — best for bespoke workflow optimisation and practical handover.** Brisbane-based and focused on Power Platform, process automation, integrations and intelligent dashboards. It describes a complete design–build–handover approach and has delivered an Outlook add-in that triggers Power Automate workflows directly from email.[7]\n- **Essential Tech — best for managed implementation and ongoing support.** It offers Power Automate and RPA consulting, application integration, error monitoring, implementation and ongoing support, with a Brisbane head office and service desk.[8]\n- **Strategik — best where automation depends on ERP, data or Dynamics 365.** Its Brisbane consultancy combines Power Platform automation with Power BI, Dynamics 365, Microsoft Fabric and custom line-of-business applications.[9]\n- **Alphavima — best for structured enterprise governance.** It offers Power Apps, Power Automate, Power BI and Power Pages, with process mapping, testing, documentation, governance, audit trails, training and post-launch support. Verify local delivery capacity and Australian references before appointing it, as its material describes a broader international operation.[2][4][6]\n- **Concetto Labs — worth considering for custom development and AI Builder.** It advertises end-to-end Power Platform consulting, governance, compliance support, Power Automate workflows and AI Builder integration; independently verified Brisbane case studies were less evident in the available results.[5]\n\n## Recommended choice by situation\n\n| Requirement | Best fit |\n|---|---|\n| A Brisbane-based partner for end-to-end Microsoft automation | CG TECH |\n| Small or mid-sized business needing tailored workflows | Secure Minded |\n| Implementation plus managed support | Essential Tech |\n| ERP, Dynamics 365, reporting and data integration | Strategik |\n| Governance, compliance and enterprise rollout | Alphavima |\n| Custom development or AI-enhanced automation | Concetto Labs |\n\nBefore selecting one, ask each consultancy for two comparable Australian case studies, a fixed-scope discovery proposal, the named Power Platform architects, licensing assumptions, support SLAs, environment and governance design, and a clear plan for documentation and internal handover. This matters because a flow that works in a pilot can still become difficult to govern, monitor and maintain at scale.",
+              "annotations": [
+                {
+                  "title": "CG TECH | Digital Transformation, Automation and AI ...",
+                  "url": "https://cgtech.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Governance in Brisbane, QLD - Alphavima",
+                  "url": "https://alphavima.com/power-platform/power-platform-governance-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Solutions & Implementation in Brisbane - XCD IT",
+                  "url": "https://xcdit.com.au/services/ai-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting in Brisbane, QLD | Alphavima",
+                  "url": "https://alphavima.com/power-platform/microsoft-power-platform-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Company in Brisbane",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Digital Process Automation Solutions in Brisbane, QLD | Alphavima",
+                  "url": "https://alphavima.com/power-platform-2/digital-process-automation-solutions-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI & Power Platform consulting, Brisbane | Secure Minded",
+                  "url": "https://secureminded.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Automate - Essential Tech",
+                  "url": "https://essentialtech.com.au/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.strategik.com.auMicrosoft Power Platform, Brisbane | Strategik",
+                  "url": "https://www.strategik.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting in Brisbane, QLD - Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform-2/power-apps-consulting-in-brisbane-qld/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "hobart",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Hobart specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:12:17.824Z",
+  "cost": 0.058594,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10548,
+      "output_tokens": 1090,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.057994,
+      "datetime": "2026-10-29 04:12:12 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great news — the search results surfaced some highly relevant options, including one firm specifically focused on Hobart and Tasmania. Here's a breakdown:\n\n---\n\n## 🤖 AI Automation Consultants Specialising in Microsoft Copilot Studio, AI Agents & Workflow Automation\n\n### 🥇 1. Frontrow Technology *(Hobart/Tasmania-based — Best Local Option)*\n**Website:** frontrowtech.com.au/copilot-hobart\n\nThis is the standout local option for Hobart businesses. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow Technology is a Microsoft partner delivering Copilot readiness, deployment, and adoption for Hobart and Tasmanian organisations, operating on a remote-first model with on-site availability for engagements that need it — led by senior consultants, not a call centre.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Hobart — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Leadership:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daniel Brown (5× Microsoft MVP, Microsoft Certified Agentic AI Business Solutions Architect) leads every Copilot engagement nationally, with Simon Aspinall leading the Modern Work and data readiness side — Hobart clients work directly with both.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Hobart — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Timeline:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For a Hobart mid-market organisation starting from a reasonable M365 baseline, the readiness-to-rollout sequence runs 10 to 14 weeks, with faster timelines for those with cleaner identity and SharePoint governance.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Hobart — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Contact:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "1300 012 466 — replies the same business day from the person who would actually run the work, not a sales queue.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Hobart — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🥈 2. Affinity MSP / CopilotSolutions.com.au *(Australian-Wide)*\n**Website:** copilotsolutions.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Affinity MSP is described as Australia's leading Microsoft Copilot Studio partner, with 200+ deployments across IT, Finance, HR, and Customer Service.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their services include:\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AI Automation Strategy, AI Agent Build & Deploy, Copilot Studio Deployment, Workflow Orchestration, SharePoint Metadata & AI, Governance & Security, IT Support Automation, Sales Ops Automation, Customer Support Automation, and Document Processing.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🥉 3. IOTAI Pty Ltd *(Australian-Wide, Sydney-based)*\n**Website:** iotai.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "IOTAI describes itself as Australia's leading AI & automation consulting firm and Managed Intelligence Provider (MIP), specialising in Retool, n8n, AI agents, and Microsoft Copilot for small-medium enterprises.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Services - AI Agents for Business",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They cover a broad stack including ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AI Consulting, Automation Consulting, Microsoft Copilot Studio, Business Process Automation, and RAG Pipelines.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Services - AI Agents for Business",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Recommendation Summary\n\n| Firm | Location | Best For |\n|---|---|---|\n| **Frontrow Technology** | Hobart, TAS | Local mid-market, MVP-led, Copilot + Agentic AI |\n| **Affinity MSP** | Australia-wide | Enterprise-scale Copilot Studio deployments |\n| **IOTAI Pty Ltd** | Sydney (remote) | SME-focused AI agents & workflow automation |\n\n---\n\n**For Hobart-based mid-market businesses, Frontrow Technology is clearly the most relevant specialist**, given their direct focus on Tasmanian clients, MVP-level Microsoft credentials, and specific expertise in Copilot Studio and agentic AI. The Australian-wide firms (Affinity MSP and IOTAI) can also serve Hobart remotely if you want to compare options or need a broader scope.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Hobart Microsoft Copilot Studio AI agents mid-market",
+        "Microsoft Copilot Studio AI workflow automation consultant Hobart Tasmania"
+      ]
+    }
+  ]
+}

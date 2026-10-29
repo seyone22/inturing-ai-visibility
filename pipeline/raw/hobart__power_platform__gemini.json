@@ -1,0 +1,424 @@
+{
+  "slug": "hobart",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Hobart? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:10.833Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When looking for Microsoft Power Platform consulting partners in Hobart, the market divides into two main categories: **local Tasmanian consultancies** with on-the-ground presence in Hobart, and **leading national Microsoft Tier-1 partners** that actively service Tasmanian Government departments and major regional enterprises.\n\nA shortlist of reputable Microsoft Power Platform consulting partners servicing Hobart includes:\n\n---\n\n### 1. Local Hobart & Tasmanian Specialists\n\n#### **ISW (ISW Group)**\n* **Headquarters:** Hobart, Tasmania\n* **Why them:** Founded in Hobart in 1996, ISW is one of Tasmania’s most established technology consultancies and digital workplace specialists. They have deep capability spanning the Microsoft modern workplace stack—including Power Apps, Power Automate, and SharePoint integrations. \n* **Best for:** Tasmanian businesses looking for an established local team with cross-platform expertise, intranet/workplace collaboration integration, and custom workflow development.\n\n#### **FutureAbility**\n* **Location:** Hobart, Tasmania\n* **Why them:** A member of TasICT, FutureAbility is a boutique Hobart-based consultancy focused specifically on Microsoft Power Platform and Microsoft Copilot Studio. Because they specialise directly in Power Platform rather than broad-stroke infrastructure, they are agile and adept at low-code process automation, custom canvas apps, and agentic workflows.\n* **Best for:** Mid-market businesses seeking a local, dedicated partner for agile Power Platform builds, automated approvals, and Copilot/AI agent integrations.\n\n#### **Intuit Technologies**\n* **Location:** Hobart & Launceston\n* **Why them:** Intuit Technologies is one of Tasmania’s largest and most reputable ICT managed service providers. In addition to enterprise cloud and managed infrastructure, they have an established software engineering and Microsoft business applications practice that builds custom Power Platform workflows and applications for local clients.\n* **Best for:** Organisations that want Power Platform solutions seamlessly backed by broad IT infrastructure, security governance, and ongoing 24/7 managed support.\n\n#### **MYtech Consulting Services**\n* **Office Location:** Macquarie Street, Hobart\n* **Why them:** MYtech is a certified Microsoft Solutions Partner with an office in Hobart’s CBD. They offer explicit consulting and delivery across Microsoft Dynamics 365 and the Power Platform suite (Power Apps, Power BI, Power Automate, and Power Pages).\n* **Best for:** Businesses looking to build low-code solutions that tightly integrate with Dynamics 365, CRM, and Azure backend services.\n\n---\n\n### 2. Tier-1 National Partners (Serving Tasmanian Enterprise & Public Sector)\n\nIf you are dealing with complex compliance, state-level government frameworks, or large-scale legacy modernization, these national firms maintain active client teams in Tasmania:\n\n#### **Data#3**\n* **Presence:** Active vendor across Tasmanian State Government and enterprise accounts.\n* **Why them:** Data#3 is Microsoft’s largest Australian business partner. They have a dedicated Business Applications practice covering low-code app development, Power Automate hyperautomation, Power BI analytics, and setting up **Power Platform Centres of Excellence (CoE)** to prevent app sprawl and enforce governance.\n* **Best for:** Large enterprise and public sector agencies requiring formal CoE governance, large-scale systems architecture, and compliance oversight.\n\n#### **Barhead Solutions**\n* **Presence:** National delivery model servicing Tasmania.\n* **Why them:** Barhead is widely recognized as one of Australia’s premier specialist partners solely dedicated to Microsoft Business Applications and Power Platform. They hold close links to Microsoft’s product engineering teams and provide pre-built accelerators, training, and rapid deployment frameworks.\n* **Best for:** Complex process modernization projects requiring deep expertise in Microsoft Dataverse, enterprise app architecture, and custom Copilot extensibility.\n\n---\n\n### How to Choose the Right Partner\n\n1. **Governance & Center of Excellence (CoE):** If your staff are already building informal canvas apps and flows, choose a partner (like Data#3 or ISW) that can implement a CoE Starter Kit to enforce security and licensing control.\n2. **Local vs. Enterprise Scale:** For rapid, budget-friendly implementations with direct local consultation, reach out to **FutureAbility** or **ISW**. For enterprise ERP/CRM integration or pan-Australian compliance, evaluate **Data#3** or **Barhead**.\n3. **Dataverse & Dynamics 365 Depth:** If your apps need to hook into Dynamics 365 (Sales, Customer Service, Business Central), ensure the partner has proven Dynamics certifications, such as **MYtech** or **Data#3**.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+partner+Power+Platform+Hobart&client=app-vertex-grounding&safesearch=active\">Microsoft partner Power Platform Hobart</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Brennan+IT+Intuit+Technologies+Hobart+%22Power+Platform%22&client=app-vertex-grounding&safesearch=active\">Brennan IT Intuit Technologies Hobart &quot;Power Platform&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consultants+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consultants Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+%22Power+Platform%22+IT+consulting+OR+%22Microsoft+partner%22&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; &quot;Power Platform&quot; IT consulting OR &quot;Microsoft partner&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Hobart%22+Microsoft+partner+%22Power+Apps%22+OR+%22Power+BI%22&client=app-vertex-grounding&safesearch=active\">&quot;Hobart&quot; Microsoft partner &quot;Power Apps&quot; OR &quot;Power BI&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8mD3OpCp11jWXlFr3eB8Ro7PBR1Tjb7CbIxB-MUPTNUak28uLxoN5obItC9T5brv7JKPVl4z1O2fI3_VolCXux3zEZoDTFMcRnqSAEf351DP8_PYS-V_Q8EgIiA7d90_Oby2SYCW3WUzrCZye9Yx6oTajS2fMLvqWv52ptWKW",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShVKcVIM5uP-mXt6tzJcBYdJhRnqM-KFYY161erLKPAIDuBF8prf8-pqL3xgB3KNiw7IOwxuvbXQHoYhjJNyyQlKVcBzniL20eO4hTbz8eBAT2uMwvzvmArQ=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh7wMhVTtUO-9W0r8Jqp5dWh0yuougl3AkPTCWadypoPn5Ktaaez4u2RxM5zBilHd8wvjCzs6GBEquok1QvDageGKkRq49B_vFTT25g==",
+                "title": "isw.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShVKcVIM5uP-mXt6tzJcBYdJhRnqM-KFYY161erLKPAIDuBF8prf8-pqL3xgB3KNiw7IOwxuvbXQHoYhjJNyyQlKVcBzniL20eO4hTbz8eBAT2uMwvzvmArQ=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE95zQcSSl7nN6VpMpooz1qqvY7cpU_krjmhMbbCFRE1xtLUg6xDnT0KXOfKfvJjcZ3VHyUwBjAEcPPmzrH7odF_xnN-Yuc4oJqFQ9zuf7nPV9taXiurfI_DOPQY2bmE6rM1F-0HIpV7Y3gTERcOgrHlPV-",
+                "title": "jobstreet.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShVKcVIM5uP-mXt6tzJcBYdJhRnqM-KFYY161erLKPAIDuBF8prf8-pqL3xgB3KNiw7IOwxuvbXQHoYhjJNyyQlKVcBzniL20eO4hTbz8eBAT2uMwvzvmArQ=",
+                "title": "tasict.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJcjl6teedsKZkJGWCpGvfIYpCiTzxSCB9Oovh70s06n9VhF-iU6cQandTWJGVmP0yvTrpGdi9rFruwPKVDYEBp_-Sw8vI2Qe-1uhkEWzYOfoOb8xIH4eHs9LZAEQJPvbBPQWMgUbRzcDhzUtrAhQC99OdA==",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJcjl6teedsKZkJGWCpGvfIYpCiTzxSCB9Oovh70s06n9VhF-iU6cQandTWJGVmP0yvTrpGdi9rFruwPKVDYEBp_-Sw8vI2Qe-1uhkEWzYOfoOb8xIH4eHs9LZAEQJPvbBPQWMgUbRzcDhzUtrAhQC99OdA==",
+                "title": "mytechcs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemBQ6B8oQ8eqDiwjgPfgiBmG0nKnUmP08se3PyctDxMziTJnLyrIC2mod9f4nDlhmBy57cpFUj6jFDvYBYsaX9RGEYdjqNJPQCRW52MLcjLth2XhMJMc8qgiqpZ8vog==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4Bx5TIjcskrCmpWwneoMOLvuYFlb0HRKoap18NttIWZ4D-FE_EuSajgXeiqpbDTtW0liJ_fLTYSWCtZM4aYxTOlFFTITXDRSkXcVqObQObmuvvIioLejKMRCBxoR-tkPaXHimKnCkhUZBD7HGXCg=",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKtFKbJf8GpmNZbpAjQUD6LFvmd4M8X_NprY2r6Zw9Dq40MQIRWVKb-P89Tk5J9iiPPbLi4UMxMhameCQAIpBz4e3utNv86QrSiPJdPjwG1MdzYfEwxFuytLbOPT6x_xxbOuG_eUigjoKM7h9o-ZPtCh0Sylk=",
+                "title": "antares.solutions"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 327,
+                "text": "When looking for Microsoft Power Platform consulting partners in Hobart, the market divides into two main categories: **local Tasmanian consultancies** with on-the-ground presence in Hobart, and **leading national Microsoft Tier-1 partners** that actively service Tasmanian Government departments and major regional enterprises"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 505,
+                "endIndex": 539,
+                "text": "**Headquarters:** Hobart, Tasmania"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 542,
+                "endIndex": 685,
+                "text": "**Why them:** Founded in Hobart in 1996, ISW is one of Tasmania’s most established technology consultancies and digital workplace specialists"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 687,
+                "endIndex": 826,
+                "text": "They have deep capability spanning the Microsoft modern workplace stack—including Power Apps, Power Automate, and SharePoint integrations"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 831,
+                "endIndex": 1012,
+                "text": "**Best for:** Tasmanian businesses looking for an established local team with cross-platform expertise, intranet/workplace collaboration integration, and custom workflow development"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1040,
+                "endIndex": 1070,
+                "text": "**Location:** Hobart, Tasmania"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1073,
+                "endIndex": 1237,
+                "text": "**Why them:** A member of TasICT, FutureAbility is a boutique Hobart-based consultancy focused specifically on Microsoft Power Platform and Microsoft Copilot Studio"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1239,
+                "endIndex": 1429,
+                "text": "Because they specialise directly in Power Platform rather than broad-stroke infrastructure, they are agile and adept at low-code process automation, custom canvas apps, and agentic workflows"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1433,
+                "endIndex": 1591,
+                "text": "**Best for:** Mid-market businesses seeking a local, dedicated partner for agile Power Platform builds, automated approvals, and Copilot/AI agent integrations"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1625,
+                "endIndex": 1658,
+                "text": "**Location:** Hobart & Launceston"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1661,
+                "endIndex": 1774,
+                "text": "**Why them:** Intuit Technologies is one of Tasmania’s largest and most reputable ICT managed service providers"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1776,
+                "endIndex": 2005,
+                "text": "In addition to enterprise cloud and managed infrastructure, they have an established software engineering and Microsoft business applications practice that builds custom Power Platform workflows and applications for local clients"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2212,
+                "endIndex": 2257,
+                "text": "**Office Location:** Macquarie Street, Hobart"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2260,
+                "endIndex": 2356,
+                "text": "**Why them:** MYtech is a certified Microsoft Solutions Partner with an office in Hobart’s CBD"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2358,
+                "endIndex": 2516,
+                "text": "They offer explicit consulting and delivery across Microsoft Dynamics 365 and the Power Platform suite (Power Apps, Power BI, Power Automate, and Power Pages)"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2520,
+                "endIndex": 2654,
+                "text": "**Best for:** Businesses looking to build low-code solutions that tightly integrate with Dynamics 365, CRM, and Azure backend services"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2940,
+                "endIndex": 3025,
+                "text": "**Presence:** Active vendor across Tasmanian State Government and enterprise accounts"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3029,
+                "endIndex": 3102,
+                "text": "**Why them:** Data#3 is Microsoft’s largest Australian business partner"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3104,
+                "endIndex": 3350,
+                "text": "They have a dedicated Business Applications practice covering low-code app development, Power Automate hyperautomation, Power BI analytics, and setting up **Power Platform Centres of Excellence (CoE)** to prevent app sprawl and enforce governance"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3354,
+                "endIndex": 3503,
+                "text": "**Best for:** Large enterprise and public sector agencies requiring formal CoE governance, large-scale systems architecture, and compliance oversight"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3535,
+                "endIndex": 3591,
+                "text": "**Presence:** National delivery model servicing Tasmania"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3595,
+                "endIndex": 3760,
+                "text": "**Why them:** Barhead is widely recognized as one of Australia’s premier specialist partners solely dedicated to Microsoft Business Applications and Power Platform"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3762,
+                "endIndex": 3904,
+                "text": "They hold close links to Microsoft’s product engineering teams and provide pre-built accelerators, training, and rapid deployment frameworks"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3908,
+                "endIndex": 4071,
+                "text": "**Best for:** Complex process modernization projects requiring deep expertise in Microsoft Dataverse, enterprise app architecture, and custom Copilot extensibility"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4119,
+                "endIndex": 4347,
+                "text": "**Governance & Center of Excellence (CoE):** If your staff are already building informal canvas apps and flows, choose a partner (like Data#3 or ISW) that can implement a CoE Starter Kit to enforce security and licensing control"
+              },
+              "groundingChunkIndices": [
+                10,
+                0,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4364,
+                "endIndex": 4500,
+                "text": "Enterprise Scale:** For rapid, budget-friendly implementations with direct local consultation, reach out to **FutureAbility** or **ISW**"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4502,
+                "endIndex": 4601,
+                "text": "For enterprise ERP/CRM integration or pan-Australian compliance, evaluate **Data#3** or **Barhead**"
+              },
+              "groundingChunkIndices": [
+                0,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4606,
+                "endIndex": 4818,
+                "text": "**Dataverse & Dynamics 365 Depth:** If your apps need to hook into Dynamics 365 (Sales, Customer Service, Business Central), ensure the partner has proven Dynamics certifications, such as **MYtech** or **Data#3**"
+              },
+              "groundingChunkIndices": [
+                0,
+                6
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft partner Power Platform Hobart",
+            "Brennan IT Intuit Technologies Hobart \"Power Platform\"",
+            "Microsoft Power Platform consultants Hobart Tasmania",
+            "\"Hobart\" \"Power Platform\" IT consulting OR \"Microsoft partner\"",
+            "\"Hobart\" Microsoft partner \"Power Apps\" OR \"Power BI\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 439,
+      "candidatesTokenCount": 1225,
+      "totalTokenCount": 2645,
+      "cachedContentTokenCount": 125,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 439
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 125
+        }
+      ],
+      "thoughtsTokenCount": 981,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "QcfiauHhNJn5694P3aWbiAU"
+  }
+}

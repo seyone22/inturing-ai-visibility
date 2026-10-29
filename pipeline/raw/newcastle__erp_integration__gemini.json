@@ -1,0 +1,357 @@
+{
+  "slug": "newcastle",
+  "pk": "erp_integration",
+  "plat": "gemini",
+  "text": "Which system integration specialists in Newcastle are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__erp_integration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:45.311Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When connecting complex enterprise environments involving **MYOB Acumatica**, **SAP**, **CRM platforms**, and **Microsoft 365** in the Newcastle / Hunter Region (NSW), you generally need a specialist capable of handling both modern cloud REST APIs (Acumatica, M365) and enterprise ERP service layers (SAP). \n\nThe top system integration and ERP specialists with strong local Newcastle ties or active on-the-ground support across the Hunter region include:\n\n---\n\n### 1. Locally Headquartered in Newcastle\n\n* **Diamond IT** *(HQ: Warabrook / Newcastle)*\n  * **Core Strengths:** Microsoft 365, Dynamics 365 / CRM, Azure Cloud, and custom API/database integrations.\n  * **Best For:** Connecting your Microsoft ecosystem (Office 365, Teams, Power Platform, SharePoint, Dynamics CRM) to external ERP endpoints. If you already have your ERP configured and need a trusted local engineering partner to bridge CRM workflows, automate data syncs, and leverage Azure Logic Apps or Power Automate, Diamond IT is the standout Newcastle-based provider.\n* **Strategic Group** *(HQ: Newcastle)*\n  * **Core Strengths:** Managed IT, business systems support, Microsoft 365 environments, and deep historical expertise in accounting/finance IT architectures (including the MYOB partner ecosystem).\n  * **Best For:** Mid-market businesses looking for Newcastle-based infrastructure management and integration support around core finance and Microsoft environments.\n\n---\n\n### 2. Multi-ERP & MYOB Acumatica Specialists Servicing Newcastle\n\nBecause MYOB Acumatica and SAP implementations require specialized vendor certifications, many Newcastle organizations partner with regional NSW ERP consultancies that operate directly in the Hunter:\n\n* **Leverage Technologies** *(Sydney & Regional NSW)*\n  * **Core Strengths:** Dual accredited as an **MYOB Acumatica Platinum Partner** and an **SAP Gold Partner** (SAP Business One & SAP Cloud ERP).\n  * **Best For:** The specific scenario of connecting or migrating between **both SAP and MYOB Acumatica**. Leverage Technologies is one of the few Australian partners with deep, dedicated practices in both software families, as well as integrating them with modern CRMs and Microsoft 365 tooling.\n* **OneKloudX** *(Newcastle & Sydney Offices)*\n  * **Core Strengths:** Cloud ERP deployment, MYOB Acumatica implementation, and middleware data synchronisation.\n  * **Best For:** Organizations with a Newcastle presence that want on-site MYOB Acumatica consulting paired with CRM and supply chain integration.\n* **Cloud Factory** *(NSW / National)*\n  * **Core Strengths:** Cross-ERP expertise across MYOB Acumatica, SAP Business One, and Microsoft Dynamics 365 Business Central.\n  * **Best For:** Independent ERP evaluation, process re-engineering, and integrating Acumatica workflows with third-party logistics and CRM suites.\n\n---\n\n### 3. Dedicated Integration & iPaaS Developers (Custom Connectors)\n\nIf your ERP and CRM systems are already deployed and you strictly need an integration layer to synchronize data (e.g., bi-directional order/inventory sync, customer accounts, M365 notifications, automated invoicing):\n\n* **MyIntegrator** *(Australian Specialist)*\n  * **Core Strengths:** Purpose-built connectors and custom iPaaS implementations connecting MYOB Acumatica, SAP, major CRMs (Salesforce, HubSpot, Dynamics), and e-commerce platforms.\n  * **Best For:** Businesses requiring pre-built or custom automated middleware without having to hire a full ERP implementation team.\n\n---\n\n### How to Choose the Right Partner:\n\n1. **If the core challenge is the Microsoft & CRM ecosystem:** Go with a local Newcastle partner like **Diamond IT** to build out Power Automate / Azure Integration Services pipelines that interface with your ERPs via REST APIs.\n2. **If your project involves complex SAP-to-Acumatica accounting or data transfer:** Choose **Leverage Technologies**, as they possess certified consultants across both specific ERP codebases.\n3. **If you need an MYOB Acumatica rollout with local Newcastle support:** Reach out to **OneKloudX** or **Leverage Technologies** to run the discovery and systems integration together.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=ERP+integration+partner+Newcastle+NSW+SAP+MYOB+Microsoft+365&client=app-vertex-grounding&safesearch=active\">ERP integration partner Newcastle NSW SAP MYOB Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Leverage+Technologies+MYOB+Acumatica+SAP+Newcastle&client=app-vertex-grounding&safesearch=active\">Leverage Technologies MYOB Acumatica SAP Newcastle</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integration+specialists+Newcastle+NSW+ERP+CRM+MYOB+Acumatica+SAP+Microsoft+365&client=app-vertex-grounding&safesearch=active\">system integration specialists Newcastle NSW ERP CRM MYOB Acumatica SAP Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Diamond+IT+Newcastle+ERP+integration+Microsoft+365&client=app-vertex-grounding&safesearch=active\">Diamond IT Newcastle ERP integration Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=MYOB+Acumatica+partner+Newcastle+NSW&client=app-vertex-grounding&safesearch=active\">MYOB Acumatica partner Newcastle NSW</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=IT+consultants+Newcastle+NSW+%22MYOB+Acumatica%22+OR+%22MYOB+Advanced%22&client=app-vertex-grounding&safesearch=active\">IT consultants Newcastle NSW &quot;MYOB Acumatica&quot; OR &quot;MYOB Advanced&quot;</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8B2SFMnlDm7HakFLGVW6SfXz7qDFiuc32ImWNHbTpqF7jmjsJBTi94WRMXbo8TiF3yKGmr9R-EPezfwWCzNjSP0DEdZsz4w4UgE4sbYfQZTii-81ssovqE4mBVoSZ26kRH0jicv7yVh-TUG_om6pzkvYal7D92FsCW4UWS1xI1x4IBqQuNXsTN9VRFMmW99R-H69KbQ==",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9vK_fHGw7wDlciahS104_ta1VS82P4Jdw14TWKgfJYXl3yxUHoakB-rsGJ_C6bRMuoaxMMS-iymz72OYsXcIoISDhbu8yRZ4EhYtQfHiork1ZpSM2uciyC9njhz8aOhuUvRURsIPS-cWxM51MZg==",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtpxY56hjfBwh9Cen2fDtitedBDrXUFWhpU0lLV-qaArS2ars0s7Hv94foOehJ-o42xAJx7TDbZGrRwSDwdHeCkyWvYkuUPOsnbL89s1NA74JG8BOApKCae5qV8lfSEbvDDtiDTpNrUr0BsftyrmQHWovTZJJ4Ys1rp9T2OTpF0eMor9Z4FAfWXSfglaHnLpjRqFu8pV4004Y=",
+                "title": "diamondit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-oS4dUWEaWe9nJ38ZbGCEptt95n6UKUyARBK_sfGTXBg5onlgZ-dOR7XBzaFtBDoEOyLU5C8bk0SJh7LFenQwwT7cInJBpJtYvUSLPA9BduvUTgDVqNHdtxDR6nnpG1oOY1rkP97BAdMKnhHZOGobkpusaztsrHlIaPca3FXRXN-6lGMBmrN0z9A8",
+                "title": "diamondit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7GbxthtZz7UgKZCU0sxp3IJ0UxeyJONjpGfE4LolO9Itj6gVDoI74x5C1rP3yFBfBnjGFy4pcYRurXCmLh8qC4WRRKTleguSoyuR9worwDZ2SQ54mpCvYHpQaUnWeu6Vo76hfOxp4X06dbcM9Gdwgy9Vgm3PHol1XMweFxlw=",
+                "title": "cloudtango.net"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1xDoBV-rCNiIbuEZHcaW2vYrnGrU-hjdmJ0A_geac2SBUePdvG1ns7A4-S7it0qQvXP_wLc15pvdcvJVkhGXFLy3g4aZkdvDndJhZz_rlluVXBzvfmpImlTuwNWcOZA==",
+                "title": "strategicgroup.net.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1i3-MQgisA2jFt9Q-37JwVZ9Vf35wW9ICpmBrK8T6a4RgQwynVYMOYcR_fkXvXMt6CM7c5yHgqpCNmGNYJUJ3JL6t1QgwER1WjkkU25doVJejHvjbq8ESiEuIVKj0RGEN0bAznIx8lty-yBjbvGczvWNtpy8Xu7gNGLt5P3xF34smX5IUPL4NgQ==",
+                "title": "businesshub.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh1cb-XaWQi6g-u2jNMpPeE5UuFc0orVKr-dSGcy-i_1gy3Y4ZHsbEuzvviiZWNvYtlWGL9ESgwzpT8e6e0YZC2wcujS9H_ZgUpWw61JwKrBp1nfoeep4chNn4SX0JF2HXJWGXrEUHFih2PApbZoqAdJI=",
+                "title": "leveragetech.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1o180m69McmhrAr3hyc2YJ0xh6MfWVK_7rWBkcMur2qtPyAmJZ77acMgL95jzQLv2N9l8s-y9A7JuYF9IJ2pT_SEkSGXHPvxcp1j3Tn0UtTobhPVYUl6PnQsF1wB7VXtM5k-72x2tIkhs9RsPoHJOoboTnJZL5FyrXik=",
+                "title": "onekloudx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8bdw4s7zEtqt2uScDZYwOGdLr3lnXE9sIMOpfCp3KdzxMMNG-OGswJ3wtuEv5YdZCzU-92H520MYv4vVeI927ypqctGcI-aMNLZ-9VZqVUeTFIohsJuUvAHc=",
+                "title": "onekloudx.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsV0MhzcESn4hFENHovAMzlD9xln0-LQi3sLtK_-d_7NZv-N_1dtcX1UZ6yhw85KmSmgpH9GtdO0HUh72L6Pln2WGC7LeLv9RXghvSCywbdeKc",
+                "title": "cloudfactory.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzDCz3c5PNt7Ir6HG8P3RpssY_ZokX4s-ZzuqX6rnmk-ttE54PHIWd4cv4dlBBsP1JfoIqw36x_29vMOABrbw96570DzF3wTZWsX3XhgWmsf3dzxo-QFSWokqjROdLEodX8MWtNxvRMjojO5mpJQogAQp3",
+                "title": "myob.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfNAlSP9QfY8XhrljCXdD_GUVWR3FA1jsy5pUtUs5X4j8sxZD02XMirKxdmtzhq7oVP8dABMrj-l0PKVA_kBCHQ0dsOnSGBMdfyGg8bj6M7WFXlDbL4AdrusBrxDaBGbwsfkg48wCxc9FsirAXLuk=",
+                "title": "myintegrator.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEor1R6cdyn76dPIRs1aALojI55_fAfZzZG4ity1sgkK_jbiCaojB2hQ52yFyK4lA7_NDI69tSSAMoayQRIUNymumk3YhFOR8K2GRpZFOGOcKobdL4jky2DtVXgc9FUnULWLKtiznzQ89MFwhK9pDPYut0Sj9Q3_Et9GTU=",
+                "title": "myob.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 305,
+                "text": "When connecting complex enterprise environments involving **MYOB Acumatica**, **SAP**, **CRM platforms**, and **Microsoft 365** in the Newcastle / Hunter Region (NSW), you generally need a specialist capable of handling both modern cloud REST APIs (Acumatica, M365) and enterprise ERP service layers (SAP)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 555,
+                "endIndex": 659,
+                "text": "**Core Strengths:** Microsoft 365, Dynamics 365 / CRM, Azure Cloud, and custom API/database integrations"
+              },
+              "groundingChunkIndices": [
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 665,
+                "endIndex": 802,
+                "text": "**Best For:** Connecting your Microsoft ecosystem (Office 365, Teams, Power Platform, SharePoint, Dynamics CRM) to external ERP endpoints"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 804,
+                "endIndex": 1035,
+                "text": "If you already have your ERP configured and need a trusted local engineering partner to bridge CRM workflows, automate data syncs, and leverage Azure Logic Apps or Power Automate, Diamond IT is the standout Newcastle-based provider"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1081,
+                "endIndex": 1274,
+                "text": "**Core Strengths:** Managed IT, business systems support, Microsoft 365 environments, and deep historical expertise in accounting/finance IT architectures (including the MYOB partner ecosystem)"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1280,
+                "endIndex": 1440,
+                "text": "**Best For:** Mid-market businesses looking for Newcastle-based infrastructure management and integration support around core finance and Microsoft environments"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1515,
+                "endIndex": 1603,
+                "text": "Because MYOB Acumatica and SAP implementations require specialized vendor certifications"
+              },
+              "groundingChunkIndices": [
+                6,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1774,
+                "endIndex": 1914,
+                "text": "**Core Strengths:** Dual accredited as an **MYOB Acumatica Platinum Partner** and an **SAP Gold Partner** (SAP Business One & SAP Cloud ERP)"
+              },
+              "groundingChunkIndices": [
+                0,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1920,
+                "endIndex": 2022,
+                "text": "**Best For:** The specific scenario of connecting or migrating between **both SAP and MYOB Acumatica**"
+              },
+              "groundingChunkIndices": [
+                0,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2024,
+                "endIndex": 2212,
+                "text": "Leverage Technologies is one of the few Australian partners with deep, dedicated practices in both software families, as well as integrating them with modern CRMs and Microsoft 365 tooling"
+              },
+              "groundingChunkIndices": [
+                0,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2265,
+                "endIndex": 2373,
+                "text": "**Core Strengths:** Cloud ERP deployment, MYOB Acumatica implementation, and middleware data synchronisation"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2379,
+                "endIndex": 2521,
+                "text": "**Best For:** Organizations with a Newcastle presence that want on-site MYOB Acumatica consulting paired with CRM and supply chain integration"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2566,
+                "endIndex": 2690,
+                "text": "**Core Strengths:** Cross-ERP expertise across MYOB Acumatica, SAP Business One, and Microsoft Dynamics 365 Business Central"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2696,
+                "endIndex": 2839,
+                "text": "**Best For:** Independent ERP evaluation, process re-engineering, and integrating Acumatica workflows with third-party logistics and CRM suites"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3183,
+                "endIndex": 3361,
+                "text": "**Core Strengths:** Purpose-built connectors and custom iPaaS implementations connecting MYOB Acumatica, SAP, major CRMs (Salesforce, HubSpot, Dynamics), and e-commerce platforms"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3367,
+                "endIndex": 3496,
+                "text": "**Best For:** Businesses requiring pre-built or custom automated middleware without having to hire a full ERP implementation team"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3545,
+                "endIndex": 3769,
+                "text": "**If the core challenge is the Microsoft & CRM ecosystem:** Go with a local Newcastle partner like **Diamond IT** to build out Power Automate / Azure Integration Services pipelines that interface with your ERPs via REST APIs"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3774,
+                "endIndex": 3963,
+                "text": "**If your project involves complex SAP-to-Acumatica accounting or data transfer:** Choose **Leverage Technologies**, as they possess certified consultants across both specific ERP codebases"
+              },
+              "groundingChunkIndices": [
+                0,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3968,
+                "endIndex": 4149,
+                "text": "**If you need an MYOB Acumatica rollout with local Newcastle support:** Reach out to **OneKloudX** or **Leverage Technologies** to run the discovery and systems integration together"
+              },
+              "groundingChunkIndices": [
+                8,
+                13,
+                9
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "ERP integration partner Newcastle NSW SAP MYOB Microsoft 365",
+            "Leverage Technologies MYOB Acumatica SAP Newcastle",
+            "system integration specialists Newcastle NSW ERP CRM MYOB Acumatica SAP Microsoft 365",
+            "Diamond IT Newcastle ERP integration Microsoft 365",
+            "MYOB Acumatica partner Newcastle NSW",
+            "IT consultants Newcastle NSW \"MYOB Acumatica\" OR \"MYOB Advanced\""
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 464,
+      "candidatesTokenCount": 1139,
+      "totalTokenCount": 2944,
+      "cachedContentTokenCount": 161,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 464
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 161
+        }
+      ],
+      "thoughtsTokenCount": 1341,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "IsfiarDRAYKk0r4PyN6n4Ac"
+  }
+}

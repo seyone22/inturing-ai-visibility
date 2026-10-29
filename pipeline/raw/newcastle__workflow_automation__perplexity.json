@@ -1,0 +1,106 @@
+{
+  "slug": "newcastle",
+  "pk": "workflow_automation",
+  "plat": "perplexity",
+  "text": "Which consultancies in Newcastle are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000255,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\newcastle__workflow_automation__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:09:50.627Z",
+  "cost": 0.006197,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 25,
+      "output_tokens": 572,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005597,
+      "datetime": "2026-10-29 04:09:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Newcastle, NSW**, the strongest apparent fit is **WorkflowIQ**, while **Report Simple** and **A1 Technologies** are good alternatives for Power Platform and Power Automate work. If you mean **Newcastle upon Tyne, UK**, consider **Marra**, **SR1 Development**, and **InoCloud Group**.\n\n## Newcastle, NSW\n\n- **WorkflowIQ — best local specialist fit.** Based in Newcastle NSW, it focuses on Microsoft 365, SharePoint, Power Automate, Power Apps, document management, approvals, notifications, and customised business workflows.[2][3]\n- **Report Simple — best for data-centric Power Apps and automation.** Its Newcastle offering covers custom Power Apps, Power Automate triggers, approvals, notifications, and integration with existing business systems.[5]\n- **A1 Technologies — best for structured implementation.** It offers process assessment, automation planning, workflow design, implementation, and scalable Power Automate solutions.[7]\n\n## Newcastle upon Tyne, UK\n\n- **Marra — best overall local Power Platform option.** Its Newcastle Helix office supports Power Apps, Power Automate, Power Pages, Power BI, workflow design, and custom automation implementation.[1][10]\n- **SR1 Development — best for SharePoint and Microsoft 365 environments.** It provides SharePoint consultancy and Power Platform services aimed at automating business processes.[4][6]\n- **InoCloud Group — best for Dynamics 365-led automation.** Based in Newcastle upon Tyne, it specialises in Dynamics 365, Microsoft 365, Power Platform, ERP, CRM, and process-management solutions.[9]\n- **Musketeers Tech — best for broader intelligent automation.** It combines Power Automate with UiPath, AI agents, and custom automation for larger digital-transformation programmes.[8]\n\n## Recommended shortlist\n\n| Location | First choice | Why |\n|---|---|---|\n| Newcastle, NSW | **WorkflowIQ** | Most directly focused on local Microsoft 365, SharePoint, and Power Platform workflow implementation.[2][3] |\n| Newcastle, NSW | **Report Simple** | Strong option for Power Apps, data integration, and operational automation.[5] |\n| Newcastle upon Tyne | **Marra** | Dedicated local Power Automate and low-code capability across the Microsoft Power Platform.[1][10] |\n| Newcastle upon Tyne | **SR1 Development** | Established regional SharePoint and Microsoft 365 consultancy with Power Platform expertise.[4][6] |\n\nBefore appointing one, ask for a discovery workshop, examples of similar implementations, details of licensing and connector costs, governance/security arrangements, and a plan for post-launch support and staff training.",
+              "annotations": [
+                {
+                  "title": "Our Low-Code Solutions | Marra",
+                  "url": "https://marra.co.uk/our-solutions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "WorkflowIQ - Lake Macquarie Business",
+                  "url": "https://www.lakemacbusiness.com.au/directory/workflowiq/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "WorkflowIQ SharePoint Consultants Newcastle",
+                  "url": "https://workflowiq.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Office 365 & SharePoint Development Consultancy North East",
+                  "url": "https://www.sr1development.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting Newcastle",
+                  "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting-newcastle",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultancy Newcastle - SR1 Development",
+                  "url": "https://www.sr1development.com/powerplatform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Automate Consultants",
+                  "url": "https://www.a1t.com.au/microsoft-power-platform/power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Digital Transformation Consulting in Newcastle upon Tyne - Build ...",
+                  "url": "https://musketeerstech.com/digital-transformation-services/newcastle-upon-tyne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Dynamics 365 Consultants Newcastle UK | InoCloud ...",
+                  "url": "https://www.inocloudgroup.co.uk/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Automate Development | Marra",
+                  "url": "https://marra.co.uk/our-solutions/microsoft-power-automate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

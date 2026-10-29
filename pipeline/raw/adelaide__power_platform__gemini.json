@@ -1,0 +1,271 @@
+{
+  "slug": "adelaide",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Adelaide? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:40.851Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When looking for Microsoft Power Platform consultants in Adelaide, the right partner typically depends on your scale—whether you need enterprise-level governance for public sector/large corporate deployments, or rapid, tactical low-code development for a mid-market business.\n\nA curated shortlist of reputable Power Platform consulting partners serving Adelaide includes the following:\n\n---\n\n### 1. Chamonix IT (part of Synechron)\n* **Best for:** Adelaide-based enterprise, healthcare, and South Australian government projects.\n* **Why they make the list:** \n  * **Strong Local Heritage:** Headquartered in Adelaide, Chamonix has been one of the state's most trusted digital transformation consultancies for over a decade. \n  * **End-to-End Delivery:** Together with sister firm **Exposé Data**, they bridge low-code application development (Power Apps, Power Automate) with enterprise data architecture and Power BI.\n  * **Scale:** Backed by global tech consultancy Synechron, they offer enterprise-grade assurance while maintaining a locally embedded team of consultants in Adelaide.\n\n---\n\n### 2. Data#3\n* **Best for:** Large enterprise, education, licensing optimization, and Centre of Excellence (CoE) setups.\n* **Why they make the list:**\n  * **Tier-1 Microsoft Presence:** As one of Microsoft’s largest Australian Solutions Partners, Data#3 has an established physical office and dedicated technical teams in Adelaide.\n  * **Governance & Adoption:** Ideal for organizations suffering from \"app sprawl\" who need formal Power Platform governance, tenant security, ALM (Application Lifecycle Management), and structured staff training.\n  * **Procurement:** Deeply entrenched across South Australian State Government procurement panels and corporate sector frameworks.\n\n---\n\n### 3. Barhead Solutions\n* **Best for:** Pure-play Microsoft Business Applications (Power Platform + Dynamics 365 + Copilot Studio).\n* **Why they make the list:**\n  * **Dedicated Specialists:** Unlike generalist IT managed service providers, Barhead focuses almost exclusively on Microsoft Business Applications and low-code innovation.\n  * **Frontier Capabilities:** They are consistently early to market with advanced Microsoft AI innovations, including Microsoft Copilot integration, custom conversational agents, and complex Dataverse workflows.\n  * **Proven Delivery:** While nationally focused, they regularly deliver high-complexity projects for South Australian enterprises and non-profits needing specialized low-code architecture.\n\n---\n\n### 4. Velrada (an NRI Company)\n* **Best for:** Complex workflow automation, asset-intensive industries, and digital transformation.\n* **Why they make the list:**\n  * **Award-Winning Track Record:** Velrada has repeatedly won Microsoft Partner of the Year awards in Australia and globally for Business Applications and low-code development.\n  * **Industry Fit:** They are especially strong in mining, utilities, infrastructure, and field operations—building canvas and model-driven apps that connect field workers with back-office ERP/Dynamics systems.\n\n---\n\n### 5. Office Experts Group (Power Platform Experts Adelaide)\n* **Best for:** Small to mid-sized businesses (SMBs), departmental workflow fixes, and rapid app turnarounds.\n* **Why they make the list:**\n  * **Tactical & Agile:** Ideal if you don’t need an enterprise multi-month scoping exercise and instead want practical apps built quickly (e.g., replacing paper forms, digitizing inspection checklists, or automated approval chains).\n  * **Excel-to-Power-Platform Transition:** They have deep background in Excel and Access migrations, making them well-suited for businesses looking to convert messy spreadsheets into structured Power Apps and Power Automate flows.\n\n---\n\n### How to Select the Right Adelaide Partner\n\nBefore engaging, test candidate partners with these specific evaluation criteria:\n1. **Data Architecture (Dataverse vs. SharePoint Lists):** Ask how they structure backend data. A red flag is a consultant building heavy enterprise apps on basic SharePoint lists rather than Dataverse, which creates scaling and delegation bottlenecks later.\n2. **Centre of Excellence (CoE) & Governance:** If you plan on letting internal \"citizen developers\" build apps, ensure the partner has experience setting up DLP (Data Loss Prevention) policies and environment strategies.\n3. **Application Lifecycle Management (ALM):** Ensure they deploy solutions via proper Dev/Test/Prod environments using automated deployment pipelines, rather than editing live production apps directly.",
+              "thoughtSignature": "EqQaCqEaAWkUfRM3wXPB4+gp0NZt1pDWXVWkxy7l0budQ4hS3jek/6ZD1tYu3K/o9Ohjn/Yf7so8mqK+oZ20DwzHcjUvyaozVyKOpxKMIQYeJFpWJkr2U19GcdYl6yBfiaT857C7YuC/TPmdvZV3MJLhTbOcmn62ne6lQh82cabCk6h+c1C+y7t2UV0JztSAhDIup/SonIEjL0YB7hAFkoKalBkXeIjjhH1c1mX8ZsIwSEoI+wpkl7ZmaP+OcNzyrcuPKgoD7PWqbFrhDiD8eixREDeqtG2sgUSHQ+8GNUvk1ChMbvnbpg8MLCG20617LSW4PLZ+prhTUyJrw0/l+NaRHUFtF5ddGmIGL4mRfXmr3wtSgaCi7bwstB5jVBTfoJiDjVWUT8UYxC9x3WmsJxYgSILul/2vlAUavPAlNKKeStiYJGhB8jARXHntzyG2+EN/i5YLg+PanRdIeRlgODN303XuV51eJH2oIu32hC82w+SXh7hoy2gszos2MUYYtZZaHWfXu6RKbFzRN/gPJzXBwSJOBBUa0/uJpD/8r59cVQ7fUMuSAshxludlgR/6AiipnSm6Dhs674d/iTOJxSIOjdD4BRO7X59hdk2KymGlVl7SDKYs0sKYa8k7SKj6VCKIjduirSwosXJ/w+lbKIhN7nwVEj/pRUaEGl9ygndIY5gRVWVbl9x+1SBfvwNp0G4s0Op9MTvHNowQybaBNvfA/Ac/lmBtAyEW4uQtFDOCgNo3zQKGpiZNjCRUWaL2ayI2NHJqwJeouu8hJ1bLOgOaJpaKaH1/SBX9tFtCe91luShEWfO4IQaVWc/i5kPCR2ntEURIG0UBUIVJUUoBByxQWGTZ/fa4i3mwcKdngmIAmjjKeN5tcg/9s155vG8rwBEwLZm8PoFjY7BiQJnKERyAWOYZZXIIW0hkqyOhOwMfUh/aPLwR0ScfJcTrCTjeuAvn0gna3006uExzCfKsr8sCdU/8ACLYz+VvlhSOjJ8kanh7F0dox+zEFsTB+8jp5uh7RS1dYySEEW6OVmON1JOAczXS+21qs6/Hw0Js8jnlICk/gllNsnZ1XV/wrhb34x0M3xpyeszn/GQyebv/umXuOL/BPatzMTNFirGNp3gkvBKyq8tE0PLaznF8OZyiQ+GKppdMC6Nyu1Iqp6vLxJrSDjeral6BcdZdAPN/iujLBceTi08kQyGHLj3pLU91hjDUi1b/Hi8ZVSCZIJnhBFOO0zhlFgVj9wNVMWEXNnHRTw5Y2BjtCKpUDJUdZIM9gBE5LYFQEM7Q8TFRWvoduYEYLIuMsR3K9ysWeCFq6aKe1g0Gd7ZdHUuR0dq53+SCt2kbw7Q03EYzWDJNRUtPeCBom1p+NAAK3BRFiDNqdu3dK2b4543cQv25FTIpXiJKsu3mlRvrql18DBh7m+O0kVFL0+jhUmnkPZzVHUILbIhBvylqskKGpKyUTJjzBjo6jSdoKmGvjDHu26IbaXtz1YuC34jGfVgUluOp7PfluHkg36xQ7mHuUM0TRpuPVHvBGKLu3n6/yOYJ1degR+SldpM3TMTvvtcV0JaJ726rrKH/5n5tTUL6Q8jo+HUeMAZRnUMjo5JapQWO/98JFUEAEWR89+BuGShfPTl4TaRI54SBo6Voyck6X1wPqyKQobsCKNjsImTCvOmSk6zo3ML5zI/yygItu7JuwdU7vMCKe30/RltUkNDYS0wQfzVUy1DGFm+80HW42kaB/2ne6tKNaJ/USAyuCwlB9KHK5LyHZ5iuMke9Hs/rblJXdNngm5IXkFRUaei6Rxqx2JYYQhhTK6fNyD+v8uhE2hRhFv7niRvqR2DUXSIHi3BgPGATgRQeTrVWhRHX9RnxPhaglUD6HBtp6C0h840rQIo6dugtihDpS09E5Xp1xhJGiUlOfeexSrKvTUM6RE87mmVmr4ESEXye9Qar+2eqMFbkTW7TCYkyhNGgsFMJhL+YkObqqKDmk6QNurkafWci5YyNzuRkoKLHOuv2quaREdfPD9S6KbeQL8jh0t8PK3ZQRZKk3TTnUDOnOGNeglUKCUtjsFsZdBNb0/+XOIr2h4skG02bLts0E2EmyBvOuotTY4SN8ndjcAMHo6IjAayQ59DJ5RCQ7142qTJnqUsr+fyU1zQIqt5JHtKrm5zN0wvCg/Jm5UngtyEFk+Up9PsipZI1BK9DuhhiEvX2MMJ1xL7cKKOo5lJurxXMAHKAVIzTUF+CsC3K262hjj7XhYCzjhjpv73tkPNAj5jug8iLLDH0IOBnYmAsQOAvNb1S6g2CBVC3Um9ZFRFHZClLRmdAL1Us639IA9jHsZ6KyYlB+SQduFI56jcws05fbS3375BzItmjpNcWLRYgLxQflE8rDaPYkIhgssScCC+sC6czvhF8ciYJqm0p1VJJq10FwRcWPxD5cMuRxz7PCKmFQt98mUgt0jtzjySkeRSmGf//62V7ZeljaL1WSfZQJZOQmm7WjVux+ZNPCK2ez9YCIivN3qZ21Yl5bhpZzoRxl9xNifgrfv/FlzWN1d2ngEYiuZCjzY6bD4eCKswERQYmXzB5fI2Z15VKkTgcpztY18pRO4rHZlykwbwmGX97/cILXueaHvyLq5ESm5LF5vvuWqnwr4qWu3mC5GhXURFO4pHzpPxi1MhZXDs7yFPX4tItK0ZHqtpfunsRZWFJXXx/3rgqfmB4FomY1S2OJ7ECjYnqXcTsWNTNePX6cs+IVPa9Do1KHZVchKagkZ/MGhQQnLLfymot1vjwdsdlwimPacyU5NlWKbS+TKimKoHLeoKyD98MEH3EFhMHJd8h3E6OKpZk7tlI+FTqhnenUweRB6i0lhI+DYolXuWDxIZ1dmxnTD3UMYDgo1MfDD6OxE03ncV9P2d9ilLGKyVhXhTdUcnw6N89/XRbRpYpdEa9ubnOY2hj4eU9Mm1U9Jpn7Aj5q39FxQzLgdYiAvNXdNQ3b8sxuu3f64+Y6/6eNI7odWzK8rwkSN0BJVlDJq5l8iecNxNreQlD3fxnrOIYcJHEMqrU7sqC5v/oaPU+zCTBt8xuVr32cjz2HRcwb+Iw7wW7NfzvhHwIsU8UgTu4legTvjYg8yuy21IPElxAadUj7xHIM8AZ6wCMXtxaSUqyOUPYnog39NV7c+bxREvwl/YRWoQNF/Uq/5taZF7czvOgMKVMJ40Bx2SQHtzq+ZFCLwXA0gJMHLyFk8cQ630AJOPdl7nTmr63NfXhCLBunML56UaR5jXa7LOGljMzSiA1EOTZiuYAIVmj8+9AgSJI9K/8gRN/sNMjjVaRO1tEpec6DqxDIhS/X9NTQXeFZw6pk6tjqI47LmsP+Y7UimGCAiGKP0LeQCV+WigcAaKSucQPac4mQHb/4aGVViPrjWa+NcoRr3R0dlv2XS3COS4lC+Il/3XzjajJJmbztSpKBgs2Maj6GuvU6BO0zP7tRoxZggJ9KHSM8aYFDEGozYm+T/DrKvpmrzEUyAVOzXbsoLqE0zWa3hZVLNiwnE9Sr/8PRhqvAHmpWHooPyHv+1CCZX748eDTFuopLt/RyEERwqRx1+RMd7dN48ftDfoIz6LiG6JnKG1kdLDMcVLYs6mFGpFyBG730PjdjBzDIMYqNbOOhxuyrSyGmMVS3IcasZzco8Mnj1n1KbNPbjqQHofKdIOnuX8UoIjxu50p3kGjnLYRW/lct5qEGsDJl73RqhMQ4CUgvfLq2H504b8gXZYAlX6mh/Wb4iN+rQ4sytAKH8KQwlKoIe1zvoLTpbH+FvuKXxBa5kznTomMbwR30uOILZiEWC59EjMgPjq+0FB9FOHHuYochl25aP0klbc1Hrx5ZFRc4iLLgFyhLZ0n5siAp0gjx87sZ4t25uai15p3yQMxJLbhKvoMrA1HXwLw4DZ8wK+pGNFL1D2unkimrRggZZP26yNDHfFC2pkEcuBk9QRorrFubfgkhD4HYd266XGIT+ll6gLFsByLsOkzCBSx3+ZeaKHg0IXsQG2HzoDMRes+wlZduaBV+x8kaYFHmY3yksZjOCaPgAdOvCWL8SkDlXKtqKT7wJoOAfKI/grXumT6Qj/F6bINwMOLaGdHfborlA4Yf+kCrXs0VyUuC2hqdBQxJ4eigW7Ij3N7djHO4FRDfBrAPBzVXcVo7d6U/1dnd1BcTM4d3Jbfl08vTkuaWBnINR9kfRfkhxbeAP0PP02/eFGA3/C7s/W8zSQ8Hm/fM9N2cES/v/5FUKPjo0pr6ACDR3Q8unuDxlXw6Tcl7ewWdgh0WhDqlPV+Bw34U9QrAoHeb5aYMlHUdLnS0PIzBsn4PQJZDum4d61MVVv/KWBM4xntTYqo3MuAsZuyNkEAWbsIz2FVWELc5+l1prTkm6IjrDiWlT4uHKkPybFGYO+i/Czm7GPl5VBczfjcqsOUisw5LVHgB78PFEgP+SFtDaIV8IqE39ep/cT+sgvcd5tR+pzJ8aIEPG3fIKcOi7vAmJFKsA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Apps+consulting+Adelaide&client=app-vertex-grounding&safesearch=active\">Power Apps consulting Adelaide</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+partner+Power+Platform+Adelaide+South+Australia&client=app-vertex-grounding&safesearch=active\">Microsoft partner Power Platform Adelaide South Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Chamonix+IT+Adelaide+Power+Platform&client=app-vertex-grounding&safesearch=active\">Chamonix IT Adelaide Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consultants+Adelaide&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consultants Adelaide</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBdrKfZY476wTytoWquCaaDPy-eB2XaRLZ7LMjWqtKdMrMFt7-cO0Rz_t52ae5F8lrCWzAK79-jr1V1uVDGgaMz-K8FGrkhqGG8iUFYHeIoR65B4DTm4bi9lhlTNOsoqip9cE5rS8m5ivlbOFvRBWlOPD3uXmtZ4RKjs_dOMU9_ZBqkIPG_iutMaiUK_HlGetTIJdSmkMHRDyIY0Cxfhpin3IcuGx-zNOaeE6_BPM3fxOi1Heqt4ioUPk8KuIT_P3TZ5lIwTGow5h7fNXgCZXxla4QTmcm9Qi9zdHyiVMn8gJSDy-w26Vzilvny1GbOErLhGGYfp4WcipEcmKeaWxRU-I-ZKbpBplZ31t29TfdxL-tbkFO-2FJepqDhgFjRUeg",
+                "title": "prnewswire.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy8iIImdv6d_mUsaLtHtlfKH9j4WDkeKRkof9xzJaEmbSJm4htOqCDdaeddo6NJkoYjA8KbGj69dmEJgYU5E1s1KSQ1s7RHlJfcbgBG_hGdGfhgI_9N2mhHMlgGjQVkYxCxMwjHT2Gp-QQnqz2RjEbM1HCW9fBifjO8c9J3HmrDqcZm5HEoLU6rD-OvTIUJMZw6KRcwYhkrZ1kzB_hfPJu4zjJH84Z",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIFBxqASTZqjN0n_lY7Cf9KxoeAVGGTZW1CuJz9jgFzOBdokt-FI9CAmIpmB4_duFqaOmZQHaGQXC3t5d02Pr12btFtPqpJDlSCgwoqLLwRZR3th0veJXDfbzP9g4lvHhyFB8tLAxk0HdCzXW5Dj_5N46tbWs=",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERSe-_DTy4oD8wEpksRse79GbFO6iQfcz65G7UUZv7hADGujLGxzFc9mlj7K06uScsRG8ykGu9uCADxtvsJ7OCrw7QLg65x3mZTPBqGa_owMPqGI8VcPnyp5W0jLMRzw==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX3zc9yfqdRYt-X2aKluMh0cU-ewawbEvv9T3O6FNHyN72UZRmEPUYEigJR1_oxqz0VVSeXsQpCmbduV86Zmm6jrHduQuFQxtjPYz7Zc98a1bxJkpAGC0Ow5VTzjNyiLcE2LqHI02pvJbWCHLVv7huAcCNF6SZ_cBT2A==",
+                "title": "talentinternational.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQKgmFwlg4_whcki_OOGxOw5l6oA96SuoZup7T5RCQF8QxUGU1r9JP-_Fen4Yn1wG2QrdB1tn9OT-s2wXOG4B0oiPytS410-2nqU8ElSYBQ-PXoZG4JZAi5mVhBrhGZQ40KefranEXy5pZ68M=",
+                "title": "pa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRWsijXIs0NlrtmY_6IQvKV18Lagki_qSoRPo94CXsz2HeY4DvCMoEwuHjKHuwlNHk2yeUZD3FIMr_0EGRGR5-DRIRwiWPkePd-qumLWthSO9gMyffY7ScEWax50MS4tstRedxLs8MhIPi5rCAeDw_5qqZws=",
+                "title": "officeexperts.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgisJIynpiH_XPgahZhUDq-39skZ2mNNMtOLUAji4SKFmlHxdSvXGi8o9VUEBA5OA2YumAZAicsz3FbqUCHeBu8m8om-ACp5UJV5REAxLI9gfTus0airXO3ONlCxrSDbZE704mVgs2lyctFyT8Vt8MfQ6aya8Pg==",
+                "title": "totalsolutionsit.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAQ1Qb12U7DBgMvNfdxD6VdPxlha88zUgDgoOktzKtBQdRSPlL_T7HhdqFl52aLeHQmGWfcGbpbe9DM_xV_BIz3JL0yp0joeARC_PiObF0DqcFqL-8xUKLwapOItO16FetJrAu1XflAqyQoiX5Jzw4e19dSWPEhBfTStlAoQ==",
+                "title": "simpleit4u.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 435,
+                "endIndex": 528,
+                "text": "**Best for:** Adelaide-based enterprise, healthcare, and South Australian government projects"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 565,
+                "endIndex": 723,
+                "text": "**Strong Local Heritage:** Headquartered in Adelaide, Chamonix has been one of the state's most trusted digital transformation consultancies for over a decade"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 730,
+                "endIndex": 919,
+                "text": "**End-to-End Delivery:** Together with sister firm **Exposé Data**, they bridge low-code application development (Power Apps, Power Automate) with enterprise data architecture and Power BI"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 925,
+                "endIndex": 1087,
+                "text": "**Scale:** Backed by global tech consultancy Synechron, they offer enterprise-grade assurance while maintaining a locally embedded team of consultants in Adelaide"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1111,
+                "endIndex": 1215,
+                "text": "**Best for:** Large enterprise, education, licensing optimization, and Centre of Excellence (CoE) setups"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1251,
+                "endIndex": 1428,
+                "text": "**Tier-1 Microsoft Presence:** As one of Microsoft’s largest Australian Solutions Partners, Data#3 has an established physical office and dedicated technical teams in Adelaide"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1434,
+                "endIndex": 1642,
+                "text": "**Governance & Adoption:** Ideal for organizations suffering from \"app sprawl\" who need formal Power Platform governance, tenant security, ALM (Application Lifecycle Management), and structured staff training"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1648,
+                "endIndex": 1774,
+                "text": "**Procurement:** Deeply entrenched across South Australian State Government procurement panels and corporate sector frameworks"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1809,
+                "endIndex": 1913,
+                "text": "**Best for:** Pure-play Microsoft Business Applications (Power Platform + Dynamics 365 + Copilot Studio)"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2123,
+                "endIndex": 2330,
+                "text": "**Frontier Capabilities:** They are consistently early to market with advanced Microsoft AI innovations, including Microsoft Copilot integration, custom conversational agents, and complex Dataverse workflows"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3154,
+                "endIndex": 3260,
+                "text": "**Best for:** Small to mid-sized businesses (SMBs), departmental workflow fixes, and rapid app turnarounds"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3296,
+                "endIndex": 3526,
+                "text": "**Tactical & Agile:** Ideal if you don’t need an enterprise multi-month scoping exercise and instead want practical apps built quickly (e.g., replacing paper forms, digitizing inspection checklists, or automated approval chains)"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3532,
+                "endIndex": 3758,
+                "text": "**Excel-to-Power-Platform Transition:** They have deep background in Excel and Access migrations, making them well-suited for businesses looking to convert messy spreadsheets into structured Power Apps and Power Automate flows"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3932,
+                "endIndex": 3988,
+                "text": "SharePoint Lists):** Ask how they structure backend data"
+              },
+              "groundingChunkIndices": [
+                6,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4156,
+                "endIndex": 4373,
+                "text": "**Centre of Excellence (CoE) & Governance:** If you plan on letting internal \"citizen developers\" build apps, ensure the partner has experience setting up DLP (Data Loss Prevention) policies and environment strategies"
+              },
+              "groundingChunkIndices": [
+                2,
+                8
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Power Apps consulting Adelaide",
+            "Microsoft partner Power Platform Adelaide South Australia",
+            "Chamonix IT Adelaide Power Platform",
+            "Microsoft Power Platform consultants Adelaide"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 350,
+      "candidatesTokenCount": 1082,
+      "totalTokenCount": 2480,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 350
+        }
+      ],
+      "thoughtsTokenCount": 1048,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "cMbiar7VEKP2694Pws3_8Ak"
+  }
+}

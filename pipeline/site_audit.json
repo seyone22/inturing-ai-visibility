@@ -1,0 +1,1523 @@
+{
+  "auditedAt": "2026-10-29T03:56:30.844Z",
+  "baseOrigin": "https://inturing.com.au",
+  "mappedUrlCount": 28,
+  "mappedUrls": [
+    "https://inturing.com.au",
+    "https://inturing.com.au/solutions",
+    "https://inturing.com.au/solutions/workflow-automation",
+    "https://inturing.com.au/solutions/business-apps",
+    "https://inturing.com.au/solutions/system-integration",
+    "https://inturing.com.au/solutions/operational-analytics",
+    "https://inturing.com.au/solutions/ai-copilot",
+    "https://inturing.com.au/technology",
+    "https://inturing.com.au/technology/power-automate",
+    "https://inturing.com.au/technology/power-apps",
+    "https://inturing.com.au/technology/power-bi",
+    "https://inturing.com.au/technology/copilot-studio",
+    "https://inturing.com.au/technology/power-pages",
+    "https://inturing.com.au/technology/fabric",
+    "https://inturing.com.au/manufacturing",
+    "https://inturing.com.au/case-studies",
+    "https://inturing.com.au/case-studies/bbcp-order-automation",
+    "https://inturing.com.au/case-studies/pna-backend-automation",
+    "https://inturing.com.au/how-we-work",
+    "https://inturing.com.au/resources",
+    "https://inturing.com.au/resources/what-is-ai-automation",
+    "https://inturing.com.au/resources/what-is-an-api",
+    "https://inturing.com.au/resources/what-is-workflow-automation",
+    "https://inturing.com.au/assessment/manufacturing-automation",
+    "https://inturing.com.au/about",
+    "https://inturing.com.au/contact",
+    "https://www.inturing.com.au/retail-wholesale",
+    "https://www.inturing.com.au/public-sector-government"
+  ],
+  "aiCrawlerAudit": {
+    "robotsTxtStatus": 200,
+    "robotsTxtFound": true,
+    "botRules": {
+      "OAI-SearchBot": "allowed",
+      "GPTBot": "allowed",
+      "ChatGPT-User": "allowed",
+      "PerplexityBot": "allowed",
+      "ClaudeBot": "allowed",
+      "Claude-SearchBot": "allowed",
+      "anthropic-ai": "allowed",
+      "Google-Extended": "allowed",
+      "Googlebot": "allowed",
+      "bingbot": "allowed"
+    },
+    "blockedAiBots": [],
+    "llmsTxtStatus": 404,
+    "llmsTxtFound": false,
+    "llmsTxtBytes": 0
+  },
+  "brokenInternalLinks": [],
+  "pageAudits": [
+    {
+      "url": "https://inturing.com.au/",
+      "httpStatus": 200,
+      "title": "Inturing | AI Automation &amp; Power Platform for Manufacturers",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 2,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Inturing",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "url": "/"
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/about",
+      "httpStatus": 200,
+      "title": "About Inturing | Australian Power Platform Consultancy",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 2,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "About",
+              "item": "https://inturing.com.au/about"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/about-us",
+      "httpStatus": 404,
+      "title": "",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 0,
+      "jsonLdBlocks": [],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/contact",
+      "httpStatus": 200,
+      "title": "Contact Inturing | Book a Discovery Call",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Contact",
+              "item": "https://inturing.com.au/contact"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ContactPage",
+          "name": "Contact Inturing | Book a Discovery Call",
+          "description": "Bring us the process that is slowing you down. Book a 30-minute discovery call with Inturing and leave with a recommended next step.",
+          "url": "/contact",
+          "about": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/contact-us",
+      "httpStatus": 404,
+      "title": "",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 0,
+      "jsonLdBlocks": [],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au",
+      "httpStatus": 200,
+      "title": "Inturing | AI Automation &amp; Power Platform for Manufacturers",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 2,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Inturing",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "url": "/"
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions",
+      "httpStatus": 200,
+      "title": "Power Platform Solutions | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 2,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions/workflow-automation",
+      "httpStatus": 200,
+      "title": "Workflow Automation with Power Automate | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Workflow automation",
+          "description": "Automate approvals, handovers and manual data entry with Microsoft Power Automate. Inturing builds governed workflows for Australian manufacturers and growing businesses.",
+          "serviceType": "Workflow automation",
+          "url": "https://inturing.com.au/solutions/workflow-automation",
+          "areaServed": "AU",
+          "provider": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Workflow automation",
+              "item": "https://inturing.com.au/solutions/workflow-automation"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions/business-apps",
+      "httpStatus": 200,
+      "title": "Operational Business Apps with Power Apps | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Operational business apps",
+          "description": "Replace paper forms and shared spreadsheets with purpose-built Power Apps for shop floor, warehouse and field teams. Built by Inturing for Australian operations teams.",
+          "serviceType": "Operational business apps",
+          "url": "https://inturing.com.au/solutions/business-apps",
+          "areaServed": "AU",
+          "provider": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Operational business apps",
+              "item": "https://inturing.com.au/solutions/business-apps"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions/system-integration",
+      "httpStatus": 200,
+      "title": "ERP, CRM and MES System Integration | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "System integration",
+          "description": "Integrate ERP, CRM, MES, PLM and finance systems with Microsoft Power Platform and Azure. Inturing connects existing systems instead of replacing them.",
+          "serviceType": "System integration",
+          "url": "https://inturing.com.au/solutions/system-integration",
+          "areaServed": "AU",
+          "provider": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "System integration",
+              "item": "https://inturing.com.au/solutions/system-integration"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions/operational-analytics",
+      "httpStatus": 200,
+      "title": "Operational Analytics and Power BI Reporting | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Operational analytics",
+          "description": "Power BI reporting and operational dashboards built on a governed data model. Inturing gives Australian operations leaders visibility of current performance.",
+          "serviceType": "Operational analytics",
+          "url": "https://inturing.com.au/solutions/operational-analytics",
+          "areaServed": "AU",
+          "provider": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Operational analytics",
+              "item": "https://inturing.com.au/solutions/operational-analytics"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/solutions/ai-copilot",
+      "httpStatus": 200,
+      "title": "Practical AI, Document Extraction and Copilot | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Practical AI and Copilot",
+          "description": "Applied AI for document extraction, classification and decision support inside governed Power Platform workflows. Inturing delivers practical AI for operations.",
+          "serviceType": "Practical AI and Copilot",
+          "url": "https://inturing.com.au/solutions/ai-copilot",
+          "areaServed": "AU",
+          "provider": {
+            "@type": "Organization",
+            "name": "Inturing"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://inturing.com.au/solutions"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Practical AI and Copilot",
+              "item": "https://inturing.com.au/solutions/ai-copilot"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/technology",
+      "httpStatus": 200,
+      "title": "Microsoft Power Platform Technology | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 2,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Technology",
+              "item": "https://inturing.com.au/technology"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/technology/power-automate",
+      "httpStatus": 200,
+      "title": "Power Automate for Manufacturers | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Technology",
+              "item": "https://inturing.com.au/technology"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Power Automate",
+              "item": "https://inturing.com.au/technology/power-automate"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Power Automate?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A cloud service that watches for a trigger — an email arrives, a record is created, a form is submitted — and runs a defined sequence of steps in response: approve, notify, update a record, generate a document. It replaces the manual 'someone checks the inbox and re-types it' step."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Power Automate replace our ERP or CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It connects to the systems you already run and moves data between them. Replacing a working ERP or CRM is rarely the fix — the manual steps around it usually are."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What happens when something goes wrong in an automated flow?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A properly built flow surfaces failures rather than failing silently — a named person is alerted in Teams or email with enough context to resolve it, and failures are logged for review."
+              }
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/technology/power-apps",
+      "httpStatus": 200,
+      "title": "Power Apps for Operations Teams | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Technology",
+              "item": "https://inturing.com.au/technology"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Power Apps",
+              "item": "https://inturing.com.au/technology/power-apps"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Power Apps?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A platform for building custom business applications quickly, without a full software development project. Apps can run on a phone, tablet or browser, connect to Dataverse or your existing systems, and work offline where connectivity is unreliable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Power Apps work without an internet connection?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for canvas apps built with offline capability in mind. Data is captured locally on the device and syncs automatically once a connection is available."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do we need Dataverse to use Power Apps?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not always — apps can connect to SharePoint, SQL or other data sources. We generally recommend Dataverse for anything beyond a simple app, because it gives proper data validation, relationships and security."
+              }
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/technology/power-bi",
+      "httpStatus": 200,
+      "title": "Power BI Reporting and Dashboards | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Technology",
+              "item": "https://inturing.com.au/technology"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Power BI",
+              "item": "https://inturing.com.au/technology/power-bi"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Power BI?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A tool for connecting to your operational data, modelling it once, and publishing dashboards and reports that refresh on a schedule. Done properly, it replaces manually assembled weekly reports with a live view everyone works from."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why do two reports in our business show different numbers for the same thing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost always because each report is built from its own manual export with its own definition of the metric. A governed Power BI model fixes this by defining each measure once and reusing it everywhere."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How often can Power BI dashboards refresh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "From near real-time down to daily or weekly, depending on the data source and what the decision actually needs. We match refresh frequency to decision cadence, not the platform's maximum."
+              }
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://inturing.com.au/technology/copilot-studio",
+      "httpStatus": 200,
+      "title": "Copilot Studio AI Agents | Inturing",
+      "xRobotsTag": null,
+      "metaRobots": null,
+      "jsonLdCount": 3,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Inturing",
+          "legalName": "Inturing",
+          "url": "https://inturing.com.au",
+          "description": "Inturing builds practical Microsoft Power Platform solutions that connect systems, remove manual bottlenecks and give teams clearer operational visibility.",
+          "areaServed": "AU",
+          "email": "admin@inturing.com.au",
+          "telephone": "+61 435 254 299",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "telephone": "+61 435 254 299",
+            "email": "admin@inturing.com.au",
+            "areaServed": "AU",
+            "availableLanguage": "en-AU"
+          },
+          "sameAs": [
+            "https://au.linkedin.com/company/inturing"
+          ],
+          "founder": [
+            {
+              "@type": "Person",
+              "name": "Paul Del Gigante",
+              "jobTitle": "Founder and AI & Automation Lead",
+              "sameAs": "https://www.linkedin.com/in/paul-del-gigante/"
+            },
+            {
+              "@type": "Person",
+              "name": "Harry Cribb",
+              "jobTitle": "Founder and Enterprise Solutions Director",
+              "sameAs": "https://au.linkedin.com/in/harry-cribb-89800594"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          },
+          "knowsAbout": [
+            "Microsoft Power Platform",
+            "Power Automate",
+            "Power Apps",
+            "Power BI",
+            "Dataverse",
+            "Manufacturing process automation",
+            "ERP integration",
+            "Microsoft Fabric",
+            "Data warehousing"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://inturing.com.au/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Technology",
+              "item": "https://inturing.com.au/technology"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Copilot Studio",
+              "item": "https://inturing.com.au/technology/copilot-studio"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is Copilot Studio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A low-code tool for building AI agents that can answer questions, look up information and take defined actions, using your own data sources rather than the open internet. It sits inside the Microsoft 365 and Power Platform governance model, so what the agent can access and do is explicitly controlled."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does an agent built in Copilot Studio send our data to the public internet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Agents are grounded in the data sources you connect — internal documents, Dataverse or line-of-business systems — within your organisation's existing Microsoft 365 security boundary."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What happens when the agent doesn't know the answer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A properly scoped agent recognises low-confidence cases and hands off to a person rather than answering anyway. We design that handoff path as part of the build."
+              }
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    }
+  ]
+}

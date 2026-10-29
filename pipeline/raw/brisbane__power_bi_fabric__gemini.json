@@ -1,0 +1,364 @@
+{
+  "slug": "brisbane",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Brisbane for operational reporting and data warehousing?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:21.602Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a consultancy in Brisbane for **Microsoft Power BI** and **Microsoft Fabric**, it is helpful to categorize them based on project scale, governance needs, and whether you require enterprise-grade data platform engineering or agile, departmental operational reporting.\n\n---\n\n### 1. Enterprise Leaders & Major Microsoft Partners (Brisbane-Headquartered / Established Hubs)\n\n* **Data#3 (HQ in Toowong, Brisbane)**  \n  * **Best for:** Enterprise, government, and large mid-market organizations needing end-to-end data platform delivery.  \n  * **Core Strengths:** As an ASX-listed giant headquartered in Brisbane and one of Australia’s largest Microsoft Solutions Partners, Data#3 has an extensive dedicated Data & AI practice. They specialize in architecting modern data estates using Microsoft Fabric (OneLake, Lakehouse/Warehouse, Synapse migration) and deploying enterprise-scale, governed Power BI reporting.\n* **Telstra Purple (incorporating the former Wardy IT)**  \n  * **Best for:** Organizations with complex data warehousing, SQL Server migration, and enterprise infrastructure.  \n  * **Core Strengths:** Telstra Purple’s Microsoft data practice was built heavily on the acquisition of Brisbane-born *Wardy IT*, historically one of Australia’s premier Microsoft database and platform consultancies. They provide deep technical capability in data warehousing, Fabric lakehouse/warehouse patterns, and scalable Power BI architectures.\n* **Altis Consulting (Brisbane CBD Office)**  \n  * **Best for:** Dedicated, pure-play data and analytics strategy, governance, and modern data platforms.  \n  * **Core Strengths:** Altis is one of the most respected pure-play data consultancies in ANZ. Their local Brisbane team focuses specifically on data warehousing (Kimball/medallion architectures), Fabric adoption, and robust semantic modeling for operational reporting.\n* **Mantel Group (Brisbane Office)**  \n  * **Best for:** Modern, cloud-native engineering, real-time analytics, and AI-ready data foundations.  \n  * **Core Strengths:** Known for deep technical engineering benches, Mantel delivers Fabric implementations (combining Data Factory pipelines, Spark notebooks, and Direct Lake Power BI modeling). They are ideal if you want a modern engineering approach to operational pipelines and data warehousing.\n* **Avanade (Brisbane Presence)**  \n  * **Best for:** Large enterprise transformations natively bound to the Microsoft ecosystem.  \n  * **Core Strengths:** As the premier Accenture/Microsoft joint venture, Avanade delivers high-complexity Fabric rollouts, global governance, and integrated Microsoft Copilot + Power BI implementations.\n\n---\n\n### 2. Specialized Mid-Market & Boutique Consultancies (Brisbane & SE Queensland)\n\nIf your organization is a mid-sized business looking for faster time-to-value, transparent sprint-based pricing, or hands-on dashboard remediation, these local specialists are strong choices:\n\n* **BizData**  \n  * **Focus:** Long-standing Microsoft analytics partner with strong Australian delivery capability. They focus heavily on rapid modern BI deployments, data lakehouse integration, and operational metric consolidation.\n* **Roar Data (Brisbane)**  \n  * **Focus:** Operational reporting and fixing fragile, manual Excel/Power BI workflows.  \n  * **Strengths:** Brisbane-based firm focused on practical data modeling and fixed-price implementations. They specialize in building clean star-schemas that allow finance and operations teams to trust their operational reporting without performance bottlenecks.\n* **Level Up Your Data (Brisbane)**  \n  * **Focus:** Operational dashboards and fixed-price pilots.  \n  * **Strengths:** Tailored for businesses wanting to see tangible reports within a 4–6 week proof-of-concept phase before committing to broad warehouse restructuring.\n* **Vision BI (Brisbane / Gold Coast)**  \n  * **Focus:** Custom Power BI dashboard development and automated ETL pipelines connecting ERPs, CRMs, and operational systems.\n\n---\n\n### How to Select the Right Consultant for Fabric & Operational Reporting\n\nWhen evaluating proposals from these providers, ensure they have verified expertise in Fabric-specific patterns:\n\n1. **Direct Lake vs. Import Mode:** For operational reporting, your consultant should know when to leverage **Fabric Direct Lake mode** (which queries Delta Lake storage directly with high performance without waiting for scheduled refreshes) vs. traditional Power BI Import mode.\n2. **Medallion Architecture:** Ensure they structure data warehousing logically into Bronze (raw ingestion), Silver (cleansed/standardized), and Gold (Kimball star schema for business consumption) to prevent messy, tangled reporting queries.\n3. **Capacity Management & Cost Control:** Microsoft Fabric uses capacity-based licensing (F-SKUs). Top consultants will advise on workload scheduling, smoothing, and workspace isolation so unexpected warehouse queries do not throttle your reporting users.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Mantel+Group%22+Brisbane+%22Power+BI%22+OR+%22Fabric%22&client=app-vertex-grounding&safesearch=active\">&quot;Mantel Group&quot; Brisbane &quot;Power BI&quot; OR &quot;Fabric&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22BizData%22+Brisbane+Microsoft+Fabric+Power+BI&client=app-vertex-grounding&safesearch=active\">&quot;BizData&quot; Brisbane Microsoft Fabric Power BI</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+BI+consultant+Brisbane+operational+reporting+data+analytics+partner&client=app-vertex-grounding&safesearch=active\">Power BI consultant Brisbane operational reporting data analytics partner</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Fabric+Power+BI+consulting+Brisbane+data+warehousing&client=app-vertex-grounding&safesearch=active\">Microsoft Fabric Power BI consulting Brisbane data warehousing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Data%233%22+%22Microsoft+Fabric%22+Power+BI+Brisbane&client=app-vertex-grounding&safesearch=active\">&quot;Data#3&quot; &quot;Microsoft Fabric&quot; Power BI Brisbane</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Altis+Consulting%22+Brisbane+Power+BI+%22Fabric%22&client=app-vertex-grounding&safesearch=active\">&quot;Altis Consulting&quot; Brisbane Power BI &quot;Fabric&quot;</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22expos%C4%93%22+OR+%22expose%22+Brisbane+Microsoft+Fabric+data+warehouse&client=app-vertex-grounding&safesearch=active\">&quot;exposē&quot; OR &quot;expose&quot; Brisbane Microsoft Fabric data warehouse</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDaQUEPl2zcwE2-XCRDr3h2gTb6oUPf6WJvb7NLkprVQ_M3bOPUpynC-WzCCEkVAvwax0ujUFDMIN7bDS3v49OylKhmDMaOnKETXxJc5ZBolfhwdHNKft5cr_LX7zhBDR-ZB76fy5Ednb3Fw0uw7DFpg==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU4jbnnke-XOkHMzAIzIoL3hWQMJidYrZBZeAWEu1n1aEwCKyN0L9oTHtq__iDAmffYF2w2LFj1A2KB24c7nfMcVYyjHxDgugM5Hl0Hg7AngPko5mVVJgEQPKsRTB6QyGZEQm5MeM=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY_ZFJXsBiTrwr0v92ulonh9P1P_ZsicstiiNpbYri5UJXGgyys73Rtnd7NMZNbT5qg22g504pvt2u5zrf1vWy1jxGL4SJ05NvMmmLePJ9eVLBx--P1fkwt5lOFXPT8TCBHt3r4weDJerwrHIHTr9rGglQavGugx6Q0PJ6aI4=",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXWJ1l0Yz31AO2SXduR6zzAffHBYrBSA-CNSJ2zxjAFrz594usWAEbkzR34GW702abAUsIS0p-LaJhDBeU-mgrPo5JBAK5FkiDxWqE3iVqSnkPg1yKFkCkdYp9gcNlZrD4gTXdMY6YHA==",
+                "title": "altisconsulting.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI-PTKad81jjn9BQmR951TpqUEThLLtL0PdeAfDltboSUwgQ4hf73r7LgYw_Tzg6qJOqkgMNGVXD439O8KPmVRFyZ77y3-xe6hR8WTtkU8ZFOBM5zuk3lQmaGouT6ykfFhy3jw0e1YFwVwjw==",
+                "title": "builtin.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUK2uwwXlOGo8RmBbHJSH8DqLCeezDzb4P2sxUiURjKC2Z6YgjN38kZQZk8xooPTc1TKZtrDtIdySdXlh_fyPM13aWuwfC5WPpiDOPtB1W-aSECCeKlXv7ObeMIHE5tuuLuWYB8QCkbyYZdzKG1rAhwVk=",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLtOl3vwrkkXPXopKefBhb5Fp4lblhFb6rjq5VNrAL_n-8uB5K-2HWAmLRjeTF2ji0MjUrhoObvAkiCjvWfzLnBEMW8FWuR1mglPxrYK2tgW0ypvC94LtLe_-ux0BYaKNesxEslI6D8eMAGRBzfgTWW0Sd4YHRYg==",
+                "title": "sandlabs.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG32EDZNIIjjG7K3B9AzLRosUxJHekmOwXD_MpeCyCvod3jM2LrP4kew-Y852CfPjrtD__4DPs_q5AcSm68J0dXK4shaWk8-dbxHUJNscqRAPGYtI3k19Ir-j53_zD6O8mluyDtpPtHKnmzLuyc",
+                "title": "powerbiconsulting.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_7viHw8GJxEnsNq0qvWN8IopFhFdQWe9wpAe29UNJqTZKudGSi94oLelyUgocFDG-TTv62lhENhsSU7dBIYa9YLl8Yrrvuy1miGWEW8Ccy13RGXyjQs2CuY-NZqGw9VyEP-qNb-1AF_44UQ=",
+                "title": "jobeka.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzQhgHvmqaoYVvYXmvuTfWdVJU9cEdZt8DtFzW7PaPnGDu2jJYIRIvY83IEkSIFR3yFFS263ree37dbcBc5tOvh12AgjcPsDx-nEn2I2q3MinE6CazU1HXW6m4gz9rv33twEbkb2cQarzDK4qYz2L1R2lyxt-Voshc9YzMWuFYkPkexA==",
+                "title": "digitxl.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlbOeGQuUFj7NTevGXUlDwb70k5f-tBdMan2syLutOlZzjknmUftNIP6F-uV1r1gypLMRXjz8dq03ut34UX7g1feNs13Wdc1eCX-2ob8ASlMNmBhktIU_yFnklUxrE8_Et6wqyoLLx3QQ0jqA=",
+                "title": "solverglobal.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKe9Ax5IIKpCz8Xm9QZwASAticbbYdwMa1HPJ4ge42ZG8y_FcPKYspcTUHNcmqzeH8j4is099k_-n7yiql2wWtykDBOYBgelt06W-hMs0kT7Rv9nCb005VwzTksoc6h4lWaAE_vUpykKq-BxNo_VDEcYRGXJVhi40CZ4KShfTnY1-s_Ktx7PmfXFc=",
+                "title": "goodfirms.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBulT-NYTCSc_Uh4jE1HihVEYPuzVEsIT85GL0w0MbhvQbbHGSfNtIQRWFKYLuJg-f8xCFwv-nvmkWYJe3CAzg0U7xCRdE0VvjjgFX458TCXwuEYW2r-7BmNMUDsimKHlMhF66xSPkRGQA3CbWmyYuGf7Fx1y7Q==",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7O5WE0Gs2T_2m9Q4gzHk99DbzcJHfk8rQconeKNkuSdVRZ4eoMpep-6l6ho7CKK0XHqPvgDHhaXOYjI0dQbZ7C2u8Ukj_FOqcmeTlY2v1NAqDc_h2xY32hQc=",
+                "title": "roardata.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1mNabehoSBrbgNXbVR0PzvUpADgdSpbRIjNFdALA8J1xEEHdI32UEehBU6nh7eRVyxh-cISe-AoMnoCUWqWj-CB7dRZbJ0vfgNrevwsPYXIB3gKYDVBIvjuKuLKkJTdjPSx6rQNk=",
+                "title": "levelupyourdata.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFojQyhptR1POR2P2veik5pM8Loehmr1z5kMOjkBA1HFmMlBBhxT-GxDm81L_7NKZEngpNsQm_dlmPM4Ks_GLlweJ_FsFn0PV4Iq1rwXjEBqVnxiNwJ7R3dxuqC5Hor1XrclJl6kChRCeYe8KS44k43xSKnq0sLw2AbrMvm7jAnNw==",
+                "title": "visionbusinessintelligence.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMr1bSD_qpeEB0kC6wDZ9NOmAqeAFGXG9cvSFUJCs9YmEV4mvrancdO07u7tI0KGcoeZE6n6Mcf0K786-aCEtZxPkIcfcyEbFrI7OCuZnAI1GSCMhc68GPtbwPq0Qu7rhv2jDjYx7Vm9rsJRAMMGib2Zw4IzVOfRNMzYz5Ybg5KctjrF7ufwuHXT-cfctoPKKsndqVQm0Ow7zgI6GndudG9j5T38pjzWlPLKd_MQdNUg==",
+                "title": "c9.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuS1E1KxEp_I_mKdK8kLeRIV4O-bLw5spedg48YSA5lcGt-6bP8PRQ5FTPK857bHA1p3i-bgTDiFtClOTIgMJPHrppptkdCKu4Fa94XyUHPQJrGtR-XkQ8fTamd3C3cXyQhDO_jL8C0ISXUKjggBQay_km8muTUbTmiFYg_tIfhxmoFJlJblCjSv7MspPe9JV892lU",
+                "title": "powerbitraining.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 553,
+                "endIndex": 737,
+                "text": "**Core Strengths:** As an ASX-listed giant headquartered in Brisbane and one of Australia’s largest Microsoft Solutions Partners, Data#3 has an extensive dedicated Data & AI practice"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 739,
+                "endIndex": 923,
+                "text": "They specialize in architecting modern data estates using Microsoft Fabric (OneLake, Lakehouse/Warehouse, Synapse migration) and deploying enterprise-scale, governed Power BI reporting"
+              },
+              "groundingChunkIndices": [
+                2,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1509,
+                "endIndex": 1610,
+                "text": "**Best for:** Dedicated, pure-play data and analytics strategy, governance, and modern data platforms"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1710,
+                "endIndex": 1883,
+                "text": "Their local Brisbane team focuses specifically on data warehousing (Kimball/medallion architectures), Fabric adoption, and robust semantic modeling for operational reporting"
+              },
+              "groundingChunkIndices": [
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1928,
+                "endIndex": 2026,
+                "text": "**Best for:** Modern, cloud-native engineering, real-time analytics, and AI-ready data foundations"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2034,
+                "endIndex": 2225,
+                "text": "**Core Strengths:** Known for deep technical engineering benches, Mantel delivers Fabric implementations (combining Data Factory pipelines, Spark notebooks, and Direct Lake Power BI modeling)"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2227,
+                "endIndex": 2329,
+                "text": "They are ideal if you want a modern engineering approach to operational pipelines and data warehousing"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2969,
+                "endIndex": 3064,
+                "text": "**Focus:** Long-standing Microsoft analytics partner with strong Australian delivery capability"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3066,
+                "endIndex": 3181,
+                "text": "They focus heavily on rapid modern BI deployments, data lakehouse integration, and operational metric consolidation"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3216,
+                "endIndex": 3300,
+                "text": "**Focus:** Operational reporting and fixing fragile, manual Excel/Power BI workflows"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3308,
+                "endIndex": 3409,
+                "text": "**Strengths:** Brisbane-based firm focused on practical data modeling and fixed-price implementations"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3411,
+                "endIndex": 3566,
+                "text": "They specialize in building clean star-schemas that allow finance and operations teams to trust their operational reporting without performance bottlenecks"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3610,
+                "endIndex": 3666,
+                "text": "**Focus:** Operational dashboards and fixed-price pilots"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3674,
+                "endIndex": 3838,
+                "text": "**Strengths:** Tailored for businesses wanting to see tangible reports within a 4–6 week proof-of-concept phase before committing to broad warehouse restructuring"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3886,
+                "endIndex": 4009,
+                "text": "**Focus:** Custom Power BI dashboard development and automated ETL pipelines connecting ERPs, CRMs, and operational systems"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4452,
+                "endIndex": 4484,
+                "text": "traditional Power BI Import mode"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4489,
+                "endIndex": 4726,
+                "text": "**Medallion Architecture:** Ensure they structure data warehousing logically into Bronze (raw ingestion), Silver (cleansed/standardized), and Gold (Kimball star schema for business consumption) to prevent messy, tangled reporting queries"
+              },
+              "groundingChunkIndices": [
+                7,
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4731,
+                "endIndex": 4826,
+                "text": "**Capacity Management & Cost Control:** Microsoft Fabric uses capacity-based licensing (F-SKUs)"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Mantel Group\" Brisbane \"Power BI\" OR \"Fabric\"",
+            "\"BizData\" Brisbane Microsoft Fabric Power BI",
+            "Power BI consultant Brisbane operational reporting data analytics partner",
+            "Microsoft Fabric Power BI consulting Brisbane data warehousing",
+            "\"Data#3\" \"Microsoft Fabric\" Power BI Brisbane",
+            "\"Altis Consulting\" Brisbane Power BI \"Fabric\"",
+            "\"exposē\" OR \"expose\" Brisbane Microsoft Fabric data warehouse"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 736,
+      "candidatesTokenCount": 1182,
+      "totalTokenCount": 3117,
+      "cachedContentTokenCount": 105,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 736
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 105
+        }
+      ],
+      "thoughtsTokenCount": 1199,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "Gsbiao_0I-i4694PssHawAU"
+  }
+}

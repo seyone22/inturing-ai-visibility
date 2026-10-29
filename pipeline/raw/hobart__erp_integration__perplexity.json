@@ -1,0 +1,106 @@
+{
+  "slug": "hobart",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Hobart are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:21.805Z",
+  "cost": 0.006206,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 570,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005606,
+      "datetime": "2026-10-29 04:11:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Hobart organisation needing to connect **ERP, CRM, MYOB Acumatica, SAP and Microsoft 365**, the strongest shortlist is:\n\n1. **OneKloudX — best for multi-ERP integration**\n   - Explicitly supports MYOB Acumatica and SAP, plus CRM platforms and Microsoft Dynamics.\n   - Uses integration platforms such as Jitterbit, which can connect SAP, Microsoft Dynamics 365 and other applications.\n   - Suitable for complex, Australia-wide integration projects, although Hobart-based delivery should be confirmed.[1]\n\n2. **Cloud Factory — best for SAP Business One and MYOB Acumatica**\n   - Specialises in SAP Business One, MYOB Acumatica and Microsoft Dynamics 365 Business Central.\n   - Designs ERP integrations with CRM, e-commerce, warehouse, EDI, reporting and analytics systems.\n   - A strong option if Microsoft 365 integration involves Dynamics 365, Power Platform or Microsoft reporting tools.[3][5]\n\n3. **Leverage Technologies — best for SAP/MYOB partner credentials**\n   - Supports SAP, MYOB Acumatica and CRM/ERP integration.\n   - Is an SAP Gold Partner and MYOB Acumatica Platinum Partner.\n   - Provides integration, implementation and support services Australia-wide, but its listed offices are in Sydney, Melbourne and Brisbane rather than Hobart.[4][6][9][10]\n\n4. **Bright Labs — best for custom web, CRM and API integration**\n   - Integrates SAP, MYOB, Microsoft Dynamics 365, Salesforce, HubSpot and custom or legacy systems.\n   - Particularly suitable where Microsoft 365, websites, portals, mobile apps or non-standard APIs must connect to the ERP and CRM environment.\n   - Its listed office is in Melbourne, so confirm onsite Hobart availability.[8]\n\n5. **Eagle360 Consulting — best for Microsoft ecosystem and Acumatica**\n   - A certified MYOB Acumatica partner and Microsoft Designated Solutions Partner.\n   - Connects Acumatica or Dynamics 365 Business Central with Dynamics CRM, Power BI, Microsoft Fabric, Power Platform, e-commerce and warehouse systems.\n   - Better suited where Microsoft 365 and Dynamics 365 are central; SAP capability is not as clearly demonstrated in the available information.[2]\n\n**Recommended first calls:** OneKloudX for a genuinely mixed SAP–Acumatica–CRM environment; Cloud Factory for SAP Business One or Acumatica-led projects; and Leverage Technologies for certified SAP/MYOB implementation and support. For a Hobart deployment, ask each provider to confirm Tasmanian references, onsite support, Microsoft 365/Entra ID/Power Platform experience, and whether they integrate your exact SAP edition and Acumatica version.",
+              "annotations": [
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Advisory, Implementation & Optimisation Services",
+                  "url": "https://www.cloudfactory.co/erp-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CRM ERP Solutions and Software for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/crm/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cloud Factory: ERP Solutions Australia | Cloud ERP Experts",
+                  "url": "https://www.cloudfactory.co/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Cloud Based ERP Solutions for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/cloud/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Partners | Weka Online",
+                  "url": "https://www.wekaonline.com/partners/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.brightlabs.com.au › services › crm-erp-integrationCRM & ERP integration | Bright Labs",
+                  "url": "https://www.brightlabs.com.au/services/crm-erp-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "A Trusted Australian ERP Software Partner & Reseller",
+                  "url": "https://www.leveragetech.com.au/services/software-partner-and-reseller/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Implementation Services for Australian Businesses",
+                  "url": "https://www.leveragetech.com.au/services/erp-implementation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "slug": "brisbane",
+  "pk": "manufacturing_automation",
+  "plat": "gemini",
+  "text": "We are a manufacturer in Brisbane looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__manufacturing_automation__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:44.794Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "To automate order intake, shop-floor data capture, and operational workflows without replacing your core ERP (often Pronto, Epicor, SYSPRO, SAP Business One, or Greentree), you need a partner that excels in **hybrid integration, custom connectors, and rugged low-code UX**. \n\nA successful \"wrap-and-extend\" approach requires a consultant who treats your ERP as the transactional system of record while using **Microsoft Power Platform (Power Apps, Power Automate, AI Builder) and Azure** as the agile layer for frontline workers.\n\nConsultancies with a presence in Brisbane or Australia that fit this specific brief include:\n\n---\n\n### 1. Dedicated Business Applications & Power Platform Specialists\n* **Barhead Solutions (an Akkodis company)**\n  * **Brisbane Presence:** Office located in Brisbane CBD (Queen St).\n  * **Why them:** They are one of Australia’s premier Microsoft Solutions Partners dedicated specifically to Power Platform, Dynamics, and AI solutions. They excel at architecting Power Platform Centers of Excellence (CoE), custom connectors, and extending legacy architectures without rip-and-replace.\n  * **Fit:** Medium to enterprise manufacturers that want rigorous architecture, governance, and enterprise-grade integration.\n\n* **Inturing**\n  * **Presence:** Australian specialist consultancy.\n  * **Why them:** A boutique consultancy whose core marketing and capability directly target **operational Australian manufacturers**. They build purpose-built shop-floor Power Apps (downtime tracking, quality inspections, digital job cards) and workflow automations that sit on top of existing business systems.\n  * **Fit:** Manufacturers looking for a lean, agile partner who speaks manufacturing terminology (BOMs, routings, batch tracking, OEE) rather than just generic IT.\n\n* **Fusion5**\n  * **Brisbane Presence:** Dedicated Brisbane office / Queensland team.\n  * **Why them:** Uniquely positioned because they are both a major ERP partner (Dynamics, NetSuite) and a modern Microsoft Cloud & Power Platform solutions provider. Because they live and breathe ERP implementations, their integration architects understand how ERP databases, lockups, and APIs behave when queried by external low-code applications.\n  * **Fit:** If your ERP is a mid-market system and you want an integrator who understands backend ERP accounting and stock constraints.\n\n---\n\n### 2. Brisbane-Headquartered & Local Specialist Teams\n* **Data#3**\n  * **Brisbane Presence:** Global Headquarters in Brisbane (Toowong).\n  * **Why them:** As one of Australia's largest Microsoft Partners, they are best suited if your operational overhaul also touches IT governance, cybersecurity (Essential Eight), hybrid networking (connecting on-premises factory networks to cloud APIs), and Azure infrastructure.\n  * **Fit:** Larger industrial facilities with strict IT/OT security and compliance mandates.\n\n* **C9 Solutions / Team 400**\n  * **Brisbane Presence:** Local development teams in Brisbane.\n  * **Why them:** Specialized in rapid low-code/pro-code application engineering, AI Builder (for automated document/order extraction), and custom connectors. \n  * **Fit:** Quick proofs-of-concept (POCs) for order intake processing and specific mobile app builds.\n\n---\n\n### Key Technical Criteria to Vet When You Speak With Them\n\nBefore engaging any partner, ensure they can solve the practical challenges specific to manufacturing:\n\n1. **How will they connect to your specific ERP?**\n   * *Direct APIs vs. On-Premises Data Gateway vs. Webhooks:* If your ERP doesn’t have open REST APIs, the partner should have experience building custom Azure connectors or using the **On-Premises Data Gateway** for direct SQL/ODBC reads and staging tables to avoid locking tables during production.\n2. **Shop Floor Device & Environmental UX:**\n   * Power Apps on the shop floor must accommodate barcode scanning (Honeywell/Zebra handhelds or camera OCR), glove use, high-contrast screens, and **offline caching** for when Wi-Fi drops out in steel-framed factory sheds.\n3. **Automated Order Processing (OCR & AI):**\n   * Ask how they handle unstructured PDF customer purchase orders. The gold standard right now involves **Power Automate + AI Builder (Document Processing models) or Azure OpenAI** to parse inbound PDFs, extract line items, match customer parts to internal SKUs, and post draft sales orders directly into your ERP for review.\n4. **Licensing & Multiplexing Compliance:**\n   * A shop floor of 50–200 workers can quickly drive up software costs if improperly licensed. Ask how they design the architecture to comply with **Microsoft Multiplexing rules** and ERP user licensing while keeping per-user/per-app subscription costs sustainable.\n\n### Recommended Next Step\nReach out to **Barhead Solutions** (for enterprise-level Power Platform architecture) and **Fusion5** or a boutique manufacturing specialist like **Inturing**. Request a brief discovery session focused on a **single pilot project**—such as *automating PDF sales order entry* or *a tablet-based shop-floor job-tracking app*—to validate their integration capability before scoping the broader operations.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Power+Platform%22+manufacturing+Brisbane+Australia&client=app-vertex-grounding&safesearch=active\">&quot;Power Platform&quot; manufacturing Brisbane Australia</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Fusion5%22+Power+Platform+Brisbane+manufacturing&client=app-vertex-grounding&safesearch=active\">&quot;Fusion5&quot; Power Platform Brisbane manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Barhead+Solutions%22+Brisbane+OR+Queensland+manufacturing&client=app-vertex-grounding&safesearch=active\">&quot;Barhead Solutions&quot; Brisbane OR Queensland manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultants+Brisbane+manufacturing&client=app-vertex-grounding&safesearch=active\">Power Platform consultants Brisbane manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+partners+Brisbane+order+processing+shop+floor&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform partners Brisbane order processing shop floor</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22shop+floor%22+Power+Apps+Australia+manufacturing&client=app-vertex-grounding&safesearch=active\">&quot;shop floor&quot; Power Apps Australia manufacturing</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=manufacturing+digital+transformation+consultants+Brisbane+ERP+integration+Power+Platform&client=app-vertex-grounding&safesearch=active\">manufacturing digital transformation consultants Brisbane ERP integration Power Platform</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2LzGgFBKBMV0IFJRjI7t5c00SEAHXqNd5_uQhBM_mlTRq0OLE3UBtfV6XFyt03Tt2vh6IG59tfzY9Iin9q-uLV_aNmL9IRAswdWedKDwWpKGMIyEy7p7C3_N3upHXG4QMSRgdmHQyxrebZQ9gJ6IjwplpcJnad2XWr9DY84p4LrNl-oTXWps=",
+                "title": "concettolabs.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE595K6qwGb30QIApTshm0yZlqUYoo8Up3PLe6lTXmFsOgxZegfVlaTOd1baMTFysDYwX7wtSDfln0bDnbHJpSfAZVVYDLDVJa2yLD2qz_U6o3BchrLt61dLM2Yh8ua",
+                "title": "team400.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMRtlbFUiFSetTQWGeQ-Snm1l7FkwHVa_YB0xImoY14CW0DHTcjI6Nv-zZHAXqTWwN40wT8lS9k5ACr38BRPENLK1CMhkN3KkOabtnQyy1nDKl",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdGR8Dut3llQkhq3C2yA7TYVHwQ29qABfhYc_7nsP7oxccNdo_JmoRWByUVomJ1lrGx-0oU5-23hZo-qzLaJ5xHpwrMk3sRKzFoPEfL4TiZKlKtq4AuraAO_khHXOTSEgCwX2LCGycpRrIm_j3rRhQ1jTc4yFX8XQmV85YSBUfBDAjErRW8ZZoDfKDH1LTZpMhU-VDb2oukFibUHifQWg=",
+                "title": "consultancy.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6CoOxpTPw9BJ-SetAlG0mVvrCEyv_qx5JVkPCZHySIiSzmVweTM3HbEPqeC0L33I_uayG_9NwlcBYYVwY08ukwypF5sj1A8Bh2lHxMJCOlYY6b1fT2XU6",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWX7kVSPQ2mO-kbxShlJaa8Pz0DhMCCshbUE55F27f73LtQ6_YXH8vx7vl720KybsYkO5G7ohZLo2leMsHb-zPOrfqlI9-rxrMNw==",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiswF2m9rW__lm4nZmSWE_oX9Z00uX7dek2UOxTrXusPAPfAZ4szVT8w2KkzhxGfybfbEUN8brvGLIGn-UD-kGNrt3-dCJyAH0cU6Mvg50tB_PyQ==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPLs3Lkm8UncjfFDjwPiVX0vY08d77PuxsbqwpeE-w-7aBq3nGjxwapfEzMMUXcst9VIy_SgMaCXjWmwd3BliS5zLLi9enUpQgP8ZkQFI87RoX1DnUeQnDBYWvdoO_VA==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLCCLB_MlY1Zs5gV8KZALjlEs6Yab1CX0M8-n6IqhzZfbpwRXp-qdMEE1wM9hR6YAWKSjSd98ic5uRysChwJ4qF__-jsXIyM3cRChlXIjR0muMMyopd5fInVfNvFOZOB8d8CJ_4Q==",
+                "title": "inturing.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw7vQbkPqwGJxwWKNc99JDzE0HcuSnDJNxInujjMGHZRrEH0-p9lVh0-3ONo3GlCemZ_It--f-8NXnMrkjDBuW-oITCXQHwCpBHXq2gZBbClYmD99vJpDWHNYn_tfDwyc_GA2sxvPEzh8f-PeJ",
+                "title": "weblinkplus.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgWFOts3K6lJBF-vEu60EKRS-9lYqBgL5gkfXKYPcf3bP3o9cCURejcL4yus9grPUcHbbR0D5id0vhjMyrLyD0HH30rGLpSPKyIRKV4_tyayQ487AQ789xAAdpcVMdg1sAvKRhghM=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGY6gZP1sgI_CEz9Az3uf7cN3rlqdwzZl0GZw6ynMBwmR6jRsKjTN4qd1JadlrcwFEYN2snTraKkmpo9zRHD879ardZn0-ISEG2AMLknNYlrOS4CWkz2FgyXhi5jbsIFBFYUnXXaFSJp0cWycjfwaHmQ3zIz8Y_MbFAErx",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECP3roQiCx3oI6snTcAmExgLgPc09f8prK8bmFkmAcnZWcMxyrorwk0EQrCaMUYG6mwUR2dOlIJ7h8CXvMupl1EwN7AyG68n2fbSTLlBF2tLTZPXHL2E9_oj4jsxp_TTdvirvjIAgWUx09U8wIfW6cZNB_U7va6b1Hei77s5SnrWc_5aP1V4MfayhB",
+                "title": "fusion5.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETfdfrX2c51zZWT8ZL-5reFUC-ezH8_Y8-aw-sc8bx_PwVu8u2-AXIOeEFFdwbYvWNM3y6UDQS7HGmH_UNnT-ofv2ZGGq_GHsKPI8KrWlcy7--6gfcjcGrl0E=",
+                "title": "fusion5.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPUiLGKLZIsVpGWwZpVA3IG5Ge9eypW7TYsh_NqiQ8Kbjwxcxihct_1dT2sFsIoeDAdCemdLFvprTPZzkMBsN37SiafRmrQMD9VVC1hU_wYbCQicg_m1LpdQAZVnOrga7m5FjPGO0=",
+                "title": "talent.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqK_-vhmpSbhj20SOAvFwqhdS49FlBq50Bv68Jf-O39Mj0EgWKg36FkoO3cd65xTh6k8nCZkNBYI-Q1h7IThp57WTIGGqUX6zgD9HzlRYFC5DWziDKUYmxig==",
+                "title": "fusion5.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqYhsYd65fjrqwk23Mp2mPrQSA72xniSBgJoHYmOlV3GVjYgQuEvaLEyWtxn-J4BqwUhS4N_PNWqZkVht5W3tsOD6m3S4f3JDm3hL3ZiSgLhsXjpl6KjJLtjcy9ygkXZ1iKIiImh4-p1CeczNlo0VXnaAkuy4jReg1zw==",
+                "title": "c9.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 276,
+                "endIndex": 528,
+                "text": "A successful \"wrap-and-extend\" approach requires a consultant who treats your ERP as the transactional system of record while using **Microsoft Power Platform (Power Apps, Power Automate, AI Builder) and Azure** as the agile layer for frontline workers"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 747,
+                "endIndex": 811,
+                "text": "**Brisbane Presence:** Office located in Brisbane CBD (Queen St)"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 817,
+                "endIndex": 966,
+                "text": "**Why them:** They are one of Australia’s premier Microsoft Solutions Partners dedicated specifically to Power Platform, Dynamics, and AI solutions"
+              },
+              "groundingChunkIndices": [
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 968,
+                "endIndex": 1116,
+                "text": "They excel at architecting Power Platform Centers of Excellence (CoE), custom connectors, and extending legacy architectures without rip-and-replace"
+              },
+              "groundingChunkIndices": [
+                1,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1265,
+                "endIndex": 1312,
+                "text": "**Presence:** Australian specialist consultancy"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1318,
+                "endIndex": 1447,
+                "text": "**Why them:** A boutique consultancy whose core marketing and capability directly target **operational Australian manufacturers**"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1449,
+                "endIndex": 1625,
+                "text": "They build purpose-built shop-floor Power Apps (downtime tracking, quality inspections, digital job cards) and workflow automations that sit on top of existing business systems"
+              },
+              "groundingChunkIndices": [
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1631,
+                "endIndex": 1790,
+                "text": "**Fit:** Manufacturers looking for a lean, agile partner who speaks manufacturing terminology (BOMs, routings, batch tracking, OEE) rather than just generic IT"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1811,
+                "endIndex": 1877,
+                "text": "**Brisbane Presence:** Dedicated Brisbane office / Queensland team"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1883,
+                "endIndex": 2044,
+                "text": "**Why them:** Uniquely positioned because they are both a major ERP partner (Dynamics, NetSuite) and a modern Microsoft Cloud & Power Platform solutions provider"
+              },
+              "groundingChunkIndices": [
+                12,
+                13,
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2046,
+                "endIndex": 2227,
+                "text": "Because they live and breathe ERP implementations, their integration architects understand how ERP databases, lockups, and APIs behave when queried by external low-code applications"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2919,
+                "endIndex": 2977,
+                "text": "**Brisbane Presence:** Local development teams in Brisbane"
+              },
+              "groundingChunkIndices": [
+                16,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2983,
+                "endIndex": 3136,
+                "text": "**Why them:** Specialized in rapid low-code/pro-code application engineering, AI Builder (for automated document/order extraction), and custom connectors"
+              },
+              "groundingChunkIndices": [
+                16,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4750,
+                "endIndex": 4835,
+                "text": "Reach out to **Barhead Solutions** (for enterprise-level Power Platform architecture)"
+              },
+              "groundingChunkIndices": [
+                5,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4750,
+                "endIndex": 4908,
+                "text": "Reach out to **Barhead Solutions** (for enterprise-level Power Platform architecture) and **Fusion5** or a boutique manufacturing specialist like **Inturing**"
+              },
+              "groundingChunkIndices": [
+                15,
+                8
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Power Platform\" manufacturing Brisbane Australia",
+            "\"Fusion5\" Power Platform Brisbane manufacturing",
+            "\"Barhead Solutions\" Brisbane OR Queensland manufacturing",
+            "Power Platform consultants Brisbane manufacturing",
+            "Microsoft Power Platform partners Brisbane order processing shop floor",
+            "\"shop floor\" Power Apps Australia manufacturing",
+            "manufacturing digital transformation consultants Brisbane ERP integration Power Platform"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 485,
+      "candidatesTokenCount": 1271,
+      "totalTokenCount": 2882,
+      "cachedContentTokenCount": 154,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 485
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 154
+        }
+      ],
+      "thoughtsTokenCount": 1126,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "9MXiaq3ENauz694PlPmUgQU"
+  }
+}

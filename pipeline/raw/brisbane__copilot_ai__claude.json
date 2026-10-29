@@ -1,0 +1,290 @@
+{
+  "slug": "brisbane",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Brisbane specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:33.719Z",
+  "cost": 0.065215,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10710,
+      "output_tokens": 1499,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064615,
+      "datetime": "2026-10-29 04:06:28 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a breakdown of the notable **AI automation consultants in Brisbane** that specialise in **Microsoft Copilot Studio, AI agents, and practical AI workflow automation** for mid-market businesses:\n\n---\n\n## 🏆 1. Frontrow Technology\n**Best for: Microsoft Copilot Studio, AI agents & governance for Brisbane mid-market**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow Technology runs AI consulting and advisory services for Brisbane mid-market businesses from Queen Street in the CBD.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Brisbane — AI advisory, Copilot & agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services cover AI strategy and roadmaps, Copilot rollouts, Copilot Studio agents, Azure AI Foundry workloads, and the governance scaffolding to operate them on a continuing basis.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Brisbane — AI advisory, Copilot & agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their AI lead, Daniel Brown, is a 5× Microsoft MVP and a Microsoft Certified Agentic AI Business Solutions Architect. Simon Aspinall leads Modern Work delivery on Brisbane-based engagements — and you get direct access to both, with no junior-consultant pass-through.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Brisbane — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A full deployment including identity remediation, data readiness, Purview labels, pilot and rollout is typically $60k–$180k for a mid-market tenant, excluding Copilot licence costs.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Brisbane — deployment, readiness, adoption",
+                  "url": "https://frontrowtech.com.au/copilot-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also stand up AI governance programs aligned to the Voluntary AI Safety Standard's ten guardrails, covering AI policy, model register, human oversight, transparency notices, and an AI risk register, with an ongoing assurance cadence on top.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Brisbane — AI advisory, Copilot & agents",
+                  "url": "https://frontrowtech.com.au/ai-consultant-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Level 1, 355 Queen Street, Brisbane QLD 4000 | 📞 1300 012 466\n\n---\n\n## 🤖 2. Team 400\n**Best for: Custom AI agent development & Copilot Studio builds**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Team 400 is a Brisbane-headquartered AI consulting and engineering firm with additional teams in Sydney and Melbourne, describing itself as engineering-first and focused on building and deploying production AI agents and automation.",
+              "annotations": [
+                {
+                  "title": "AI Consultants in Brisbane: What They Do and How to Choose One (2026 Guide)",
+                  "url": "https://xcdit.com.au/ai-consultants-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They design and deploy custom Copilots with Microsoft Copilot Studio — conversational AI agents tailored to business workflows.",
+              "annotations": [
+                {
+                  "title": "AI Agency, AI Consultants, AI Agent Builders",
+                  "url": "https://team400.ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team includes Microsoft MVP-level engineers with early access to Copilot Studio capabilities and direct relationships with Microsoft's AI and Power Platform teams.",
+              "annotations": [
+                {
+                  "title": "Copilot Studio Consultants Australia - Custom AI Agents & Copilots",
+                  "url": "https://team400.ai/copilot-studio-consultants",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are particularly well-suited for Australian businesses that want AI in production fast with clear ROI — especially strong for mid-market and enterprise companies that have been through the strategy phase and need someone who can actually build and ship working AI systems.",
+              "annotations": [
+                {
+                  "title": "Top AI Consultants in Australia (2026)",
+                  "url": "https://team400.ai/blog/2026-04-top-ai-consultants-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## ⚙️ 3. AI Agency Brisbane (aiagencybrisbane.net)\n**Best for: Practical AI workflow automation & agent implementation**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They design, deploy, and manage AI agents and workflow automation around real business processes — with integrations, testing, and human review included in scope.",
+              "annotations": [
+                {
+                  "title": "AI Agency Brisbane",
+                  "url": "https://aiagencybrisbane.net/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include Microsoft 365 Copilot, voice, chat, document and operations workflows, permission-aware integrations and human approval points, and fixed-scope proposals after a practical discovery call.",
+              "annotations": [
+                {
+                  "title": "AI Agency Brisbane",
+                  "url": "https://aiagencybrisbane.net/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For Microsoft specifically, they configure focused Copilot Studio agents grounded in approved business knowledge, with appropriate permissions, testing, and rollout support.",
+              "annotations": [
+                {
+                  "title": "AI Agency Brisbane",
+                  "url": "https://aiagencybrisbane.net/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📚 4. TT Solutions\n**Best for: Microsoft Copilot training, agents & multi-platform AI advisory**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "TT Solutions offers training and guidance for using Microsoft Copilot and creating agents in Copilot Studio, and helps businesses understand all the options, including Agent 365, Microsoft Copilot, Foundry, GPT Codex, Claude AI, and Google Gemini.",
+              "annotations": [
+                {
+                  "title": "AI Consultants Gold Coast, Brisbane, Sydney, Melbourne, Perth, Canberra, Darwin, Cairns",
+                  "url": "https://www.ttsolutions.com.au/ai-consultants/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They serve Brisbane as well as other major Australian cities.\n\n---\n\n## 📊 5. Advancer\n**Best for: Mid-size companies needing readiness audits & fractional AI leadership**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Advancer is a Brisbane-based firm targeting mid-size companies, offering readiness audits, roadmaps, change management, AI training, and a Fractional AI Director service, as well as AI agents, automations, voice AI, and custom tools.",
+              "annotations": [
+                {
+                  "title": "Best AI Consultancies in Australia 2026 by City",
+                  "url": "https://factoryjet.com/blog/best-ai-consultancies-australia-2026",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 How to Choose\n\n| Provider | Best For | Speciality |\n|---|---|---|\n| **Frontrow Technology** | Mid-market, governance-focused | Copilot Studio, Azure AI Foundry, MVP-led |\n| **Team 400** | Custom agent builds, engineering-led | Copilot Studio, Azure AI, production agents |\n| **AI Agency Brisbane** | Practical workflow automation | Copilot agents, voice/chat/doc workflows |\n| **TT Solutions** | Training + multi-platform advisory | Copilot, Dynamics 365, Power Apps |\n| **Advancer** | Mid-size, change management | Fractional AI Director, readiness audits |\n\nFor **mid-market businesses** specifically focused on **Microsoft Copilot Studio and AI agents**, **Frontrow Technology** and **Team 400** appear to be the most specialised and senior-led options in Brisbane. If you need more practical, implementation-focused workflow automation at a potentially smaller scale, **AI Agency Brisbane** is also worth exploring.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Brisbane Microsoft Copilot Studio AI agents mid-market businesses",
+        "Brisbane AI workflow automation consultants mid-market Microsoft Copilot Studio specialists"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "slug": "canberra",
+  "pk": "copilot_ai",
+  "plat": "claude",
+  "text": "Which AI automation consultants in Canberra specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000142,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\canberra__copilot_ai__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:10:02.853Z",
+  "cost": 0.066367,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 11239,
+      "output_tokens": 1470,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065767,
+      "datetime": "2026-10-29 04:09:57 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great — here's a breakdown of the most relevant AI automation consultants for your needs, with a focus on **Canberra-based or Australia-wide firms** that specialise in **Microsoft Copilot Studio, AI agents, and practical workflow automation for mid-market businesses**:\n\n---\n\n## 🏢 Canberra-Specific Specialists\n\n### 1. **Frontrow Technology** ⭐ *Most Relevant for Canberra*\n**Website:** frontrowtech.com.au/copilot-canberra\n\nThis is the standout Canberra-focused option. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Frontrow Technology is a Microsoft partner delivering Copilot readiness and deployment for Canberra organisations, including government-adjacent tenants operating under IRAP-relevant controls and ACSC cloud security guidance.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Canberra — government, IRAP, M365 deployment",
+                  "url": "https://frontrowtech.com.au/copilot-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir structured approach includes:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A government-aware readiness assessment covering identity posture, SharePoint permissions, and Microsoft Purview label coverage mapped against OFFICIAL: Sensitive and PROTECTED classification, with Conditional Access policies reviewed — delivered as a two-week fixed-scope engagement.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Canberra — government, IRAP, M365 deployment",
+                  "url": "https://frontrowtech.com.au/copilot-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Copilot Studio agents built for Canberra use cases — policy retrieval, procurement workflows, briefing automation — with appropriate data access controls and classification-aware retrieval.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Canberra — government, IRAP, M365 deployment",
+                  "url": "https://frontrowtech.com.au/copilot-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir team includes notable credentials: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "an AI lead with 5× Microsoft MVP recognition, and a Microsoft Certified Agentic AI Business Solutions Architect leading Copilot and Copilot Studio work nationally.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Consultant Canberra — government, IRAP, M365 deployment",
+                  "url": "https://frontrowtech.com.au/copilot-canberra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🇦🇺 Australia-Wide Firms Serving Mid-Market (Including Canberra)\n\n### 2. **Office Experts** *(Canberra ACT listed as a service area)*\n**Website:** officeexperts.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Office Experts explicitly lists Canberra, ACT as a service area and builds custom AI agents that read, research, decide, and act across your systems — running the same process the same way every time, without anyone typing a prompt.",
+              "annotations": [
+                {
+                  "title": "Custom AI Agent Development Australia",
+                  "url": "https://www.officeexperts.com.au/services/ai-agent-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of developers have been building on Microsoft since 2000.",
+              "annotations": [
+                {
+                  "title": "Custom AI Agent Development Australia",
+                  "url": "https://www.officeexperts.com.au/services/ai-agent-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are notable for offering both Microsoft-native and non-Microsoft agent options, so recommendations are process-driven rather than product-driven.\n\n---\n\n### 3. **IOTAI (iotai.com.au)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "IOTAI Pty Ltd describes itself as Australia's leading AI & automation consulting firm and Managed Intelligence Provider (MIP), specialising in Retool, n8n, AI agents, and Microsoft Copilot for small-medium enterprises.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Services - AI Agents for Business",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their expertise spans ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Microsoft Copilot Studio, AI agents, business process automation, RAG pipelines, and integration consulting.",
+              "annotations": [
+                {
+                  "title": "Microsoft Copilot Services - AI Agents for Business",
+                  "url": "https://www.iotai.com.au/services/microsoft-copilot",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Affinity MSP / Copilot Solutions (copilotsolutions.com.au)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Affinity MSP claims to be Australia's leading Microsoft Copilot Studio partner, with 200+ deployments across IT, Finance, HR, and Customer Service.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "production-grade AI agents for critical workflows — designed, integrated, tested, and live in weeks — including multi-agent Copilot Studio architecture and CRM, ERP & ITSM integrations.",
+              "annotations": [
+                {
+                  "title": "AI Agents & Copilot Studio Consulting",
+                  "url": "https://copilotsolutions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **IT Company (itcompany.com.au)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "IT Company helps Australian businesses design and deploy secure, enterprise-ready AI agents using Microsoft Copilot Studio and ChatGPT, with agents that automate high-value workflows and keep data HIPAA, ISO27001, and DLP compliant.",
+              "annotations": [
+                {
+                  "title": "AI Agents in Copilot Studio",
+                  "url": "https://www.itcompany.com.au/ai-agent/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Considerations for Mid-Market Businesses\n\n| Firm | Canberra Focus | Copilot Studio | AI Agents | Mid-Market Fit |\n|---|---|---|---|---|\n| **Frontrow Technology** | ✅ Canberra-specific | ✅ | ✅ | ✅ |\n| **Office Experts** | ✅ ACT listed | ✅ | ✅ | ✅ |\n| **IOTAI** | 🇦🇺 National | ✅ | ✅ | ✅ SME/Mid |\n| **Affinity MSP** | 🇦🇺 National | ✅ | ✅ | ✅ Enterprise+ |\n| **IT Company** | 🇦🇺 National | ✅ | ✅ | ✅ |\n\n---\n\n**My top recommendation** for a mid-market Canberra business would be to start with **Frontrow Technology**, given their explicit Canberra focus, Microsoft MVP-led team, and structured Copilot Studio agent delivery. **Office Experts** is a strong second option if you want a firm with a longer Microsoft build history and broader AI agent flexibility. For a broader competitive comparison or if you need a larger delivery team, **Affinity MSP** or **IOTAI** are worth a conversation.\n\nWould you like help preparing questions to ask these consultants, or narrowing down based on your specific industry or use case?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "AI automation consultants Canberra Microsoft Copilot Studio AI agents mid-market",
+        "Canberra AI workflow automation consultants small medium business 2024 2025"
+      ]
+    }
+  ]
+}

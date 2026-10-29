@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "copilot_ai",
+  "plat": "perplexity",
+  "text": "Which AI automation consultants in Sydney specialise in Microsoft Copilot Studio, AI agents, and practical AI workflow automation for mid-market businesses?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__copilot_ai__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:22.376Z",
+  "cost": 0.00629,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 656,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00569,
+      "datetime": "2026-10-29 04:03:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Sydney mid-market business seeking **Microsoft Copilot Studio, AI agents, and practical workflow automation**, the strongest apparent matches are:\n\n| Consultant | Why consider them | Best fit |\n|---|---|---|\n| **365 Digital Consulting** | Sydney-based Microsoft 365 and Copilot consultancy specialising in Copilot Studio, Azure AI, Power Platform, workflow automation, and business systems integration.[1] | SMEs and growing organisations already using Microsoft 365, especially professional services, construction, education and not-for-profits |\n| **CG TECH** | Works with Sydney businesses of roughly 50–500 staff, combining Microsoft 365, Copilot, Power Platform, custom AI agents, governance and process automation.[2] | Mid-market companies wanting practical automation rather than experimental AI projects |\n| **Eagle360 Consulting** | Sydney-based Microsoft Solutions Partner building production Power Apps, Power Automate and Copilot Studio agents, including Business Central integrations through custom MCP servers.[7] | Microsoft-heavy organisations using Dynamics 365 Business Central |\n| **Team 400** | Focuses on mid-market companies with 50–500 employees and offers Microsoft AI consulting, Copilot Studio agents, custom AI agents and workflow automation.[5][9] | Businesses needing custom software engineering alongside AI implementation |\n| **Synenza** | Designs Copilot Studio, Microsoft 365 Copilot, Dynamics 365 and Azure AI agents connected to business data, Power Automate, Dataverse and Power Apps.[6] | Organisations needing secure, integrated internal, customer-service or operational agents |\n| **Workforce Agents** | Combines Copilot Studio and Azure AI Foundry with Power Platform, n8n, Zapier, Make and other workflow tools, selecting the stack around the business problem.[3] | Businesses wanting vendor-neutral workflow automation across multiple platforms |\n| **AI First Partners** | Sydney-based consultancy offering AI readiness, Copilot Studio, Azure Foundry, custom agents, integrations and practical automation for industries including construction, healthcare, manufacturing and professional services.[8] | SMB and mid-market teams seeking hands-on adoption, training and measurable workflow improvements |\n| **TACMinds** | Implements Microsoft Copilot, Azure OpenAI, Copilot Studio, Power Automate, Logic Apps and AI Builder, with an emphasis on production deployment and agent architecture.[10] | Larger or more technically complex organisations requiring enterprise-grade controls |\n\n### Shortlist by likely need\n\n- **Best overall Microsoft 365/Copilot fit:** 365 Digital Consulting or CG TECH.\n- **Best for Business Central:** Eagle360 Consulting.\n- **Best for custom engineering and 50–500 employee businesses:** Team 400.\n- **Best for secure enterprise agents and Dynamics integration:** Synenza.\n- **Best for mixed-tool, vendor-neutral automation:** Workforce Agents.\n- **Best for practical adoption and training:** AI First Partners.\n- **Best for complex Azure-based implementations:** TACMinds.\n\nWhen comparing proposals, ask each firm to show a comparable production deployment, explain how agents will access and update business data, identify human approval points, and provide governance, monitoring, security and handover—not just a chatbot demonstration.",
+              "annotations": [
+                {
+                  "title": "365 Digital Consulting",
+                  "url": "https://aidirectory.industry.gov.au/organisation/365-digital-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Agents and Automation for Sydney Businesses - CG TECH",
+                  "url": "https://cgtech.com.au/locations/sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI & Automation Consultants Sydney - Workforce Agents",
+                  "url": "https://workforceagents.io/ai-automation",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best AI Consultants and AI Automation Agencies in Australia (2026)",
+                  "url": "https://clevermerchants.com/blog/best-ai-consultants-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AINow™ Agents | Strategy, Platform & Agent in 14 Days - Team 400",
+                  "url": "https://team400.ai/business-ai/agentic-automations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Copilot Consulting — Synenza",
+                  "url": "https://www.synenza.com.au/services/copilot-ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform & Copilot",
+                  "url": "https://eagle360.consulting/power-platform-copilot/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI First Partners | Home",
+                  "url": "https://aifirstpartners.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Consultants | Sydney Brisbane Melbourne | AI Agency, .NET, React | Team 400",
+                  "url": "https://team400.ai/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Automation & Microsoft Copilot in Australia & NZ | TACMinds",
+                  "url": "https://tacminds.com/au/ai-automation/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

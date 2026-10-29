@@ -1,0 +1,308 @@
+{
+  "slug": "hobart",
+  "pk": "workflow_automation",
+  "plat": "claude",
+  "text": "Which consultancies in Hobart are best for business workflow automation and Microsoft Power Automate implementation?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__workflow_automation__claude.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:30.043Z",
+  "cost": 0.064498,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10076,
+      "output_tokens": 1578,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063898,
+      "datetime": "2026-10-29 04:11:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here's a roundup of consultancies and specialists in and around Hobart that are well-regarded for business workflow automation and related services. While dedicated Microsoft Power Automate-specific results were limited, many of these firms work across leading automation platforms and tools:\n\n---\n\n## 🏆 Best Consultancies for Business Workflow Automation in Hobart, Tasmania\n\n---\n\n### 1. **Zenias**\n🌐 [zenias.com.au](https://www.zenias.com.au/ai-consulting/hobart)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Zenias positions itself as Hobart's leading AI consulting company, offering workflow assessments, deployed automations, and strategic roadmaps for Tasmanian businesses.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Hobart",
+                  "url": "https://www.zenias.com.au/ai-consulting/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their engagement follows four phases: discovery and stakeholder interviews, capability assessment and workflow mapping, quick-win automation deployment, and strategic roadmap delivery.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Hobart",
+                  "url": "https://www.zenias.com.au/ai-consulting/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Deliverables include a Readiness Assessment Report with maturity scoring, workflow process maps, an Automation Opportunity Register, deployed automations, a 12–18 month strategic roadmap, and an ROI Calculator.",
+              "annotations": [
+                {
+                  "title": "AI Consulting Hobart",
+                  "url": "https://www.zenias.com.au/ai-consulting/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Waypoint AI**\n🌐 [waypointai.com.au](https://waypointai.com.au/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Waypoint AI is an AI workflow consultancy based in Hobart, Tasmania. They audit how your team spends its time, find where the hours are going, and build the systems that get them back — serving real estate, agencies, and professional services.",
+              "annotations": [
+                {
+                  "title": "Waypoint AI — AI Workflow Consultancy",
+                  "url": "https://waypointai.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **SG1 Consulting**\n🌐 [sg1consulting.com.au](https://sg1consulting.com.au/service-areas/hobart)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SG1 Consulting serves Greater Hobart and focuses on AI automation — particularly for Hobart's economy spanning tourism, government, and Antarctic logistics — supporting document workflows, permits, and customer communications inside current tools.",
+              "annotations": [
+                {
+                  "title": "Hobart AI Services & Coverage",
+                  "url": "https://sg1consulting.com.au/service-areas/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their approach involves identifying safe-to-automate steps, adding human oversight and approvals, and proving the solution in a 30–60-day pilot.",
+              "annotations": [
+                {
+                  "title": "Hobart AI Services & Coverage",
+                  "url": "https://sg1consulting.com.au/service-areas/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Flowtivity**\n🌐 [flowtivity.ai](https://flowtivity.ai/ai-consultant/hobart/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Flowtivity provides AI automation, workflow design, and custom AI agents for Hobart businesses, serving tourism, research, healthcare, and more in Hobart, Tasmania.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Hobart",
+                  "url": "https://flowtivity.ai/ai-consultant/hobart/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also offer AI education and training to transform teams into AI-native employees with practical workshops on prompt engineering, AI tools, and workflow thinking.",
+              "annotations": [
+                {
+                  "title": "AI Consultant Hobart",
+                  "url": "https://flowtivity.ai/ai-consultant/hobart/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Solve8**\n🌐 [solve8.com.au](https://solve8.com.au/locations/hobart/)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Solve8 is an AI consultancy for Hobart and Tasmania, with AI solutions designed for Tasmania's unique industries — from salmon farming operations to Antarctic research, tourism operators to healthcare providers.",
+              "annotations": [
+                {
+                  "title": "AI Consultancy Hobart",
+                  "url": "https://solve8.com.au/locations/hobart/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are Australian-owned, with data staying onshore.",
+              "annotations": [
+                {
+                  "title": "AI Consultancy Hobart",
+                  "url": "https://solve8.com.au/locations/hobart/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **AI Pivot**\n🌐 [aipivot.com.au](https://aipivot.com.au/ai-automation-hobart)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AI Pivot sees Hobart and Tasmania as one of Australia's biggest first-mover opportunities in AI automation, with AI adoption among Tasmanian businesses still early — meaning businesses that move now can lock in search rankings, automated operations, and customer experience advantages before competitors catch up.",
+              "annotations": [
+                {
+                  "title": "AI Automation Agency Hobart",
+                  "url": "https://aipivot.com.au/ai-automation-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They claim to deliver the same AI automation capabilities as mainland agencies at 40–60% lower cost.",
+              "annotations": [
+                {
+                  "title": "AI Automation Agency Hobart",
+                  "url": "https://aipivot.com.au/ai-automation-hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **RightLink.io**\n🌐 [rightlink.io](https://rightlink.io/hobart)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "RightLink.io builds automation systems that integrate into the tools businesses already use, without asking Hobart businesses to change their software stack — connecting to platforms like ServiceM8, HotDoc, Cliniko, Xero, MYOB, ResDiary, and Lightspeed.",
+              "annotations": [
+                {
+                  "title": "AI Automation for Small Business Hobart",
+                  "url": "https://rightlink.io/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a free consultation to identify your highest-value automation opportunities.",
+              "annotations": [
+                {
+                  "title": "AI Automation for Small Business Hobart",
+                  "url": "https://rightlink.io/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Ian Bensley** *(Independent Consultant)*\n🌐 [ianbensley.com](https://ianbensley.com/locations/hobart)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ian Bensley is an AI, automation, and marketing consultant serving Hobart and Tasmania remotely, building automation shaped for Tasmania's economy — including tourism and hospitality guest journeys, aquaculture and agrifood — with a focus on lead capture and workflow automation.",
+              "annotations": [
+                {
+                  "title": "AI & Automation Consultant Hobart & Tasmania",
+                  "url": "https://ianbensley.com/locations/hobart",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Partner for Microsoft Power Automate\n\nSince **Microsoft Power Automate** is a specific platform within the Microsoft 365 ecosystem, here's what to look for when shortlisting:\n\n- ✅ Ask whether they have **Microsoft-certified consultants** or a **Microsoft Partner** accreditation\n- ✅ Check if they have experience integrating Power Automate with tools like **SharePoint, Teams, Dynamics 365, or Dataverse**\n- ✅ Request **case studies** from businesses of similar size or industry\n- ✅ Confirm they offer **post-implementation training and support**\n\nIt's worth contacting a few of the above firms directly to confirm their specific experience with the Microsoft Power Platform, as several appear to work across multiple automation tools and platforms.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "business workflow automation consultancy Hobart Tasmania",
+        "Microsoft Power Automate implementation consultants Hobart Tasmania"
+      ]
+    }
+  ]
+}

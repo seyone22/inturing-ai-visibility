@@ -1,0 +1,247 @@
+{
+  "slug": "sydney",
+  "pk": "power_bi_fabric",
+  "plat": "gemini",
+  "text": "Who are the top Microsoft Power BI and Microsoft Fabric analytics consultants in Sydney for operational reporting and data warehousing?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__power_bi_fabric__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:43.780Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When choosing a Microsoft Power BI and Microsoft Fabric analytics consultancy in Sydney for operational reporting and data warehousing, the ideal partner depends on project scale, internal capability, and timeline. \n\nLeading consulting firms in Sydney with proven track records in the Microsoft Data & AI ecosystem fall into three distinct tiers:\n\n---\n\n### 1. Specialist & Boutique Consultancies (Fast, High-Touch, Deep Fabric Focus)\n\n* **Agile Analytics**\n  * **Focus:** Deeply specialized in Microsoft Power BI, Azure Data Platform, and Microsoft Fabric. \n  * **Strengths:** Widely regarded in Sydney as pure-play Power BI and data warehouse specialists. They excel at taking complex operational data sources (ERP, CRM, operational databases), transforming them into modern lakehouse/warehouse models, and building clean, high-performance operational reporting with strict row-level security (RLS).\n  * **Best For:** Mid-market to enterprise companies looking for specialized, agile delivery of BI semantic models and Fabric architecture.\n\n* **Antares Solutions**\n  * **Focus:** Cloud data platforms, Microsoft Fabric modern data warehousing, and enterprise Power BI reporting.\n  * **Strengths:** Antares holds Microsoft Solutions Partner status with Analytics Specialization. They bridge operational business reporting with technical architecture—particularly helping clients design Fabric OneLake architectures, pipeline automation (Data Factory), and executive/operational dashboards.\n  * **Best For:** Businesses needing structured end-to-end data warehouse modernization from SQL/legacy databases into Fabric.\n\n* **EdgeRed**\n  * **Focus:** Modern data engineering, Microsoft Fabric implementations, and actionable operational reporting.\n  * **Strengths:** EdgeRed specializes in greenfield Fabric deployments using the Medallion architecture (Bronze/Silver/Gold layers) and migrations from Azure Synapse or legacy SQL. They place heavy emphasis on practical user adoption, CI/CD pipeline automation, and ensuring reporting data reconciles cleanly with source systems.\n  * **Best For:** Organizations already on the Microsoft 365/Azure stack seeking a pragmatic team to stand up a reliable Fabric warehouse.\n\n---\n\n### 2. National Tech Consultancies & Microsoft Tier-1 Partners\n\n* **Arinco**\n  * **Focus:** Cloud, AI, and modern data platforms across Australia with a strong Sydney practice.\n  * **Strengths:** A multi-award-winning Microsoft partner with extensive expertise in complex cloud architectures. They have rapidly adopted Microsoft Fabric for enterprise data mesh, Lakehouse, and Data Warehouse implementations, combining data governance (Microsoft Purview) with automated operational dashboards.\n  * **Best For:** Mid-to-large enterprises seeking modern engineering standards, robust DevOps, and strong data governance.\n\n* **Barhead Solutions**\n  * **Focus:** End-to-end Microsoft ecosystem integration (Power Platform, Dynamics 365, Fabric, and Power BI).\n  * **Strengths:** If operational reporting is tightly coupled with ERP (Dynamics 365 Finance & Operations / Business Central) or operational workflows built on the Power Platform, Barhead is a natural fit. They understand operational business processes well and build analytics directly into everyday operational flows.\n  * **Best For:** Organizations running their core operations on Dynamics 365 or Power Apps needing embedded reporting and operational insights.\n\n* **Data#3**\n  * **Focus:** Enterprise IT infrastructure, cloud solutions, and business analytics.\n  * **Strengths:** One of Australia’s largest and most certified Microsoft partners. They have dedicated data and analytics practices that handle high-volume data warehousing, licensing optimization (Fabric Capacity F-SKUs), and migration of legacy data marts to modern cloud warehouses.\n  * **Best For:** Large public sector, education, or corporate enterprises requiring end-to-end licensing, procurement, and implementation support.\n\n---\n\n### 3. Global & Enterprise Integrators\n\n* **Avanade Australia (Sydney)**\n  * **Focus:** Global leader in Microsoft solutions (joint venture between Accenture and Microsoft).\n  * **Strengths:** Global Microsoft Fabric Featured Partner. If operational reporting requires multi-country scale, high compliance (e.g., APRA CPS 234 in banking/insurance), and large multi-team delivery, Avanade has the deepest bench of Microsoft-certified data engineers and BI specialists.\n  * **Best For:** Tier-1 enterprises, large financial services, and complex multi-national environments.\n\n* **Slalom (Sydney)**\n  * **Focus:** Modern cloud data architecture, strategy, and business intelligence.\n  * **Strengths:** Slalom combines strategic management consulting with deep hands-on technical execution. Their Sydney team frequently designs Fabric Lakehouse patterns and optimizes Power BI Direct Lake performance to minimize reporting latency.\n  * **Best For:** Enterprises wanting both data governance/operating model redesign alongside technical data platform engineering.\n\n---\n\n### Key Questions to Ask When Selecting Your Partner:\n\n1. **Direct Lake vs. Import Mode:** Operational reporting often demands low latency. Ask candidates how they design around Microsoft Fabric's **Direct Lake mode** vs. traditional Import mode (and how they handle fallback thresholds and DAX performance).\n2. **Fabric Capacity Sizing (F-SKUs):** Microsoft Fabric’s capacity model can cause throttling if operational pipelines and peak reporting periods compete for compute. Verify how the consultant plans to manage capacity smoothing and scaling.\n3. **Medallion & Modeling Standards:** Ensure they specialize in dimensional modeling (Kimball) inside the Gold layer, as poor star-schema modeling will bottleneck Power BI performance regardless of how powerful the underlying warehouse is.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Fabric+partners+Sydney+Australia+data+warehouse+Power+BI&client=app-vertex-grounding&safesearch=active\">Microsoft Fabric partners Sydney Australia data warehouse Power BI</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+Power+BI+consulting+firms+Sydney+modern+data+warehouse+Fabric&client=app-vertex-grounding&safesearch=active\">top Power BI consulting firms Sydney modern data warehouse Fabric</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENHHnpy_eBK0iJQYbtDRAiSgJ5w2hYOcErc8GQthKX33F3vIBGoi68tVUGtHvnYKZJAgdfib7lNPCig9izDV7X05cpKLs-pHBGojhMz3Q7ARaShmnYydCcK5rMypkTVB8uEya_cc1bJbSN0snmXljaeg==",
+                "title": "ensun.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtq6RHX726QdnMKuARfzWJa3FAtWQAWObA5Rqb-31tdlahqXHIsZ-yoKeCr2owoL-446aFpRkJnql6RW6LK6nXL95S5-nyC0T33JjPemU0sZeghtBdPV5XFQwu4lxttmLnIR1mPwfeScaTdYmR4lM4EIxsiHk=",
+                "title": "edgered.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyRvGWW-EY7omuC7bv6emjr45WuF0SlWd3Y9-42MslHL74UGwypDCz9O16AlmVnPeqZguMNCHg-EgnSjTEzcZQWY4AUVYPiJgEbhf5RYDQOueIczMGH2FNSol2FOpSpse9Ln9wW3y8yjqsyNpSQRhs1-NuNzCG1D86eFnbiugDwttg4bipCw4EUhCKvH36Q_Y=",
+                "title": "antares.solutions"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfAZZQf4r2dXu-H29Rahbj2KHaoOPLiyvAABpQSFqD-at_sPcZLkcXuKxLbO7b_6mPQ8KKdnQxC7sUD2zDYFkyYGeXOX46_zRVzKdkn9gL_FFTnHc0Xzw2_4LVZmCFnGujJ2DV7s=",
+                "title": "agerbi.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb1H5NBvK1939q-Q-0QQbJ__gCgo9eZiaOTe3URjgq4HJCcSArpoqxqcNfamskbu-KrrUw3kPGBn6P3TLjWidOsmw-0Dl7RBALUaLhK_4nPbafUiTqlFO041bDTQ5GLudY_qa6C3EfR8fq0bV9Ypg508vEast2THFdx7HUSGgi5ah1pGXP2svL4H9HQcCwMp5T8O5bT6NIkg==",
+                "title": "a1t.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCPpA1Tq3jWYcRK1EEuHhaiHmw0MQUc9tZT_T7thWbh7DnVwgFEacc0AFQxh1iVhc4hJI83e7HcpoAcPtIB6CGnw-GoOxiTrmdZ-10vBNeMSI-c4C5p8e5mMzJa1DM_bXd1UGoDyZs1A==",
+                "title": "agerbi.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 437,
+                "endIndex": 456,
+                "text": "**Agile Analytics**"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 461,
+                "endIndex": 555,
+                "text": "**Focus:** Deeply specialized in Microsoft Power BI, Azure Data Platform, and Microsoft Fabric"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 562,
+                "endIndex": 655,
+                "text": "**Strengths:** Widely regarded in Sydney as pure-play Power BI and data warehouse specialists"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 657,
+                "endIndex": 899,
+                "text": "They excel at taking complex operational data sources (ERP, CRM, operational databases), transforming them into modern lakehouse/warehouse models, and building clean, high-performance operational reporting with strict row-level security (RLS)"
+              },
+              "groundingChunkIndices": [
+                1,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1044,
+                "endIndex": 1065,
+                "text": "**Antares Solutions**"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1070,
+                "endIndex": 1178,
+                "text": "**Focus:** Cloud data platforms, Microsoft Fabric modern data warehousing, and enterprise Power BI reporting"
+              },
+              "groundingChunkIndices": [
+                3,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1184,
+                "endIndex": 1277,
+                "text": "**Strengths:** Antares holds Microsoft Solutions Partner status with Analytics Specialization"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1279,
+                "endIndex": 1490,
+                "text": "They bridge operational business reporting with technical architecture—particularly helping clients design Fabric OneLake architectures, pipeline automation (Data Factory), and executive/operational dashboards"
+              },
+              "groundingChunkIndices": [
+                4,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1496,
+                "endIndex": 1617,
+                "text": "**Best For:** Businesses needing structured end-to-end data warehouse modernization from SQL/legacy databases into Fabric"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1622,
+                "endIndex": 1633,
+                "text": "**EdgeRed**"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1638,
+                "endIndex": 1744,
+                "text": "**Focus:** Modern data engineering, Microsoft Fabric implementations, and actionable operational reporting"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1750,
+                "endIndex": 1926,
+                "text": "**Strengths:** EdgeRed specializes in greenfield Fabric deployments using the Medallion architecture (Bronze/Silver/Gold layers) and migrations from Azure Synapse or legacy SQL"
+              },
+              "groundingChunkIndices": [
+                1,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1928,
+                "endIndex": 2075,
+                "text": "They place heavy emphasis on practical user adoption, CI/CD pipeline automation, and ensuring reporting data reconciles cleanly with source systems"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2081,
+                "endIndex": 2214,
+                "text": "**Best For:** Organizations already on the Microsoft 365/Azure stack seeking a pragmatic team to stand up a reliable Fabric warehouse"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5608,
+                "endIndex": 5844,
+                "text": "**Medallion & Modeling Standards:** Ensure they specialize in dimensional modeling (Kimball) inside the Gold layer, as poor star-schema modeling will bottleneck Power BI performance regardless of how powerful the underlying warehouse is"
+              },
+              "groundingChunkIndices": [
+                5
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "Microsoft Fabric partners Sydney Australia data warehouse Power BI",
+            "top Power BI consulting firms Sydney modern data warehouse Fabric"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 571,
+      "candidatesTokenCount": 1293,
+      "totalTokenCount": 3136,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 571
+        }
+      ],
+      "thoughtsTokenCount": 1272,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "f8Xiasy0CuGr694P77Wp4Qk"
+  }
+}

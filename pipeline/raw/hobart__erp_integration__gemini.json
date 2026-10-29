@@ -1,0 +1,376 @@
+{
+  "slug": "hobart",
+  "pk": "erp_integration",
+  "plat": "gemini",
+  "text": "Which system integration specialists in Hobart are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000480,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\hobart__erp_integration__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:11:53.246Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When connecting multi-tier enterprise systems—such as **MYOB Acumatica** (formerly MYOB Advanced), **SAP**, **CRM platforms** (Salesforce, Dynamics 365, or HubSpot), and **Microsoft 365**—you will generally look at a combination of Hobart-based enterprise IT integrators and accredited national ERP partners with dedicated Tasmanian footprints.\n\nThe most capable specialists serving the Hobart and broader Tasmanian market fall into several key categories:\n\n---\n\n### 1. Hobart-Based Enterprise Systems & Microsoft Integrators\n\n* **Intuit Technologies**\n  * **Headquarters:** Hobart (with statewide and national presence).\n  * **Core Strengths:** As one of Tasmania’s largest ICT and managed solutions firms, Intuit specializes heavily in the **Microsoft ecosystem** (Microsoft 365, Azure, Power Platform, Dynamics 365 CRM/ERP).\n  * **Best For:** Acting as the primary integration partner connecting core productivity, identity, and CRM systems (Microsoft 365 / Dynamics) into backend ERPs via Azure Integration Services and custom APIs.\n* **Datacom (Hobart Office)**\n  * **Footprint:** Major office and delivery teams in Hobart.\n  * **Core Strengths:** Datacom is a top-tier enterprise systems integrator across Australia and New Zealand. They hold deep enterprise accreditations in both **SAP** (including S/4HANA migrations and integration) and **Microsoft** (M365, Power Platform, Azure).\n  * **Best For:** High-complexity enterprise architectures, legacy ERP-to-cloud integrations, and large-scale SAP implementations needing to communicate with mid-market tools and Microsoft 365.\n* **Tempus Innovative Solutions**\n  * **Footprint:** Offices in Hobart and Melbourne.\n  * **Core Strengths:** Focuses specifically on mid-tier system integrations, custom workflows, and automation linking CRM, ERP, finance systems, and Microsoft 365/SharePoint for mid-market and association clients.\n\n---\n\n### 2. MYOB Acumatica Specialists Operating in Tasmania\n\nBecause MYOB Acumatica is delivered strictly through authorized partner channels, engaging a certified enterprise partner is required to orchestrate endpoints and REST APIs for the platform:\n\n* **BusinessHub**\n  * **Footprint:** Direct operational presence and client base in Hobart/Tasmania.\n  * **Core Strengths:** Award-winning **Platinum MYOB Acumatica Partner**. They specialize in mid-market manufacturing, wholesale distribution, and multi-entity configurations. They have deep experience integrating Acumatica’s open APIs with third-party CRMs and Microsoft environments.\n* **Stratus Consulting Group / Kilimanjaro Consulting**\n  * **Footprint:** National Diamond Partners with extensive Tasmanian project histories (e.g., Stratus implemented MYOB Acumatica for St John Ambulance Tasmania).\n  * **Core Strengths:** The largest dedicated MYOB enterprise implementers in ANZ. They specialize in complex workflows, add-ons, and integrating Acumatica with specialized operational tools, external CRMs, and finance workflows.\n\n---\n\n### 3. Cross-ERP Specialists (SAP + MYOB Acumatica)\n\n* **Leverage Technologies**\n  * **Reach:** Delivers across Tasmania and regional Australia.\n  * **Core Strengths:** Uniquely accredited in **both SAP (SAP Business One) and MYOB Acumatica**, alongside Sage.\n  * **Best For:** Situations where you run a hybrid environment (e.g., a corporate parent on SAP and a regional branch on MYOB Acumatica, or transitioning from one to the other) and need unified data consolidation, custom middleware, and CRM sync.\n\n---\n\n### Recommended Selection Framework\n\n1. **If the project is centered around Microsoft 365, Azure, and CRM workflows:**\n   * Engage **Intuit Technologies** or **Datacom** to architect the middleware (using **Azure Logic Apps** or **Power Automate**) and manage data flow between your CRM and back-office apps.\n2. **If the primary challenge is MYOB Acumatica configuration and API connectivity:**\n   * Engage a dedicated Acumatica partner like **BusinessHub** (local Tasmanian focus) or **Stratus Group** to build the bidirectional sync pipelines and handle data schemas.\n3. **If connecting SAP to mid-tier applications:**\n   * Work with **Datacom** or **Leverage Technologies**, as SAP's integration layer (SAP BTP or Business One Service Layer) requires specialized certified knowledge.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Datacom%22+Hobart+Tasmania+SAP+Microsoft+365&client=app-vertex-grounding&safesearch=active\">&quot;Datacom&quot; Hobart Tasmania SAP Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=MYOB+Acumatica+partners+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">MYOB Acumatica partners Hobart Tasmania</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=system+integrators+Hobart+ERP+MYOB+Acumatica+SAP+Microsoft+365&client=app-vertex-grounding&safesearch=active\">system integrators Hobart ERP MYOB Acumatica SAP Microsoft 365</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Intuit+Technologies%22+Hobart+ERP+integration+CRM&client=app-vertex-grounding&safesearch=active\">&quot;Intuit Technologies&quot; Hobart ERP integration CRM</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=ERP+integration+specialists+Hobart+Tasmania&client=app-vertex-grounding&safesearch=active\">ERP integration specialists Hobart Tasmania</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA84EKvhbWPxc8X5ZmOeDDrLkyouq28iKPqywWvrOTVRAti3VWPOoQ6tZjfcOVH8H41p7GfDN6ADTdPD6tJFKvADW-rHT6CUq6rprOdBkXWWSu_hLI3o04ENIDweJ-gdXxpqO6nNMVfjTZJA==",
+                "title": "businesshub.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCVCHazEIxv8H4m0Ty11PwM9QAFPGqXyNmQ7UB3l6WOI7bnZw1Ix6oh__sAQRtjCxhfEf_TT4Ydz9HxuZGZi6DGAUhAPHfOtpPeVZ4kkPQVd5BhwHPzqhqSg-ZoLXXzXJ4OJgnZw==",
+                "title": "myob.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBU36SzsNc6-2R2_ZTAMwzq5-ed7lviTsnFomvFxHX7CzlE9TTlAI6cQmJ6FfuiZYyId1egXOlaTz6fI6FO9KJvfnsFDJ_Dd4mJIfS50ZXgguYU7LliPRRkZ9FxZP66rdywx4rj9kqD8VPrGoK-SDfghYrAAfUrWfLZkgbH0YyVdX2JCu5u4DA9GyIzrEjf5lh2nv4LBLXGsL_",
+                "title": "acumatica.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdNkBFlweHPa7Tu0Rymih1HL--wc3suICYMwugFkmr0-4fflZXAVXTBHjA8GiUwTp_XlUi_ALGv76UGI5-zpMzVv1q-fYGomvRdzV38Nhc8OvFUzqQYna6kpbWRm0VAoCiULjPQHV7qiVXOAwXsQ==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdNkBFlweHPa7Tu0Rymih1HL--wc3suICYMwugFkmr0-4fflZXAVXTBHjA8GiUwTp_XlUi_ALGv76UGI5-zpMzVv1q-fYGomvRdzV38Nhc8OvFUzqQYna6kpbWRm0VAoCiULjPQHV7qiVXOAwXsQ==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdNkBFlweHPa7Tu0Rymih1HL--wc3suICYMwugFkmr0-4fflZXAVXTBHjA8GiUwTp_XlUi_ALGv76UGI5-zpMzVv1q-fYGomvRdzV38Nhc8OvFUzqQYna6kpbWRm0VAoCiULjPQHV7qiVXOAwXsQ==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdNkBFlweHPa7Tu0Rymih1HL--wc3suICYMwugFkmr0-4fflZXAVXTBHjA8GiUwTp_XlUi_ALGv76UGI5-zpMzVv1q-fYGomvRdzV38Nhc8OvFUzqQYna6kpbWRm0VAoCiULjPQHV7qiVXOAwXsQ==",
+                "title": "itechnologies.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTTpY84ChRM9mWT5eKzfDdBiN9XqA_sTvcu8FHwBxazYWcbS81n5Q4j-PnvOaAiVCdlkjeTdXnyPxVMBQ_iD0MiCOjvJm4EMpIew4bDW1KJ3Y9g4kfrc3DM9k6mkStFP9qXLzqfnI2ctTxJVEdcnVotPGa4B_Fw==",
+                "title": "seek.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErpybqyk6hvDju-IEZmfzOcg2nu4auwHba2bfcgPWr5M0H-IFY-oqDgawb1a35J0R3WtNrausDDENcCPJIjFBmiHSq_ytGJsbyLa4KJ6b45ub1cYvG1TgijxZ9DDX-_MsfXDn2AEpk-xlwzkZEEJPm-82VU_F56Eztj0O5",
+                "title": "indeed.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQc0j2hNU4O9sE4pOeHkBzCRhk49Ol60nCye31rFsNyNmOnpEHV_agJfWe8vxjTIEynez6pAp8QG-iMf8f04h2TkM6brNhQV35E8OuKHG2ovyL7EOcg3hE-p7twb-eB6ggs7HYskEMhfZWti1YcgOgIg==",
+                "title": "indeed.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmGuhiFKOrKcsFmZsYdSPwd5PYw3lWUXTP-Z-yBDb26G4Owd3DUDV4mKwtDuUhaNuVwkAZdWWBca56YrLcN_9D3VsUwcsy_oJNsL0qoLuArVpdQXhdc0eSoA1DOah_2TNLKsnY1gN_jmg=",
+                "title": "tempusis.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW4avbEmhKBFUmI1m2dvC1VQNkoxtxT_S5rcMCpW-OhFdcwHvXEJYnnApKgFXjcV61c9K2FC9pFUUpXZhfgJyMAzVl3Sx6Cpt4bQBQJM935nM1C_48AlH1auImuRco1gUeMI4LePCuMjOtrqD29hGmAkbWbC8QMZ_QFuQEANnO-69YQU0Z8I2HnHuVZtgr83Lv-3Jw4gqFOxFK9S6Md6GyE0MORIB9sMvJq4r7AFc8G4Bg_3QOGZZBigkLoHZQtKFeqg==",
+                "title": "auboros.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa6Gp2AKGKEGUE5O0ZHIVpLm73PkvlP4JbvK5JZR5hC-OH6NYRLQX-AHiOhhfDy3EYxFz2NdqXApbXs_AHpP0TvvELCKr65vsAxr6r4rDSMNiaXGwp9J7MJnoVWXMbzV_6Jwrpm3b6YY9pTFFH1YNDNyI4_SARxuoSA2cugASo",
+                "title": "acclaimgroup.co.nz"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPeoPAgRP76Oaukh1jCobhpy134LxOxeYOp4gSiK76x0dnwWm-g8zSYVn4o4mh9V0qCnDyXtLtZbM0WjdYAQskh3qKCubbRaKAKUeLkBp_iCaIbL68_rOHwMyEQ1h4epWCFdwJM24bIxLa9kC73wmxNCR-rh6AVQ==",
+                "title": "momentumsoftwaresolutions.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwms8blYWEASLrV7K53BMErZUOUgIZkPTpAtaNRS4LF1j1ttaS_e1JtkWbzIcsWS5lzVx0ltrEUGjJSOI7z6WFWBa0Z3IahBOJX5F2Zd-vEVk_gVKooqlXLS2lGfoj9BoElWWpY5szwevgVZZS93c_SGelPeHuDYeXz3rg_CRcMnLbkcq40jDMjQ==",
+                "title": "businesshub.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUhDSrSNcerBaf4px6fS-LTw2iU9mJj1WKrH-ReoB5RMY41PhXW8-RQF4XMZxwKUdrRPfS-TZSy8kkgc7d8SMYTGNFOWzlnug0CQauOl6-vnjtXRQsDeEC9NKJnYcDxgXTGGQ-5TK5-ieLKxEjLF7BSQ==",
+                "title": "myob.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTp3jh7uRt4CfID7kx-_BUcMzkQWhZbkW41hfKUsTEQ1Ayx_AY_qt5NhZ7Pr5pEzV2CKbfWiFhvv0DIwyoKvIJ1f75bIo7Kij3XbK9NEUvJsbo_A8k-mOLeGMCxB1IU_I=",
+                "title": "stratusgroup.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSgNHAXQAXbnBawNr96PxIDzEuQSmGa9V-o-y3ckl2LG_nSjskuz2u0ydp32-I-SHVm8MmzWrIwdTkMS0cQN-Ku3mSz4c_IOqUIjkdklQkSBHnGj-kEMQw5-N6u5XFx2-DadxtR_y6dmMI2431QcmvPP4kxwsRTVAQ2Q==",
+                "title": "projectmanager.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGryNm3Zy3hs_pbODRpO_AzzdMDmdGPnVbEGXqc_fEgp45_j3A6bPs0bYCbrD9MW0-38qpG9wIUDAo5n79sGXyuka5RHymqXvsDg1dLHzNT0DMbpcq5elhsj-8XMyP--2DGRi4OfD88JemTv1cnk_-6GjZ6",
+                "title": "leveragetech.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 347,
+                "text": "When connecting multi-tier enterprise systems—such as **MYOB Acumatica** (formerly MYOB Advanced), **SAP**, **CRM platforms** (Salesforce, Dynamics 365, or HubSpot), and **Microsoft 365**—you will generally look at a combination of Hobart-based enterprise IT integrators and accredited national ERP partners with dedicated Tasmanian footprints"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 630,
+                "endIndex": 832,
+                "text": "**Core Strengths:** As one of Tasmania’s largest ICT and managed solutions firms, Intuit specializes heavily in the **Microsoft ecosystem** (Microsoft 365, Azure, Power Platform, Dynamics 365 CRM/ERP)"
+              },
+              "groundingChunkIndices": [
+                3,
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 838,
+                "endIndex": 1041,
+                "text": "**Best For:** Acting as the primary integration partner connecting core productivity, identity, and CRM systems (Microsoft 365 / Dynamics) into backend ERPs via Azure Integration Services and custom APIs"
+              },
+              "groundingChunkIndices": [
+                6,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1245,
+                "endIndex": 1396,
+                "text": "They hold deep enterprise accreditations in both **SAP** (including S/4HANA migrations and integration) and **Microsoft** (M365, Power Platform, Azure)"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1630,
+                "endIndex": 1676,
+                "text": "**Footprint:** Offices in Hobart and Melbourne"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1682,
+                "endIndex": 1891,
+                "text": "**Core Strengths:** Focuses specifically on mid-tier system integrations, custom workflows, and automation linking CRM, ERP, finance systems, and Microsoft 365/SharePoint for mid-market and association clients"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1956,
+                "endIndex": 2036,
+                "text": "Because MYOB Acumatica is delivered strictly through authorized partner channels"
+              },
+              "groundingChunkIndices": [
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1956,
+                "endIndex": 2145,
+                "text": "Because MYOB Acumatica is delivered strictly through authorized partner channels, engaging a certified enterprise partner is required to orchestrate endpoints and REST APIs for the platform"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2170,
+                "endIndex": 2247,
+                "text": "**Footprint:** Direct operational presence and client base in Hobart/Tasmania"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2253,
+                "endIndex": 2322,
+                "text": "**Core Strengths:** Award-winning **Platinum MYOB Acumatica Partner**"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2324,
+                "endIndex": 2424,
+                "text": "They specialize in mid-market manufacturing, wholesale distribution, and multi-entity configurations"
+              },
+              "groundingChunkIndices": [
+                0,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2598,
+                "endIndex": 2755,
+                "text": "**Footprint:** National Diamond Partners with extensive Tasmanian project histories (e.g., Stratus implemented MYOB Acumatica for St John Ambulance Tasmania)"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2840,
+                "endIndex": 2985,
+                "text": "They specialize in complex workflows, add-ons, and integrating Acumatica with specialized operational tools, external CRMs, and finance workflows"
+              },
+              "groundingChunkIndices": [
+                17,
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3142,
+                "endIndex": 3251,
+                "text": "**Core Strengths:** Uniquely accredited in **both SAP (SAP Business One) and MYOB Acumatica**, alongside Sage"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3257,
+                "endIndex": 3499,
+                "text": "**Best For:** Situations where you run a hybrid environment (e.g., a corporate parent on SAP and a regional branch on MYOB Acumatica, or transitioning from one to the other) and need unified data consolidation, custom middleware, and CRM sync"
+              },
+              "groundingChunkIndices": [
+                18
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3631,
+                "endIndex": 3814,
+                "text": "Engage **Intuit Technologies** or **Datacom** to architect the middleware (using **Azure Logic Apps** or **Power Automate**) and manage data flow between your CRM and back-office apps"
+              },
+              "groundingChunkIndices": [
+                6,
+                4,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3907,
+                "endIndex": 4075,
+                "text": "Engage a dedicated Acumatica partner like **BusinessHub** (local Tasmanian focus) or **Stratus Group** to build the bidirectional sync pipelines and handle data schemas"
+              },
+              "groundingChunkIndices": [
+                14,
+                16,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4133,
+                "endIndex": 4292,
+                "text": "Work with **Datacom** or **Leverage Technologies**, as SAP's integration layer (SAP BTP or Business One Service Layer) requires specialized certified knowledge"
+              },
+              "groundingChunkIndices": [
+                18,
+                7
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "\"Datacom\" Hobart Tasmania SAP Microsoft 365",
+            "MYOB Acumatica partners Hobart Tasmania",
+            "system integrators Hobart ERP MYOB Acumatica SAP Microsoft 365",
+            "\"Intuit Technologies\" Hobart ERP integration CRM",
+            "ERP integration specialists Hobart Tasmania"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 763,
+      "candidatesTokenCount": 1191,
+      "totalTokenCount": 3398,
+      "cachedContentTokenCount": 277,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 763
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 277
+        }
+      ],
+      "thoughtsTokenCount": 1444,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "ZcfiaozDC56z694P6-2p4Ak"
+  }
+}

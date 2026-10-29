@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Adelaide for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\adelaide__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:07:48.888Z",
+  "cost": 0.006173,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 537,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005573,
+      "datetime": "2026-10-29 04:07:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Adelaide, the strongest apparent matches are:\n\n- **Power Platform Experts / Office Experts** — Has an Adelaide team offering onsite or remote Power Apps, Power Automate, Power BI, Power Pages and Dataverse work. Its published team includes consultants with Power Apps, Dataverse, UX, SQL and Dynamics 365 experience, making it a good fit for structured operational apps and workflow automation.[1][2]\n- **Ultron Developments** — An Australia-wide delivery team explicitly serving Adelaide, with capabilities in Canvas and model-driven apps, Dataverse, offline-first field apps, barcode scanning, inventory tracking, procurement and manufacturing quality-control workflows. This is the clearest fit for warehouse, shop-floor and field operations among the listed providers.[3][4]\n- **SimpleIT4U / Altanir Da Silva** — An Adelaide-based independent option. Da Silva reports delivering multiple enterprise Power Apps and Dataverse applications for more than 300 users, including custom Dataverse development, Power Automate workflows and model-driven Dynamics 365 solutions.[5]\n- **Report Simple** — A remote Australia-wide consultancy rather than an Adelaide-local provider. It focuses on bespoke Canvas and model-driven apps, Dataverse, field inspections, mobile data capture, asset registers, job management and replacing paper or spreadsheet processes.[6]\n- **Rishabh Software** — A larger offshore/ distributed delivery option with Microsoft Solutions Partner status and experience in inventory, inspection, field-service and industrial Power Apps. It may suit a larger or more complex implementation, although the available evidence does not establish an Adelaide-based team.[7]\n\n## Best shortlist by use case\n\n| Need | Best initial candidates |\n|---|---|\n| Warehouse, barcode scanning and inventory | **Ultron Developments** |\n| Shop-floor quality, manufacturing or production workflows | **Ultron Developments** |\n| Field inspections, photos, signatures and mobile/offline work | **Ultron Developments** or **Report Simple** |\n| Adelaide-based consulting and onsite workshops | **Power Platform Experts** or **SimpleIT4U** |\n| Larger enterprise delivery capacity | **Rishabh Software** or **Ultron Developments** |\n\nBefore selecting one, ask for a demonstrated reference implementation covering **Dataverse data modelling, offline/mobile behaviour, barcode or camera capture, role-based security, integration with ERP/WMS systems, licensing and support after go-live**. For a genuinely Adelaide-local engagement, Power Platform Experts and SimpleIT4U have the clearest local evidence; for operational-sector capability, Ultron has the most directly relevant published examples.[2][3][5]",
+              "annotations": [
+                {
+                  "title": "Power Apps Consulting Australia | Custom Business Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia | Enterprise Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consulting-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting Adelaide | App Delivery & Support",
+                  "url": "https://ultrondevelopments.com.au/power-apps-consulting-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Power Platform Consulting Team",
+                  "url": "https://www.powerplatformexperts.com.au/meet-the-team",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps development services - Rishabh Software",
+                  "url": "https://www.rishabhsoft.com/microsoft-powerapps-development",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Experts: Power Platform Consultants",
+                  "url": "https://www.powerplatformexperts.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Services in Adelaide",
+                  "url": "https://intuitionsoftech.com.au/microsoft-power-platform-services-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Adelaide",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Altanir Da Silva | LinkedIn",
+                  "url": "https://www.linkedin.com/in/altanir-domingues",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Contractor Australia | Hire Expert Developers",
+                  "url": "https://www.reportsimple.com.au/consulting/power-apps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

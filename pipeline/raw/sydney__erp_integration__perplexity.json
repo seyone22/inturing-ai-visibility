@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Sydney are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:03:11.000Z",
+  "cost": 0.006215,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 580,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005615,
+      "datetime": "2026-10-29 04:03:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Sydney-based project spanning **ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365**, the strongest shortlist is:\n\n| Specialist | Best fit | Evidence |\n|---|---|---|\n| **Eagle360 Consulting** | Best for **MYOB Acumatica + Microsoft 365/Dynamics 365 CRM** integration | Sydney/North Sydney office; certified MYOB Acumatica Partner and Microsoft Designated Solutions Partner. It connects Acumatica or Business Central with Dynamics CRM, Power BI, Microsoft Fabric, Power Platform, EDI, warehouses, and online channels.[1][2] |\n| **Leverage Technologies** | Best for **MYOB Acumatica, SAP, CRM, and broader ERP integration** | Sydney office, MYOB Acumatica Platinum Partner, 50+ in-house ERP consultants, and experience integrating ERP with SAP, MYOB, and CRM applications.[3][4] |\n| **OneKloudX** | Best for **complex, API-led, multi-ERP integration**, particularly where SAP is central | Integrates MYOB Acumatica, SAP, Microsoft Dynamics 365, NetSuite, CRM, payroll, warehouse, banking, and other systems; also supports Jitterbit-based integration architecture.[5] |\n| **Designpluz** | Best for **custom APIs and bespoke application integration** | Sydney-based integration specialists covering SAP, Microsoft Dynamics, Salesforce CRM, MYOB, accounting, payroll, eCommerce, and third-party applications.[6] |\n| **Stratus Consulting Group** | Best for **MYOB Acumatica plus CRM implementation and ongoing support** | Sydney operations, MYOB Diamond Partner, HubSpot Platinum Onboarding Partner, and a local team supporting ERP/CRM integration for mid-market organisations.[7] |\n\n### Recommended selection\n\n- **Choose Eagle360** if Microsoft 365, Dynamics 365 CRM, Power Platform, and MYOB Acumatica are the main ecosystem.\n- **Choose Leverage Technologies** if the project needs deep MYOB Acumatica capability alongside SAP and CRM integration.\n- **Choose OneKloudX** if the architecture requires several ERPs, middleware, APIs, or high-volume system-to-system data exchange.\n- **Choose Designpluz** if custom development, Salesforce, eCommerce, or non-standard APIs are major requirements.\n- **Choose Stratus** if MYOB Acumatica and CRM implementation/support are more important than SAP integration.\n\nFor the stated combination, the most credible first-round tender would be **Eagle360, Leverage Technologies, and OneKloudX**. Ask each to demonstrate a reference architecture covering master-data ownership, SAP/MYOB synchronisation, CRM customer and opportunity flows, Microsoft 365 identity and security, error handling, monitoring, and upgrade responsibility.",
+              "annotations": [
+                {
+                  "title": "CRM ERP Solutions and Software for Growing Businesses",
+                  "url": "https://www.leveragetech.com.au/solutions/crm/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contact Us | Eagle360 Consulting - v2",
+                  "url": "https://eagle360.consulting/contact_us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica - Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/myob-acumatica/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integrations | OneKloudX",
+                  "url": "https://onekloudx.com.au/expertise/integrations/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.designpluz.com.au › erp-integration-servicesERP Integration Services in Sydney, Australia",
+                  "url": "https://www.designpluz.com.au/erp-integration-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Eagle360 Consulting",
+                  "url": "https://eagle360.consulting/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Stratus Consulting Group Products | Read 0 Reviews on G2",
+                  "url": "https://www.g2.com/sellers/stratus-consulting-group",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "NetSuite Sydney: ERP Implementation & Support",
+                  "url": "https://annexa.com.au/netsuite-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Acumatica ERP | AI Powered Cloud ERP Australia",
+                  "url": "https://www.leveragetech.com.au/products/myob-acumatica/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Business Central Implementation Partner in Sydney",
+                  "url": "https://eagle360.consulting/business-central-partner-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

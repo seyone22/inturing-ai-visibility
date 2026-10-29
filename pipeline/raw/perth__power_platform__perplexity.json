@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "power_platform",
+  "plat": "perplexity",
+  "text": "Who are the best Microsoft Power Platform consultants in Perth? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__power_platform__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:10.590Z",
+  "cost": 0.006272,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 640,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005672,
+      "datetime": "2026-10-29 04:06:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "A strong Perth shortlist is **Velrada, Professional Advantage, SSW, Power Platform Experts, Ultron Developments, and Avenue Group Australia**. The right choice depends on whether you need enterprise transformation, Microsoft-stack integration, or a smaller local team for focused automation work.\n\n- **Velrada** — Best for large or complex organisations. It is Perth-based and positioned as a Microsoft partner with capabilities spanning cloud, business insights, workforce productivity, operations, Dynamics 365 and Power Platform.[3][10] Choose Velrada for enterprise governance, data, customer-experience or digital-transformation programs.\n\n- **Professional Advantage** — Best for Power Platform integrated with existing Microsoft systems. It is a Microsoft Solutions Partner for Modern Work and Tier 1 CSP, with services covering Power Apps, Power Automate, Power BI and integration with Dynamics 365, Teams and SharePoint.[8] It is a sensible option where implementation, licensing, support and managed services need to come from one established provider.\n\n- **SSW** — Best for software engineering depth and custom solutions. SSW reports more than 1,000 clients across 15 countries, around 100 consultants in four countries, Microsoft certifications, MVPs and a Microsoft Regional Director.[4] It suits organisations that need Power Platform combined with custom development, architecture or broader Microsoft consulting.\n\n- **Power Platform Experts** — Best for specialist Power Platform delivery. Its Perth offering covers Microsoft-certified consultants, Power Apps, Power Automate, Power BI, Power Pages, automation, dashboards, training and ongoing support.[7] Consider it for a focused Power Platform project where specialist platform knowledge matters more than a large systems-integrator footprint.\n\n- **Ultron Developments** — Best for practical, tailored workflow and app development. Ultron specifically targets Perth and WA organisations, including operations, resources and professional-services teams, with emphasis on replacing spreadsheets, improving approvals, audit trails and reporting.[1] It may be a good fit for a smaller or mid-market business wanting a hands-on local-context delivery style.\n\n- **Avenue Group Australia** — Best for a Perth-based strategy-to-support engagement. Avenue describes itself as Perth-based and offers Power Platform alongside Microsoft 365, SharePoint, Dynamics 365, AI, automation, change management and analytics; it also states that it has certified Power Platform specialists and 25+ years of global expertise.[6][9] Its delivery model is worth considering when Power Platform is part of a broader digital-transformation or AI program.\n\n## Quick recommendation\n\n- **Enterprise transformation:** Velrada or SSW  \n- **Microsoft 365/Dynamics integration and managed support:** Professional Advantage  \n- **Dedicated Power Platform specialist:** Power Platform Experts  \n- **Focused local automation or custom app work:** Ultron Developments  \n- **Power Platform combined with AI, Dynamics or change management:** Avenue Group Australia  \n\nBefore appointing one, ask for two recent Perth or WA references, named consultant certifications, examples using Dataverse and governance, a clear approach to licensing and environments, and an itemised estimate separating discovery, build, testing, training and support.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consultant Perth | Ultron Developments",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consultant-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Power Platform Developers in Australia",
+                  "url": "https://www.sunrisetechs.com/best-power-platform-developers-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Microsoft power platform consulting companies based in ...",
+                  "url": "https://revenuebase.ai/companies/microsoft-power-platform-consulting-companies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting",
+                  "url": "https://www.ssw.com.au/consulting/power-platform",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Microsoft PowerApps development services in Australia",
+                  "url": "https://www.sunrisetechs.com/top-10-microsoft-powerapps-development-services-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Services - Avenue Group Australia",
+                  "url": "https://avenuegroupaus.com.au/power-platform-consulting-services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants Perth",
+                  "url": "https://www.powerplatformexperts.com.au/power-platform-consultants-perth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Platform Consulting - Professional Advantage",
+                  "url": "https://www.pa.com.au/products/microsoft-power-platform/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AI Development | Technology Consulting Company Australia",
+                  "url": "https://avenuegroupaus.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Microsoft Consulting Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/microsoft-consulting/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

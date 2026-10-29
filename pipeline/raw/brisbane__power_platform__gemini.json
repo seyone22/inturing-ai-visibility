@@ -1,0 +1,483 @@
+{
+  "slug": "brisbane",
+  "pk": "power_platform",
+  "plat": "gemini",
+  "text": "Who are the best Microsoft Power Platform consultants in Brisbane? Give me a shortlist of reputable Power Platform consulting partners with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\brisbane__power_platform__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:05:17.718Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When selecting a Microsoft Power Platform partner in Brisbane, the right choice depends heavily on your project's scope—whether you need **enterprise-scale governance and procurement**, **deep business app/CRM specialization**, **human-centred change management**, or **pro-code/hybrid software engineering**.\n\nHere is a curated shortlist of reputable Microsoft Power Platform consulting partners operating in Brisbane, categorized by their core strengths:\n\n---\n\n### 1. The Brisbane Enterprise Leader: **Data#3**\n* **Best for:** Large enterprise rollouts, Queensland Government/education projects, and end-to-end Microsoft ecosystem integration.\n* **Brisbane Footprint:** Headquartered in Brisbane (Toowong).\n* **Why them:**\n  * Data#3 is Microsoft’s largest Australian-grown partner and holds top-tier competencies across all Microsoft solution designations. \n  * Unlike firms that fly consultants in from Sydney or Melbourne, Data#3 has its largest executive, engineering, and account management presence right in Brisbane.\n  * Ideal for establishing enterprise-wide **Power Platform Center of Excellence (CoE)** governance, license optimisation, and integrating Power Apps and Power BI with broader Azure and Dynamics 365 environments.\n\n---\n\n### 2. The Business Applications & Dynamics Specialist: **Barhead Solutions**\n* **Best for:** Complex CRM, Power Apps, enterprise automation, and AI/Copilot Studio integration.\n* **Brisbane Footprint:** Active Queensland consulting footprint (national practice, part of Akkodis).\n* **Why them:**\n  * Widely recognized across APAC as a premier partner for Microsoft Business Applications and Power Platform.\n  * They have pre-built solution accelerators, deep links to Microsoft’s product engineering teams, and a proven track record delivering *\"App in a Day\"* / *\"Copilot Studio in a Day\"* enablement programs.\n  * If your Power Platform vision is deeply entwined with Dynamics 365 or replacing legacy CRM/ERP workflows, Barhead is among the highest-calibre specialists available.\n\n---\n\n### 3. The Modern Work & Adoption Leader: **Engage Squared**\n* **Best for:** Digital workplace transformation, employee experience, and adoption/change management.\n* **Brisbane Footprint:** Established Brisbane office and consulting team.\n* **Why them:**\n  * Frequent **Microsoft Partner of the Year** winner known for human-centred design.\n  * While many consultancies focus purely on technical architecture, Engage Squared focuses equally on **adoption and enablement**—preventing \"Power Platform sprawl\" and helping citizen developers build apps securely.\n  * Best suited for replacing legacy paper/SharePoint forms, building departmental workflows in Microsoft Teams, and rolling out M365 Copilot alongside Power Automate.\n\n---\n\n### 4. The Pro-Code & Complex Engineering Partner: **SSW (Software Specialists Worldwide)**\n* **Best for:** Complex app modernization, custom connectors, Power Apps Component Framework (PCF) controls, and DevOps/ALM.\n* **Brisbane Footprint:** Dedicated Brisbane office (Adelaide Street).\n* **Why them:**\n  * Founded by Microsoft Regional Director Adam Cogan, SSW brings an engineering-first culture.\n  * Many Power Platform projects run into brick walls when low-code limitations are reached. SSW excels at **extending Power Apps with pro-code** (Azure Functions, custom APIs, .NET, and robust CI/CD deployment pipelines via GitHub/Azure DevOps).\n  * If you need strict Agile delivery, custom software development alongside low-code, and technical mentoring for your in-house devs, SSW is a standout.\n\n---\n\n### 5. The Enterprise Solutions Integrator: **Insight Enterprises (Insight Australia)**\n* **Best for:** Mid-to-enterprise cloud modernization, security governance, and multi-cloud environments.\n* **Brisbane Footprint:** Strong local Queensland practice (bolstered by their historical acquisition of Ignia).\n* **Why them:**\n  * Global Microsoft Solutions Partner with a proven delivery engine in Australia.\n  * Offers structured **Power Platform Governance and CoE Accelerator workshops**, which evaluate DLP (Data Loss Prevention) policies, tenant security, and environment architecture before opening the platform to the business.\n  * Excellent for organizations with stringent cybersecurity requirements (e.g., Essential 8 alignment).\n\n---\n\n### 6. Agile / Mid-Market Alternatives\nIf you are an SMB or mid-tier organization looking for rapid, cost-effective delivery without the overhead of Tier-1 consultancies:\n* **Velrada:** Highly regarded nationally (part of ASG) for AI- and automation-led Business Applications.\n* **C9 (Cloud 9 Solutions):** Brisbane-based developers specializing in rapid bespoke Power Apps and integration with Microsoft 365 for local mid-market businesses.\n\n---\n\n### How to Choose Among Them\n\n| Your Primary Need | Recommended Partner |\n| :--- | :--- |\n| **Qld Government, large enterprise scale, local corporate backing** | **Data#3** |\n| **Complex Dynamics 365, Copilot Studio, & process re-engineering** | **Barhead Solutions** |\n| **End-user adoption, Teams integration, & human-centred apps** | **Engage Squared** |\n| **Custom APIs, PCF controls, DevOps pipelines & pro-code blending** | **SSW** |\n| **Security, DLP policies, & enterprise-wide CoE establishment** | **Insight Enterprises** or **Data#3** |",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=SSW+Brisbane+Microsoft+Power+Platform&client=app-vertex-grounding&safesearch=active\">SSW Brisbane Microsoft Power Platform</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Power+Platform+consultants+Brisbane+Data+3+Barhead+Engage+Squared&client=app-vertex-grounding&safesearch=active\">Power Platform consultants Brisbane Data 3 Barhead Engage Squared</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Microsoft+Power+Platform+consulting+Brisbane+partners&client=app-vertex-grounding&safesearch=active\">Microsoft Power Platform consulting Brisbane partners</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=Insight+Enterprises+Brisbane+Power+Platform&client=app-vertex-grounding&safesearch=active\">Insight Enterprises Brisbane Power Platform</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyPyS7e1ipOQe2UYfmGHYJShKFdmP_f7-ahiylTM5Sxyl8iNKZla0tYqk9dDJxbmjpPeKN6-XxZdo4y21wMVzJaZXCapmumhxSV2qxBH4OyDpyj6EL3QkB5GOepoOZSg==",
+                "title": "data3.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3gT8NnvzxvvaQpIjlFQxg-vKJbxssJ3w1Hd2XBNR63bx_jhVxHuT-EssyTY4Q4ChKC_Db6usLO3fI9h3FuWoFU9rRkYxlo9rVNwyuHj8byYomNFvSVyI6j_ocLqThcFGU-bP-8lT6RiFRTJvTZiaHH7SHfVaHI_Z277qZe_8N_rC3_gzU",
+                "title": "beyondkey.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4SCQ-o0sirVsC-NtzAJQO_zFFp5Ukl4NQPhn3UblGxBRT4Ns-Q5UUVJYTBpdAI8QVDEQTFi0fWifjd7Osc-kEUxE5gxnQAwZJiaoBrePfKQ6nYtqrW1tDOpvEvvGjPgYydaTJYpUXT9ui_MyFcT8=",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT1OeeWI5cO5IS_OBAY-nF3oGCsD66VHmzguEaBtjTSYH4hA6CRuUa-fm2DEBotRXYTIlZfsqVUKBYOHq0sSSe-g-6yZgz0NqLyZjy4SCYdgE5oNPjegKqVwkQUSE1-c7Cy5Zq6MI2msPAK0Lfr-XKfZh_h9EdoAvvTCriRvONBGaqQGIpEgIwHWTYeg0rq02lVHoCHMu5QiQx",
+                "title": "barhead.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGR73-hwAUerqoWjAYaYvhWZE_BJuvLPdyD5VZbFU61m2toLQeLuyLQZQtfh2gEgDalib_R2Ii99dEX3_mde_QHtvRxgXcyCP-SsaTmRaUD1SUdWmmybpKm8krdCEW3LuMKeRnlRBrSTza7qUcVvLvklCUmg_6tVj-MuEsS4hQjj_Sn38O",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBSsZdgn--S2EAlgCu99CRWTFyVimnvz3wmNCepFEtcdM5phdUNlpvhwrS3RiqoEMIocBZMB8jyrZUoeVdpSTFupRzwFcMU102x0RcDD2y2e0avMzFyOxhJK7okcitMnA5V2BJjUWUGU_XbCdSz8317fmmraDWFg6KT4C1mW070kf0",
+                "title": "revenuebase.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpfRAjTt-UuoCU7j7xLhSh_SMHNOsTIlJVqSM0PjIekihuYT3_xXhLB2OIIrsjOTbt2chrrSjFV0tp6VSbsRO3BJKcbv4dOyDvONe7WH5W76gCrMkoDB67Goa4gykMVw9aLLzY7X-g02XIEXnPUfSrC2s=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg1YxXAMEgKtlC8PuKB9VHkokW0DKgFxXWtUBE-ZcMIX5M7tcvDqQtb-k5wTYukfnRqglJcARjyha2cWAym0sH3ZhHBZDVsd-6oSs=",
+                "title": "engagesq.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSxy7rY3Eh28739GXZpJ59VpEuSuAvm6CWFnd6H6p9WftcdXsgfklS57dWODMjCXKjiO7N9LUxAOqI16W56bHrITT8wV0gk_-SlMoeFPQlP9XH_sPrtGz5EdTpoargRWq",
+                "title": "nsw.gov.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGi655OBvhzDDP67Tv8HoqcK4uQoSAll5DtI71o-JNuh3YiSUSQ7XwGEXl4A-3e83jg8IcklP8Oa36rR--wM8RFdyvzcaZo9RrKDsMbxTUp3AMqUJiQHMyTfAjDZm6CvkFP5-KeueoGt1cB4A=",
+                "title": "publicsectornetwork.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1OMOCXSqBKUddj0nET2S9dPSPK1BDFks0XxT8PuoGG6TECE1ntO9tQmo2YqvINrwmLLoZvVf5nP_Awak9zhNaO3BZAZv2FwY-RlOAHtJK9q1IjfZxADiKrDGW6A==",
+                "title": "ssw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuwazlxpg5cQZPqYGtNgOp42167SQ1PcEhJi-wkqgiMsK4XsOnwZhV6OOoTAOMNhBQ50Pa-E8cK47tmDSzIAV6a6-x-vyIq2YBUUQg7YZNzH2sFB-eB5T_NrkwDnoPSr-BI__2ySEuFNDWrTKeMYEQ",
+                "title": "ssw.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2d_pJBHomSxxojhGWGrZUoxvx6tRJYK7DjKlraMvriVaFPbLxXl_qU1yD-HacfUPIATfwUOr3AT-nvSNfDHPma74uc2l1abDz2AZ0BLqxfb_VOPNgel_5DFL0acIeY62yaNXTgn8xA2114c2M0BxaNEp2p8fvA==",
+                "title": "microsoft.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG9LPDhk32EaAqvTPvcjIrkWmoMXNlrkGdo51TUgQA7RO77rfCSzmV3TydZIMIDw2GlcfeuRFVR4N_X2wxFmxhbflvDDFM1VwKP-7yZef3bM4Voiu4FlAyriiDGIpftSrp-6M1vmyjicjSaVFJa6SbKWvNxJnZPSZhU3D43zNebtH7NOvuQRFwsik=",
+                "title": "aidataanalytics.network"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiskYhDdvRYSANjmSIw_Adcwg-WKWaO9OO1obi2yngwZR9zdRivLb9-yoVNgF4BLCO4jzRhM7QSVnYlUNh04_S7xB3vvRb6qeNcd3VbBaBL9tq4VQcR8CVWXeyMYSpOZZDv5SshQ10kK0b79UnL2ZzAYu4Rzo3lCR08lySHVj9x8R6DphRoSy7xdXzrOm1BXOrUreCfw==",
+                "title": "insight.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEg1poEBWCV2k4NGhyjlZi1LqcPWJss7DdR4aPD93l1zSccxNzq4kEEVS7X3jPy68s3BEVF8S1_ComL35v1kpq6BLaqprEm0dx6dXxnre96DPwZXq7kMzIB2i3E-f4PbK2",
+                "title": "insightsolutions.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEqXEEHbnr1-DTqlCJ-2IQTntuj_q0bVW-z_NQoAndRYMOth85hpDp7t8t1HN5ZhX6-P6wbZZPYatb8N5T3NVVluFepYqv8yvafZWSqLQ5sopV7Q3JFUML3c3cGPsDzmIbtGaW4KUjfclTiINPGxTAbE3K",
+                "title": "xcdit.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOrxabJYmFh5nqyDy9P_UFzhTnnrwQFreWsQu1o17Uu8p8Ui71EWX0GRcPBYvR36aWlaONDmiZ_MtItrYpW4J-MdpmNmkYWDd2XflRizvbwBUaLlL9kgcTguWEAe7cw9AxkY9BW3K3ZL2WF-cy1MGuQE-HzeExanee6A==",
+                "title": "c9.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 517,
+                "endIndex": 646,
+                "text": "**Best for:** Large enterprise rollouts, Queensland Government/education projects, and end-to-end Microsoft ecosystem integration"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 650,
+                "endIndex": 709,
+                "text": "**Brisbane Footprint:** Headquartered in Brisbane (Toowong)"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 731,
+                "endIndex": 862,
+                "text": "Data#3 is Microsoft’s largest Australian-grown partner and holds top-tier competencies across all Microsoft solution designations"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1034,
+                "endIndex": 1241,
+                "text": "Ideal for establishing enterprise-wide **Power Platform Center of Excellence (CoE)** governance, license optimisation, and integrating Power Apps and Power BI with broader Azure and Dynamics 365 environments"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1329,
+                "endIndex": 1424,
+                "text": "**Best for:** Complex CRM, Power Apps, enterprise automation, and AI/Copilot Studio integration"
+              },
+              "groundingChunkIndices": [
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1428,
+                "endIndex": 1527,
+                "text": "**Brisbane Footprint:** Active Queensland consulting footprint (national practice, part of Akkodis)"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1549,
+                "endIndex": 1654,
+                "text": "Widely recognized across APAC as a premier partner for Microsoft Business Applications and Power Platform"
+              },
+              "groundingChunkIndices": [
+                5,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1660,
+                "endIndex": 1861,
+                "text": "They have pre-built solution accelerators, deep links to Microsoft’s product engineering teams, and a proven track record delivering *\"App in a Day\"* / *\"Copilot Studio in a Day\"* enablement programs"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1867,
+                "endIndex": 2031,
+                "text": "If your Power Platform vision is deeply entwined with Dynamics 365 or replacing legacy CRM/ERP workflows, Barhead is among the highest-calibre specialists available"
+              },
+              "groundingChunkIndices": [
+                1,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2102,
+                "endIndex": 2201,
+                "text": "**Best for:** Digital workplace transformation, employee experience, and adoption/change management"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2298,
+                "endIndex": 2378,
+                "text": "Frequent **Microsoft Partner of the Year** winner known for human-centred design"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2384,
+                "endIndex": 2598,
+                "text": "While many consultancies focus purely on technical architecture, Engage Squared focuses equally on **adoption and enablement**—preventing \"Power Platform sprawl\" and helping citizen developers build apps securely"
+              },
+              "groundingChunkIndices": [
+                6,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2604,
+                "endIndex": 2766,
+                "text": "Best suited for replacing legacy paper/SharePoint forms, building departmental workflows in Microsoft Teams, and rolling out M365 Copilot alongside Power Automate"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2868,
+                "endIndex": 2989,
+                "text": "**Best for:** Complex app modernization, custom connectors, Power Apps Component Framework (PCF) controls, and DevOps/ALM"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2993,
+                "endIndex": 3060,
+                "text": "**Brisbane Footprint:** Dedicated Brisbane office (Adelaide Street)"
+              },
+              "groundingChunkIndices": [
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3082,
+                "endIndex": 3172,
+                "text": "Founded by Microsoft Regional Director Adam Cogan, SSW brings an engineering-first culture"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3352,
+                "endIndex": 3419,
+                "text": "NET, and robust CI/CD deployment pipelines via GitHub/Azure DevOps)"
+              },
+              "groundingChunkIndices": [
+                11,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3425,
+                "endIndex": 3573,
+                "text": "If you need strict Agile delivery, custom software development alongside low-code, and technical mentoring for your in-house devs, SSW is a standout"
+              },
+              "groundingChunkIndices": [
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3671,
+                "endIndex": 3773,
+                "text": "**Best for:** Mid-to-enterprise cloud modernization, security governance, and multi-cloud environments"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3908,
+                "endIndex": 3985,
+                "text": "Global Microsoft Solutions Partner with a proven delivery engine in Australia"
+              },
+              "groundingChunkIndices": [
+                12,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3991,
+                "endIndex": 4211,
+                "text": "Offers structured **Power Platform Governance and CoE Accelerator workshops**, which evaluate DLP (Data Loss Prevention) policies, tenant security, and environment architecture before opening the platform to the business"
+              },
+              "groundingChunkIndices": [
+                14,
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4217,
+                "endIndex": 4316,
+                "text": "Excellent for organizations with stringent cybersecurity requirements (e.g., Essential 8 alignment)"
+              },
+              "groundingChunkIndices": [
+                16
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4497,
+                "endIndex": 4599,
+                "text": "**Velrada:** Highly regarded nationally (part of ASG) for AI- and automation-led Business Applications"
+              },
+              "groundingChunkIndices": [
+                4,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4603,
+                "endIndex": 4764,
+                "text": "**C9 (Cloud 9 Solutions):** Brisbane-based developers specializing in rapid bespoke Power Apps and integration with Microsoft 365 for local mid-market businesses"
+              },
+              "groundingChunkIndices": [
+                17
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4862,
+                "endIndex": 4944,
+                "text": "| **Qld Government, large enterprise scale, local corporate backing** | **Data#3**"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4947,
+                "endIndex": 5039,
+                "text": "| **Complex Dynamics 365, Copilot Studio, & process re-engineering** | **Barhead Solutions**"
+              },
+              "groundingChunkIndices": [
+                2,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5042,
+                "endIndex": 5127,
+                "text": "| **End-user adoption, Teams integration, & human-centred apps** | **Engage Squared**"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5130,
+                "endIndex": 5209,
+                "text": "| **Custom APIs, PCF controls, DevOps pipelines & pro-code blending** | **SSW**"
+              },
+              "groundingChunkIndices": [
+                11,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5212,
+                "endIndex": 5317,
+                "text": "| **Security, DLP policies, & enterprise-wide CoE establishment** | **Insight Enterprises** or **Data#3**"
+              },
+              "groundingChunkIndices": [
+                1,
+                14
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "SSW Brisbane Microsoft Power Platform",
+            "Power Platform consultants Brisbane Data 3 Barhead Engage Squared",
+            "Microsoft Power Platform consulting Brisbane partners",
+            "Insight Enterprises Brisbane Power Platform"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 434,
+      "candidatesTokenCount": 1485,
+      "totalTokenCount": 3014,
+      "cachedContentTokenCount": 144,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 434
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 144
+        }
+      ],
+      "thoughtsTokenCount": 1095,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "28XiaoTNHLm-3LUP0uqX2A8"
+  }
+}

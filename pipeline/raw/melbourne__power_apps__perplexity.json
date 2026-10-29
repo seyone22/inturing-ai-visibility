@@ -1,0 +1,106 @@
+{
+  "slug": "melbourne",
+  "pk": "power_apps",
+  "plat": "perplexity",
+  "text": "Who are the leading Microsoft Power Apps and Dataverse consultants in Melbourne for building custom operational business apps for warehouse, shop-floor, or field teams?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\melbourne__power_apps__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:04:02.310Z",
+  "cost": 0.006253,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 617,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005653,
+      "datetime": "2026-10-29 04:03:57 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Melbourne-based operational apps, the strongest shortlist is:\n\n- **Ultron Developments** — Particularly relevant for warehouse, manufacturing and field operations. It builds Canvas and Model-driven apps with Dataverse, barcode scanning, inventory tracking, procurement workflows, quality-control apps, offline support and field inspections. It offers Melbourne delivery, on-site workshops and Australian-based teams.[2][5]\n- **jeylabs** — Melbourne-based Microsoft 365 and Power Platform consultancy covering Power Apps, Dataverse, workflow automation, application design, integration and ongoing support. A good candidate for organisations wanting local delivery and long-term platform support.[1]\n- **Inturing** — Focused specifically on “operational business apps” for workshop, tablet and field use, with Dataverse or existing systems of record behind the app. Its positioning is a close fit for frontline operational workflows rather than generic office automation.[7]\n- **OfficePro Consulting** — Melbourne-based Australian consultancy building field/mobile apps, inspection and job-logging solutions, offline-capable apps, and Dataverse model-driven systems for jobs, cases, approvals and audit trails.[3]\n- **Alphavima** — A Microsoft Solutions Partner offering Melbourne Power Apps consulting, Dataverse-backed canvas and model-driven apps, inventory and inspection workflows, and integrations across Power Automate, Power BI and Microsoft 365.[6][8]\n- **C9** — A Brisbane-led specialist that serves Melbourne remotely and nationally. It is worth considering where the priority is custom mobile/web apps, field-service workflows, integrations and enterprise governance rather than a Melbourne-local delivery team.[10]\n- **Argon & Co** — Better suited as an operations-transformation partner or requirements/design lead than as a pure Power Apps build shop. Its Melbourne team brings warehouse, store, logistics and manufacturing expertise, plus Power Apps and implementation experience.[9]\n\n## Best fit by requirement\n\n| Requirement | Best first calls |\n|---|---|\n| Warehouse, barcode scanning and inventory | Ultron, Alphavima |\n| Shop-floor quality, inspections and manufacturing | Ultron, Inturing, Argon & Co |\n| Field teams, mobile forms, photos and offline use | Ultron, OfficePro, Inturing |\n| Melbourne-local Power Platform support | jeylabs, OfficePro, Alphavima |\n| Operational process redesign plus app delivery | Argon & Co, Inturing |\n| Broader enterprise Power Platform architecture and governance | Ultron, Alphavima, C9 |\n\nFor a practical initial tender, invite **Ultron, jeylabs, Inturing and OfficePro**. They most directly match the combination of Power Apps, Dataverse and frontline operational use cases; include **Argon & Co** if warehouse or shop-floor process redesign is as important as the technical build. Ensure each bidder demonstrates offline behaviour, barcode/device integration, role-based Dataverse security, integration with ERP/WMS systems, deployment ownership and post-launch support—not just a polished app interface.",
+              "annotations": [
+                {
+                  "title": "Power Platform Consulting and Support Services - jeylabs",
+                  "url": "https://www.jeylabs.com/powerapps_consulting_and_support",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting Australia | Custom Business Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/powerapps-consulting",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Power Apps Development | OfficePro Consulting",
+                  "url": "https://officeproconsulting.com.au/services/custom-apps-portals-intranets/power-apps/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Microsoft Power Platform Development Company in Melbourne | Concetto Labs",
+                  "url": "https://www.concettolabs.com/services/power-platform-consulting-company-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consulting Australia | Enterprise Apps | Ultron",
+                  "url": "https://ultrondevelopments.com.au/power-platform-consulting-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Platform Consultants in Melbourne, VIC | Alphavima",
+                  "url": "https://alphavima.com/power-platform-2/power-platform-consultants-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Implementation | Custom Business Apps & AI - Inturing",
+                  "url": "https://inturing.com.au/solutions/business-apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Power Apps Consulting in Melbourne, VIC | Alphavima Technologies",
+                  "url": "https://alphavima.com/power-platform/power-apps-consulting-in-melbourne-vic/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Melbourne team",
+                  "url": "https://www.argonandco.com/en/team/melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Strategic Microsoft Power Apps in Melbourne",
+                  "url": "https://www.c9.com.au/Melbourne/Low-Code-No-Code/Microsoft-Power-Apps",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "erp_integration",
+  "plat": "perplexity",
+  "text": "Which system integration specialists in Perth are best for connecting ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365 systems?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\perth__erp_integration__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:06:52.599Z",
+  "cost": 0.006335,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 700,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005735,
+      "datetime": "2026-10-29 04:06:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a Perth organisation needing to connect **ERP, CRM, MYOB Acumatica, SAP, and Microsoft 365**, the strongest shortlist is:\n\n1. **Nano Solutions** — Best overall fit for a mixed enterprise environment. It explicitly lists integrations for SAP, MYOB, Microsoft 365/Entra ID, Salesforce, HubSpot, NetSuite, legacy systems, APIs, middleware, and event-driven architectures.[1] Its WA Government CUAICTS2021 panel status may also be relevant for government or highly governed projects.[1]\n\n2. **HELLO PEOPLE** — Best for custom API and difficult-to-connect systems. The Perth-based team connects MYOB—including MYOB Acumatica—to CRM, job-management, payroll, inventory, and payment platforms, and builds custom integrations where standard APIs or documentation are unavailable.[2][5] Its Microsoft Dynamics 365 work also covers Dataverse, Business Central, Finance & Operations, Power BI, MYOB, and external CRM systems.[9]\n\n3. **365 Solutions Consulting** — Best for vendor-neutral architecture and transformation advice. It offers solution architecture, ERP/CRM selection, implementation, systems integration, cloud migration, and program management from its Perth office.[3] This is a good option when SAP, Acumatica, Microsoft 365, and CRM must be assessed as one broader operating model rather than connected piecemeal.\n\n4. **iCatalyst** — Best when Microsoft 365 is the strategic centre of the solution. It is a Perth-founded Microsoft Dynamics specialist covering Business Central, Finance and Supply Chain, Dynamics CRM, and Power Platform, with substantial Dynamics implementation experience.[10] It is less clearly positioned as a specialist SAP–Acumatica integrator, so confirm those references before appointing it.\n\n5. **Integral Management Systems** — Best for Microsoft Dynamics and Business Central projects involving smaller or mid-sized WA organisations. It provides Dynamics 365 CRM and Business Central consulting, implementation, customisation, training, support, and integration services from Perth.[4] Confirm direct MYOB Acumatica and SAP experience.\n\n### Recommended selection\n\n- **Choose Nano Solutions** if SAP and Microsoft 365/Entra integration are core requirements.\n- **Choose HELLO PEOPLE** if MYOB Acumatica and bespoke or poorly documented systems are central.\n- **Choose 365 Solutions Consulting** if an independent architect is needed to define the target integration strategy first.\n- **Choose iCatalyst or Integral** if the intended future platform is primarily Microsoft Dynamics 365 and Power Platform.\n\nBefore requesting proposals, require each provider to demonstrate:\n\n- Two or three comparable SAP–CRM–ERP integration projects.\n- Specific MYOB **Acumatica**—not merely MYOB AccountRight or MYOB Business—experience.\n- Microsoft Graph, Entra ID, Dataverse, Power Platform, and Microsoft 365 integration capability.\n- Their preferred middleware or integration platform and approach to monitoring, retries, audit trails, and data ownership.\n- A reference architecture covering master data, real-time versus batch synchronisation, security, and failure recovery.\n- Written assumptions about licensing, SAP interfaces, Acumatica APIs, data migration, and ongoing support.\n\nThe most credible initial tender shortlist is therefore **Nano Solutions, HELLO PEOPLE, and 365 Solutions Consulting**, with **iCatalyst** added if Microsoft Dynamics is likely to become the core ERP/CRM platform.",
+              "annotations": [
+                {
+                  "title": "Enterprise System Integration Perth WA | Nano Solutions",
+                  "url": "https://nanosolutions.io/services/systems-integration/enterprise-system-integration-perth-wa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Custom System Integration Services - App Developers Perth",
+                  "url": "https://hellopeople.com.au/integrations/custom-systems-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "365 | ERP | Perth | 365 Solutions Consulting",
+                  "url": "https://www.365solutionsconsulting.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Integral Management Systems",
+                  "url": "https://integral-mgt.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MYOB Integration Services - Perth",
+                  "url": "https://hellopeople.com.au/integrations/myob-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ERP Implementation & Integration in Perth",
+                  "url": "https://dapth.com/services/enterprise-resource-planning",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Microsoft Dynamics 365 Developers & Consultants in Australia",
+                  "url": "https://www.sunrisetechs.com/top-microsoft-dynamic-365-consultants-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "System Integration Services | API Integrations | Perth ...",
+                  "url": "https://hellopeople.com.au/integrations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Microsoft Dynamics 365 Integration Services | HELLO PEOPLE",
+                  "url": "https://hellopeople.com.au/integrations/microsoft-dynamics-365-integration",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Digitally Transform with Dynamics 365 Perth - iCatalyst",
+                  "url": "https://icatalyst.com.au/digitally-transform-in-wa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

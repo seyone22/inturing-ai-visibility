@@ -1,0 +1,174 @@
+{
+  "slug": "sydney",
+  "pk": "manufacturing_automation",
+  "plat": "aimode",
+  "text": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\raw\\sydney__manufacturing_automation__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-29T04:02:57.211Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "We are a manufacturer in Sydney looking to automate order processing, shop-floor data capture, and operations without replacing our ERP. Which automation and Power Platform consultants should we speak to?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=We%20are%20a%20manufacturer%20in%20Sydney%20looking%20to%20automate%20order%20processing%2C%20shop-floor%20data%20capture%2C%20and%20operations%20without%20replacing%20our%20ERP.%20Which%20automation%20and%20Power%20Platform%20consultants%20should%20we%20speak%20to%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-29 04:02:51 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "When you want to layer agility, shop-floor visibility, and automated order processing on top of your existing ERP without undergoing a massive, risky rip-and-replace project, you need `specialists who understand both low-code orchestration and heavy industrial data integration`.\n\nA curated list of Sydney-centric and Australian Microsoft Power Platform partners specializing in manufacturing operations includes:\n\n- **Inturing** — A specialist Australian consultancy explicitly focused on AI automation and Power Platform integration for manufacturers, mining suppliers, and operations teams. They specialize in connecting existing ERPs and engineering software without replacing them, using Power Apps for shop-floor data capture, and AI document extraction to turn messy PDFs or emails into structured data. You can explore their approach on the [Inturing Manufacturing Solutions](https://www.inturing.com.au/manufacturing) page.[[1]](https://inturing.com.au/)[[2]](https://www.inturing.com.au/manufacturing)\n- **Barhead Solutions** — A prominent Sydney-headquartered Microsoft Partner with deep expertise across the entire Power Platform stack (Power Apps, Power Automate, Power BI) and enterprise integration. While they service diverse industries, they excel at rapid app development, governance frameworks, and structured enablement (such as \"Automation in a Day\" workshops) to help internal manufacturing IT teams safely scale low-cadence tools. Learn more via the [Barhead Power Platform Services](https://barhead.com/our-services/power-platform-services/) overview.[[1]](https://www.erpresearch.com/dynamics-partners/australia)[[2]](https://barhead.com/our-services/power-platform-services/)\n- **Data#3 / Velrada / Empired (or similar large-tier local enterprise integrators)** — If your Sydney manufacturing plant operates at an enterprise scale requiring rigid multi-site governance, Azure IoT integration for physical shop-floor machinery, and comprehensive change management, larger tier-one Australian Microsoft partners have dedicated local manufacturing practices suited for complex, non-disruptive ERP-adjacent architecture.\n\nTo help narrow down which of these consultants fits best, tell me:\n\n- **Which ERP** are you currently running (e.g., SAP, Pronto, Syspro, Epicor, Dynamics)?\n- **What is your primary bottleneck** right now (manual data re-entry from customer emails/PDFs, paper-based shop floor tracking, or siloed inventory reporting)?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "When you want to layer agility, shop-floor visibility, and automated order processing on top of your existing ERP without undergoing a massive, risky rip-and-replace project, you need specialists who understand both low-code orchestration and heavy industrial data integration.",
+              "markdown": "When you want to layer agility, shop-floor visibility, and automated order processing on top of your existing ERP without undergoing a massive, risky rip-and-replace project, you need `specialists who understand both low-code orchestration and heavy industrial data integration`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "A curated list of Sydney-centric and Australian Microsoft Power Platform partners specializing in manufacturing operations includes:",
+              "markdown": "A curated list of Sydney-centric and Australian Microsoft Power Platform partners specializing in manufacturing operations includes:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Inturing — A specialist Australian consultancy explicitly focused on AI automation and Power Platform integration for manufacturers, mining suppliers, and operations teams. They specialize in connecting existing ERPs and engineering software without replacing them, using Power Apps for shop-floor data capture, and AI document extraction to turn messy PDFs or emails into structured data. You can explore their approach on the Inturing Manufacturing Solutions page. Barhead Solutions — A prominent Sydney-headquartered Microsoft Partner with deep expertise across the entire Power Platform stack (Power Apps, Power Automate, Power BI) and enterprise integration. While they service diverse industries, they excel at rapid app development, governance frameworks, and structured enablement (such as \"Automation in a Day\" workshops) to help internal manufacturing IT teams safely scale low-cadence tools. Learn more via the Barhead Power Platform Services overview. Data#3 / Velrada / Empired (or similar large-tier local enterprise integrators) — If your Sydney manufacturing plant operates at an enterprise scale requiring rigid multi-site governance, Azure IoT integration for physical shop-floor machinery, and comprehensive change management, larger tier-one Australian Microsoft partners have dedicated local manufacturing practices suited for complex, non-disruptive ERP-adjacent architecture.",
+              "markdown": "- **Inturing** — A specialist Australian consultancy explicitly focused on AI automation and Power Platform integration for manufacturers, mining suppliers, and operations teams. They specialize in connecting existing ERPs and engineering software without replacing them, using Power Apps for shop-floor data capture, and AI document extraction to turn messy PDFs or emails into structured data. You can explore their approach on the [Inturing Manufacturing Solutions](https://www.inturing.com.au/manufacturing) page.[[1]](https://inturing.com.au/)[[2]](https://www.inturing.com.au/manufacturing)\n- **Barhead Solutions** — A prominent Sydney-headquartered Microsoft Partner with deep expertise across the entire Power Platform stack (Power Apps, Power Automate, Power BI) and enterprise integration. While they service diverse industries, they excel at rapid app development, governance frameworks, and structured enablement (such as \"Automation in a Day\" workshops) to help internal manufacturing IT teams safely scale low-cadence tools. Learn more via the [Barhead Power Platform Services](https://barhead.com/our-services/power-platform-services/) overview.[[1]](https://www.erpresearch.com/dynamics-partners/australia)[[2]](https://barhead.com/our-services/power-platform-services/)\n- **Data#3 / Velrada / Empired (or similar large-tier local enterprise integrators)** — If your Sydney manufacturing plant operates at an enterprise scale requiring rigid multi-site governance, Azure IoT integration for physical shop-floor machinery, and comprehensive change management, larger tier-one Australian Microsoft partners have dedicated local manufacturing practices suited for complex, non-disruptive ERP-adjacent architecture.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Inturing Manufacturing Solutions",
+                  "description": null,
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "domain": "www.inturing.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Barhead Power Platform Services",
+                  "description": null,
+                  "url": "https://barhead.com/our-services/power-platform-services/",
+                  "domain": "barhead.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "inturing.com.au",
+                  "url": "https://inturing.com.au/",
+                  "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+                  "text": "Microsoft Power Platform automation, system integration, operational analytics, and AI document extraction for manufacturers witho..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Inturing",
+                  "domain": "www.inturing.com.au",
+                  "url": "https://www.inturing.com.au/manufacturing",
+                  "title": "Power Platform & AI for Manufacturing | Apps, Automation & BI",
+                  "text": "Inturing delivers Microsoft Power Platform consulting, implementation, and optimisation services for manufacturing organisations a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ERP Research",
+                  "domain": "www.erpresearch.com",
+                  "url": "https://www.erpresearch.com/dynamics-partners/australia",
+                  "title": "273 Dynamics 365 Partners in Australia | ERP Research",
+                  "text": "Microsoft Solutions Partner delivering Dynamics 365 Finance, SCM, and CRM solutions globally. Barhead Solutions Sydney, Australia ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Barhead Solutions",
+                  "domain": "barhead.com",
+                  "url": "https://barhead.com/our-services/power-platform-services/",
+                  "title": "Power Platform Services - Barhead Solutions",
+                  "text": "Barhead Solutions provides Microsoft Power Platform services in Australia. Advisory Services: Governance, Ideation Services, App R..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "To help narrow down which of these consultants fits best, tell me:",
+              "markdown": "To help narrow down which of these consultants fits best, tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Which ERP are you currently running (e.g., SAP, Pronto, Syspro, Epicor, Dynamics)? What is your primary bottleneck right now (manual data re-entry from customer emails/PDFs, paper-based shop floor tracking, or siloed inventory reporting)?",
+              "markdown": "- **Which ERP** are you currently running (e.g., SAP, Pronto, Syspro, Epicor, Dynamics)?\n- **What is your primary bottleneck** right now (manual data re-entry from customer emails/PDFs, paper-based shop floor tracking, or siloed inventory reporting)?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Inturing",
+              "domain": "inturing.com.au",
+              "url": "https://inturing.com.au/",
+              "title": "Inturing | AI Automation & Power Platform for Manufacturers",
+              "text": "Microsoft Power Platform automation, system integration, operational analytics, and AI document extraction for manufacturers without ERP replacement."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "ERP Research",
+              "domain": "www.erpresearch.com",
+              "url": "https://www.erpresearch.com/dynamics-partners/australia",
+              "title": "273 Dynamics 365 Partners in Australia | ERP Research",
+              "text": "Microsoft Solutions Partner delivering Dynamics 365 Finance, SCM, and CRM solutions globally. Barhead Solutions Sydney, Australia Australian … government and finan..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Barhead Solutions",
+              "domain": "barhead.com",
+              "url": "https://barhead.com/our-services/power-platform-services/",
+              "title": "Power Platform Services - Barhead Solutions",
+              "text": "Barhead Solutions provides Microsoft Power Platform services in Australia. Advisory Services: Governance, Ideation Services, App Review, App Assessment, App Roadma..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}
