@@ -197,10 +197,10 @@ slide('why-gaps', 'light', `
 // ─── SLIDE 5: The 90-Day Action Plan & Targets ──────────────────────────────
 {
   const WS = [
-    ['01', 'Broaden the homepage & client proof (Weeks 1–2)', 'Change the homepage title from “for Manufacturers” to “Microsoft Power Platform, AI Automation & ERP Integration Partner — Sydney & Australia-Wide”, and add short written blurbs under the 7 client logos.'],
-    ['02', 'Fix the Sydney Google Business Profile (Weeks 1–3)', 'Add a verified Sydney address, change the category from “Computer support” to Business Management Consultant & Software Company, and collect 8–10 Google reviews from BBCP, PNA, and existing clients.'],
-    ['03', 'Publish the missing ERP, Fabric & City pages (Month 1–2)', 'Add a dedicated ERP Integration page (MYOB Acumatica, SAP Ariba, Dynamics 365, SharePoint), expand the Power BI/Fabric and Copilot pages, and launch Sydney, Melbourne, Brisbane & Perth pages.'],
-    ['04', 'Get listed on Microsoft AppSource & Clutch (Month 2–3)', 'Publish verified partner profiles on Microsoft AppSource / Partner Directory, Clutch, and GoodFirms so Gemini, Claude, and Perplexity include Inturing in every city shortlist.'],
+    ['01', 'Tighten positioning & wire GA4, Search Console + HubSpot (Weeks 1–2)', 'Stay manufacturing-led while opening the Lovable homepage & 7 client logo blurbs to adjacent sectors, with GA4, Search Console & HubSpot event tracking set up early.'],
+    ['02', 'SEO/AI keyword research + new Solution & Industry pages on Lovable (Months 1–2)', 'Map where real demand sits and build dedicated ERP Integration (MYOB Acumatica, SAP Ariba), Fabric/Power BI, Copilot, Wholesale, Civil & Property pages on Lovable.'],
+    ['03', 'Launch the Insights Hub + 3 Lead Magnets (Months 2–3)', 'Build /insights on the Lovable site with 3 HubSpot-gated downloads: BBCP & PNA $150k/yr Case Study Pack, 15-Point Readiness Checklist, and Mid-Market ROI Guide.'],
+    ['04', 'Built-in Technical SEO, Sydney Google Profile & Weekly Catch-Ups (Months 1–3)', 'Ship route metadata, schema, Sydney Google Business Profile & Microsoft AppSource/Clutch profiles, backed by a weekly catch-up and monthly 280-answer re-runs.'],
   ];
 
   const TG = [
@@ -211,12 +211,12 @@ slide('why-gaps', 'light', `
   ];
 
   slide('targets', 'white', `
-    <header class="hd"><p class="eyebrow">04 · What To Do Next &amp; 12-Month Targets</p><h2 class="h1">Four practical steps to take Inturing from 31 to 90+ AI recommendations</h2></header>
+    <header class="hd"><p class="eyebrow">04 · The 3-Month Lovable Growth Programme &amp; Targets</p><h2 class="h1">How our 3-month programme takes Inturing from 31 to 90+ recommendations</h2></header>
     <div class="cols-60">
       <div class="ws" style="gap:0">
-        ${WS.map(([n, t, a], i) => `<div class="ws-row rise" style="--d:${120 + i * 100}ms;grid-template-columns:46px 1fr;padding:10px 14px;gap:14px">
-          <span class="ws-n" style="font-size:18px;line-height:1.3">${n}</span>
-          <div><b class="ws-t" style="display:block;margin-bottom:2px;font-size:18px;line-height:1.25">${esc(t)}</b><span class="ws-a" style="display:block;font-size:15.5px;line-height:1.32">${esc(a)}</span></div>
+        ${WS.map(([n, t, a], i) => `<div class="ws-row rise" style="--d:${120 + i * 100}ms;grid-template-columns:44px 1fr;padding:9px 14px;gap:12px">
+          <span class="ws-n" style="font-size:17px;line-height:1.25">${n}</span>
+          <div><b class="ws-t" style="display:block;margin-bottom:2px;font-size:17px;line-height:1.22">${esc(t)}</b><span class="ws-a" style="display:block;font-size:15px;line-height:1.3">${esc(a)}</span></div>
         </div>`).join('')}
       </div>
       <div>
@@ -225,9 +225,9 @@ slide('why-gaps', 'light', `
           <thead><tr><th>Market</th><th>Today</th><th>3 mos</th><th>6 mos</th><th>12-month target</th></tr></thead>
           <tbody>${TG.map(([c, a, b, d, e], i) => `<tr class="rise" style="--d:${200 + i * 70}ms"><td><b>${c}</b></td><td class="num">${a}</td><td class="num">${b}</td><td class="num">${d}</td><td class="num"><b>${e}</b></td></tr>`).join('')}</tbody>
         </table>
-        <div class="stat" style="margin-top:18px;padding:16px 20px;background:#F4F5F8;border-radius:10px">
-          <span class="big pulp" style="font-size:34px">Keep #1 in Manufacturing.</span>
-          <span class="stat-cap" style="font-size:16px;line-height:1.36">By broadening the homepage title, adding the missing ERP &amp; city pages, and listing on Microsoft AppSource &amp; Clutch, Inturing keeps its #1 spot in Manufacturing while unlocking the other 200 answers.</span>
+        <div class="stat" style="margin-top:16px;padding:14px 18px;background:#F4F5F8;border-radius:10px">
+          <span class="big pulp" style="font-size:32px">Build on Lovable. Keep #1 in Manufacturing.</span>
+          <span class="stat-cap" style="font-size:15.5px;line-height:1.34">Instead of starting again, we build directly on Inturing's existing Lovable site — keeping its #1 spot in Manufacturing while unlocking the other 200 answers across adjacent sectors.</span>
         </div>
       </div>
     </div>

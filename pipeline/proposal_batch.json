@@ -1,0 +1,200 @@
+[
+  {"op":"set-default-style","font_family":"Roboto","font_size":11,"text_color":"#202124","line_spacing":115},
+  {"op":"heading","text":"Inturing — 3-Month Website, SEO & AI Growth Programme","level":"1","font_size":24,"text_color":"#0D1520","bold":true,"space_below":4},
+  {"op":"append","text":"Empirical Search & AI Visibility Audit Summary + 90-Day Implementation Proposal","font_size":13,"text_color":"#2B6399","bold":true,"space_below":8},
+  {"op":"rich-text","font_size":10,"text_color":"#535B6E","runs":[
+    {"text":"Prepared for: ","bold":true,"text_color":"#202124"},
+    {"text":"Harry Cribb (Founder & Enterprise Solutions Director) & Paul Del Gigante (Founder & AI & Automation Lead), Inturing   •   ","bold":false},
+    {"text":"Prepared by: ","bold":true,"text_color":"#202124"},
+    {"text":"Lakshane Fonseka & Seyone Gunasingham, Uprise Digital   •   ","bold":false},
+    {"text":"Date: ","bold":true,"text_color":"#202124"},
+    {"text":"29 October 2026","bold":false}
+  ]},
+  {"op":"rich-text","font_size":10,"text_color":"#202124","space_below":8,"runs":[
+    {"text":"Companion Interactive Audit Deck (5-Page Summary): ","bold":true},
+    {"text":"https://inturing-ai-visibility-production.up.railway.app/","text_color":"#2B6399","url":"https://inturing-ai-visibility-production.up.railway.app/"},
+    {"text":"  (Access PIN: 2026)  •  ","bold":false,"text_color":"#535B6E"},
+    {"text":"Full 30-Slide Dataset","text_color":"#2B6399","url":"https://inturing-ai-visibility-production.up.railway.app/full"}
+  ]},
+  {"op":"horizontal-rule"},
+
+  {"op":"heading","text":"1. Executive Summary & Context","level":"2","font_size":17,"text_color":"#2B6399","space_above":16,"space_below":6},
+  {"op":"append","text":"Inturing has recently rebuilt its website (inturing.com.au) on Lovable and is already generating high-quality inbound enquiries—particularly from Australian manufacturers looking to automate operational workflows on the Microsoft Power Platform. Rather than starting over, the goal of this 3-month programme is to build directly on top of the existing Lovable site: tightening positioning so Inturing remains manufacturing-led while opening up to adjacent sectors (wholesale, distribution, civil construction, property, and mid-market operations), building out missing solution and industry pages, launching an Insights Hub with high-converting lead magnets, wiring end-to-end GA4, Search Console, and HubSpot tracking, and executing technical and AI search (GEO/SEO) optimisation.","space_below":8},
+  {"op":"rich-text","paragraph_bg_color":"#F0F7FF","font_size":11,"text_color":"#0D1520","space_below":8,"runs":[
+    {"text":"Key Audit Finding: ","bold":true,"text_color":"#2B6399"},
+    {"text":"We tested 280 real buyer questions across ChatGPT, Google AI Mode, Perplexity, Gemini, and Claude across 8 Australian cities, alongside 56 live Google searches. Inturing is already #1 in Australia for Manufacturing Process Automation (named in 23 of 40 answers, and recommended #1 sixteen times), and its website is the #3 most-referenced source overall (91 citations). However, because the homepage title says 'for Manufacturers' and the 28-page site lacks dedicated ERP Integration, Microsoft Fabric, and adjacent-sector/city pages, Inturing gets 0 out of 200 mentions across general Power Platform, Power Automate, ERP Integration, Power BI, and Copilot Studio searches.","bold":false}
+  ]},
+
+  {"op":"heading","text":"2. What Our Audit Found (Baseline Benchmark — October 2026)","level":"2","font_size":17,"text_color":"#2B6399","space_above":18,"space_below":6},
+  {"op":"append","text":"Before scoping the 3-month build, we ran a live benchmark of how Australian operations leaders, COOs, and IT directors search for Microsoft Power Platform, ERP integration, and workflow automation partners across Google and the five major AI assistants (8 Australian cities × 7 core buyer questions = 56 Google searches and 280 AI answers). The table below summarises where Inturing wins today and where real demand is currently being left on the table:","space_below":8},
+  {"op":"insert-table","table_header_bg_color":"#0D1520","table_header_text_color":"#FFFFFF","table_header_bold":true,"table_font_family":"Roboto","table_font_size":9.5,"table_border_color":"#D8DCE5","table_border_width":0.5,"table_col_widths":[115,75,95,165],"table_data":[
+    ["Capability / Search Topic","Inturing AI Recall","Current #1 Rank","Why This Happens on inturing.com.au Today"],
+    ["Manufacturing Process Automation","23 / 40 (58%)","16 times #1 (#1 in AU)","Strong /manufacturing page, assessment tool & BBCP case study ($150k/yr saved)."],
+    ["Custom Business Apps (Power Apps)","8 / 40 (20%)","5 times #1 (7 in Top 3)","Dedicated /power-apps page + clear shop-floor, warehouse & field inspection proof."],
+    ["Power Platform Consultants","0 / 40 (0%)","0 (Leader: Power Platform Experts)","Homepage title says 'for Manufacturers', so search & AI skip Inturing for general buyers."],
+    ["Workflow & Power Automate","0 / 40 (0%)","0 (Cited twice in background)","/workflow-automation lacks city & adjacent-sector proof (wholesale, civil, property)."],
+    ["ERP & System Integration","0 / 40 (0%)","0 (Leader: Leverage Tech / PA)","No dedicated ERP Integration page despite proven MYOB Acumatica & SAP Ariba work."],
+    ["Power BI & Microsoft Fabric","0 / 40 (0%)","0 (Leader: OfficePro / Agile Insights)","1,749 monthly AI searches in AU, but /data-analytics lacks Fabric & CFO/COO proof."],
+    ["Copilot Studio & AI Agents","0 / 40 (0%)","0 (Leader: Team 400 / Barhead)","668 monthly AI searches in AU (+38% growth on Copilot Studio), thin agent examples."]
+  ]},
+  {"op":"append","text":"In addition to the topic breakdown above, our technical audit of the 28-page Lovable site and Google presence uncovered three fast-win fixes that we will resolve in Month 1:","space_above":8,"space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"1. Positioning & Homepage Tag Bottleneck: ","bold":true,"text_color":"#0D1520"},
+    {"text":"The current homepage title tag ('Inturing | AI Automation & Power Platform for Manufacturers') works brilliantly for factory queries, but causes search engines and AI models to filter Inturing out when wholesale, distribution, civil construction, or property businesses ask for the exact same Power Platform and ERP workflows.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"2. Image-Only Client Logos & Missing Schema: ","bold":true,"text_color":"#0D1520"},
+    {"text":"Inturing showcases 7 impressive client logos (Burgtec, Schlam, Menai Civil Contractors, AustEx, Liquip Victoria, CBTech, EFS) as image files with no accompanying text, and the site's Organization schema only lists 'AU' with a relative '/' URL rather than Sydney HQ and Australia-wide delivery.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"3. Unverified Sydney Google Business Profile: ","bold":true,"text_color":"#0D1520"},
+    {"text":"On Google Maps, Inturing's Sydney listing currently shows 0 reviews, no street address, and is categorised under generic 'Computer support and services' instead of 'Business management consultant' and 'Software company'.","bold":false}
+  ]},
+
+  {"op":"heading","text":"3. Proposed 3-Month Programme Scope (Mapped to Your Brief)","level":"2","font_size":17,"text_color":"#2B6399","space_above":18,"space_below":6},
+  {"op":"append","text":"Every workstream below is designed to plug directly into your existing Lovable codebase and HubSpot setup, keeping what already converts while systematically expanding Inturing's reach across organic search, AI assistants, and adjacent industries.","space_below":6},
+
+  {"op":"heading","text":"Workstream 1: Positioning & Messaging Refinement (Manufacturing-Led, Open to Adjacent Sectors)","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"We will sharpen Inturing's core messaging across the homepage, navigation, and service headers so you never lose your #1 authority in manufacturing, while making it unmistakably clear to buyers, Google, and AI models that Inturing delivers the same operational rigour to adjacent heavy-operations sectors.","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Core Positioning Framework: ","bold":true},
+    {"text":"Anchor on 'Operational AI, Power Platform & ERP Automation — Built in Manufacturing, Proven Across Wholesale, Construction, Logistics & Mid-Market Operations (50–1,000 Staff).'" ,"bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Homepage & Meta Overhaul: ","bold":true},
+    {"text":"Update the Lovable homepage title, hero sub-copy, and sector proof strips so non-manufacturing COOs and Finance Directors immediately recognise their own workflow bottlenecks (order-to-invoice, approvals, field inspections, ERP sync).","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Written Proof Strips for Existing Logos: ","bold":true},
+    {"text":"Add concise, high-impact written proof blurbs beneath Burgtec, Schlam (mining/heavy equipment), Menai Civil Contractors (civil engineering), AustEx, Liquip Victoria, CBTech, and EFS alongside the BBCP and Property Network of Australia (PNA) case studies.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 2: Early GA4, Google Search Console & HubSpot Event Tracking Setup (Weeks 1–2)","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"Before new pages and lead magnets go live, we will instrument clean, reliable analytics and attribution across the Lovable site and HubSpot so every enquiry and asset download is tracked back to its exact search, AI, or referral source.","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"GA4 & Google Search Console Configuration: ","bold":true},
+    {"text":"Full setup, domain verification, sitemap submission, and custom conversion event tracking across the Lovable single-page/router architecture.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Custom Event Tracking: ","bold":true},
+    {"text":"Track every high-intent interaction: 3-Minute Assessment starts and completions (/assessment, /assessment/power-platform, /assessment/manufacturing-automation), ROI calculator interactions, lead magnet downloads, and HubSpot meeting bookings.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"HubSpot Lead Capture & Attribution Wiring: ","bold":true},
+    {"text":"Connect Lovable forms and gated lead magnets directly into HubSpot CRM with hidden UTM, landing-page, and referrer capture (including tracking referrals from ChatGPT, Perplexity, and Google search).","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 3: Commercial SEO & AI Keyword Research","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"Using our initial 15-keyword AI demand dataset (3,418 monthly AI searches in Australia across Power BI, Microsoft Copilot, Power Apps, Power Automate, Copilot Studio, and Microsoft Fabric) plus full Google organic keyword research, we will map where high-converting commercial intent sits.","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Search & AI Demand Matrix: ","bold":true},
+    {"text":"Prioritise keywords by commercial buyer intent rather than vanity traffic—focusing on ERP integration (MYOB Acumatica, SAP Ariba, Dynamics 365, Pronto, NetSuite), Power Platform implementation, Power BI / Fabric reporting, and practical Copilot Studio agents.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Page-by-Page Keyword & Prompt Blueprint: ","bold":true},
+    {"text":"Assign primary and secondary search terms, buyer questions, and FAQ targets to every existing Lovable page and every new solution/industry page.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 4: Building Out Solution, Industry & Location Pages on Lovable","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"We will design, write, and ship new solution and industry pages directly inside your existing Lovable site architecture, matching your current UI components, navy/steel-blue aesthetic, and interactive assessment flows:","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"New Solution Pages (Closing the 0/200 Gap): ","bold":true},
+    {"text":"(1) Dedicated ERP & System Integration page (MYOB Acumatica, SAP Ariba, Dynamics 365, SharePoint & Monday.com), (2) Microsoft Fabric & Executive Operational Reporting page, (3) Microsoft Copilot Studio & Practical AI Agents page, and (4) SharePoint & Approval Workflow Automation page.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"New Adjacent Industry Pages: ","bold":true},
+    {"text":"Dedicated vertical pages for (1) Wholesale, Distribution & Supply Chain, (2) Civil Construction, Engineering & Field Services (leveraging Menai Civil proof), and (3) Property & Multi-Party Operations (leveraging the PNA $150k/yr savings case study), alongside an upgraded Public Sector & Canberra governance page.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Australian Delivery Hub Pages: ","bold":true},
+    {"text":"Launch targeted commercial landing hubs for Sydney (HQ), Melbourne, Brisbane, and Perth so Inturing ranks in city-specific Google searches and local AI shortlists.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 5: Insights Hub + 3 High-Value Lead Magnets","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"To capture operations leaders who are researching solutions before booking a call, we will build an Insights Hub (/insights) on the Lovable site and produce three practical, HubSpot-gated lead magnets:","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Lead Magnet 1 — Flagship Case Study Pack (PDF + Interactive Page): ","bold":true},
+    {"text":"'How Australian Operations Teams Save $150,000+/Year Automating Order-to-Invoice & Backend Workflows' — a deep-dive breakdown of the BBCP (>90% faster order processing across MYOB Acumatica, SAP Ariba & SharePoint) and Property Network of Australia (PNA) architectures.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Lead Magnet 2 — Practical Operations Checklist: ","bold":true},
+    {"text":"'The 15-Point ERP & Spreadsheet Automation Readiness Checklist for COOs and Operations Managers' — paired with your existing online assessment tools.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Lead Magnet 3 — Executive ROI & Implementation Guide: ","bold":true},
+    {"text":"'The Mid-Market ROI Guide to Microsoft Power Platform & Copilot Studio: Realistic Costs, Timeframes, and Payback Windows in Australia.'","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Insights Hub Architecture (/insights): ","bold":true},
+    {"text":"Built in Lovable with category filtering (Manufacturing, ERP Integration, Power Platform, AI & Copilot), embedded HubSpot capture forms, and direct CTAs to Harry's booking calendar and the 3-minute assessments.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 6: On-Page, Technical & AI Search (GEO) Optimisation","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"Because Lovable sites are modern JavaScript applications, technical SEO and structured data must be configured carefully so Googlebot and AI crawlers (GPTBot, PerplexityBot, ClaudeBot, Google-Extended) index every route cleanly.","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Route-Level Metadata & Pre-Rendering Checks: ","bold":true},
+    {"text":"Ensure unique title tags, meta descriptions, canonical URLs, OpenGraph tags, and clean H1–H3 hierarchy across all existing and new Lovable routes.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Entity-Rich JSON-LD Schema & /llms.txt: ","bold":true},
+    {"text":"Replace the bare country-only schema with full ProfessionalService, Service, FAQPage, and Founder (Paul Del Gigante & Harry Cribb) structured data, plus a machine-readable /llms.txt file and updated sitemap.xml.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Sydney Google Business Profile & Partner Directories: ","bold":true},
+    {"text":"Verify Inturing's Sydney Google Business Profile, switch primary categories to Business Management Consultant + Software Company, guide review collection from named clients, and support profile setup on Microsoft AppSource and Clutch.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Workstream 7: Weekly Catch-Up & Monthly AI/SEO Benchmark Reporting","level":"3","font_size":13.5,"text_color":"#0D1520","space_above":12,"space_below":4},
+  {"op":"append","text":"We work as an extension of Harry and Paul's team with fast weekly execution and transparent reporting:","space_below":4},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Weekly 30-Minute Catch-Up: ","bold":true},
+    {"text":"Standing weekly sprint call to review shipped Lovable pages, HubSpot lead flow, Search Console indexing, and upcoming priorities.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Monthly 280-Answer AI & SEO Re-Run: ","bold":true},
+    {"text":"Every 30 days, we re-run the exact same 280 AI questions and 56 Google searches to measure Inturing's gains against Eagle360, Barhead, Velrada, and Power Platform Experts.","bold":false}
+  ]},
+
+  {"op":"heading","text":"Scope Boundaries (Explicitly Out of Scope)","level":"3","font_size":13.5,"text_color":"#535B6E","space_above":12,"space_below":4},
+  {"op":"rich-text","paragraph_bg_color":"#F4F5F8","font_size":10.5,"text_color":"#535B6E","space_below":8,"runs":[
+    {"text":"Per your brief, the following items are excluded from this 3-month programme: ","bold":true,"text_color":"#202124"},
+    {"text":"Ongoing social media management, ongoing blog/newsletter content production beyond the Insights Hub launch and 3 core lead magnets, and media/PR outreach.","bold":false}
+  ]},
+
+  {"op":"heading","text":"4. 3-Month Delivery Roadmap (Month by Month)","level":"2","font_size":17,"text_color":"#2B6399","space_above":18,"space_below":6},
+  {"op":"append","text":"The programme is sequenced so tracking and positioning go live in Weeks 1–2, high-intent solution and industry pages ship across Months 1–2, and the Insights Hub and lead magnets convert traffic across Months 2–3:","space_below":8},
+  {"op":"insert-table","table_header_bg_color":"#0D1520","table_header_text_color":"#FFFFFF","table_header_bold":true,"table_font_family":"Roboto","table_font_size":9.5,"table_border_color":"#D8DCE5","table_border_width":0.5,"table_col_widths":[85,120,245],"table_data":[
+    ["Phase","Core Focus","Key Deliverables Shipped"],
+    ["Month 1 (Weeks 1–4)","Foundations, Tracking, Positioning & Quick-Win Pages","• GA4, Google Search Console & custom event tracking live on Lovable\n• HubSpot forms, UTM capture & meeting attribution wired\n• Full SEO & AI keyword research matrix signed off\n• Homepage positioning updated (Manufacturing-led + adjacent sectors) & 7 client logo proof blurbs added\n• Technical SEO, JSON-LD schema, /llms.txt & Sydney Google Business Profile fixed\n• Dedicated ERP & System Integration page shipped on Lovable\n• Weekly catch-ups (Weeks 1–4) + Month 1 benchmark check"],
+    ["Month 2 (Weeks 5–8)","Solution Pages, Adjacent Industry Hubs & Lead Magnet #1","• Build & ship adjacent industry pages on Lovable (Wholesale/Distribution, Civil & Construction, Property Operations)\n• Build & ship upgraded Microsoft Fabric/Power BI & Copilot Studio solution pages\n• Launch Insights Hub (/insights) on the Lovable site\n• Publish Lead Magnet #1 (BBCP & PNA $150k/yr Savings Case Study Pack) with HubSpot gating\n• Launch Sydney & Melbourne commercial city hubs\n• Weekly catch-ups (Weeks 5–8) + Month 2 AI/SEO benchmark re-run"],
+    ["Month 3 (Weeks 9–12)","Lead Magnets #2 & #3, City Expansion & Handover","• Publish Lead Magnet #2 (15-Point ERP & Workflow Automation Checklist) & Lead Magnet #3 (Mid-Market Power Platform & Copilot ROI Guide)\n• Launch Brisbane & Perth commercial city hubs\n• Complete Microsoft AppSource / Partner Directory & Clutch profile optimisation\n• Conversion rate & internal linking polish across all Lovable pages and assessments\n• Weekly catch-ups (Weeks 9–12) + Final Month 3 benchmark report & 90-day growth review"]
+  ]},
+
+  {"op":"heading","text":"5. Programme Investment (3-Month Fixed Scope)","level":"2","font_size":17,"text_color":"#2B6399","space_above":18,"space_below":6},
+  {"op":"append","text":"Below is the investment breakdown for the 3-month website, SEO, and AI growth programme. All strategy, Lovable page builds, copywriting, technical SEO, GA4/Search Console/HubSpot wiring, lead magnet production, and weekly catch-ups are included:","space_below":8},
+  {"op":"insert-table","table_header_bg_color":"#2B6399","table_header_text_color":"#FFFFFF","table_header_bold":true,"table_font_family":"Roboto","table_font_size":10,"table_border_color":"#D8DCE5","table_border_width":0.5,"table_col_widths":[220,115,115],"table_data":[
+    ["Programme Component","Monthly Investment (AUD ex GST)","3-Month Total (AUD ex GST)"],
+    ["Month 1: Tracking (GA4/GSC/HubSpot), Positioning Overhaul, Keyword Matrix, Technical SEO/Schema & ERP Page","[ $X,XXX / month ]","[ Included ]"],
+    ["Month 2: Solution & Adjacent Industry Pages on Lovable, Insights Hub Launch & Lead Magnet #1 (Case Study Pack)","[ $X,XXX / month ]","[ Included ]"],
+    ["Month 3: Lead Magnets #2 & #3 (Checklist + ROI Guide), City Hubs, Partner Directories & 90-Day Benchmark Review","[ $X,XXX / month ]","[ Included ]"],
+    ["Total 3-Month Programme Investment","[ $X,XXX / month + GST ]","[ $XX,XXX Total + GST ]"]
+  ]},
+  {"op":"rich-text","paragraph_bg_color":"#FEF7E0","font_size":10,"text_color":"#202124","space_above":6,"space_below":10,"runs":[
+    {"text":"Note for Lakshane: ","bold":true,"text_color":"#B06000"},
+    {"text":"Replace the bracketed [ $X,XXX / month ] and [ $XX,XXX Total ] placeholders above with your final monthly and 3-month package pricing before sending to Harry.","bold":false}
+  ]},
+
+  {"op":"heading","text":"6. Next Steps to Kick Off","level":"2","font_size":17,"text_color":"#2B6399","space_above":16,"space_below":6},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Step 1 — Walkthrough & Scope Sign-Off: ","bold":true},
+    {"text":"Review the 5-page AI Visibility Audit and confirm the 3-month deliverables and priority adjacent sectors.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Step 2 — Access & Onboarding (Day 1): ","bold":true},
+    {"text":"Grant collaborator access to the Lovable project/repo, Google Analytics (GA4), Google Search Console, Google Business Profile, and HubSpot forms.","bold":false}
+  ]},
+  {"op":"rich-text","bullet_preset":"BULLET_DISC_CIRCLE_SQUARE","runs":[
+    {"text":"Step 3 — Week 1 Kick-Off Call: ","bold":true},
+    {"text":"Lock in our standing weekly 30-minute catch-up with Harry and Paul, deploy the GA4/Search Console/HubSpot tracking, and ship the Month 1 homepage and schema upgrades.","bold":false}
+  ]}
+]
