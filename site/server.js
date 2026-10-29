@@ -430,22 +430,44 @@ const server = http.createServer((req, res) => {
     }
   }
 
+  // 5b. Route: Full 30-Slide Client Deck (/full)
+  if (reqPath === '/full' || reqPath === '/full.html') {
+    const fullFile = path.join(__dirname, 'full.html');
+    if (fs.existsSync(fullFile)) {
+      let html = fs.readFileSync(fullFile, 'utf8');
+      const switcherHtml = `
+        <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
+          <a href="/" style="background:#0A0A0A;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.15);border:1px solid #374151;">← 5-Page Summary</a>
+          ${role === 'internal' ? '<a href="/technical" style="background:#3B78B4;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(59,120,180,0.28);border:1px solid #2B6399;">Technical Dossier →</a>' : ''}
+          <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
+        </div>
+      </body>`;
+      html = html.replace('</body>', switcherHtml);
+      res.writeHead(200, {
+        'Content-Type': 'text/html; charset=utf-8',
+        'Cache-Control': 'no-store, no-cache, must-revalidate',
+        'X-Robots-Tag': 'noindex, nofollow, noarchive'
+      });
+      res.end(html);
+      return;
+    }
+  }
+
   // 6. Route: Tier 1 Client Presentation (/)
   if (reqPath === '/' || reqPath === '/index.html') {
     const indexFile = path.join(__dirname, 'index.html');
     if (fs.existsSync(indexFile)) {
       let html = fs.readFileSync(indexFile, 'utf8');
       
-      // Inject technical switcher only for internal authenticated users
-      if (role === 'internal') {
-        const switcherHtml = `
-          <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
-            <a href="/technical" style="background:#179CEE;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(23,156,238,0.28);border:1px solid #0D74B8;">Technical Dossier →</a>
-            <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
-          </div>
-        </body>`;
-        html = html.replace('</body>', switcherHtml);
-      }
+      // Inject switcher links
+      const switcherHtml = `
+        <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
+          <a href="/full" style="background:#0D1520;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.18);border:1px solid #374151;">Full 30-Slide Report →</a>
+          ${role === 'internal' ? '<a href="/technical" style="background:#3B78B4;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(59,120,180,0.28);border:1px solid #2B6399;">Technical Dossier →</a>' : ''}
+          <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
+        </div>
+      </body>`;
+      html = html.replace('</body>', switcherHtml);
 
       res.writeHead(200, {
         'Content-Type': 'text/html; charset=utf-8',

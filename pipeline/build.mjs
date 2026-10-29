@@ -1105,6 +1105,6 @@ const html = `<!DOCTYPE html>
 </html>`;
 
 fs.mkdirSync(path.join(pipelineDir, 'out'), { recursive: true });
-fs.writeFileSync(path.join(pipelineDir, 'out', 'index.html'), html);
-fs.writeFileSync(path.join(rootDir, 'site', 'index.html'), html);
-console.log(`Generated ${slides.length} slides! Output written to site/index.html (${html.length} bytes).`);
+fs.writeFileSync(path.join(pipelineDir, 'out', 'full.html'), html);
+fs.writeFileSync(path.join(rootDir, 'site', 'full.html'), html);
+console.log(`Generated ${slides.length} slides! Output written to site/full.html (${html.length} bytes).`);
