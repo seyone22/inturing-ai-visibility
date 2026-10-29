@@ -20,8 +20,7 @@ const MIME = {
   '.json': 'application/json',
   '.png': 'image/png',
   '.jpg': 'image/jpeg',
-  '.ico': 'image/x-icon',
-  '.pdf': 'application/pdf'
+  '.ico': 'image/x-icon'
 };
 
 function signToken(role) {
@@ -431,44 +430,7 @@ const server = http.createServer((req, res) => {
     }
   }
 
-  // 5b. Route: Uprise 3-Month Proposal (/proposal and /Inturing-AEO-Proposal-Uprise.pdf)
-  if (reqPath === '/Inturing-AEO-Proposal-Uprise.pdf') {
-    const pdfFile = path.join(__dirname, 'Inturing-AEO-Proposal-Uprise.pdf');
-    if (fs.existsSync(pdfFile)) {
-      res.writeHead(200, {
-        'Content-Type': 'application/pdf',
-        'Content-Disposition': 'inline; filename="Inturing-AEO-Proposal-Uprise.pdf"',
-        'Cache-Control': 'no-store, no-cache, must-revalidate',
-        'X-Robots-Tag': 'noindex, nofollow, noarchive'
-      });
-      fs.createReadStream(pdfFile).pipe(res);
-      return;
-    }
-  }
-
-  if (reqPath === '/proposal' || reqPath === '/proposal.html') {
-    const propFile = path.join(__dirname, 'proposal.html');
-    if (fs.existsSync(propFile)) {
-      let html = fs.readFileSync(propFile, 'utf8');
-      const switcherHtml = `
-        <style>@media print { .no-print-bar { display: none !important; } }</style>
-        <div class="no-print-bar" style="position:fixed;bottom:20px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
-          <a href="/Inturing-AEO-Proposal-Uprise.pdf" target="_blank" style="background:#8B75F5;color:#FFFFFF;padding:9px 15px;border-radius:8px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 4px 12px rgba(139,117,245,0.35);">Download PDF</a>
-          <a href="/" style="background:#000018;color:#FFFFFF;padding:9px 15px;border-radius:8px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.2);">5-Page Audit Deck →</a>
-        </div>
-      </body>`;
-      html = html.replace('</body>', switcherHtml);
-      res.writeHead(200, {
-        'Content-Type': 'text/html; charset=utf-8',
-        'Cache-Control': 'no-store, no-cache, must-revalidate',
-        'X-Robots-Tag': 'noindex, nofollow, noarchive'
-      });
-      res.end(html);
-      return;
-    }
-  }
-
-  // 5c. Route: Full 30-Slide Client Deck (/full)
+  // 5b. Route: Full 30-Slide Client Deck (/full)
   if (reqPath === '/full' || reqPath === '/full.html') {
     const fullFile = path.join(__dirname, 'full.html');
     if (fs.existsSync(fullFile)) {
@@ -476,7 +438,6 @@ const server = http.createServer((req, res) => {
       const switcherHtml = `
         <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
           <a href="/" style="background:#0A0A0A;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.15);border:1px solid #374151;">← 5-Page Summary</a>
-          <a href="/proposal" style="background:#8B75F5;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(139,117,245,0.28);">3-Month Proposal →</a>
           ${role === 'internal' ? '<a href="/technical" style="background:#3B78B4;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(59,120,180,0.28);border:1px solid #2B6399;">Technical Dossier →</a>' : ''}
           <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
         </div>
@@ -501,7 +462,6 @@ const server = http.createServer((req, res) => {
       // Inject switcher links
       const switcherHtml = `
         <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
-          <a href="/proposal" style="background:#8B75F5;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(139,117,245,0.3);">3-Month Proposal →</a>
           <a href="/full" style="background:#0D1520;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.18);border:1px solid #374151;">Full 30-Slide Report →</a>
           ${role === 'internal' ? '<a href="/technical" style="background:#3B78B4;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(59,120,180,0.28);border:1px solid #2B6399;">Technical Dossier →</a>' : ''}
           <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
