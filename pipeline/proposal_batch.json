@@ -11,10 +11,13 @@
     {"text":"29 October 2026","bold":false}
   ]},
   {"op":"rich-text","font_size":10,"text_color":"#202124","space_below":8,"runs":[
-    {"text":"Companion Interactive Audit Deck (5-Page Summary): ","bold":true},
-    {"text":"https://inturing-ai-visibility-production.up.railway.app/","text_color":"#2B6399","url":"https://inturing-ai-visibility-production.up.railway.app/"},
-    {"text":"  (Access PIN: 2026)  •  ","bold":false,"text_color":"#535B6E"},
-    {"text":"Full 30-Slide Dataset","text_color":"#2B6399","url":"https://inturing-ai-visibility-production.up.railway.app/full"}
+    {"text":"Styled Web Proposal: ","bold":true},
+    {"text":"https://inturing-ai-visibility-production.up.railway.app/proposal","text_color":"#8B75F5","url":"https://inturing-ai-visibility-production.up.railway.app/proposal"},
+    {"text":"  •  ","bold":false,"text_color":"#535B6E"},
+    {"text":"Download PDF Proposal","text_color":"#8B75F5","url":"https://inturing-ai-visibility-production.up.railway.app/Inturing-AEO-Proposal-Uprise.pdf"},
+    {"text":"  •  ","bold":false,"text_color":"#535B6E"},
+    {"text":"5-Page Slide Deck","text_color":"#8B75F5","url":"https://inturing-ai-visibility-production.up.railway.app/"},
+    {"text":"  (PIN: 2026)","bold":false,"text_color":"#535B6E"}
   ]},
   {"op":"horizontal-rule"},
 
@@ -170,18 +173,17 @@
     ["Month 3 (Weeks 9–12)","Lead Magnets #2 & #3, City Expansion & Handover","• Publish Lead Magnet #2 (15-Point ERP & Workflow Automation Checklist) & Lead Magnet #3 (Mid-Market Power Platform & Copilot ROI Guide)\n• Launch Brisbane & Perth commercial city hubs\n• Complete Microsoft AppSource / Partner Directory & Clutch profile optimisation\n• Conversion rate & internal linking polish across all Lovable pages and assessments\n• Weekly catch-ups (Weeks 9–12) + Final Month 3 benchmark report & 90-day growth review"]
   ]},
 
-  {"op":"heading","text":"5. Programme Investment (3-Month Fixed Scope)","level":"2","font_size":17,"text_color":"#2B6399","space_above":18,"space_below":6},
-  {"op":"append","text":"Below is the investment breakdown for the 3-month website, SEO, and AI growth programme. All strategy, Lovable page builds, copywriting, technical SEO, GA4/Search Console/HubSpot wiring, lead magnet production, and weekly catch-ups are included:","space_below":8},
-  {"op":"insert-table","table_header_bg_color":"#2B6399","table_header_text_color":"#FFFFFF","table_header_bold":true,"table_font_family":"Roboto","table_font_size":10,"table_border_color":"#D8DCE5","table_border_width":0.5,"table_col_widths":[220,115,115],"table_data":[
-    ["Programme Component","Monthly Investment (AUD ex GST)","3-Month Total (AUD ex GST)"],
-    ["Month 1: Tracking (GA4/GSC/HubSpot), Positioning Overhaul, Keyword Matrix, Technical SEO/Schema & ERP Page","[ $X,XXX / month ]","[ Included ]"],
-    ["Month 2: Solution & Adjacent Industry Pages on Lovable, Insights Hub Launch & Lead Magnet #1 (Case Study Pack)","[ $X,XXX / month ]","[ Included ]"],
-    ["Month 3: Lead Magnets #2 & #3 (Checklist + ROI Guide), City Hubs, Partner Directories & 90-Day Benchmark Review","[ $X,XXX / month ]","[ Included ]"],
-    ["Total 3-Month Programme Investment","[ $X,XXX / month + GST ]","[ $XX,XXX Total + GST ]"]
+  {"op":"heading","text":"5. How to Work With Us — Three Ways to Get Started","level":"2","font_size":17,"text_color":"#8B75F5","space_above":18,"space_below":6},
+  {"op":"append","text":"Three levels for the 3-month programme, all month-to-month with no lock-in. The difference between them is the pace of Lovable page builds, lead magnet production, and directory/authority placements each month. Early GA4, Search Console and HubSpot setup, positioning refinement, technical SEO, and the weekly catch-up are included at every level:","space_below":8},
+  {"op":"insert-table","table_header_bg_color":"#000018","table_header_text_color":"#FFFFFF","table_header_bold":true,"table_font_family":"Roboto","table_font_size":9.5,"table_border_color":"#D8DCE5","table_border_width":0.5,"table_col_widths":[95,95,95,165],"table_data":[
+    ["Tier","Monthly Cost (ex GST)","3-Month Total (ex GST)","What's Included"],
+    ["FOUNDATION","$3,000 / mo + GST","$9,000 + GST","• GA4, Search Console & HubSpot event tracking set up early (Weeks 1–2)\n• SEO & AI keyword research matrix + homepage positioning overhaul\n• Technical SEO built into Lovable: route meta, JSON-LD schema, sitemap & /llms.txt\n• Written proof blurbs added for all 7 client logos\n• 4 new Lovable solution/industry pages + Insights Hub with 1 lead magnet\n• Weekly 30-min catch-up & monthly 280-answer benchmark report"],
+    ["GROWTH (RECOMMENDED)","$4,500 / mo + GST","$13,500 + GST","• Everything in Foundation (full Harry Cribb 3-month brief covered end-to-end)\n• Full solution & industry page build on Lovable (ERP Integration, Fabric/BI, Copilot Studio, Wholesale, Civil, Property + 4 city hubs)\n• Insights Hub (/insights) + all 3 HubSpot-gated lead magnets (Case Study download, 15-Point Checklist & ROI Guide)\n• Sydney Google Business Profile overhaul & client review flow\n• Microsoft AppSource, Clutch & partner directory placements\n• Weekly catch-up call + HubSpot & AI lead attribution tracking"],
+    ["AUTHORITY","$6,000 / mo + GST","$18,000 + GST","• Everything in Growth\n• Accelerated Lovable build pace: additional ERP-specific sub-pages (MYOB Acumatica, SAP Ariba, Dynamics 365, Pronto) + all 8 Australian city hubs\n• 5 gated lead magnets & interactive tools + CRO on the 3-minute assessments\n• Aggressive earned mention & directory push (7 placements/mo)\n• One original Australian manufacturing & operations automation data study\n• Live Looker/GA4 attribution dashboard & priority strategy support"]
   ]},
-  {"op":"rich-text","paragraph_bg_color":"#FEF7E0","font_size":10,"text_color":"#202124","space_above":6,"space_below":10,"runs":[
-    {"text":"Note for Lakshane: ","bold":true,"text_color":"#B06000"},
-    {"text":"Replace the bracketed [ $X,XXX / month ] and [ $XX,XXX Total ] placeholders above with your final monthly and 3-month package pricing before sending to Harry.","bold":false}
+  {"op":"rich-text","paragraph_bg_color":"#FAF9FF","font_size":10,"text_color":"#202124","space_above":6,"space_below":10,"runs":[
+    {"text":"Recommendation: ","bold":true,"text_color":"#8B75F5"},
+    {"text":"All plans are month-to-month with no lock-in (30 days notice, no exit fees, no setup fee), and you own everything shipped in your Lovable, GA4, Search Console and HubSpot accounts. Given that the 3-month brief includes early tracking setup, positioning, building out the missing solution and adjacent industry pages on Lovable, and launching the Insights Hub with all 3 lead magnets, Growth ($4,500/mo + GST · $13,500 + GST over 3 months) is the level we recommend starting on.","bold":false}
   ]},
 
   {"op":"heading","text":"6. Next Steps to Kick Off","level":"2","font_size":17,"text_color":"#2B6399","space_above":16,"space_below":6},
